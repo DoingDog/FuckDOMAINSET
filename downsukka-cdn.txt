@@ -138,6 +138,7 @@ DOMAIN-SUFFIX,video.missav.com
 DOMAIN-SUFFIX,sb-cd.com
 DOMAIN,fast.wistia.com
 DOMAIN,embedwistia-a.akamaihd.net
+DOMAIN,embed-ssl.wistia.com
 DOMAIN-SUFFIX,doppiocdn.com
 DOMAIN-SUFFIX,archive.org
 DOMAIN-SUFFIX,firefoxusercontent.com
@@ -258,7 +259,7 @@ DOMAIN,cdn.equalweb.com
 DOMAIN,aff.equalweb.com
 DOMAIN-SUFFIX,aacdn.nagich.com
 DOMAIN,js.chilipiper.com
-DOMAIN,cdn.statuspage.io
+DOMAIN-SUFFIX,statuspage.io
 DOMAIN,api.producthunt.com
 DOMAIN,app-api.vidjet.io
 DOMAIN,freeshippingbar.herokuapp.com
@@ -286,11 +287,12 @@ DOMAIN,static.ada.support
 DOMAIN,boards.greenhouse.io
 DOMAIN-SUFFIX,ubembed.com
 DOMAIN,cdn.solvvy.com
-DOMAIN,js.intercomcdn.com
+DOMAIN,cdn.linkmink.com
 DOMAIN,cdn.channel.io
 DOMAIN,cf.channel.io
 DOMAIN,widget.user.com
 DOMAIN,media.user.com
+DOMAIN,assets.canny.io
 DOMAIN,wac-cdn.atlassian.com
 DOMAIN,assets.swoogo.com
 DOMAIN,cdn.sanity.io
@@ -383,6 +385,8 @@ DOMAIN-SUFFIX,oktacdn.com
 DOMAIN,i.hamreus.com
 DOMAIN,us.hamreus.com
 DOMAIN,eu.hamreus.com
+DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,intercomassets.com
 DOMAIN-SUFFIX,v2ex.co
 DOMAIN,cdn.v2ex.com
 DOMAIN,media.wired.com
@@ -395,7 +399,6 @@ DOMAIN-SUFFIX,pixfs.net
 DOMAIN-SUFFIX,ngfiles.com
 DOMAIN-SUFFIX,ungrounded.net
 DOMAIN-SUFFIX,4cdn.org
-DOMAIN-SUFFIX,intercomcdn.com
 DOMAIN-SUFFIX,assets.getpocket.com
 DOMAIN,fiddle.jshell.net
 DOMAIN,assets.codepen.io
@@ -460,4 +463,5 @@ DOMAIN-SUFFIX,strpst.com
 DOMAIN,static.bytepan.com
 DOMAIN,js.recurly.com
 DOMAIN,ni-assets.azureedge.net
-#Wed 07/13/2022
+DOMAIN,js.short.io
+#Sun 07/17/2022
