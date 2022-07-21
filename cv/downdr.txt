@@ -25,6 +25,7 @@ DOMAIN,msg.umeng.com
 DOMAIN,msg.umengcloud.com
 DOMAIN,mtalk.google.com
 DOMAIN,origin-a.akamaihd.net
+DOMAIN,picanalysis-auth.vivo.com.cn
 DOMAIN,picanalysis.vivo.com.cn
 DOMAIN,sycm.mmstat.com
 DOMAIN,tracking.miui.com
@@ -45,4 +46,4 @@ USER-AGENT,Coffee%20Corp*
 USER-AGENT,archero*
 USER-AGENT,coffeecorp*
 USER-AGENT,restaurant-mobile*
-#Sun 07/17/2022
+#Thu 07/21/2022

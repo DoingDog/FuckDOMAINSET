@@ -236,6 +236,7 @@ DOMAIN-SUFFIX,cmfu.com
 DOMAIN-SUFFIX,cmvideo.cn
 DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,cn163.net
+DOMAIN-SUFFIX,cn88.net
 DOMAIN-SUFFIX,cnbeta.com
 DOMAIN-SUFFIX,cnbetacdn.com
 DOMAIN-SUFFIX,cnblogs.com
@@ -1109,4 +1110,4 @@ IP-CIDR6,2a0b:b580::/48,no-resolve
 IP-CIDR6,2a0b:b581::/48,no-resolve
 IP-CIDR6,2a0b:b582::/48,no-resolve
 IP-CIDR6,2a0b:b583::/48,no-resolve
-#Sun 07/17/2022
+#Thu 07/21/2022

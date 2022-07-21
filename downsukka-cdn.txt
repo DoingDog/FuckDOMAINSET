@@ -245,6 +245,8 @@ DOMAIN-SUFFIX,adtidy.org
 DOMAIN-SUFFIX,disconnect.me
 DOMAIN-SUFFIX,easylist.to
 DOMAIN-SUFFIX,1passwordusercontent.com
+DOMAIN,static.agilebits.com
+DOMAIN-SUFFIX,v-cdn.net
 DOMAIN,cdn.sellix.io
 DOMAIN,cdn-sellix.com
 DOMAIN,assets.calendly.com
@@ -464,4 +466,9 @@ DOMAIN,static.bytepan.com
 DOMAIN,js.recurly.com
 DOMAIN,ni-assets.azureedge.net
 DOMAIN,js.short.io
-#Sun 07/17/2022
+DOMAIN,js.braintreegateway.com
+DOMAIN,assets.braintreegateway.com
+DOMAIN,images.web3.storage
+DOMAIN,api.web3.storage
+DOMAIN-SUFFIX,vanillicon.com
+#Thu 07/21/2022
