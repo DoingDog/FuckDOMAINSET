@@ -1,0 +1,36 @@
+name: make rule
+
+on:
+  schedule:
+    - cron: '0 0 */4 * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: windows-latest
+
+    steps:
+      - uses: actions/checkout@v3
+      - name: run main
+        continue-on-error: false
+        timeout-minutes: 15
+        run: |
+          .\RMaker\make.cmd
+          .\RMakerNOSUF\make.cmd
+          .\split\RMaker\make.cmd
+          .\cv\RMaker\make.cmd
+          .\ips\4\RMaker\make.cmd
+          .\ips\6\RMaker\make.cmd
+          exit
+      - name: commit
+        continue-on-error: false
+        timeout-minutes: 10
+        run: |
+          git init
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout --orphan main
+          git add .
+          git commit -m "Last Update at $(date +"%Y-%m-%d %H:%M")"
+          git remote add origin "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}"
+          git push -f -u origin main
