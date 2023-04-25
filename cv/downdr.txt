@@ -18,8 +18,6 @@ DOMAIN,dl.l.google.com
 DOMAIN,eco-push-api-client.meiqia.com
 DOMAIN,errlog.umeng.com
 DOMAIN,fairplay.l.qq.com
-DOMAIN,fonts.googleapis.com
-DOMAIN,fonts.gstatic.com
 DOMAIN,livew.l.qq.com
 DOMAIN,log.mmstat.com
 DOMAIN,msg.umeng.com
@@ -50,4 +48,4 @@ USER-AGENT,Coffee%20Corp*
 USER-AGENT,archero*
 USER-AGENT,coffeecorp*
 USER-AGENT,restaurant-mobile*
-#Sat 04/22/2023
+#Tue 04/25/2023
