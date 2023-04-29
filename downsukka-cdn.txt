@@ -524,6 +524,7 @@ DOMAIN-SUFFIX,s3.wasabisys.com
 DOMAIN,cdn.sketch.com
 DOMAIN,resources-live.sketch.cloud
 DOMAIN,s1.feedly.com
+DOMAIN,assets.xmind.net
 DOMAIN,image.tmdb.org
 DOMAIN,assets0.lottiefiles.com
 DOMAIN,assets1.lottiefiles.com
@@ -934,4 +935,4 @@ DOMAIN,media.graphassets.com
 DOMAIN,s1.nordcdn.com
 DOMAIN-SUFFIX,usercontent.one
 DOMAIN,genesis-cdn.ff.com
-#Tue 04/25/2023
+#Sat 04/29/2023
