@@ -347,6 +347,7 @@ DOMAIN,cdn-sellix.com
 DOMAIN,assets.calendly.com
 DOMAIN,cdn.commento.io
 DOMAIN,js.hsforms.net
+DOMAIN,js.hscollectedforms.net
 DOMAIN,js.createsend1.com
 DOMAIN,showcase.abovemarket.com
 DOMAIN,static.ada.support
@@ -413,6 +414,7 @@ DOMAIN,media.evolv.ai
 DOMAIN,rts-static-prod.freshworksapi.com
 DOMAIN,assetscdn-wchat.eu.freshchat.com
 DOMAIN,busuanzi.ibruce.info
+DOMAIN,gtranslate.io
 DOMAIN,wac-cdn.atlassian.com
 DOMAIN,wac-cdn-2.atlassian.com
 DOMAIN-SUFFIX,prod.public.atl-paas.net
@@ -935,4 +937,4 @@ DOMAIN,media.graphassets.com
 DOMAIN,s1.nordcdn.com
 DOMAIN-SUFFIX,usercontent.one
 DOMAIN,genesis-cdn.ff.com
-#Mon 05/01/2023
+#Fri 05/05/2023
