@@ -4370,6 +4370,7 @@ DOMAIN,collector-main.trafficmanager.net
 DOMAIN,collector.bughd.com
 DOMAIN,collector.capturly.com
 DOMAIN,collector.contentexchange.me
+DOMAIN,collector.doordash.com
 DOMAIN,collector.pabs.comcast.com
 DOMAIN,collector.scopely.io
 DOMAIN,collector.snplow.net
@@ -19997,4 +19998,3 @@ DOMAIN,yellads.com
 DOMAIN,yellowbrix.com
 DOMAIN,yemdmtwnpspgy.com
 DOMAIN,yemnn.cn
-DOMAIN,yenlubragf.com

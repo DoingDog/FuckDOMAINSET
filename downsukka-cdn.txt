@@ -515,6 +515,7 @@ DOMAIN,media.e4le.me
 DOMAIN,medias.meow.social
 DOMAIN,social-cdn.vivaldi.net
 DOMAIN,media.infosec.exchange
+DOMAIN,s3.toot.io
 DOMAIN,f000.backblazeb2.com
 DOMAIN,f001.backblazeb2.com
 DOMAIN,f002.backblazeb2.com
@@ -752,6 +753,8 @@ DOMAIN-SUFFIX,sfdcstatic.com
 DOMAIN-SUFFIX,ltwebstatic.com
 DOMAIN,static.snapchat.com
 DOMAIN-SUFFIX,cdnst.net
+DOMAIN,assets.codepen.io
+DOMAIN,cpwebassets.codepen.io
 DOMAIN-SUFFIX,invisionapp-cdn.com
 DOMAIN-SUFFIX,yelpcdn.com
 DOMAIN,cf-images.us-east-1.prod.boltdns.net
@@ -768,8 +771,6 @@ DOMAIN-SUFFIX,ungrounded.net
 DOMAIN-SUFFIX,4cdn.org
 DOMAIN-SUFFIX,assets.getpocket.com
 DOMAIN,fiddle.jshell.net
-DOMAIN,assets.codepen.io
-DOMAIN,cpwebassets.codepen.io
 DOMAIN-SUFFIX,reasoningtheory.net
 DOMAIN-SUFFIX,wikiplus-app.com
 DOMAIN,dl.nssurge.com
@@ -940,4 +941,6 @@ DOMAIN,genesis-cdn.ff.com
 DOMAIN,cdn.ip2location.io
 DOMAIN,cdn.ipregistry.co
 DOMAIN,assets.ipstack.com
-#Tue 05/09/2023
+DOMAIN-SUFFIX,tiqcdn.com
+DOMAIN,wpmedia.tealium.com
+#Sat 05/13/2023
