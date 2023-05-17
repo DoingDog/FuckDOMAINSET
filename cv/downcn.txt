@@ -700,7 +700,6 @@ DOMAIN-SUFFIX,cctv.com
 DOMAIN-SUFFIX,cctvpic.com
 DOMAIN-SUFFIX,cczq.com
 DOMAIN-SUFFIX,cczq.net
-DOMAIN-SUFFIX,cdn.odc.officeapps.live.com
 DOMAIN-SUFFIX,cdn20.com
 DOMAIN-SUFFIX,cdn30.org
 DOMAIN-SUFFIX,cdncl.net
@@ -1326,6 +1325,7 @@ DOMAIN-SUFFIX,exmailgz.com
 DOMAIN-SUFFIX,exoticaz.to
 DOMAIN-SUFFIX,expreview.com
 DOMAIN-SUFFIX,extfans.com
+DOMAIN-SUFFIX,ezpro.pro
 DOMAIN-SUFFIX,f.cx
 DOMAIN-SUFFIX,faceu.com
 DOMAIN-SUFFIX,faceu.mobi
@@ -2521,6 +2521,7 @@ DOMAIN-SUFFIX,offcn.com
 DOMAIN-SUFFIX,office.com
 DOMAIN-SUFFIX,office.net
 DOMAIN-SUFFIX,office365.com
+DOMAIN-SUFFIX,officese.com
 DOMAIN-SUFFIX,oi-wiki.com
 DOMAIN-SUFFIX,oicq88.com
 DOMAIN-SUFFIX,okooo.com
@@ -3253,6 +3254,7 @@ DOMAIN-SUFFIX,ugslb.top
 DOMAIN-SUFFIX,ugslb2.net
 DOMAIN-SUFFIX,uhasadmin.com
 DOMAIN-SUFFIX,uhdbits.org
+DOMAIN-SUFFIX,uiwow.com
 DOMAIN-SUFFIX,ulikecam.com
 DOMAIN-SUFFIX,um.run
 DOMAIN-SUFFIX,umajor.net
@@ -4041,4 +4043,4 @@ IP-CIDR6,2a0b:b580::/48,no-resolve
 IP-CIDR6,2a0b:b581::/48,no-resolve
 IP-CIDR6,2a0b:b582::/48,no-resolve
 IP-CIDR6,2a0b:b583::/48,no-resolve
-#Sat 05/13/2023
+#Wed 05/17/2023
