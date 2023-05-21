@@ -57,6 +57,7 @@ DOMAIN,binaries.prisma.sh
 DOMAIN-SUFFIX,schemastore.org
 DOMAIN,playwright.azureedge.net
 DOMAIN-SUFFIX,kali.download
+DOMAIN,cdn-updates.orbstack.dev
 DOMAIN,registry.npmjs.org
 DOMAIN,static.npmjs.com
 DOMAIN,registry.npmjs.com
@@ -75,6 +76,7 @@ DOMAIN,packages.jetbrains.team
 DOMAIN,pkg-cdn.jetbrains.team
 DOMAIN-SUFFIX,ubuntu.com
 DOMAIN-SUFFIX,debian.org
+DOMAIN,dl-cdn.alpinelinux.org
 DOMAIN,ppa.launchpad.net
 DOMAIN-SUFFIX,mvnrepository.com
 DOMAIN,repo1.maven.org
@@ -755,6 +757,14 @@ DOMAIN,static.snapchat.com
 DOMAIN-SUFFIX,cdnst.net
 DOMAIN,assets.codepen.io
 DOMAIN,cpwebassets.codepen.io
+DOMAIN,cdn1.epicgames.com
+DOMAIN,cdn2.epicgames.com
+DOMAIN,static-assets-prod.epicgames.com
+DOMAIN,media-cdn.epicgames.com
+DOMAIN,epic-social-social-modules-prod.ol.epicgames.com
+DOMAIN,cdn1.unrealengine.com
+DOMAIN,cdn2.unrealengine.com
+DOMAIN,cdn3.unrealengine.com
 DOMAIN-SUFFIX,invisionapp-cdn.com
 DOMAIN-SUFFIX,yelpcdn.com
 DOMAIN,cf-images.us-east-1.prod.boltdns.net
@@ -943,4 +953,4 @@ DOMAIN,cdn.ipregistry.co
 DOMAIN,assets.ipstack.com
 DOMAIN-SUFFIX,tiqcdn.com
 DOMAIN,wpmedia.tealium.com
-#Wed 05/17/2023
+#Sun 05/21/2023

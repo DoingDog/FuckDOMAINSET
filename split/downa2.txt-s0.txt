@@ -116,6 +116,7 @@ DOMAIN,1298bab69bbc4.com
 DOMAIN,12i.cn
 DOMAIN,12l22.net
 DOMAIN,12mnkys.com
+DOMAIN,12place.com
 DOMAIN,12wd87h.top
 DOMAIN,13190546cd1dec9bbdc.com
 DOMAIN,1357902.cn
@@ -458,7 +459,6 @@ DOMAIN,58b14921719ec.com
 DOMAIN,58b291f917728a2.com
 DOMAIN,58xiao.cn
 DOMAIN,59519.com
-DOMAIN,59cn7.com
 DOMAIN,59hi.com
 DOMAIN,59zs1xei.com
 DOMAIN,5ad954477413bdb77f.com
@@ -788,7 +788,6 @@ DOMAIN,a.yiyuancq.com
 DOMAIN,a.yl-taikang.com
 DOMAIN,a013.com
 DOMAIN,a02d0adbca0.com
-DOMAIN,a06bbd98194c252.com
 DOMAIN,a0c00.com
 DOMAIN,a0food.top
 DOMAIN,a1.7down.com
@@ -986,7 +985,6 @@ DOMAIN,ad-im-cmg.streamguys1.com
 DOMAIN,ad-m.asia
 DOMAIN,ad-mapps.com
 DOMAIN,ad-mediation.tuanguwen.com
-DOMAIN,ad-miner.com
 DOMAIN,ad-recommend.com
 DOMAIN,ad-server-lb-294150285.ap-southeast-1.elb.amazonaws.com
 DOMAIN,ad-sh-sz-zb.wagbridge.tanx.alimama.com
@@ -1094,6 +1092,7 @@ DOMAIN,adcolo.com
 DOMAIN,adconfer.com
 DOMAIN,adconjure.com
 DOMAIN,adconscious.com
+DOMAIN,adcrax.com
 DOMAIN,adcrowd.com
 DOMAIN,addaim.com
 DOMAIN,addan.xyz
@@ -1404,7 +1403,6 @@ DOMAIN,adsh.wagbridge.taobao.alimama.com
 DOMAIN,adsh.wagbridge.tmall.alimama.com
 DOMAIN,adshare.toutiao.com
 DOMAIN,adshell.net
-DOMAIN,adshostnet.com
 DOMAIN,adshot.de
 DOMAIN,adshuffle.com
 DOMAIN,adsinter1.addealsnetwork.com
@@ -3627,7 +3625,6 @@ DOMAIN,caphyon-analytics.com
 DOMAIN,capquqhuiazl.com
 DOMAIN,caps-server.anzu.io
 DOMAIN,capsquirrel.com
-DOMAIN,captainad.com
 DOMAIN,captifymedia.com
 DOMAIN,captivate.ai
 DOMAIN,captora.com
@@ -4387,7 +4384,6 @@ DOMAIN,com-online.website
 DOMAIN,com-thebigwillow-prod1.collector.snplow.net
 DOMAIN,com-upday-main.collector.snplow.net
 DOMAIN,combine.asnapieu.com
-DOMAIN,comclick.com
 DOMAIN,comegarage.com
 DOMAIN,comgnnyx.com
 DOMAIN,cominghamer.info
@@ -4481,6 +4477,7 @@ DOMAIN,content.secondspace.com
 DOMAIN,content.worldnow.com
 DOMAIN,content.zeronaught.com
 DOMAIN,contentcache-a.akamaihd.net
+DOMAIN,contentclick.co.uk
 DOMAIN,contentexchange.me
 DOMAIN,contentinsights.com
 DOMAIN,contentsfeed.com
@@ -5871,7 +5868,6 @@ DOMAIN,e.yl64a.cn
 DOMAIN,e.yu3p7m.cn
 DOMAIN,e.zg-api.com
 DOMAIN,e0663490cca0296f7.com
-DOMAIN,e0a42e1a21669b.com
 DOMAIN,e0yp21.cn
 DOMAIN,e13085e58935e6.com
 DOMAIN,e1345286.api.splkmobile.com
@@ -5952,6 +5948,7 @@ DOMAIN,ebayobjects.com
 DOMAIN,ebayobjects.com.au
 DOMAIN,ebcpfsslht.com
 DOMAIN,ebdr2.com
+DOMAIN,ebdr3.com
 DOMAIN,ebfkifnjs.com
 DOMAIN,ebgaxsjgdsnr.com
 DOMAIN,ebhytolzhum.com
@@ -5983,6 +5980,7 @@ DOMAIN,eco.vng25.xyz
 DOMAIN,ecommstats.com
 DOMAIN,econda-monitor.de
 DOMAIN,econsideepofle.info
+DOMAIN,ecpmrocks.com
 DOMAIN,ecsanalytics.com
 DOMAIN,ecto-ecto-uno.com
 DOMAIN,ecustomeropinions.com
@@ -6612,7 +6610,6 @@ DOMAIN,fbapi.guguread.com
 DOMAIN,fbbkavxqzy.com
 DOMAIN,fbduluwmba.com
 DOMAIN,fbekvzjp.com
-DOMAIN,fbfd396918c60838.com
 DOMAIN,fbgpnk.com
 DOMAIN,fbhfbgtj.com
 DOMAIN,fbknvrvouex.com
@@ -6707,7 +6704,6 @@ DOMAIN,ff.xue63.com
 DOMAIN,ff123.hao0202.com
 DOMAIN,ff1c0cc5.api.splkmobile.com
 DOMAIN,ff52e77ba517.com
-DOMAIN,ff5bd8d9f8df.com
 DOMAIN,ffaamympgd.com
 DOMAIN,ffaspwzfq.com
 DOMAIN,ffbook.cc
@@ -8664,7 +8660,6 @@ DOMAIN,images.ccqxqc.com
 DOMAIN,images.dreamhost.com
 DOMAIN,images.hitwise.co.uk
 DOMAIN,images.informatm.com
-DOMAIN,images.mpression.net
 DOMAIN,images.mylot.com
 DOMAIN,images.perf-serving.com
 DOMAIN,images.topguncustomz.com
@@ -10204,6 +10199,7 @@ DOMAIN,lexity.com
 DOMAIN,lexu.goggendorf.at
 DOMAIN,lezai.com
 DOMAIN,lfahycetwt.com
+DOMAIN,lfg5jnbi.com
 DOMAIN,lfhgumhsrjjgrt.com
 DOMAIN,lfjmmgorkjoaw.com
 DOMAIN,lfmwrbcfbji.com
@@ -10460,7 +10456,6 @@ DOMAIN,log.51wnl-cq.com
 DOMAIN,log.artipbox.net
 DOMAIN,log.daqi.com
 DOMAIN,log.droid4x.cn
-DOMAIN,log.espn.com
 DOMAIN,log.event.hunantv.com
 DOMAIN,log.hitsteps.com
 DOMAIN,log.ifood.tv
@@ -11422,6 +11417,7 @@ DOMAIN,mine.blank.drawpad.org
 DOMAIN,mine.terorie.com
 DOMAIN,miner.beeppool.org
 DOMAIN,miner.cryptobara.com
+DOMAIN,miner.nablabee.com
 DOMAIN,mineralt.io
 DOMAIN,minercry.pt
 DOMAIN,minero-proxy-01.now.sh
@@ -11691,7 +11687,6 @@ DOMAIN,mpmzqgkpavhhkt.com
 DOMAIN,mpp9h.cn
 DOMAIN,mppapi.io
 DOMAIN,mpqfzyh.com
-DOMAIN,mpression.net
 DOMAIN,mps-gba.de
 DOMAIN,mpudcfnsnpj.com
 DOMAIN,mpuls.ru
@@ -11795,7 +11790,6 @@ DOMAIN,murroliving.com.cn
 DOMAIN,musculahq.appspot.com
 DOMAIN,music-desktop.com
 DOMAIN,musighkm.com
-DOMAIN,musthird.com
 DOMAIN,mutary.com
 DOMAIN,mutaticial.com
 DOMAIN,mutinycdn.com
@@ -11956,6 +11950,7 @@ DOMAIN,naapvraf.com
 DOMAIN,naavxddd.com
 DOMAIN,naayna.com
 DOMAIN,nabaza.com
+DOMAIN,nablabee.com
 DOMAIN,nadegda-95.ru
 DOMAIN,nadinthimmeled.pro
 DOMAIN,nads.wuaiso.com
@@ -13286,7 +13281,6 @@ DOMAIN,phantom.nudgespot.com
 DOMAIN,pharmadeal.gr
 DOMAIN,phdtryxlepjayf.com
 DOMAIN,phedudug.net
-DOMAIN,pheepudo.net
 DOMAIN,pheergar.com
 DOMAIN,pheizpjpowvw.com
 DOMAIN,phekrimp.com
@@ -13551,7 +13545,6 @@ DOMAIN,polarcdn-pentos.com
 DOMAIN,polawrg.com
 DOMAIN,pole.6rooms.com
 DOMAIN,polephen.com
-DOMAIN,policityseriod.info
 DOMAIN,polimantu.com
 DOMAIN,polmontventures.com
 DOMAIN,polymorphicads.jp
@@ -14708,7 +14701,6 @@ DOMAIN,retargeting.biz
 DOMAIN,retargetpro.net
 DOMAIN,retargettracker.com
 DOMAIN,retentionscience.com
-DOMAIN,retiremely.com
 DOMAIN,retono42.us
 DOMAIN,rettica.com
 DOMAIN,reussissonsensemble.fr
@@ -16523,6 +16515,7 @@ DOMAIN,surveyspaid.com
 DOMAIN,surveyvalue.mobi
 DOMAIN,surveywriter.com
 DOMAIN,surveywriter.net
+DOMAIN,survicate.com
 DOMAIN,sushipool.com
 DOMAIN,sutchart.net
 DOMAIN,sutdpikbwpvi.com
@@ -18536,7 +18529,6 @@ DOMAIN,vpnaffiliates.hidester.com
 DOMAIN,vpndcpxavg.com
 DOMAIN,vpnfortorrents.cc
 DOMAIN,vps.gcx3.cn
-DOMAIN,vptbn.com
 DOMAIN,vptggenzv.com
 DOMAIN,vptgnqpknpdyq.com
 DOMAIN,vpwdweham.com
@@ -18667,7 +18659,6 @@ DOMAIN,waavnpkn.com
 DOMAIN,wadrzbroefwd.com
 DOMAIN,wafmedia3.com
 DOMAIN,waframedia20.com
-DOMAIN,waframedia5.com
 DOMAIN,waframedia9.com
 DOMAIN,wahwahnetworks.com
 DOMAIN,wahyufian.zoomshare.com
@@ -18913,6 +18904,7 @@ DOMAIN,whatsbroadcast.com
 DOMAIN,whatseet.net
 DOMAIN,whautsel.net
 DOMAIN,whave.iptvdeals.com
+DOMAIN,whdzxabhqsdnlc.com
 DOMAIN,whegrads.com
 DOMAIN,wheptoot.net
 DOMAIN,where.com
@@ -19160,6 +19152,7 @@ DOMAIN,wsockd.com
 DOMAIN,wsowkqnxs.com
 DOMAIN,wspeed.qq.com
 DOMAIN,wsrkpjfs.com
+DOMAIN,wss.nablabee.com
 DOMAIN,wssejwluqthda.com
 DOMAIN,wstatslive.com
 DOMAIN,wswrfjuevvfz.com
@@ -19998,3 +19991,10 @@ DOMAIN,yglhcn.cn
 DOMAIN,ygnftomdh.com
 DOMAIN,ygpd.wang
 DOMAIN,ygsm.com
+DOMAIN,ygvuinirwqnl.com
+DOMAIN,yhaztdufgmw.com
+DOMAIN,yhjinm.cn
+DOMAIN,yhljenkljge.com
+DOMAIN,yhmbwgolijyac.com
+DOMAIN,yhwrgbcjwup.com
+DOMAIN,yhyxopmgofz.com
