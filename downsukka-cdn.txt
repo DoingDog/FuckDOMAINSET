@@ -52,12 +52,13 @@ DOMAIN-SUFFIX,nodejs.org
 DOMAIN,dl.nwjs.io
 DOMAIN,dl2.nwjs.io
 DOMAIN,packages.argotunnel.com
-DOMAIN,update.code.visualstudio.com
 DOMAIN,binaries.prisma.sh
 DOMAIN-SUFFIX,schemastore.org
 DOMAIN,playwright.azureedge.net
 DOMAIN-SUFFIX,kali.download
 DOMAIN,cdn-updates.orbstack.dev
+DOMAIN-SUFFIX,exp-tas.com
+DOMAIN,update.code.visualstudio.com
 DOMAIN,registry.npmjs.org
 DOMAIN,static.npmjs.com
 DOMAIN,registry.npmjs.com
@@ -151,6 +152,7 @@ DOMAIN,p.typekit.net
 DOMAIN,p.typekit.com
 DOMAIN,use.typekit.net
 DOMAIN,use.typekit.com
+DOMAIN,ec-prod.scene7.com
 DOMAIN,a5.behance.net
 DOMAIN,mir-s3-cdn-cf.behance.net
 DOMAIN-SUFFIX,ssl-images-amazon.com
@@ -167,7 +169,7 @@ DOMAIN,gravatar.cat.net
 DOMAIN-SUFFIX,rsb.net
 DOMAIN-SUFFIX,aspnetcdn.com
 DOMAIN-SUFFIX,software-download.microsoft.com
-DOMAIN,res.cdn.office.net
+DOMAIN-SUFFIX,public.cdn.office.net
 DOMAIN-SUFFIX,res.office365.com
 DOMAIN,res.cdn.office.net
 DOMAIN,res-1.cdn.office.net
@@ -400,6 +402,7 @@ DOMAIN,static.hotjar.com
 DOMAIN,bundle.trysavvy.com
 DOMAIN,flows.trysavvy.com
 DOMAIN,cdn.heysavvy.com
+DOMAIN,cdn.getkoala.com
 DOMAIN,cdn.channel.io
 DOMAIN,cf.channel.io
 DOMAIN,widget.user.com
@@ -528,6 +531,7 @@ DOMAIN,s3.eu-central-2.wasabisys.com
 DOMAIN-SUFFIX,s3.wasabisys.com
 DOMAIN,cdn.sketch.com
 DOMAIN,resources-live.sketch.cloud
+DOMAIN,resources-cache.prod.sketch.com
 DOMAIN,s1.feedly.com
 DOMAIN,assets.xmind.net
 DOMAIN,image.tmdb.org
@@ -567,6 +571,7 @@ DOMAIN-SUFFIX,media.tumblr.com
 DOMAIN-SUFFIX,sndcdn.com
 DOMAIN,assets.vercel.com
 DOMAIN,image.ship.vercel.com
+DOMAIN,go.vercel.com
 DOMAIN-SUFFIX,assets.heroku.com
 DOMAIN-SUFFIX,slack-edge.com
 DOMAIN,files.slack.com
@@ -632,6 +637,8 @@ DOMAIN,cdn1.dan.com
 DOMAIN,cdn2.dan.com
 DOMAIN,cdn3.dan.com
 DOMAIN,static.okx.com
+DOMAIN,static.coinall.ltd
+DOMAIN,tvcontent.blob.core.windows.net
 DOMAIN,static.crypto.com
 DOMAIN,bin.bnbstatic.com
 DOMAIN,assets.vidyard.com
@@ -641,6 +648,7 @@ DOMAIN,assets.leetcode.com
 DOMAIN,userfiles.uptimerobot.com
 DOMAIN,d27xxe7juh1us6.cloudfront.net
 DOMAIN,denali-static.grammarly.com
+DOMAIN,image.send.grammarly.com
 DOMAIN-SUFFIX,oktacdn.com
 DOMAIN,i.hamreus.com
 DOMAIN,us.hamreus.com
@@ -667,6 +675,8 @@ DOMAIN,next-images.opencollective.com
 DOMAIN,images.opencollective.com
 DOMAIN,static.figma.com
 DOMAIN,s3-alpha-sig.figma.com
+DOMAIN,s3-alpha.figma.com
+DOMAIN,cdn.sprig.com
 DOMAIN,static.buffer.com
 DOMAIN,start-page.buffer.com
 DOMAIN,static.spankbang.com
@@ -783,7 +793,6 @@ DOMAIN-SUFFIX,assets.getpocket.com
 DOMAIN,fiddle.jshell.net
 DOMAIN-SUFFIX,reasoningtheory.net
 DOMAIN-SUFFIX,wikiplus-app.com
-DOMAIN,dl.nssurge.com
 DOMAIN-SUFFIX,typography.com
 DOMAIN-SUFFIX,pastebin.com
 DOMAIN-SUFFIX,pagecdn.io
@@ -953,4 +962,11 @@ DOMAIN,cdn.ipregistry.co
 DOMAIN,assets.ipstack.com
 DOMAIN-SUFFIX,tiqcdn.com
 DOMAIN,wpmedia.tealium.com
-#Sun 05/21/2023
+DOMAIN,imgrs.apkcombo.com
+DOMAIN,img.utdstc.com
+DOMAIN,imag.malavida.com
+DOMAIN,images.scalero.io
+DOMAIN-SUFFIX,chasecdn.com
+DOMAIN,static.snaptube.in
+DOMAIN,s1.kwai.net
+#Thu 05/25/2023

@@ -1660,6 +1660,7 @@ DOMAIN-SUFFIX,hteacher.net
 DOMAIN-SUFFIX,htsec.com
 DOMAIN-SUFFIX,huajiao.com
 DOMAIN-SUFFIX,huajingsec.com
+DOMAIN-SUFFIX,huangyuhui.net
 DOMAIN-SUFFIX,huanqiu.com
 DOMAIN-SUFFIX,huashengdaili.com
 DOMAIN-SUFFIX,huatu.com
@@ -4043,4 +4044,4 @@ IP-CIDR6,2a0b:b580::/48,no-resolve
 IP-CIDR6,2a0b:b581::/48,no-resolve
 IP-CIDR6,2a0b:b582::/48,no-resolve
 IP-CIDR6,2a0b:b583::/48,no-resolve
-#Sun 05/21/2023
+#Thu 05/25/2023
