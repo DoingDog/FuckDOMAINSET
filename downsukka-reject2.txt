@@ -500,7 +500,6 @@ DOMAIN-SUFFIX,evt.mxplay.com
 DOMAIN,js-agent.newrelic.com
 DOMAIN,cdn.pocoiq.cn
 DOMAIN,oct.pocoiq.cn
-DOMAIN,cdn.segment.com
 DOMAIN,static.sensorsdata.cn
 DOMAIN-SUFFIX,supersonic.com
 DOMAIN-SUFFIX,supersonicads.com
@@ -1524,4 +1523,4 @@ DOMAIN-SUFFIX,luminati-china.io
 DOMAIN-SUFFIX,luminati.io
 DOMAIN-SUFFIX,lum-cn.io
 DOMAIN-SUFFIX,luminati-china.biz
-#Thu 05/25/2023
+#Mon 05/29/2023

@@ -593,7 +593,9 @@ DOMAIN-SUFFIX,redditmedia.com
 DOMAIN-SUFFIX,redd.it
 DOMAIN-SUFFIX,redditstatic.com
 DOMAIN-SUFFIX,cdn.discordapp.com
-DOMAIN-SUFFIX,discordapp.net
+DOMAIN,images-ext-1.discordapp.net
+DOMAIN,images-ext-2.discordapp.net
+DOMAIN,media.discordapp.net
 DOMAIN,upload.wikimedia.org
 DOMAIN,static.deepl.com
 DOMAIN,cdn.glitch.me
@@ -767,6 +769,7 @@ DOMAIN,static.snapchat.com
 DOMAIN-SUFFIX,cdnst.net
 DOMAIN,assets.codepen.io
 DOMAIN,cpwebassets.codepen.io
+DOMAIN,imgs.xkcd.com
 DOMAIN,cdn1.epicgames.com
 DOMAIN,cdn2.epicgames.com
 DOMAIN,static-assets-prod.epicgames.com
@@ -797,6 +800,8 @@ DOMAIN-SUFFIX,typography.com
 DOMAIN-SUFFIX,pastebin.com
 DOMAIN-SUFFIX,pagecdn.io
 DOMAIN-SUFFIX,7mmtv.tv
+DOMAIN,pic.7mmtv.me
+DOMAIN-SUFFIX,98avcdn.xyz
 DOMAIN-SUFFIX,99av.tv
 DOMAIN-SUFFIX,javtxt.com
 DOMAIN-SUFFIX,imgmrplay.xyz
@@ -969,4 +974,5 @@ DOMAIN,images.scalero.io
 DOMAIN-SUFFIX,chasecdn.com
 DOMAIN,static.snaptube.in
 DOMAIN,s1.kwai.net
-#Thu 05/25/2023
+DOMAIN,cdn.hackernoon.com
+#Mon 05/29/2023

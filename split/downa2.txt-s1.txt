@@ -1,3 +1,4 @@
+DOMAIN,yhljenkljge.com
 DOMAIN,yhmbwgolijyac.com
 DOMAIN,yhwrgbcjwup.com
 DOMAIN,yhyxopmgofz.com
@@ -654,11 +655,12 @@ DOMAIN,zzxlukodff.com
 DOMAIN,zzxosget.com
 DOMAIN-KEYWORD,-logging.nextmedia.com
 DOMAIN-KEYWORD,-spiky.clevertap-prod.com
+DOMAIN-KEYWORD,-tracker.biliapi.net
 DOMAIN-KEYWORD,.estream.
 DOMAIN-KEYWORD,.freecontent.
 DOMAIN-KEYWORD,.net.daraz.
-DOMAIN-KEYWORD,.net.zooplus.
 DOMAIN-KEYWORD,.nimiq.
+DOMAIN-KEYWORD,.zooplus.
 DOMAIN-KEYWORD,112wan
 DOMAIN-KEYWORD,789htbet
 DOMAIN-KEYWORD,_vmind.qqvideo.tc.qq.com
@@ -736,6 +738,7 @@ DOMAIN-KEYWORD,omniture
 DOMAIN-KEYWORD,onenews
 DOMAIN-KEYWORD,openx
 DOMAIN-KEYWORD,pagespeed-mod
+DOMAIN-KEYWORD,pancakeswap
 DOMAIN-KEYWORD,partnerad
 DOMAIN-KEYWORD,pingfore
 DOMAIN-KEYWORD,smetrics.marketing.
@@ -3167,6 +3170,7 @@ DOMAIN-SUFFIX,9nwg9sib9e.com
 DOMAIN-SUFFIX,9pb0h.cn
 DOMAIN-SUFFIX,9pkw.com
 DOMAIN-SUFFIX,9purdfe9xg.com
+DOMAIN-SUFFIX,9qo4mc7uol.shop
 DOMAIN-SUFFIX,9r7i9bo06157.top
 DOMAIN-SUFFIX,9rendezvous-l.com
 DOMAIN-SUFFIX,9s4l9nik.de
@@ -6465,7 +6469,6 @@ DOMAIN-SUFFIX,admized.com
 DOMAIN-SUFFIX,admon.cn
 DOMAIN-SUFFIX,admonitor.com
 DOMAIN-SUFFIX,admonitor.thepaper.cn
-DOMAIN-SUFFIX,admost-banner.b-cdn.net
 DOMAIN-SUFFIX,admothreewallent.com
 DOMAIN-SUFFIX,admozartxml.com
 DOMAIN-SUFFIX,admp-tc.delfi.lv
@@ -6903,7 +6906,6 @@ DOMAIN-SUFFIX,ads.goyk.com
 DOMAIN-SUFFIX,ads.gplusmedia.com
 DOMAIN-SUFFIX,ads.gradfinder.com
 DOMAIN-SUFFIX,ads.grindinggears.com
-DOMAIN-SUFFIX,ads.groupewin.fr
 DOMAIN-SUFFIX,ads.gsm-exchange.com
 DOMAIN-SUFFIX,ads.gsmexchange.com
 DOMAIN-SUFFIX,ads.guardian.co.uk
@@ -9694,7 +9696,6 @@ DOMAIN-SUFFIX,analyticapi.pho.fm
 DOMAIN-SUFFIX,analyticcdn.globalmailer.com
 DOMAIN-SUFFIX,analytics-1.cavai.com
 DOMAIN-SUFFIX,analytics-ad-eyu9u2md.kgslb.com
-DOMAIN-SUFFIX,analytics-alv.google.com
 DOMAIN-SUFFIX,analytics-api.a-f.io
 DOMAIN-SUFFIX,analytics-api.liveapp.com
 DOMAIN-SUFFIX,analytics-api.samsunghealthcn.com
@@ -10612,6 +10613,7 @@ DOMAIN-SUFFIX,anthemspeg.space
 DOMAIN-SUFFIX,anthill.vn
 DOMAIN-SUFFIX,anti-adblock.herokuapp.com
 DOMAIN-SUFFIX,anti-bot.baidu.com
+DOMAIN-SUFFIX,anti-tech-revolution.xyz
 DOMAIN-SUFFIX,anti.347movie.com
 DOMAIN-SUFFIX,anti.nukedfans.com
 DOMAIN-SUFFIX,anti.uiiumovies.net
@@ -17048,7 +17050,6 @@ DOMAIN-SUFFIX,c.rhapsody.com
 DOMAIN-SUFFIX,c.riskified.com
 DOMAIN-SUFFIX,c.rzk-m.com
 DOMAIN-SUFFIX,c.salon24.pl
-DOMAIN-SUFFIX,c.seznam.cz
 DOMAIN-SUFFIX,c.sibnet.ru
 DOMAIN-SUFFIX,c.silvinst.com
 DOMAIN-SUFFIX,c.sss1989.com
@@ -19997,4 +19998,3 @@ DOMAIN-SUFFIX,codezap.com
 DOMAIN-SUFFIX,codingwithryder.com
 DOMAIN-SUFFIX,codipsa.com.py
 DOMAIN-SUFFIX,codlw.com
-DOMAIN-SUFFIX,codon.vn
