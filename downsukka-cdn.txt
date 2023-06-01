@@ -3,6 +3,8 @@ DOMAIN,pic.skk.moe
 DOMAIN,img.skk.moe
 DOMAIN,cdn.skk.moe
 DOMAIN-SUFFIX,jsdelivr.net
+DOMAIN,data.jsdelivr.com
+DOMAIN,img.jsdelivr.com
 DOMAIN-SUFFIX,unpkg.com
 DOMAIN-SUFFIX,esm.run
 DOMAIN-SUFFIX,bundle.run
@@ -66,6 +68,7 @@ DOMAIN,registry.yarnpkg.com
 DOMAIN-SUFFIX,pypi.org
 DOMAIN-SUFFIX,pythonhosted.org
 DOMAIN-SUFFIX,repo.anaconda.com
+DOMAIN,cdn.cocoapods.org
 DOMAIN,repo.gradle.org
 DOMAIN,plugins-artifacts.gradle.org
 DOMAIN,proxy.golang.org
@@ -285,6 +288,9 @@ DOMAIN,images.imagebam.com
 DOMAIN,images2.imagebam.com
 DOMAIN,images3.imagebam.com
 DOMAIN,images4.imagebam.com
+DOMAIN,i.snap.as
+DOMAIN-SUFFIX,turboimg.net
+DOMAIN-SUFFIX,webp.se
 DOMAIN-SUFFIX,z4a.net
 DOMAIN,i.jpg.dog
 DOMAIN-SUFFIX,imgbox.com
@@ -299,12 +305,12 @@ DOMAIN-SUFFIX,sirv.com
 DOMAIN-SUFFIX,ik.imagekit.io
 DOMAIN-SUFFIX,cdn.imghaste.com
 DOMAIN-SUFFIX,98avcdn.xyz
-DOMAIN,pics.dmm.co.jp
 DOMAIN,9191.ga
 DOMAIN,i.vgy.me
 DOMAIN,placeimg.com
 DOMAIN,thumbsnap.com
 DOMAIN,pengtu.cc
+DOMAIN,www.10086.win
 DOMAIN,www.datocms-assets.com
 DOMAIN,cdn-client.medium.com
 DOMAIN,glyph.medium.com
@@ -403,6 +409,7 @@ DOMAIN,bundle.trysavvy.com
 DOMAIN,flows.trysavvy.com
 DOMAIN,cdn.heysavvy.com
 DOMAIN,cdn.getkoala.com
+DOMAIN,talk.hyvor.com
 DOMAIN,cdn.channel.io
 DOMAIN,cf.channel.io
 DOMAIN,widget.user.com
@@ -444,6 +451,7 @@ DOMAIN,webfonts.zoho.com
 DOMAIN,cdn.segment.com
 DOMAIN-SUFFIX,gateway.ipfs.io
 DOMAIN-SUFFIX,ipfs.eternum.io
+DOMAIN,ipfs.d.tube
 DOMAIN-SUFFIX,ipns.co
 DOMAIN-SUFFIX,ipfs.mrh.io
 DOMAIN-SUFFIX,gateway.originprotocol.com
@@ -651,6 +659,9 @@ DOMAIN,userfiles.uptimerobot.com
 DOMAIN,d27xxe7juh1us6.cloudfront.net
 DOMAIN,denali-static.grammarly.com
 DOMAIN,image.send.grammarly.com
+DOMAIN,denali-static.grammarly.com
+DOMAIN,assets.extension.grammarly.com
+DOMAIN,assets.grammarly.com
 DOMAIN-SUFFIX,oktacdn.com
 DOMAIN,i.hamreus.com
 DOMAIN,us.hamreus.com
@@ -778,6 +789,23 @@ DOMAIN,epic-social-social-modules-prod.ol.epicgames.com
 DOMAIN,cdn1.unrealengine.com
 DOMAIN,cdn2.unrealengine.com
 DOMAIN,cdn3.unrealengine.com
+DOMAIN,userpic.redgifs.com
+DOMAIN,thumbs44.redgifs.com
+DOMAIN,cdn.filen.io
+DOMAIN,cdn.search.brave.com
+DOMAIN,imgs.search.brave.com
+DOMAIN-SUFFIX,odycdn.com
+DOMAIN,fonts.codeberg.org
+DOMAIN,livedoor.blogimg.jp
+DOMAIN,parts.blog.livedoor.jp
+DOMAIN,resize.blogsys.jp
+DOMAIN,asset.booth.pm
+DOMAIN,pics.dmm.co.jp
+DOMAIN,doujin-assets.dmm.co.jp
+DOMAIN,cdn.dap.dmm.co.jp
+DOMAIN,navismithapis-cdn.com
+DOMAIN,p-smith.com
+DOMAIN,cdn.dribbble.com
 DOMAIN-SUFFIX,invisionapp-cdn.com
 DOMAIN-SUFFIX,yelpcdn.com
 DOMAIN,cf-images.us-east-1.prod.boltdns.net
@@ -817,7 +845,6 @@ DOMAIN,embed.runkit.com
 DOMAIN-SUFFIX,giscus.app
 DOMAIN-SUFFIX,ravenjs.com
 DOMAIN-SUFFIX,pstorage.space
-DOMAIN,denali-static.grammarly.com
 DOMAIN,static.t-ru.org
 DOMAIN,static.cracked.io
 DOMAIN,static.cracked.to
@@ -835,7 +862,6 @@ DOMAIN,cdn.missav.com
 DOMAIN,static.thisav.com
 DOMAIN,cdn.thisav.com
 DOMAIN,i.iwara.tv
-DOMAIN,assets.grammarly.com
 DOMAIN-SUFFIX,strpst.com
 DOMAIN,yummlystatic.com
 DOMAIN,s.w-x.co
@@ -975,4 +1001,7 @@ DOMAIN-SUFFIX,chasecdn.com
 DOMAIN,static.snaptube.in
 DOMAIN,s1.kwai.net
 DOMAIN,cdn.hackernoon.com
-#Mon 05/29/2023
+DOMAIN,cdn.writeas.net
+DOMAIN,files.writefreely.org
+DOMAIN,cdn.cnx-software.com
+#Thu 06/01/2023
