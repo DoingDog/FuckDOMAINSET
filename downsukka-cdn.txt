@@ -137,6 +137,11 @@ DOMAIN-SUFFIX,storage.googleapis.com
 DOMAIN-SUFFIX,firestore.googleapis.com
 DOMAIN-SUFFIX,firebasestorage.googleapis.com
 DOMAIN,i.ytimg.com
+DOMAIN,i1.ytimg.com
+DOMAIN,i2.ytimg.com
+DOMAIN,i3.ytimg.com
+DOMAIN,i4.ytimg.com
+DOMAIN,i9.ytimg.com
 DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,bp.blogspot.com
 DOMAIN-SUFFIX,blogblog.com
@@ -410,6 +415,7 @@ DOMAIN,flows.trysavvy.com
 DOMAIN,cdn.heysavvy.com
 DOMAIN,cdn.getkoala.com
 DOMAIN,talk.hyvor.com
+DOMAIN,js.memberful.com
 DOMAIN,cdn.channel.io
 DOMAIN,cf.channel.io
 DOMAIN,widget.user.com
@@ -767,6 +773,10 @@ DOMAIN-SUFFIX,xingcdn.com
 DOMAIN,profile-images.xing.com
 DOMAIN,fonts1.unidays.world
 DOMAIN,stories.freepiklabs.com
+DOMAIN-SUFFIX,cdnpk.net
+DOMAIN,avatar.freepik.com
+DOMAIN,img.freepik.com
+DOMAIN,static-gcp.freepikcompany.com
 DOMAIN-SUFFIX,pixiv.re
 DOMAIN-SUFFIX,pixiv.cat
 DOMAIN-SUFFIX,pixiv.nl
@@ -806,6 +816,7 @@ DOMAIN,cdn.dap.dmm.co.jp
 DOMAIN,navismithapis-cdn.com
 DOMAIN,p-smith.com
 DOMAIN,cdn.dribbble.com
+DOMAIN,static-cdn.spot.im
 DOMAIN-SUFFIX,invisionapp-cdn.com
 DOMAIN-SUFFIX,yelpcdn.com
 DOMAIN,cf-images.us-east-1.prod.boltdns.net
@@ -1004,4 +1015,6 @@ DOMAIN,cdn.hackernoon.com
 DOMAIN,cdn.writeas.net
 DOMAIN,files.writefreely.org
 DOMAIN,cdn.cnx-software.com
-#Thu 06/01/2023
+DOMAIN,webpack.js.org
+DOMAIN-SUFFIX,hackerone-user-content.com
+#Mon 06/05/2023
