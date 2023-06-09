@@ -416,6 +416,8 @@ DOMAIN,cdn.heysavvy.com
 DOMAIN,cdn.getkoala.com
 DOMAIN,talk.hyvor.com
 DOMAIN,js.memberful.com
+DOMAIN,js.qualified.com
+DOMAIN,cdn.calibermind.com
 DOMAIN,cdn.channel.io
 DOMAIN,cf.channel.io
 DOMAIN,widget.user.com
@@ -817,6 +819,9 @@ DOMAIN,navismithapis-cdn.com
 DOMAIN,p-smith.com
 DOMAIN,cdn.dribbble.com
 DOMAIN,static-cdn.spot.im
+DOMAIN,fonts.zapier.com
+DOMAIN,cdn.zapier.com
+DOMAIN,rsms.me
 DOMAIN-SUFFIX,invisionapp-cdn.com
 DOMAIN-SUFFIX,yelpcdn.com
 DOMAIN,cf-images.us-east-1.prod.boltdns.net
@@ -1017,4 +1022,4 @@ DOMAIN,files.writefreely.org
 DOMAIN,cdn.cnx-software.com
 DOMAIN,webpack.js.org
 DOMAIN-SUFFIX,hackerone-user-content.com
-#Mon 06/05/2023
+#Fri 06/09/2023
