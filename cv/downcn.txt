@@ -2834,6 +2834,7 @@ DOMAIN-SUFFIX,sencdn.com
 DOMAIN-SUFFIX,seniverse.com
 DOMAIN-SUFFIX,senlinjimore.com
 DOMAIN-SUFFIX,servicewechat.com
+DOMAIN-SUFFIX,sevencdn.com
 DOMAIN-SUFFIX,sf-airlines.com
 DOMAIN-SUFFIX,sf-cityrush.com
 DOMAIN-SUFFIX,sf-express.com
@@ -4052,4 +4053,4 @@ IP-CIDR6,2a0b:b580::/48,no-resolve
 IP-CIDR6,2a0b:b581::/48,no-resolve
 IP-CIDR6,2a0b:b582::/48,no-resolve
 IP-CIDR6,2a0b:b583::/48,no-resolve
-#Fri 06/09/2023
+#Tue 06/13/2023

@@ -118,6 +118,7 @@ DOMAIN-SUFFIX,twimg.com
 DOMAIN,cdn.cms-twdigitalassets.com
 DOMAIN,fonts.twitter.com
 DOMAIN,p.twitchcdn.net
+DOMAIN,k.twitchcdn.net
 DOMAIN,static-cdn.jtvnw.net
 DOMAIN,static.twitchcdn.net
 DOMAIN,clips-media-assets2.twitch.tv
@@ -129,6 +130,7 @@ DOMAIN-SUFFIX,ampproject.org
 DOMAIN-SUFFIX,net.anydesk.com
 DOMAIN-SUFFIX,disquscdn.com
 DOMAIN,dl.google.com
+DOMAIN,chart.googleapis.com
 DOMAIN,fonts.googleapis.com
 DOMAIN,fonts.gstatic.com
 DOMAIN,ajax.googleapis.com
@@ -578,6 +580,7 @@ DOMAIN,st2.zoom.us
 DOMAIN,st3.zoom.us
 DOMAIN-SUFFIX,yimg.com
 DOMAIN,assets.video.yahoo.net
+DOMAIN,yep.video.yahoo.com
 DOMAIN-SUFFIX,cdn.cookielaw.org
 DOMAIN,static.dash.cloudflare.com
 DOMAIN,info.cloudflare.com
@@ -762,6 +765,8 @@ DOMAIN-SUFFIX,cdnpure.com
 DOMAIN,static.apkpure.com
 DOMAIN,assets.chess24.com
 DOMAIN,cdn.chess24.com
+DOMAIN,image.lichess1.org
+DOMAIN-SUFFIX,chesscomfiles.com
 DOMAIN,cdn.adguard.com
 DOMAIN-SUFFIX,storage.infomaniak.com
 DOMAIN,static.infomaniak.ch
@@ -791,6 +796,7 @@ DOMAIN-SUFFIX,ltwebstatic.com
 DOMAIN,static.snapchat.com
 DOMAIN-SUFFIX,cdnst.net
 DOMAIN,assets.codepen.io
+DOMAIN,static.codepen.io
 DOMAIN,cpwebassets.codepen.io
 DOMAIN,imgs.xkcd.com
 DOMAIN,cdn1.epicgames.com
@@ -822,6 +828,14 @@ DOMAIN,static-cdn.spot.im
 DOMAIN,fonts.zapier.com
 DOMAIN,cdn.zapier.com
 DOMAIN,rsms.me
+DOMAIN-SUFFIX,7mmtv.tv
+DOMAIN,pic.7mmtv.me
+DOMAIN-SUFFIX,98avcdn.xyz
+DOMAIN,piccdn.7mmtv.sx
+DOMAIN,video1.7mmtv.sx
+DOMAIN,video2.7mmtv.sx
+DOMAIN,cdn-fck.tnaflix.com
+DOMAIN-SUFFIX,tnastatic.com
 DOMAIN-SUFFIX,invisionapp-cdn.com
 DOMAIN-SUFFIX,yelpcdn.com
 DOMAIN,cf-images.us-east-1.prod.boltdns.net
@@ -843,9 +857,6 @@ DOMAIN-SUFFIX,wikiplus-app.com
 DOMAIN-SUFFIX,typography.com
 DOMAIN-SUFFIX,pastebin.com
 DOMAIN-SUFFIX,pagecdn.io
-DOMAIN-SUFFIX,7mmtv.tv
-DOMAIN,pic.7mmtv.me
-DOMAIN-SUFFIX,98avcdn.xyz
 DOMAIN-SUFFIX,99av.tv
 DOMAIN-SUFFIX,javtxt.com
 DOMAIN-SUFFIX,imgmrplay.xyz
@@ -950,7 +961,6 @@ DOMAIN,static.dw.com
 DOMAIN-SUFFIX,tedcdn.com
 DOMAIN,static.gopro.com
 DOMAIN,sig.grumpybumpers.com
-DOMAIN-SUFFIX,chesscomfiles.com
 DOMAIN,nightly.link
 DOMAIN,useruploads.visualwebsiteoptimizer.com
 DOMAIN,seal-newyork.bbb.org
@@ -1022,4 +1032,14 @@ DOMAIN,files.writefreely.org
 DOMAIN,cdn.cnx-software.com
 DOMAIN,webpack.js.org
 DOMAIN-SUFFIX,hackerone-user-content.com
-#Fri 06/09/2023
+DOMAIN,cdn.wccftech.com
+DOMAIN,i.pcmag.com
+DOMAIN,static1.makeuseofimages.com
+DOMAIN,msdesign.blob.core.windows.net
+DOMAIN,cdn.hellofresh.com
+DOMAIN,img.hellofresh.com
+DOMAIN,images.everyplate.com
+DOMAIN,static-cache.fboom.me
+DOMAIN-SUFFIX,cdntrex.com
+DOMAIN,player.h-cdn.com
+#Tue 06/13/2023
