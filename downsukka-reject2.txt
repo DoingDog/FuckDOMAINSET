@@ -641,6 +641,14 @@ DOMAIN,stocks-analytics-events.apple.com
 DOMAIN,stocks-analytics-events.news.apple-dns.net
 DOMAIN-SUFFIX,iadsdk.apple.com
 DOMAIN-SUFFIX,iad.apple.com
+DOMAIN,acfeedbackws.icloud.com
+DOMAIN,api-adservices.apple.com
+DOMAIN,feedbackws.icloud.com
+DOMAIN,notes-analytics-events.apple.com
+DOMAIN,notes-analytics-events.news.apple-dns.net
+DOMAIN,securemvt.apple.com
+DOMAIN,weather-analytics-events.apple.com
+DOMAIN,weather-analytics-events.news.apple-dns.net
 DOMAIN-SUFFIX,qwapi.com
 DOMAIN-SUFFIX,wwads.cn
 DOMAIN,e.crashlytics.com
@@ -698,6 +706,21 @@ DOMAIN-SUFFIX,googletagmanager.com
 DOMAIN-SUFFIX,googletagservices.com
 DOMAIN-SUFFIX,googletraveladservices.com
 DOMAIN-SUFFIX,data.hicloud.com
+DOMAIN,logservice.hicloud.com
+DOMAIN,logservice1.hicloud.com
+DOMAIN-SUFFIX,dt.dbankcloud.cn
+DOMAIN-SUFFIX,dt.hicloud.com
+DOMAIN-SUFFIX,dt.dbankcloud.ru
+DOMAIN-SUFFIX,data.dbankcloud.cn
+DOMAIN,grs.dbankcloud.asia
+DOMAIN,grs.dbankcloud.cn
+DOMAIN,grs.dbankcloud.com
+DOMAIN,grs.dbankcloud.eu
+DOMAIN,grs.hicloud.com
+DOMAIN,grs.platform.dbankcloud.ru
+DOMAIN,logservice-dra.platform.hicloud.com
+DOMAIN,logservice-dre.platform.dbankcloud.cn
+DOMAIN,logservice-dre.platform.hicloud.com
 DOMAIN,logservice.hicloud.com
 DOMAIN,logservice1.hicloud.com
 DOMAIN,jrad.jd.com
@@ -1523,4 +1546,4 @@ DOMAIN-SUFFIX,luminati-china.io
 DOMAIN-SUFFIX,luminati.io
 DOMAIN-SUFFIX,lum-cn.io
 DOMAIN-SUFFIX,luminati-china.biz
-#Tue 06/13/2023
+#Sat 06/17/2023
