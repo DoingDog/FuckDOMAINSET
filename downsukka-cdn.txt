@@ -59,12 +59,8 @@ DOMAIN,binaries.prisma.sh
 DOMAIN-SUFFIX,schemastore.org
 DOMAIN,playwright.azureedge.net
 DOMAIN-SUFFIX,kali.download
-DOMAIN,cdn-updates.orbstack.dev
 DOMAIN-SUFFIX,exp-tas.com
 DOMAIN-SUFFIX,vscode-cdn.net
-DOMAIN,update.code.visualstudio.com
-DOMAIN,download.visualstudio.microsoft.com
-DOMAIN,az764295.vo.msecnd.net
 DOMAIN,vscode.blob.core.windows.net
 DOMAIN,vscode-sync.trafficmanager.net
 DOMAIN,vscode-sync-insiders.trafficmanager.net
@@ -122,7 +118,7 @@ DOMAIN-SUFFIX,githubassets.com
 DOMAIN-SUFFIX,pkg.github.com
 DOMAIN-SUFFIX,vscode-unpkg.net
 DOMAIN-SUFFIX,vsassets.io
-DOMAIN,vsmarketplacebadges.dev
+DOMAIN-SUFFIX,vsmarketplacebadges.dev
 DOMAIN-SUFFIX,gitlab-static.net
 DOMAIN-SUFFIX,twimg.com
 DOMAIN,cdn.cms-twdigitalassets.com
@@ -302,10 +298,7 @@ DOMAIN,media1.giphy.com
 DOMAIN,media2.giphy.com
 DOMAIN,media3.giphy.com
 DOMAIN,media4.giphy.com
-DOMAIN,images.imagebam.com
-DOMAIN,images2.imagebam.com
-DOMAIN,images3.imagebam.com
-DOMAIN,images4.imagebam.com
+DOMAIN-SUFFIX,imagebam.com
 DOMAIN,i.snap.as
 DOMAIN-SUFFIX,turboimg.net
 DOMAIN-SUFFIX,webp.se
@@ -315,7 +308,6 @@ DOMAIN-SUFFIX,imgbox.com
 DOMAIN-SUFFIX,bmp.ovh
 DOMAIN,i.niupic.com
 DOMAIN,img.vim-cn.com
-DOMAIN-SUFFIX,imagebam.com
 DOMAIN-SUFFIX,photobucket.com
 DOMAIN-SUFFIX,cdn.imgeng.in
 DOMAIN-SUFFIX,cloudimg.io
@@ -765,7 +757,7 @@ DOMAIN,media.istockphoto.com
 DOMAIN,static.gettyimages.com
 DOMAIN,media.gettyimages.com
 DOMAIN,res.abc.net.au
-DOMAIN-SUFFIX,abc-cdn.net.
+DOMAIN-SUFFIX,abc-cdn.net
 DOMAIN,assets-cdn.abcnews.com
 DOMAIN,s.abcnews.com
 DOMAIN,static.foxnews.com
@@ -888,6 +880,10 @@ DOMAIN-SUFFIX,porndudecdn.com
 DOMAIN,media.theporndude.com
 DOMAIN,doppler-config.cbsivideo.com
 DOMAIN,production-cmp.isgprivacy.cbsi.com
+DOMAIN,utteranc.es
+DOMAIN,cdn.setapp.com
+DOMAIN,cdn.micro.blog
+DOMAIN,avatars.micro.blog
 DOMAIN,at.adtech.redventures.io
 DOMAIN,assets.the-independent.com
 DOMAIN,static.independent.co.uk
@@ -1107,4 +1103,6 @@ DOMAIN-SUFFIX,images.arcpublishing.com
 DOMAIN,cdn.ziffstatic.com
 DOMAIN,static.euronews.com
 DOMAIN,static.killedbygoogle.com
-#Sat 06/17/2023
+DOMAIN,cdn.pagic.org
+DOMAIN,images.dmca.com
+#Wed 06/21/2023
