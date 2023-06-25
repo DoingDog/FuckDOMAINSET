@@ -144,6 +144,7 @@ DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,storage.googleapis.com
 DOMAIN-SUFFIX,firestore.googleapis.com
 DOMAIN-SUFFIX,firebasestorage.googleapis.com
+DOMAIN,cdn.firebase.com
 DOMAIN,i.ytimg.com
 DOMAIN,i1.ytimg.com
 DOMAIN,i2.ytimg.com
@@ -223,6 +224,7 @@ DOMAIN,embed-ssl.wistia.com
 DOMAIN-SUFFIX,doppiocdn.com
 DOMAIN-SUFFIX,alonestreaming.com
 DOMAIN-SUFFIX,thisiscdn.com
+DOMAIN,cdn.vidible.tv
 DOMAIN,player.vimeo.com
 DOMAIN-SUFFIX,vimeocdn.com
 DOMAIN-SUFFIX,archive.org
@@ -242,6 +244,8 @@ DOMAIN-SUFFIX,hs-scripts.net
 DOMAIN,avatars.hubspot.net
 DOMAIN-SUFFIX,hscollectedforms.net
 DOMAIN-SUFFIX,f.hubspotfree.net
+DOMAIN-SUFFIX,fs1.hubspotusercontent-eu1.net
+DOMAIN,cdn1.hubspotusercontent-eu1.net
 DOMAIN-SUFFIX,yastatic.net
 DOMAIN,avatars.mds.yandex.net
 DOMAIN,resize.yandex.net
@@ -261,8 +265,6 @@ DOMAIN,static3.squarespace.com
 DOMAIN,s3media.squarespace.com
 DOMAIN-SUFFIX,squarespace-cdn.com
 DOMAIN-SUFFIX,f-droid.org
-DOMAIN,image.crisp.chat
-DOMAIN,storage.crisp.chat
 DOMAIN-SUFFIX,c.staticblitz.com
 DOMAIN-SUFFIX,w.staticblitz.com
 DOMAIN-SUFFIX,t.staticblitz.com
@@ -273,7 +275,6 @@ DOMAIN-SUFFIX,w-credentialless.staticblitz.com
 DOMAIN,megapx-assets.dcard.tw
 DOMAIN,imgur.dcard.tw
 DOMAIN,images.ptt.cc
-DOMAIN-SUFFIX,wikia.nocookie.net
 DOMAIN,opt.moovweb.net
 DOMAIN,cloudinary-res.cloudinary.com
 DOMAIN,res.cloudinary.com
@@ -432,6 +433,8 @@ DOMAIN,cdns.gigya.com
 DOMAIN,disco.headliner.link
 DOMAIN,siteintercept.qualtrics.com
 DOMAIN,cdn.viglink.com
+DOMAIN,organizer.bizzabo.com
+DOMAIN,vetted.ai
 DOMAIN,cdn.piano.io
 DOMAIN,topbar-static.piano.io
 DOMAIN,cdn.tinypass.com
@@ -453,6 +456,8 @@ DOMAIN,rts-static-prod.freshworksapi.com
 DOMAIN,assetscdn-wchat.eu.freshchat.com
 DOMAIN,busuanzi.ibruce.info
 DOMAIN,gtranslate.io
+DOMAIN,image.crisp.chat
+DOMAIN,storage.crisp.chat
 DOMAIN,wac-cdn.atlassian.com
 DOMAIN,wac-cdn-2.atlassian.com
 DOMAIN-SUFFIX,prod.public.atl-paas.net
@@ -639,6 +644,7 @@ DOMAIN,static.deepl.com
 DOMAIN,cdn.glitch.me
 DOMAIN,cdn.glitch.com
 DOMAIN,cdn.glitch.global
+DOMAIN,pics.paypal.com
 DOMAIN-SUFFIX,discourse-cdn.com
 DOMAIN-SUFFIX,quoracdn.net
 DOMAIN-SUFFIX,app.gitbook.com
@@ -680,6 +686,7 @@ DOMAIN,cdn3.dan.com
 DOMAIN,static.okx.com
 DOMAIN,static.coinall.ltd
 DOMAIN,tvcontent.blob.core.windows.net
+DOMAIN,static.oklink.com
 DOMAIN,static.crypto.com
 DOMAIN,bin.bnbstatic.com
 DOMAIN,assets.vidyard.com
@@ -849,6 +856,7 @@ DOMAIN,media.dlsite.com
 DOMAIN,img.dlsite.jp
 DOMAIN,cdn.dribbble.com
 DOMAIN,static-cdn.spot.im
+DOMAIN,images.spot.im
 DOMAIN,fonts.zapier.com
 DOMAIN,cdn.zapier.com
 DOMAIN,rsms.me
@@ -884,6 +892,11 @@ DOMAIN,utteranc.es
 DOMAIN,cdn.setapp.com
 DOMAIN,cdn.micro.blog
 DOMAIN,avatars.micro.blog
+DOMAIN-SUFFIX,wikia.nocookie.net
+DOMAIN,images.wikia.com
+DOMAIN,services.linkfire.com
+DOMAIN,static.assetlab.io
+DOMAIN,linkstorage.linkfire.com
 DOMAIN,at.adtech.redventures.io
 DOMAIN,assets.the-independent.com
 DOMAIN,static.independent.co.uk
@@ -995,6 +1008,8 @@ DOMAIN,img.kbhgames.com
 DOMAIN,s3.filebase.com
 DOMAIN,d4.alternativeto.net
 DOMAIN,cdn.freecodecamp.org
+DOMAIN,cdn-media-1.freecodecamp.org
+DOMAIN,cdn-media-2.freecodecamp.org
 DOMAIN,static-assets-web.flixcart.com
 DOMAIN-SUFFIX,kinja-img.com
 DOMAIN-SUFFIX,kinja-static.com
@@ -1105,4 +1120,14 @@ DOMAIN,static.euronews.com
 DOMAIN,static.killedbygoogle.com
 DOMAIN,cdn.pagic.org
 DOMAIN,images.dmca.com
-#Wed 06/21/2023
+DOMAIN,static.olelive.com
+DOMAIN,media.owcnow.com
+DOMAIN,photos5.appleinsider.com
+DOMAIN,vanillicon.com
+DOMAIN,loutre.blockchair.io
+DOMAIN,js-cdn.blockchair.io
+DOMAIN,static.tokenview.io
+DOMAIN,0x0.st
+DOMAIN-SUFFIX,cdn.greenhouse.io
+DOMAIN,image.thefly.com
+#Sun 06/25/2023

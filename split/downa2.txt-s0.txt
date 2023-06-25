@@ -910,7 +910,6 @@ DOMAIN,accelacomm.com
 DOMAIN,accengage.net
 DOMAIN,acceptableserver.com
 DOMAIN,access-analyze.org
-DOMAIN,access-mc.com
 DOMAIN,access-sngapm.qcloud.com
 DOMAIN,accessi.it
 DOMAIN,accessintel.com
@@ -947,7 +946,6 @@ DOMAIN,acs.agent.v-56.com
 DOMAIN,acs.wapa.taobao.com
 DOMAIN,acsbap.com
 DOMAIN,act.commercial.shouji.360.cn
-DOMAIN,actiflex.org
 DOMAIN,actionallocator.com
 DOMAIN,actionbutton.co
 DOMAIN,actiondesk.com
@@ -963,7 +961,6 @@ DOMAIN,activeprospects.com
 DOMAIN,activetracker.activehotels.com
 DOMAIN,activity.clotfun.xyz
 DOMAIN,actnx.com
-DOMAIN,actpx.com
 DOMAIN,acwyoynw.com
 DOMAIN,acxiomapac.com
 DOMAIN,ad-beacon-v01.uliza.jp
@@ -1000,6 +997,7 @@ DOMAIN,ad.googleanalysis.mobi
 DOMAIN,ad.hori-gz.com
 DOMAIN,ad.ikonke.com
 DOMAIN,ad.lionmobi.com
+DOMAIN,ad.mobiuspace.net
 DOMAIN,ad.myinstashot.com
 DOMAIN,ad.qn.img-space.com
 DOMAIN,ad.quwin.cn
@@ -1205,14 +1203,12 @@ DOMAIN,admessage.support
 DOMAIN,admetric.io
 DOMAIN,admetricspro.com
 DOMAIN,admile.ru
-DOMAIN,admission.net
 DOMAIN,admitad.com
 DOMAIN,admo.tv
 DOMAIN,admost.com
 DOMAIN,admother.com
 DOMAIN,adn-tktracking-virginia-621472495.us-east-1.elb.amazonaws.com
 DOMAIN,adnami.io
-DOMAIN,adnami2.io
 DOMAIN,adnanny.com
 DOMAIN,adne.tv
 DOMAIN,adnectar.com
@@ -1225,7 +1221,6 @@ DOMAIN,adnetxchange.com
 DOMAIN,adnewnc.app.autohome.com.cn
 DOMAIN,adnexus.mobi
 DOMAIN,adnexus.net
-DOMAIN,adnico.jp
 DOMAIN,adnimation.com
 DOMAIN,adnmore.co.kr
 DOMAIN,adnoble.com
@@ -1279,7 +1274,6 @@ DOMAIN,adquest3d.com
 DOMAIN,adqvauwe.com
 DOMAIN,adqy6rzwcs.com
 DOMAIN,adrank24.de
-DOMAIN,adrcdn.com
 DOMAIN,adready.com
 DOMAIN,adreep.cn
 DOMAIN,adregain.com
@@ -3810,7 +3804,6 @@ DOMAIN,cdn.provesrc.com
 DOMAIN,cdn.pushcrew.com
 DOMAIN,cdn.rebel.ai
 DOMAIN,cdn.revjet.com
-DOMAIN,cdn.scarabresearch.com
 DOMAIN,cdn.selectablemedia.com
 DOMAIN,cdn.siftscience.com
 DOMAIN,cdn.speedcurve.com
@@ -4747,6 +4740,7 @@ DOMAIN,crazyclickstats.com
 DOMAIN,crazymike.tw
 DOMAIN,crcewevoy.com
 DOMAIN,creatchristorisalmos.info
+DOMAIN,creative-accelerate.ad.mobiuspace.net
 DOMAIN,creative.eagllwin.com
 DOMAIN,creative.metalyzer.com
 DOMAIN,creditbootcamp.com
@@ -19998,3 +19992,9 @@ DOMAIN,xrexjmudy.com
 DOMAIN,xrfjymmysdr.com
 DOMAIN,xrgsgywkcvua.com
 DOMAIN,xrlnnjsitjhnvb.com
+DOMAIN,xrluvlmyuxqjme.com
+DOMAIN,xrmrpcbaukli.com
+DOMAIN,xroonucyaoqljf.com
+DOMAIN,xrpcbukuwdvkc.com
+DOMAIN,xrsfwclojycu.com
+DOMAIN,xruuohzpxmmw.com
