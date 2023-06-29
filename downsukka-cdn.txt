@@ -94,6 +94,7 @@ DOMAIN-SUFFIX,jitpack.io
 DOMAIN,repo.maven.apache.org
 DOMAIN,maven.google.com
 DOMAIN-SUFFIX,gcr.io
+DOMAIN-SUFFIX,k8s.io
 DOMAIN,formulae.brew.sh
 DOMAIN,crates.io
 DOMAIN,static.crates.io
@@ -197,8 +198,17 @@ DOMAIN,spoprod-a.akamaihd.net
 DOMAIN,spoppe-b.azureedge.net
 DOMAIN,img-prod-cms-rt-microsoft-com.akamaized.net
 DOMAIN,statics-marketingsites-eas-ms-com.akamaized.net
+DOMAIN,spoprod-a.akamaihd.net
 DOMAIN,assets.onestore.ms
+DOMAIN,store-images.s-microsoft.com
+DOMAIN,c.s-microsoft.com
 DOMAIN,wcpstatic.microsoft.com
+DOMAIN,statics-xbc-eas.xbox.com
+DOMAIN,assets.xbox.com
+DOMAIN,images-eds-ssl.xboxlive.com
+DOMAIN,assets.xboxservices.com
+DOMAIN,assets-www.xbox.com
+DOMAIN,compass-ssl.xbox.com
 DOMAIN-SUFFIX,catbox.moe
 DOMAIN,uploads.codesandbox.io
 DOMAIN,pkg.csb.dev
@@ -435,6 +445,7 @@ DOMAIN,siteintercept.qualtrics.com
 DOMAIN,cdn.viglink.com
 DOMAIN,organizer.bizzabo.com
 DOMAIN,vetted.ai
+DOMAIN,cdn.jetboost.io
 DOMAIN,cdn.piano.io
 DOMAIN,topbar-static.piano.io
 DOMAIN,cdn.tinypass.com
@@ -621,6 +632,7 @@ DOMAIN,files.slack.com
 DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN,cdn.sstatic.net
 DOMAIN-SUFFIX,phncdn.com
+DOMAIN-SUFFIX,fonts.com
 DOMAIN-SUFFIX,fonts.net
 DOMAIN-SUFFIX,pstatic.net
 DOMAIN-SUFFIX,steamstatic.com
@@ -640,6 +652,7 @@ DOMAIN,images-ext-1.discordapp.net
 DOMAIN,images-ext-2.discordapp.net
 DOMAIN,media.discordapp.net
 DOMAIN,upload.wikimedia.org
+DOMAIN,wikiwandv2-19431.kxcdn.com
 DOMAIN,static.deepl.com
 DOMAIN,cdn.glitch.me
 DOMAIN,cdn.glitch.com
@@ -897,6 +910,10 @@ DOMAIN,images.wikia.com
 DOMAIN,services.linkfire.com
 DOMAIN,static.assetlab.io
 DOMAIN,linkstorage.linkfire.com
+DOMAIN-SUFFIX,cdn.nintendo.net
+DOMAIN,assets.nintendo.com
+DOMAIN,cdn.accounts.nintendo.com
+DOMAIN,cdn.pricespider.com
 DOMAIN,at.adtech.redventures.io
 DOMAIN,assets.the-independent.com
 DOMAIN,static.independent.co.uk
@@ -1130,4 +1147,14 @@ DOMAIN,static.tokenview.io
 DOMAIN,0x0.st
 DOMAIN-SUFFIX,cdn.greenhouse.io
 DOMAIN,image.thefly.com
-#Sun 06/25/2023
+DOMAIN,static.javcdn.info
+DOMAIN-SUFFIX,akamai-content-delivery.com
+DOMAIN-SUFFIX,javplayer.me
+DOMAIN-SUFFIX,siteintercept.qualtrics.com
+DOMAIN,c.marsflag.com
+DOMAIN,mwf-service.akamaized.net
+DOMAIN,static.vx-cdn.com
+DOMAIN,static.redhat.com
+DOMAIN,rules.ac
+DOMAIN,web-assets.strava.com
+#Thu 06/29/2023
