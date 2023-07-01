@@ -309,7 +309,6 @@ DOMAIN-SUFFIX,nexage.com
 DOMAIN-SUFFIX,nr-data.net
 DOMAIN-SUFFIX,odb.outbrain.com
 DOMAIN-SUFFIX,offerstrack.net
-DOMAIN-SUFFIX,omtrdc.net
 DOMAIN-SUFFIX,outbrain.com
 DOMAIN-SUFFIX,parsely.com
 DOMAIN-SUFFIX,peak-adx.com
@@ -616,7 +615,6 @@ DOMAIN-SUFFIX,telemetry.mozilla.org
 DOMAIN-SUFFIX,union.6.cn
 DOMAIN,api-analytics-cn.huami.com
 DOMAIN,stat.u.sb
-DOMAIN-SUFFIX,footprintdns.com
 DOMAIN-SUFFIX,stats.mokeedev.com
 DOMAIN,tongji.tom.com
 DOMAIN,ads.tvb.com
@@ -1546,4 +1544,4 @@ DOMAIN-SUFFIX,luminati-china.io
 DOMAIN-SUFFIX,luminati.io
 DOMAIN-SUFFIX,lum-cn.io
 DOMAIN-SUFFIX,luminati-china.biz
-#Thu 06/29/2023
+#Sat 07/01/2023

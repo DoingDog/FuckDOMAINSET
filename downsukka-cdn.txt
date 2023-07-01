@@ -202,6 +202,9 @@ DOMAIN,spoprod-a.akamaihd.net
 DOMAIN,assets.onestore.ms
 DOMAIN,store-images.s-microsoft.com
 DOMAIN,c.s-microsoft.com
+DOMAIN,assets.msn.com
+DOMAIN,th.bing.com
+DOMAIN-SUFFIX,mm.bing.net
 DOMAIN,wcpstatic.microsoft.com
 DOMAIN,statics-xbc-eas.xbox.com
 DOMAIN,assets.xbox.com
@@ -887,7 +890,7 @@ DOMAIN,t2.nhentai.net
 DOMAIN,t3.nhentai.net
 DOMAIN,t5.nhentai.net
 DOMAIN,t7.nhentai.net
-DOMAIN-SUFFIX,dogehls.xyzQQQQq
+DOMAIN-SUFFIX,dogehls.xyz
 DOMAIN,cdn-fck.tnaflix.com
 DOMAIN-SUFFIX,tnastatic.com
 DOMAIN,coreservicesstorgeprod.blob.core.windows.net
@@ -914,6 +917,10 @@ DOMAIN-SUFFIX,cdn.nintendo.net
 DOMAIN,assets.nintendo.com
 DOMAIN,cdn.accounts.nintendo.com
 DOMAIN,cdn.pricespider.com
+DOMAIN,gmedia.playstation.com
+DOMAIN,static.playstation.com
+DOMAIN,web-toolbar.playstation.com
+DOMAIN,cdn-a.sonyentertainmentnetwork.com
 DOMAIN,at.adtech.redventures.io
 DOMAIN,assets.the-independent.com
 DOMAIN,static.independent.co.uk
@@ -1157,4 +1164,13 @@ DOMAIN,static.vx-cdn.com
 DOMAIN,static.redhat.com
 DOMAIN,rules.ac
 DOMAIN,web-assets.strava.com
-#Thu 06/29/2023
+DOMAIN,images.macrumors.com
+DOMAIN,cdn.trustpilot.net
+DOMAIN,consumersite-assets.trustpilot.net
+DOMAIN,simplicity.trustpilot.com
+DOMAIN,user-images.trustpilot.com
+DOMAIN,widget.trustpilot.com
+DOMAIN,a.fsdn.com
+DOMAIN,s1.qwant.com
+DOMAIN,s2.qwant.com
+#Sat 07/01/2023
