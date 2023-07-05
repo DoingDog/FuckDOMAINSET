@@ -131,6 +131,8 @@ DOMAIN,static.twitchcdn.net
 DOMAIN,clips-media-assets2.twitch.tv
 DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,fbcdn.com
+DOMAIN,graph.facebook.com
+DOMAIN-SUFFIX,fbsbx.com
 DOMAIN,static.whatsapp.net
 DOMAIN,scontent.whatsapp.net
 DOMAIN-SUFFIX,ampproject.org
@@ -553,6 +555,7 @@ DOMAIN-SUFFIX,w3s.link
 DOMAIN-SUFFIX,cthd.icu
 DOMAIN,media.cmx.edu.kg
 DOMAIN,s3.acg.mn
+DOMAIN,s3.c.im
 DOMAIN,cdn.fosstodon.org
 DOMAIN,img.pawoo.net
 DOMAIN,static-cdn.mastodon.social
@@ -569,6 +572,31 @@ DOMAIN,medias.meow.social
 DOMAIN,social-cdn.vivaldi.net
 DOMAIN,media.infosec.exchange
 DOMAIN,s3.toot.io
+DOMAIN,mstdn-s3.o3o.studio
+DOMAIN,media.webtoo.ls
+DOMAIN,oss.moe.cat
+DOMAIN,objects.g0v.social
+DOMAIN,storage.gra.cloud.ovh.net
+DOMAIN,pool.jortage.com
+DOMAIN,sn-s3-cdn.angry.im
+DOMAIN,objects.hit.moe
+DOMAIN,s3.arkjp.net
+DOMAIN,files.mastodon.online
+DOMAIN,ovo.wxw.moe
+DOMAIN,s3.masto.ai
+DOMAIN,mastodon-static.miao.dev
+DOMAIN,s3.m.0x.mk
+DOMAIN,media.pullopen.xyz
+DOMAIN,media.yukimochi.jp
+DOMAIN,ca.nfs.pub
+DOMAIN,cdn.masto.host
+DOMAIN-SUFFIX,misskeyusercontent.com
+DOMAIN,o.n1mp.org
+DOMAIN,assets.plurk.com
+DOMAIN,avatars.plurk.com
+DOMAIN,emos.plurk.com
+DOMAIN,images.plurk.com
+DOMAIN,s.plurk.com
 DOMAIN,f000.backblazeb2.com
 DOMAIN,f001.backblazeb2.com
 DOMAIN,f002.backblazeb2.com
@@ -921,6 +949,8 @@ DOMAIN,gmedia.playstation.com
 DOMAIN,static.playstation.com
 DOMAIN,web-toolbar.playstation.com
 DOMAIN,cdn-a.sonyentertainmentnetwork.com
+DOMAIN,cdn-assets.porntube.com
+DOMAIN,cdn-thumbs.porntube.com
 DOMAIN,at.adtech.redventures.io
 DOMAIN,assets.the-independent.com
 DOMAIN,static.independent.co.uk
@@ -1173,4 +1203,7 @@ DOMAIN,widget.trustpilot.com
 DOMAIN,a.fsdn.com
 DOMAIN,s1.qwant.com
 DOMAIN,s2.qwant.com
-#Sat 07/01/2023
+DOMAIN-SUFFIX,flagcdn.com
+DOMAIN,static.snyk.io
+DOMAIN,static1.smartbear.co
+#Wed 07/05/2023
