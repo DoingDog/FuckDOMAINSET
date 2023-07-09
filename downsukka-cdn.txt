@@ -343,7 +343,6 @@ DOMAIN,glyph.medium.com
 DOMAIN,miro.medium.com
 DOMAIN,cdn.shopify.com
 DOMAIN-SUFFIX,shopifycdn.com
-DOMAIN,cdn-images.mailchimp.com
 DOMAIN,eep.io
 DOMAIN,cdn2.hextom.com
 DOMAIN,cdn3.hextom.com
@@ -477,6 +476,7 @@ DOMAIN,storage.crisp.chat
 DOMAIN,wac-cdn.atlassian.com
 DOMAIN,wac-cdn-2.atlassian.com
 DOMAIN-SUFFIX,prod.public.atl-paas.net
+DOMAIN,confluence-v1.prod.atl-paas.net
 DOMAIN,assets.swoogo.com
 DOMAIN,cdn.sanity.io
 DOMAIN,a.storyblok.com
@@ -667,6 +667,11 @@ DOMAIN-SUFFIX,fonts.com
 DOMAIN-SUFFIX,fonts.net
 DOMAIN-SUFFIX,pstatic.net
 DOMAIN-SUFFIX,steamstatic.com
+DOMAIN,steamuserimages-a.akamaihd.net
+DOMAIN,steamusercontent-a.akamaihd.net
+DOMAIN,steamvideo-a.akamaihd.net
+DOMAIN,steamusercontent.com
+DOMAIN,steamcdn-a.akamaihd.net
 DOMAIN-SUFFIX,ibytedtos.com
 DOMAIN-SUFFIX,ebayimg.com
 DOMAIN-SUFFIX,ebaystatic.com
@@ -682,6 +687,8 @@ DOMAIN-SUFFIX,cdn.discordapp.com
 DOMAIN,images-ext-1.discordapp.net
 DOMAIN,images-ext-2.discordapp.net
 DOMAIN,media.discordapp.net
+DOMAIN,cdn-images.mailchimp.com
+DOMAIN,polyfill.mailchimp.com
 DOMAIN,upload.wikimedia.org
 DOMAIN,wikiwandv2-19431.kxcdn.com
 DOMAIN,static.deepl.com
@@ -691,6 +698,7 @@ DOMAIN,cdn.glitch.global
 DOMAIN,pics.paypal.com
 DOMAIN-SUFFIX,discourse-cdn.com
 DOMAIN-SUFFIX,quoracdn.net
+DOMAIN-SUFFIX,poecdn.net
 DOMAIN-SUFFIX,app.gitbook.com
 DOMAIN-SUFFIX,files.gitbook.io
 DOMAIN-SUFFIX,notion-static.com
@@ -774,6 +782,7 @@ DOMAIN,s3-alpha.figma.com
 DOMAIN,cdn.sprig.com
 DOMAIN,static.buffer.com
 DOMAIN,start-page.buffer.com
+DOMAIN,icons.buffer.com
 DOMAIN,static.spankbang.com
 DOMAIN-SUFFIX,sb-cd.com
 DOMAIN,static.filestackapi.com
@@ -951,6 +960,12 @@ DOMAIN,web-toolbar.playstation.com
 DOMAIN,cdn-a.sonyentertainmentnetwork.com
 DOMAIN,cdn-assets.porntube.com
 DOMAIN,cdn-thumbs.porntube.com
+DOMAIN-SUFFIX,rdtcdn.com
+DOMAIN,optimizely.com
+DOMAIN,web-assets.ifttt.com
+DOMAIN,assets.ifttt.com
+DOMAIN,web.onekey-asset.com
+DOMAIN,content-prod-live.cert.starbucks.com
 DOMAIN,at.adtech.redventures.io
 DOMAIN,assets.the-independent.com
 DOMAIN,static.independent.co.uk
@@ -1206,4 +1221,8 @@ DOMAIN,s2.qwant.com
 DOMAIN-SUFFIX,flagcdn.com
 DOMAIN,static.snyk.io
 DOMAIN,static1.smartbear.co
-#Wed 07/05/2023
+DOMAIN,img.domaintools.com
+DOMAIN,source.domaintools.com
+DOMAIN,static-web-prod.skillshare.com
+DOMAIN-SUFFIX,usercontent.dev
+#Sun 07/09/2023
