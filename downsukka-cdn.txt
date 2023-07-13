@@ -67,7 +67,7 @@ DOMAIN,vscode-sync-insiders.trafficmanager.net
 DOMAIN,registry.npmjs.org
 DOMAIN,static.npmjs.com
 DOMAIN,registry.npmjs.com
-DOMAIN,registry.yarnpkg.com
+DOMAIN-SUFFIX,yarnpkg.com
 DOMAIN,registry.bower.io
 DOMAIN-SUFFIX,pypi.org
 DOMAIN-SUFFIX,pythonhosted.org
@@ -135,6 +135,7 @@ DOMAIN,graph.facebook.com
 DOMAIN-SUFFIX,fbsbx.com
 DOMAIN,static.whatsapp.net
 DOMAIN,scontent.whatsapp.net
+DOMAIN,connect.facebook.net
 DOMAIN-SUFFIX,ampproject.org
 DOMAIN-SUFFIX,net.anydesk.com
 DOMAIN-SUFFIX,disquscdn.com
@@ -214,6 +215,9 @@ DOMAIN,images-eds-ssl.xboxlive.com
 DOMAIN,assets.xboxservices.com
 DOMAIN,assets-www.xbox.com
 DOMAIN,compass-ssl.xbox.com
+DOMAIN-SUFFIX,blob.core.windows.net
+DOMAIN-SUFFIX,file.core.windows.net
+DOMAIN,amp.azure.net
 DOMAIN-SUFFIX,catbox.moe
 DOMAIN,uploads.codesandbox.io
 DOMAIN,pkg.csb.dev
@@ -228,6 +232,7 @@ DOMAIN-SUFFIX,iframe.ly
 DOMAIN-SUFFIX,olemovienews.com
 DOMAIN-SUFFIX,nincontent.com
 DOMAIN,cdn.jwplayer.com
+DOMAIN,content.jwplatform.com
 DOMAIN-SUFFIX,jwpcdn.com
 DOMAIN-SUFFIX,ninjastream.to
 DOMAIN-SUFFIX,pztv.ca
@@ -338,9 +343,6 @@ DOMAIN,thumbsnap.com
 DOMAIN,pengtu.cc
 DOMAIN,www.10086.win
 DOMAIN,www.datocms-assets.com
-DOMAIN,cdn-client.medium.com
-DOMAIN,glyph.medium.com
-DOMAIN,miro.medium.com
 DOMAIN,cdn.shopify.com
 DOMAIN-SUFFIX,shopifycdn.com
 DOMAIN,eep.io
@@ -434,6 +436,7 @@ DOMAIN,bundle.trysavvy.com
 DOMAIN,flows.trysavvy.com
 DOMAIN,cdn.heysavvy.com
 DOMAIN,cdn.getkoala.com
+DOMAIN,cdn.koala.live
 DOMAIN,talk.hyvor.com
 DOMAIN,js.memberful.com
 DOMAIN,js.qualified.com
@@ -450,6 +453,11 @@ DOMAIN,cdn.viglink.com
 DOMAIN,organizer.bizzabo.com
 DOMAIN,vetted.ai
 DOMAIN,cdn.jetboost.io
+DOMAIN-SUFFIX,klarnacdn.net
+DOMAIN,na-library.klarnaservices.com
+DOMAIN,cdn.onesignal.com
+DOMAIN,cdn.privacy-mgmt.com
+DOMAIN,cdn.concert.io
 DOMAIN,cdn.piano.io
 DOMAIN,topbar-static.piano.io
 DOMAIN,cdn.tinypass.com
@@ -657,6 +665,7 @@ DOMAIN-SUFFIX,sndcdn.com
 DOMAIN,assets.vercel.com
 DOMAIN,image.ship.vercel.com
 DOMAIN,go.vercel.com
+DOMAIN,api-frameworks.vercel.sh
 DOMAIN-SUFFIX,assets.heroku.com
 DOMAIN-SUFFIX,slack-edge.com
 DOMAIN,files.slack.com
@@ -740,7 +749,12 @@ DOMAIN,static.coinall.ltd
 DOMAIN,tvcontent.blob.core.windows.net
 DOMAIN,static.oklink.com
 DOMAIN,static.crypto.com
-DOMAIN,bin.bnbstatic.com
+DOMAIN-SUFFIX,bnbstatic.com
+DOMAIN-SUFFIX,hbfile.net
+DOMAIN,static.bitfinex.com
+DOMAIN,assets.bitstamp.net
+DOMAIN,assets.coinbase.com
+DOMAIN,static-assets.coinbase.com
 DOMAIN,assets.vidyard.com
 DOMAIN,play.vidyard.com
 DOMAIN,cdn.vidyard.com
@@ -748,6 +762,7 @@ DOMAIN,assets.leetcode.com
 DOMAIN,userfiles.uptimerobot.com
 DOMAIN,d27xxe7juh1us6.cloudfront.net
 DOMAIN,denali-static.grammarly.com
+DOMAIN,static-web.grammarly.com
 DOMAIN,image.send.grammarly.com
 DOMAIN,denali-static.grammarly.com
 DOMAIN,assets.extension.grammarly.com
@@ -850,6 +865,7 @@ DOMAIN,cdn.chess24.com
 DOMAIN,image.lichess1.org
 DOMAIN-SUFFIX,chesscomfiles.com
 DOMAIN,cdn.adguard.com
+DOMAIN,static.adguardvpn.com
 DOMAIN-SUFFIX,storage.infomaniak.com
 DOMAIN,static.infomaniak.ch
 DOMAIN,cdn.sc.gl
@@ -908,6 +924,8 @@ DOMAIN,p-smith.com
 DOMAIN,media.dlsite.com
 DOMAIN,img.dlsite.jp
 DOMAIN,cdn.dribbble.com
+DOMAIN,cdn-share-sprites.flaticon.com
+DOMAIN,media.flaticon.com
 DOMAIN,static-cdn.spot.im
 DOMAIN,images.spot.im
 DOMAIN,fonts.zapier.com
@@ -965,6 +983,26 @@ DOMAIN,optimizely.com
 DOMAIN,web-assets.ifttt.com
 DOMAIN,assets.ifttt.com
 DOMAIN,web.onekey-asset.com
+DOMAIN,d3el26csp1xekx.cloudfront.net
+DOMAIN,img.merch.cameo.com
+DOMAIN,img.represent.com
+DOMAIN,cache-05.filehippo.net
+DOMAIN-SUFFIX,sfdcstatic.com
+DOMAIN,wp.salesforce.com
+DOMAIN,ui.trailhead.com
+DOMAIN,resources.help.salesforce.com
+DOMAIN,assets.mayoclinic.org
+DOMAIN,design.mayoclinic.org
+DOMAIN,static-dm.ubisoft.com
+DOMAIN,static-overlay.ubisoft.com
+DOMAIN,staticctf.ubisoft.com
+DOMAIN,ubistatic2-a.ubisoft.com
+DOMAIN,ubistatic-a.ubisoft.com
+DOMAIN-SUFFIX,cdn.ubi.com
+DOMAIN,ubistatic2-a.akamaihd.net
+DOMAIN,cdn-client.medium.com
+DOMAIN,glyph.medium.com
+DOMAIN,miro.medium.com
 DOMAIN,content-prod-live.cert.starbucks.com
 DOMAIN,at.adtech.redventures.io
 DOMAIN,assets.the-independent.com
@@ -1225,4 +1263,15 @@ DOMAIN,img.domaintools.com
 DOMAIN,source.domaintools.com
 DOMAIN,static-web-prod.skillshare.com
 DOMAIN-SUFFIX,usercontent.dev
-#Sun 07/09/2023
+DOMAIN-SUFFIX,sftcdn.net
+DOMAIN,cdn.download.it
+DOMAIN-SUFFIX,futurecdn.net
+DOMAIN,hawk.tomsguide.com
+DOMAIN,forest-mt-s3.seekrtech.com
+DOMAIN,cdn.apkmonk.com
+DOMAIN-SUFFIX,rocketcdn.me
+DOMAIN,cdn.img.ly
+DOMAIN-SUFFIX,kym-cdn.com
+DOMAIN,videos.elephas.app
+DOMAIN,media.ra.kroll.com
+#Thu 07/13/2023
