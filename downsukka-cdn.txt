@@ -274,6 +274,7 @@ DOMAIN,avatars.mds.yandex.net
 DOMAIN,resize.yandex.net
 DOMAIN-SUFFIX,cms.replit.com
 DOMAIN-SUFFIX,cdn.replit.com
+DOMAIN,sp.replit.com
 DOMAIN-SUFFIX,uber-assets.com
 DOMAIN,cdn.smooch.io
 DOMAIN,media.smooch.io
@@ -457,6 +458,8 @@ DOMAIN,cdn.onesignal.com
 DOMAIN,cdn.concert.io
 DOMAIN,euc-widget.freshworks.com
 DOMAIN,cdn-public.sociabble.com
+DOMAIN,netlify-rum.netlify.app
+DOMAIN,embed.savvycal.com
 DOMAIN,cdn.piano.io
 DOMAIN,topbar-static.piano.io
 DOMAIN,cdn.tinypass.com
@@ -492,6 +495,7 @@ DOMAIN-SUFFIX,uploads-ssl.webflow.com
 DOMAIN-SUFFIX,ctfassets.net
 DOMAIN-SUFFIX,website-files.com
 DOMAIN-SUFFIX,a.storyblok.com
+DOMAIN,images.contentful.com
 DOMAIN,cdn2.editmysite.com
 DOMAIN,updates.signal.org
 DOMAIN,updates2.signal.org
@@ -1281,4 +1285,10 @@ DOMAIN,dam.freshworks.com
 DOMAIN,cdn.now.gg
 DOMAIN,cms-cdn.now.gg
 DOMAIN,cdn-www.bluestacks.com
-#Mon 07/17/2023
+DOMAIN,cdnjs.betterstack.com
+DOMAIN,image.civitai.com
+DOMAIN,avatar.stefanjudis.com
+DOMAIN,assets.lemonsqueezy.com
+DOMAIN,cdn.nerdschalk.com
+DOMAIN,images.purevpn-tools.com
+#Fri 07/21/2023

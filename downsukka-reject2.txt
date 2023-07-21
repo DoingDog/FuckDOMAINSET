@@ -625,6 +625,12 @@ DOMAIN,femetrics.grammarly.io
 DOMAIN,f-log-extension.grammarly.io
 DOMAIN,femetrics.qagr.io
 DOMAIN,cname.ebis.ne.jp
+DOMAIN,cdn.usefathom.com
+DOMAIN,s.maketheweb.io
+DOMAIN,nmbr.info
+DOMAIN,s.osano.com
+DOMAIN,js.partnerstack.com
+DOMAIN,zymerget.party
 DOMAIN,data.alexa.com
 DOMAIN,device-metrics-us.amazon.com
 DOMAIN,device-metrics-us-2.amazon.com
@@ -1545,4 +1551,4 @@ DOMAIN-SUFFIX,luminati-china.io
 DOMAIN-SUFFIX,luminati.io
 DOMAIN-SUFFIX,lum-cn.io
 DOMAIN-SUFFIX,luminati-china.biz
-#Mon 07/17/2023
+#Fri 07/21/2023
