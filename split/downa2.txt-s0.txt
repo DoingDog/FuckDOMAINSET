@@ -2278,7 +2278,6 @@ DOMAIN,api.callget.cn
 DOMAIN,api.cleverpush.com
 DOMAIN,api.company-target.com
 DOMAIN,api.connecto.io
-DOMAIN,api.content.ad
 DOMAIN,api.cortana.ai
 DOMAIN,api.decibelinsight.net
 DOMAIN,api.developer.xiaomi.com
@@ -2601,7 +2600,6 @@ DOMAIN,aster18cdn.nl
 DOMAIN,asterilivestream.com
 DOMAIN,asteriresearch.com
 DOMAIN,asterpix.com
-DOMAIN,astoapsu.com
 DOMAIN,astpvgpwbewx.com
 DOMAIN,astro-way.com
 DOMAIN,async-px-eu.dynamicyield.com
@@ -4248,6 +4246,7 @@ DOMAIN,cf26d627adf5.com
 DOMAIN,cfasync.cf
 DOMAIN,cfasync.ga
 DOMAIN,cfasync.gq
+DOMAIN,cfasync.ml
 DOMAIN,cfcdist.gdn
 DOMAIN,cfdac.8g0ymk.cn
 DOMAIN,cfff.net
@@ -4771,7 +4770,6 @@ DOMAIN,content-cdn.swrve.com
 DOMAIN,content-cooperation.com
 DOMAIN,content-recommendation.net
 DOMAIN,content-square.net
-DOMAIN,content.ad
 DOMAIN,content.ad2iction.com
 DOMAIN,content.adacado.com
 DOMAIN,content.inhousedsp.com
@@ -13297,6 +13295,7 @@ DOMAIN,oneimpress.io
 DOMAIN,onelink-translations.com
 DOMAIN,onenetworkdirect.net
 DOMAIN,onerror.ga
+DOMAIN,onerror.ml
 DOMAIN,onestepproductions.online
 DOMAIN,onetag.io
 DOMAIN,onetag.io.edgekey.net
@@ -13928,6 +13927,7 @@ DOMAIN,pic.iask.cn
 DOMAIN,pic.poklytk.com
 DOMAIN,pic.starsarabian.com
 DOMAIN,pic.zxwhys.cn
+DOMAIN,picadmedia.com
 DOMAIN,piccdn.igetget.com
 DOMAIN,pickytime.com
 DOMAIN,picstunoar.com
@@ -17390,6 +17390,7 @@ DOMAIN,t.douyaobuy.com
 DOMAIN,t.geedai.com
 DOMAIN,t.global.yyapi.net
 DOMAIN,t.h5data.com
+DOMAIN,t.iwara.tv
 DOMAIN,t.ksrong.com
 DOMAIN,t.lzrkj.top
 DOMAIN,t.myvisualiq.net
@@ -19192,6 +19193,7 @@ DOMAIN,visibli.com
 DOMAIN,visilabs.net
 DOMAIN,visionclearz.com
 DOMAIN,visioncriticalpanels.com
+DOMAIN,visit.webhosting.yahoo.com
 DOMAIN,visitor-analytics.io
 DOMAIN,visitor-analytics.net
 DOMAIN,visitor-stats.de
@@ -19364,7 +19366,6 @@ DOMAIN,vrsngcuwiiiho.com
 DOMAIN,vrstage.com
 DOMAIN,vrvyearwxo.com
 DOMAIN,vrzparvhipmo.com
-DOMAIN,vs3.com
 DOMAIN,vs4family.com
 DOMAIN,vsbvvcyxz.com
 DOMAIN,vserv.bc.cdn.bitgravity.com
@@ -19997,4 +19998,3 @@ DOMAIN,wsockd.com
 DOMAIN,wsod.com
 DOMAIN,wsowkqnxs.com
 DOMAIN,wspeed.qq.com
-DOMAIN,wsrkpjfs.com

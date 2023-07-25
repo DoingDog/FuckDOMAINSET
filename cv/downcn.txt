@@ -2494,6 +2494,7 @@ DOMAIN-SUFFIX,netbian.com
 DOMAIN-SUFFIX,netease-inc.com
 DOMAIN-SUFFIX,netease.com
 DOMAIN-SUFFIX,netease.im
+DOMAIN-SUFFIX,netstatic.net
 DOMAIN-SUFFIX,newasp.net
 DOMAIN-SUFFIX,newbandeng.com
 DOMAIN-SUFFIX,newcoder.com
@@ -3643,6 +3644,7 @@ DOMAIN-SUFFIX,yoyojie.com
 DOMAIN-SUFFIX,yoyou.com
 DOMAIN-SUFFIX,ypppt.com
 DOMAIN-SUFFIX,yqb.com
+DOMAIN-SUFFIX,yqkk.link
 DOMAIN-SUFFIX,yrz.name
 DOMAIN-SUFFIX,ys168.com
 DOMAIN-SUFFIX,yslyhr.com
@@ -4071,4 +4073,4 @@ IP-CIDR6,2a0b:b580::/48,no-resolve
 IP-CIDR6,2a0b:b581::/48,no-resolve
 IP-CIDR6,2a0b:b582::/48,no-resolve
 IP-CIDR6,2a0b:b583::/48,no-resolve
-#Fri 07/21/2023
+#Tue 07/25/2023

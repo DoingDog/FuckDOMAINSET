@@ -1011,6 +1011,9 @@ DOMAIN,ubistatic2-a.akamaihd.net
 DOMAIN,cdn-client.medium.com
 DOMAIN,glyph.medium.com
 DOMAIN,miro.medium.com
+DOMAIN,cdn-raw.modrinth.com
+DOMAIN,cdn.modrinth.com
+DOMAIN,www-static.ripe.net
 DOMAIN,content-prod-live.cert.starbucks.com
 DOMAIN,at.adtech.redventures.io
 DOMAIN,assets.the-independent.com
@@ -1210,7 +1213,6 @@ DOMAIN,cdn.cnx-software.com
 DOMAIN-SUFFIX,hackerone-user-content.com
 DOMAIN,cdn.wccftech.com
 DOMAIN,i.pcmag.com
-DOMAIN,static1.makeuseofimages.com
 DOMAIN,cdn.hellofresh.com
 DOMAIN,img.hellofresh.com
 DOMAIN,images.everyplate.com
@@ -1291,4 +1293,6 @@ DOMAIN,avatar.stefanjudis.com
 DOMAIN,assets.lemonsqueezy.com
 DOMAIN,cdn.nerdschalk.com
 DOMAIN,images.purevpn-tools.com
-#Fri 07/21/2023
+DOMAIN-SUFFIX,makeuseofimages.com
+DOMAIN-SUFFIX,bleepstatic.com
+#Tue 07/25/2023
