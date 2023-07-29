@@ -10,6 +10,7 @@ DOMAIN-SUFFIX,esm.run
 DOMAIN-SUFFIX,bundle.run
 DOMAIN-SUFFIX,packd.liuxingbaoyu.xyz
 DOMAIN,cdnjs.cloudflare.com
+DOMAIN,ajax.cdnjs.com
 DOMAIN-SUFFIX,rawgit.com
 DOMAIN-SUFFIX,rawgit.org
 DOMAIN-SUFFIX,gitcdn.xyz
@@ -99,6 +100,7 @@ DOMAIN-SUFFIX,k8s.io
 DOMAIN,formulae.brew.sh
 DOMAIN,crates.io
 DOMAIN,static.crates.io
+DOMAIN,packages.httpie.io
 DOMAIN,s0.wp.com
 DOMAIN,s1.wp.com
 DOMAIN,s2.wp.com
@@ -292,10 +294,12 @@ DOMAIN-SUFFIX,f-droid.org
 DOMAIN-SUFFIX,c.staticblitz.com
 DOMAIN-SUFFIX,w.staticblitz.com
 DOMAIN-SUFFIX,t.staticblitz.com
+DOMAIN-SUFFIX,npm.staticblitz.com
 DOMAIN,v-corp.staticblitz.com
 DOMAIN,ghavatars.staticblitz.com
 DOMAIN,nr.staticblitz.com
 DOMAIN-SUFFIX,w-credentialless.staticblitz.com
+DOMAIN-SUFFIX,stackblitz.io
 DOMAIN,megapx-assets.dcard.tw
 DOMAIN,imgur.dcard.tw
 DOMAIN,images.ptt.cc
@@ -1014,6 +1018,10 @@ DOMAIN,miro.medium.com
 DOMAIN,cdn-raw.modrinth.com
 DOMAIN,cdn.modrinth.com
 DOMAIN,www-static.ripe.net
+DOMAIN,cdn.split.io
+DOMAIN,static.arxiv.org
+DOMAIN,cdn.sciencecast.org
+DOMAIN,storage.sciencecast.org
 DOMAIN,content-prod-live.cert.starbucks.com
 DOMAIN,at.adtech.redventures.io
 DOMAIN,assets.the-independent.com
@@ -1062,6 +1070,7 @@ DOMAIN,static.cracked.to
 DOMAIN-SUFFIX,images.androeed.ru
 DOMAIN-SUFFIX,netdna-ssl.com
 DOMAIN-SUFFIX,cdn.ipinfo.io
+DOMAIN,website-cdn.ipinfo.io
 DOMAIN-SUFFIX,assets.digitalocean.com
 DOMAIN,ui-cdn.digitalocean.com
 DOMAIN,ws-assets.zoominfo.com
@@ -1139,6 +1148,7 @@ DOMAIN-SUFFIX,zippyshare.com
 DOMAIN-SUFFIX,sendspace.com
 DOMAIN,typescript.azureedge.net
 DOMAIN,static.dw.com
+DOMAIN,tvdownloaddw-a.akamaihd.net
 DOMAIN-SUFFIX,tedcdn.com
 DOMAIN,static.gopro.com
 DOMAIN,sig.grumpybumpers.com
@@ -1295,4 +1305,7 @@ DOMAIN,cdn.nerdschalk.com
 DOMAIN,images.purevpn-tools.com
 DOMAIN-SUFFIX,makeuseofimages.com
 DOMAIN-SUFFIX,bleepstatic.com
-#Tue 07/25/2023
+DOMAIN,registry.npmjs.cf
+DOMAIN-SUFFIX,oreillystatic.com
+DOMAIN,s3.stackabuse.com
+#Sat 07/29/2023

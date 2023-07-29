@@ -30304,6 +30304,7 @@ DOMAIN-SUFFIX,iosipa.b0.upaiyun.com
 DOMAIN-SUFFIX,ip.breitbart.com
 DOMAIN-SUFFIX,ip.hivps.xyz
 DOMAIN-SUFFIX,ip.taobao.com
+DOMAIN-SUFFIX,ipapi.tmbi.com
 DOMAIN-SUFFIX,ipchinatelecom.com
 DOMAIN-SUFFIX,ipengtai.huanqiu.com
 DOMAIN-SUFFIX,iperceptions.com
@@ -31212,6 +31213,7 @@ DOMAIN-SUFFIX,livehapp.com
 DOMAIN-SUFFIX,livep.l.ott.video.qq.com
 DOMAIN-SUFFIX,lives.l.cp81.ott.cibntv.net
 DOMAIN-SUFFIX,lives.l.ott.video.qq.com
+DOMAIN-SUFFIX,livestats.la7.tv
 DOMAIN-SUFFIX,liveupdate.mac.sandai.net
 DOMAIN-SUFFIX,lixiangmo.com
 DOMAIN-SUFFIX,lixianze.top
@@ -31337,6 +31339,7 @@ DOMAIN-SUFFIX,longkoupeanut.cn
 DOMAIN-SUFFIX,loobusir.com
 DOMAIN-SUFFIX,looky.hyves.org
 DOMAIN-SUFFIX,lopostone.com
+DOMAIN-SUFFIX,lore.circulate.com
 DOMAIN-SUFFIX,loricalreach.info
 DOMAIN-SUFFIX,lottery.kuaiya.cn
 DOMAIN-SUFFIX,lotuseed.com
@@ -32702,6 +32705,7 @@ DOMAIN-SUFFIX,p.ecwan77.net
 DOMAIN-SUFFIX,p.eyebuydirect-cmr.net
 DOMAIN-SUFFIX,p.kugou.com
 DOMAIN-SUFFIX,p.m5bn.com
+DOMAIN-SUFFIX,p.milliyet.com.tr
 DOMAIN-SUFFIX,p.niudashu.com
 DOMAIN-SUFFIX,p.qijijs.top
 DOMAIN-SUFFIX,p.raidmedia.com.cn
@@ -34583,6 +34587,7 @@ DOMAIN-SUFFIX,stat.m.jd.com
 DOMAIN-SUFFIX,stat.moji.com
 DOMAIN-SUFFIX,stat.novinky.cz
 DOMAIN-SUFFIX,stat.pandora.xiaomi.com
+DOMAIN-SUFFIX,stat.ppstream.com
 DOMAIN-SUFFIX,stat.pptv.com
 DOMAIN-SUFFIX,stat.prsmedia.fr
 DOMAIN-SUFFIX,stat.radar.imgsmail.ru
@@ -35326,6 +35331,7 @@ DOMAIN-SUFFIX,tracking.3ds.com
 DOMAIN-SUFFIX,tracking.ancestry.com
 DOMAIN-SUFFIX,tracking.batanga.com
 DOMAIN-SUFFIX,tracking.battleon.com
+DOMAIN-SUFFIX,tracking.bd4travel.com
 DOMAIN-SUFFIX,tracking.beilagen-prospekte.de
 DOMAIN-SUFFIX,tracking.chacha.com
 DOMAIN-SUFFIX,tracking.conduit.com
@@ -37637,4 +37643,4 @@ IP-CIDR,67.229.224.28/32,no-resolve
 IP-CIDR,69.28.57.245/32,no-resolve
 IP-CIDR,74.117.182.77/32,no-resolve
 IP-CIDR,78.140.131.214/32,no-resolve
-#Tue 07/25/2023
+#Sat 07/29/2023

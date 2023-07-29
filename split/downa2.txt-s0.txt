@@ -5005,7 +5005,6 @@ DOMAIN,creative-accelerate.ad.mobiuspace.net
 DOMAIN,creative.eagllwin.com
 DOMAIN,creative.mathads.com
 DOMAIN,creative.metalyzer.com
-DOMAIN,creativecdn.com
 DOMAIN,creditbootcamp.com
 DOMAIN,creoads.com
 DOMAIN,crewita.co
@@ -5257,6 +5256,7 @@ DOMAIN,d2as12kgjg8gw5.cloudfront.net
 DOMAIN,d2b560qq58menv.cloudfront.net
 DOMAIN,d2bgg7rjywcwsy.cloudfront.net
 DOMAIN,d2cpw6kwpff7n5.cloudfront.net
+DOMAIN,d2ip7iv1l4ergv.cloudfront.net
 DOMAIN,d2izls9pm2f64q.cloudfront.net
 DOMAIN,d2kdl5wcwrtj90.cloudfront.net
 DOMAIN,d2kr2fnkbj2h4c.cloudfront.net
@@ -15590,7 +15590,6 @@ DOMAIN,rtb.ninthdecimal.com
 DOMAIN,rtb123.com
 DOMAIN,rtbapi.douyucdn.cn
 DOMAIN,rtbmedia.org
-DOMAIN,rtbsystem.com
 DOMAIN,rtbvideobox.com
 DOMAIN,rtfn.net
 DOMAIN,rtk.io
@@ -19998,3 +19997,4 @@ DOMAIN,wsockd.com
 DOMAIN,wsod.com
 DOMAIN,wsowkqnxs.com
 DOMAIN,wspeed.qq.com
+DOMAIN,wsrkpjfs.com

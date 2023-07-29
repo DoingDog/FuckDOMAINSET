@@ -39,6 +39,8 @@ DOMAIN-SUFFIX,f.video.weibocdn.com
 DOMAIN-SUFFIX,fus.cdn.krcom.cn
 DOMAIN-SUFFIX,googletraveladservices.com
 DOMAIN-SUFFIX,jiasule.com
+DOMAIN-SUFFIX,koodomobile.ca
+DOMAIN-SUFFIX,koodomobile.com
 DOMAIN-SUFFIX,ol.epicgames.com
 DOMAIN-SUFFIX,staticfile.org
 DOMAIN-SUFFIX,tracking-protection.cdn.mozilla.net
@@ -48,4 +50,4 @@ USER-AGENT,Coffee%20Corp*
 USER-AGENT,archero*
 USER-AGENT,coffeecorp*
 USER-AGENT,restaurant-mobile*
-#Tue 07/25/2023
+#Sat 07/29/2023
