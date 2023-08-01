@@ -101,6 +101,7 @@ DOMAIN,formulae.brew.sh
 DOMAIN,crates.io
 DOMAIN,static.crates.io
 DOMAIN,packages.httpie.io
+DOMAIN,assets-production.packagecloud.io
 DOMAIN,s0.wp.com
 DOMAIN,s1.wp.com
 DOMAIN,s2.wp.com
@@ -128,11 +129,10 @@ DOMAIN-SUFFIX,gitlab-static.net
 DOMAIN-SUFFIX,twimg.com
 DOMAIN,cdn.cms-twdigitalassets.com
 DOMAIN,fonts.twitter.com
-DOMAIN,p.twitchcdn.net
-DOMAIN,k.twitchcdn.net
+DOMAIN-SUFFIX,twitchcdn.net
 DOMAIN,static-cdn.jtvnw.net
-DOMAIN,static.twitchcdn.net
 DOMAIN,clips-media-assets2.twitch.tv
+DOMAIN-SUFFIX,hls.ttvnw.net
 DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,fbcdn.com
 DOMAIN,graph.facebook.com
@@ -143,6 +143,7 @@ DOMAIN,connect.facebook.net
 DOMAIN-SUFFIX,ampproject.org
 DOMAIN-SUFFIX,net.anydesk.com
 DOMAIN-SUFFIX,disquscdn.com
+DOMAIN,publicsuffix.org
 DOMAIN,dl.google.com
 DOMAIN,chart.googleapis.com
 DOMAIN,fonts.googleapis.com
@@ -350,6 +351,10 @@ DOMAIN,placeimg.com
 DOMAIN,thumbsnap.com
 DOMAIN,pengtu.cc
 DOMAIN,www.10086.win
+DOMAIN,t1.picb.cc
+DOMAIN,t2.picb.cc
+DOMAIN,t3.picb.cc
+DOMAIN,t4.picb.cc
 DOMAIN,www.datocms-assets.com
 DOMAIN,cdn.shopify.com
 DOMAIN-SUFFIX,shopifycdn.com
@@ -464,6 +469,7 @@ DOMAIN,euc-widget.freshworks.com
 DOMAIN,cdn-public.sociabble.com
 DOMAIN,netlify-rum.netlify.app
 DOMAIN,embed.savvycal.com
+DOMAIN,js.pusher.com
 DOMAIN,cdn.piano.io
 DOMAIN,topbar-static.piano.io
 DOMAIN,cdn.tinypass.com
@@ -574,6 +580,7 @@ DOMAIN-SUFFIX,ipfs-gateway.cloud
 DOMAIN-SUFFIX,w3s.link
 DOMAIN-SUFFIX,cthd.icu
 DOMAIN-SUFFIX,ipfs.4everland.xyz
+DOMAIN,proxy.joinmastodon.org
 DOMAIN,media.cmx.edu.kg
 DOMAIN,s3.acg.mn
 DOMAIN,s3.c.im
@@ -862,6 +869,7 @@ DOMAIN,videos2-h.sendvid.com
 DOMAIN,thumbs2.sendvid.com
 DOMAIN,static.status.io
 DOMAIN,image.status.io
+DOMAIN,cdn.bsky.social
 DOMAIN-SUFFIX,framerusercontent.com
 DOMAIN-SUFFIX,framerstatic.com
 DOMAIN-SUFFIX,nitrocdn.com
@@ -1022,6 +1030,9 @@ DOMAIN,cdn.split.io
 DOMAIN,static.arxiv.org
 DOMAIN,cdn.sciencecast.org
 DOMAIN,storage.sciencecast.org
+DOMAIN,static.start.me
+DOMAIN,f.start.me
+DOMAIN,c.start.me
 DOMAIN,content-prod-live.cert.starbucks.com
 DOMAIN,at.adtech.redventures.io
 DOMAIN,assets.the-independent.com
@@ -1061,6 +1072,8 @@ DOMAIN-SUFFIX,divio-media.net
 DOMAIN-SUFFIX,widget.clutch.co
 DOMAIN-SUFFIX,runkitcdn.com
 DOMAIN,embed.runkit.com
+DOMAIN,runkit-packages-static-executables.com
+DOMAIN,runkit-packages-static.com
 DOMAIN-SUFFIX,giscus.app
 DOMAIN-SUFFIX,ravenjs.com
 DOMAIN-SUFFIX,pstorage.space
@@ -1308,4 +1321,5 @@ DOMAIN-SUFFIX,bleepstatic.com
 DOMAIN,registry.npmjs.cf
 DOMAIN-SUFFIX,oreillystatic.com
 DOMAIN,s3.stackabuse.com
-#Sat 07/29/2023
+DOMAIN,cdn.weglot.com
+#Tue 08/01/2023
