@@ -40,6 +40,8 @@ DOMAIN,cdn.tailwindcss.com
 DOMAIN,docs.rs
 DOMAIN,godoc.org
 DOMAIN,webpack.js.org
+DOMAIN,vuejs.org
+DOMAIN,react.dev
 DOMAIN,api.bintray.com
 DOMAIN,badge.buildkite.com
 DOMAIN,badge.fury.io
@@ -52,6 +54,7 @@ DOMAIN,david-dm.org
 DOMAIN-SUFFIX,shields.io
 DOMAIN,alt-images.codestream.com
 DOMAIN,badges.crowdin.net
+DOMAIN,img.badgesize.io
 DOMAIN,static.rust-lang.org
 DOMAIN-SUFFIX,nodejs.org
 DOMAIN,dl.nwjs.io
@@ -470,6 +473,10 @@ DOMAIN,cdn-public.sociabble.com
 DOMAIN,netlify-rum.netlify.app
 DOMAIN,embed.savvycal.com
 DOMAIN,js.pusher.com
+DOMAIN,app.backinstock.org
+DOMAIN,cdn.pickystory.com
+DOMAIN,searchanise-ef84.kxcdn.com
+DOMAIN,searchserverapi.com
 DOMAIN,cdn.piano.io
 DOMAIN,topbar-static.piano.io
 DOMAIN,cdn.tinypass.com
@@ -1033,6 +1040,12 @@ DOMAIN,storage.sciencecast.org
 DOMAIN,static.start.me
 DOMAIN,f.start.me
 DOMAIN,c.start.me
+DOMAIN,themes.fourthwall.com
+DOMAIN,cdn.fourthwall.com
+DOMAIN,imgproxy.fourthwall.com
+DOMAIN,static.helpjuice.com
+DOMAIN-SUFFIX,media.beeper.com
+DOMAIN,frames-commandbar-prod.commandbar.com
 DOMAIN,content-prod-live.cert.starbucks.com
 DOMAIN,at.adtech.redventures.io
 DOMAIN,assets.the-independent.com
@@ -1322,4 +1335,5 @@ DOMAIN,registry.npmjs.cf
 DOMAIN-SUFFIX,oreillystatic.com
 DOMAIN,s3.stackabuse.com
 DOMAIN,cdn.weglot.com
-#Tue 08/01/2023
+DOMAIN-SUFFIX,tildacdn.com
+#Sat 08/05/2023
