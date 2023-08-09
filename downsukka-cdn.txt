@@ -262,6 +262,7 @@ DOMAIN-SUFFIX,itsre-sumo.mozilla.net
 DOMAIN-SUFFIX,cdn.mozilla.net
 DOMAIN,archive.mozilla.org
 DOMAIN-SUFFIX,hubspotusercontent30.com
+DOMAIN-SUFFIX,hubspotusercontent30.net
 DOMAIN-SUFFIX,cdn2.hubspot.net
 DOMAIN-SUFFIX,js.hubspotfeedback.com
 DOMAIN-SUFFIX,js.usemessages.com
@@ -273,8 +274,8 @@ DOMAIN-SUFFIX,hs-scripts.net
 DOMAIN,avatars.hubspot.net
 DOMAIN-SUFFIX,hscollectedforms.net
 DOMAIN-SUFFIX,f.hubspotfree.net
-DOMAIN-SUFFIX,fs1.hubspotusercontent-eu1.net
-DOMAIN,cdn1.hubspotusercontent-eu1.net
+DOMAIN-SUFFIX,hubspotusercontent-eu1.net
+DOMAIN-SUFFIX,hubspotusercontent-na1.net
 DOMAIN-SUFFIX,yastatic.net
 DOMAIN,avatars.mds.yandex.net
 DOMAIN,resize.yandex.net
@@ -1046,6 +1047,9 @@ DOMAIN,imgproxy.fourthwall.com
 DOMAIN,static.helpjuice.com
 DOMAIN-SUFFIX,media.beeper.com
 DOMAIN,frames-commandbar-prod.commandbar.com
+DOMAIN,nodeassets.nbcnews.com
+DOMAIN,media-cldnry.s-nbcnews.com
+DOMAIN,iframe.nbcnews.com
 DOMAIN,content-prod-live.cert.starbucks.com
 DOMAIN,at.adtech.redventures.io
 DOMAIN,assets.the-independent.com
@@ -1336,4 +1340,6 @@ DOMAIN-SUFFIX,oreillystatic.com
 DOMAIN,s3.stackabuse.com
 DOMAIN,cdn.weglot.com
 DOMAIN-SUFFIX,tildacdn.com
-#Sat 08/05/2023
+DOMAIN,cdn.hashnode.com
+DOMAIN,mycommerce.akamaized.net
+#Wed 08/09/2023
