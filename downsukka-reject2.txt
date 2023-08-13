@@ -592,6 +592,7 @@ DOMAIN-SUFFIX,tagtic.cn
 DOMAIN,sa.holopin.io
 DOMAIN,analytics.infomaniak.com
 DOMAIN-SUFFIX,prtrackings.com
+DOMAIN,p.cloudcraft.co
 DOMAIN-SUFFIX,adjust.io
 DOMAIN-SUFFIX,airbrake.io
 DOMAIN-SUFFIX,apsalar.com
@@ -1555,4 +1556,4 @@ DOMAIN-SUFFIX,luminati-china.io
 DOMAIN-SUFFIX,luminati.io
 DOMAIN-SUFFIX,lum-cn.io
 DOMAIN-SUFFIX,luminati-china.biz
-#Wed 08/09/2023
+#Sun 08/13/2023

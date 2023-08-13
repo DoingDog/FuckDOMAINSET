@@ -132,10 +132,9 @@ DOMAIN-SUFFIX,gitlab-static.net
 DOMAIN-SUFFIX,twimg.com
 DOMAIN,cdn.cms-twdigitalassets.com
 DOMAIN,fonts.twitter.com
-DOMAIN-SUFFIX,twitchcdn.net
+DOMAIN,static.twitchcdn.net
 DOMAIN,static-cdn.jtvnw.net
 DOMAIN,clips-media-assets2.twitch.tv
-DOMAIN-SUFFIX,hls.ttvnw.net
 DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,fbcdn.com
 DOMAIN,graph.facebook.com
@@ -310,6 +309,7 @@ DOMAIN,imgur.dcard.tw
 DOMAIN,images.ptt.cc
 DOMAIN,opt.moovweb.net
 DOMAIN,cloudinary-res.cloudinary.com
+DOMAIN,fiverr-res.cloudinary.com
 DOMAIN,res.cloudinary.com
 DOMAIN-SUFFIX,imgix.net
 DOMAIN,i.imgur.com
@@ -359,6 +359,7 @@ DOMAIN,t1.picb.cc
 DOMAIN,t2.picb.cc
 DOMAIN,t3.picb.cc
 DOMAIN,t4.picb.cc
+DOMAIN-SUFFIX,i.optimole.com
 DOMAIN,www.datocms-assets.com
 DOMAIN,cdn.shopify.com
 DOMAIN-SUFFIX,shopifycdn.com
@@ -478,6 +479,11 @@ DOMAIN,app.backinstock.org
 DOMAIN,cdn.pickystory.com
 DOMAIN,searchanise-ef84.kxcdn.com
 DOMAIN,searchserverapi.com
+DOMAIN-SUFFIX,zi-scripts.com
+DOMAIN,player.cnevids.com
+DOMAIN,player-frontend.cnevids.com
+DOMAIN,w.chatlio.com
+DOMAIN,snippet.maze.co
 DOMAIN,cdn.piano.io
 DOMAIN,topbar-static.piano.io
 DOMAIN,cdn.tinypass.com
@@ -500,6 +506,7 @@ DOMAIN,busuanzi.ibruce.info
 DOMAIN,gtranslate.io
 DOMAIN,image.crisp.chat
 DOMAIN,storage.crisp.chat
+DOMAIN-SUFFIX,coral.coralproject.net
 DOMAIN,wac-cdn.atlassian.com
 DOMAIN,wac-cdn-2.atlassian.com
 DOMAIN-SUFFIX,prod.public.atl-paas.net
@@ -1342,4 +1349,17 @@ DOMAIN,cdn.weglot.com
 DOMAIN-SUFFIX,tildacdn.com
 DOMAIN,cdn.hashnode.com
 DOMAIN,mycommerce.akamaized.net
-#Wed 08/09/2023
+DOMAIN,assets.static-upwork.com
+DOMAIN,cdn.arstechnica.net
+DOMAIN,assets.jolipage.co
+DOMAIN,assets.scaleflex.com
+DOMAIN,cdn.jolipage.co
+DOMAIN,cdn.imageengine.io
+DOMAIN,images.freeimages.com
+DOMAIN,static.freeimages.com
+DOMAIN,assets.upload.io
+DOMAIN,js.upload.io
+DOMAIN,static.cloud.coveo.com
+DOMAIN,assets.getkirby.com
+DOMAIN,cdn.cloudcraft.co
+#Sun 08/13/2023
