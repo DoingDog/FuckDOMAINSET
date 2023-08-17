@@ -12,6 +12,7 @@ DOMAIN-SUFFIX,weddingeeos.com
 DOMAIN-SUFFIX,rjno1.com
 DOMAIN-SUFFIX,taio.app
 DOMAIN-SUFFIX,headcaptcha.live
+DOMAIN-SUFFIX,coinzilla.io
 DOMAIN-SUFFIX,thepiratebay3.com
 DOMAIN,hot.m.shouji.360tpcdn.com
 DOMAIN-SUFFIX,update.360safe.com
@@ -1556,4 +1557,4 @@ DOMAIN-SUFFIX,luminati-china.io
 DOMAIN-SUFFIX,luminati.io
 DOMAIN-SUFFIX,lum-cn.io
 DOMAIN-SUFFIX,luminati-china.biz
-#Sun 08/13/2023
+#Thu 08/17/2023

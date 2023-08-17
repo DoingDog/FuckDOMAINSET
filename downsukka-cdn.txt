@@ -42,6 +42,8 @@ DOMAIN,godoc.org
 DOMAIN,webpack.js.org
 DOMAIN,vuejs.org
 DOMAIN,react.dev
+DOMAIN,www.typescriptlang.org
+DOMAIN,typescript.azureedge.net
 DOMAIN,api.bintray.com
 DOMAIN,badge.buildkite.com
 DOMAIN,badge.fury.io
@@ -535,6 +537,7 @@ DOMAIN,newsletter.postmarkapp.com
 DOMAIN-SUFFIX,gateway.ipfs.io
 DOMAIN-SUFFIX,ipfs.eternum.io
 DOMAIN,ipfs.d.tube
+DOMAIN-SUFFIX,mypinata.cloud
 DOMAIN-SUFFIX,ipns.co
 DOMAIN-SUFFIX,ipfs.mrh.io
 DOMAIN-SUFFIX,gateway.originprotocol.com
@@ -1057,6 +1060,7 @@ DOMAIN,frames-commandbar-prod.commandbar.com
 DOMAIN,nodeassets.nbcnews.com
 DOMAIN,media-cldnry.s-nbcnews.com
 DOMAIN,iframe.nbcnews.com
+DOMAIN,staticassets.music.com
 DOMAIN,content-prod-live.cert.starbucks.com
 DOMAIN,at.adtech.redventures.io
 DOMAIN,assets.the-independent.com
@@ -1069,6 +1073,7 @@ DOMAIN-SUFFIX,yelpcdn.com
 DOMAIN,cf-images.us-east-1.prod.boltdns.net
 DOMAIN-SUFFIX,v2ex.co
 DOMAIN,cdn.v2ex.com
+DOMAIN,static.v2ex.com
 DOMAIN-SUFFIX,swiftypecdn.com
 DOMAIN-SUFFIX,fontawesome.com
 DOMAIN,fontbit.io
@@ -1183,7 +1188,6 @@ DOMAIN,practicaldev-herokuapp-com.freetls.fastly.net
 DOMAIN,static.getbutton.io
 DOMAIN-SUFFIX,zippyshare.com
 DOMAIN-SUFFIX,sendspace.com
-DOMAIN,typescript.azureedge.net
 DOMAIN,static.dw.com
 DOMAIN,tvdownloaddw-a.akamaihd.net
 DOMAIN-SUFFIX,tedcdn.com
@@ -1362,4 +1366,10 @@ DOMAIN,js.upload.io
 DOMAIN,static.cloud.coveo.com
 DOMAIN,assets.getkirby.com
 DOMAIN,cdn.cloudcraft.co
-#Sun 08/13/2023
+DOMAIN,img.timero.xyz
+DOMAIN-SUFFIX,rss3.dev
+DOMAIN-SUFFIX,xlog.app
+DOMAIN-SUFFIX,crossbell.io
+DOMAIN-SUFFIX,icon.horse
+DOMAIN,cdn-assets.circleci.com
+#Thu 08/17/2023
