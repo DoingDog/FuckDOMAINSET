@@ -2,6 +2,7 @@ DOMAIN,ruleset.skk.moe
 DOMAIN,pic.skk.moe
 DOMAIN,img.skk.moe
 DOMAIN,cdn.skk.moe
+DOMAIN,hv-monsterdb-data.skk.moe
 DOMAIN-SUFFIX,jsdelivr.net
 DOMAIN,data.jsdelivr.com
 DOMAIN,img.jsdelivr.com
@@ -230,6 +231,8 @@ DOMAIN-SUFFIX,file.core.windows.net
 DOMAIN,amp.azure.net
 DOMAIN-SUFFIX,catbox.moe
 DOMAIN,uploads.codesandbox.io
+DOMAIN,screenshots.codesandbox.io
+DOMAIN,prod-packager-packages.codesandbox.io
 DOMAIN,pkg.csb.dev
 DOMAIN,sandpack-cdn-staging.blazingly.io
 DOMAIN-SUFFIX,sentry-cdn.com
@@ -486,6 +489,8 @@ DOMAIN,player.cnevids.com
 DOMAIN,player-frontend.cnevids.com
 DOMAIN,w.chatlio.com
 DOMAIN,snippet.maze.co
+DOMAIN,c.navattic.com
+DOMAIN,js.navattic.com
 DOMAIN,cdn.piano.io
 DOMAIN,topbar-static.piano.io
 DOMAIN,cdn.tinypass.com
@@ -534,6 +539,7 @@ DOMAIN,img.ltyears.com
 DOMAIN,cdn.mcauto-images-production.sendgrid.net
 DOMAIN-SUFFIX,mlcdn.com
 DOMAIN,newsletter.postmarkapp.com
+DOMAIN,image.email.microsoftemail.com
 DOMAIN-SUFFIX,gateway.ipfs.io
 DOMAIN-SUFFIX,ipfs.eternum.io
 DOMAIN,ipfs.d.tube
@@ -1372,4 +1378,6 @@ DOMAIN-SUFFIX,xlog.app
 DOMAIN-SUFFIX,crossbell.io
 DOMAIN-SUFFIX,icon.horse
 DOMAIN,cdn-assets.circleci.com
-#Thu 08/17/2023
+DOMAIN,cdn.transifex.com
+DOMAIN,cdn-txweb.transifex.com
+#Mon 08/21/2023

@@ -1534,6 +1534,7 @@ DOMAIN-SUFFIX,guazi.com
 DOMAIN-SUFFIX,gucheng.com
 DOMAIN-SUFFIX,guigu.org
 DOMAIN-SUFFIX,guodu.com
+DOMAIN-SUFFIX,guoguo-app.com
 DOMAIN-SUFFIX,guokr.com
 DOMAIN-SUFFIX,guoping123.com
 DOMAIN-SUFFIX,guoxinmac.com
@@ -3395,6 +3396,7 @@ DOMAIN-SUFFIX,weilaicaijing.com
 DOMAIN-SUFFIX,weilaiyunxiao.com
 DOMAIN-SUFFIX,weiphone.com
 DOMAIN-SUFFIX,weiphone.net
+DOMAIN-SUFFIX,weixin.com
 DOMAIN-SUFFIX,weixinbridge.com
 DOMAIN-SUFFIX,weixing.com
 DOMAIN-SUFFIX,weiyangx.com
@@ -4078,4 +4080,4 @@ IP-CIDR6,2a0b:b580::/48,no-resolve
 IP-CIDR6,2a0b:b581::/48,no-resolve
 IP-CIDR6,2a0b:b582::/48,no-resolve
 IP-CIDR6,2a0b:b583::/48,no-resolve
-#Thu 08/17/2023
+#Mon 08/21/2023

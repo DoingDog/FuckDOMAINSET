@@ -25736,6 +25736,7 @@ DOMAIN-SUFFIX,analytics.solidbau.at
 DOMAIN-SUFFIX,analytics.sonymusic.com
 DOMAIN-SUFFIX,analytics.sportybet.com
 DOMAIN-SUFFIX,analytics.spotify.com
+DOMAIN-SUFFIX,analytics.staticiv.com
 DOMAIN-SUFFIX,analytics.styria.hr
 DOMAIN-SUFFIX,analytics.suggestv.io
 DOMAIN-SUFFIX,analytics.teespring.com
@@ -26530,6 +26531,7 @@ DOMAIN-SUFFIX,bnetds.cn
 DOMAIN-SUFFIX,bninc2.cn
 DOMAIN-SUFFIX,bnnr.pornpics.com
 DOMAIN-SUFFIX,bnq86.com
+DOMAIN-SUFFIX,bnr.alza.cz
 DOMAIN-SUFFIX,bnrs.ilm.ee
 DOMAIN-SUFFIX,bnrsis.com
 DOMAIN-SUFFIX,bnzxc.xyz
@@ -27141,6 +27143,7 @@ DOMAIN-SUFFIX,clicks.hurriyet.com.tr
 DOMAIN-SUFFIX,clicks.superpages.com
 DOMAIN-SUFFIX,clicks.traffictrader.net
 DOMAIN-SUFFIX,clickstrip.6wav.es
+DOMAIN-SUFFIX,clicktale.pantherssl.com
 DOMAIN-SUFFIX,clicktracks.com
 DOMAIN-SUFFIX,clickzs.com
 DOMAIN-SUFFIX,client-api.ele.me
@@ -29713,6 +29716,7 @@ DOMAIN-SUFFIX,hit.interia.pl
 DOMAIN-SUFFIX,hit.meta.ua
 DOMAIN-SUFFIX,hit.webcentre.lycos.co.uk
 DOMAIN-SUFFIX,hitlog2.chosun.com
+DOMAIN-SUFFIX,hits.eluniversal.com.mx
 DOMAIN-SUFFIX,hits.sys.lv
 DOMAIN-SUFFIX,hitslink.com
 DOMAIN-SUFFIX,hitweb2.chosun.com
@@ -30264,6 +30268,7 @@ DOMAIN-SUFFIX,input.shouji.sogou.com
 DOMAIN-SUFFIX,inquiries.redhat.com
 DOMAIN-SUFFIX,insenz.com
 DOMAIN-SUFFIX,inside.bitcomet.com
+DOMAIN-SUFFIX,insight.fonecta.fi
 DOMAIN-SUFFIX,inskin.vo.llnwd.net
 DOMAIN-SUFFIX,inst.360safe.com
 DOMAIN-SUFFIX,instabug.com
@@ -35359,6 +35364,7 @@ DOMAIN-SUFFIX,tracking.oui.sncf
 DOMAIN-SUFFIX,tracking.porndoelabs.com
 DOMAIN-SUFFIX,tracking.pornhd.com
 DOMAIN-SUFFIX,tracking.promiflash.de
+DOMAIN-SUFFIX,tracking.quillion.com
 DOMAIN-SUFFIX,tracking.resumecompanion.com
 DOMAIN-SUFFIX,tracking.rightmessage.com
 DOMAIN-SUFFIX,tracking.shoptogether.buy.com
@@ -36947,6 +36953,7 @@ DOMAIN-SUFFIX,yizhenya.com
 DOMAIN-SUFFIX,yizhijin.cn
 DOMAIN-SUFFIX,yjiaj.com
 DOMAIN-SUFFIX,yjoiunf.com
+DOMAIN-SUFFIX,yjtag.yahoo.co.jp
 DOMAIN-SUFFIX,yjunzi.com
 DOMAIN-SUFFIX,yk0712.com
 DOMAIN-SUFFIX,ykatr.youku.com
@@ -37643,4 +37650,4 @@ IP-CIDR,67.229.224.28/32,no-resolve
 IP-CIDR,69.28.57.245/32,no-resolve
 IP-CIDR,74.117.182.77/32,no-resolve
 IP-CIDR,78.140.131.214/32,no-resolve
-#Thu 08/17/2023
+#Mon 08/21/2023
