@@ -43,8 +43,10 @@ DOMAIN,godoc.org
 DOMAIN,webpack.js.org
 DOMAIN,vuejs.org
 DOMAIN,react.dev
+DOMAIN-SUFFIX,reactjs.org
 DOMAIN,www.typescriptlang.org
 DOMAIN,typescript.azureedge.net
+DOMAIN-SUFFIX,rollupjs.org
 DOMAIN,api.bintray.com
 DOMAIN,badge.buildkite.com
 DOMAIN,badge.fury.io
@@ -393,6 +395,7 @@ DOMAIN,cdn.autoketing.org
 DOMAIN,cdn.codeblackbelt.com
 DOMAIN,cdn.judge.me
 DOMAIN,spcdn.incartupsell.com
+DOMAIN-SUFFIX,pixhost.to
 DOMAIN-SUFFIX,adtidy.org
 DOMAIN-SUFFIX,disconnect.me
 DOMAIN-SUFFIX,easylist.to
@@ -1380,4 +1383,8 @@ DOMAIN-SUFFIX,icon.horse
 DOMAIN,cdn-assets.circleci.com
 DOMAIN,cdn.transifex.com
 DOMAIN,cdn-txweb.transifex.com
-#Mon 08/21/2023
+DOMAIN,cf.javfree.me
+DOMAIN,img.javstore.net
+DOMAIN,pics.vpdmm.cc
+DOMAIN,static-cache.k2s.cc
+#Fri 08/25/2023

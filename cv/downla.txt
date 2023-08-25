@@ -3,7 +3,6 @@ DOMAIN,instant.arubanetworks.com
 DOMAIN,router.asus.com
 DOMAIN,setmeup.arubanetworks.com
 DOMAIN,www.asusrouter.com
-DOMAIN,www.mifiwi.com
 DOMAIN-SUFFIX,0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa
 DOMAIN-SUFFIX,0.in-addr.arpa
 DOMAIN-SUFFIX,1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa
@@ -109,7 +108,6 @@ DOMAIN-SUFFIX,home.arpa
 DOMAIN-SUFFIX,leike.cc
 DOMAIN-SUFFIX,localhost.ptlogin2.qq.com
 DOMAIN-SUFFIX,localhost.sec.qq.com
-DOMAIN-SUFFIX,miwifi.com
 DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN-SUFFIX,msftncsi.com
 DOMAIN-SUFFIX,my.router
@@ -143,4 +141,4 @@ IP-CIDR6,::1/128,no-resolve
 IP-CIDR6,fc00::/7,no-resolve
 IP-CIDR6,fe80::/10,no-resolve
 IP-CIDR6,ff00::/8,no-resolve
-#Mon 08/21/2023
+#Fri 08/25/2023
