@@ -74,6 +74,7 @@ DOMAIN-SUFFIX,vscode-cdn.net
 DOMAIN,vscode-sync.trafficmanager.net
 DOMAIN,vscode-sync-insiders.trafficmanager.net
 DOMAIN,registry.npmjs.org
+DOMAIN,replicate.npmjs.com
 DOMAIN,static.npmjs.com
 DOMAIN,static-production.npmjs.com
 DOMAIN,registry.npmjs.com
@@ -1387,4 +1388,6 @@ DOMAIN,cf.javfree.me
 DOMAIN,img.javstore.net
 DOMAIN,pics.vpdmm.cc
 DOMAIN,static-cache.k2s.cc
-#Fri 08/25/2023
+DOMAIN,cdn.rauno.me
+DOMAIN-SUFFIX,howtogeekimages.com
+#Tue 08/29/2023

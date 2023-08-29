@@ -6888,7 +6888,6 @@ DOMAIN,ezzrewrad.com
 DOMAIN,f-4560.com
 DOMAIN,f-counter.jp
 DOMAIN,f-counter.net
-DOMAIN,f-log-extension.grammarly.io
 DOMAIN,f-log-mobile-ios.grammarly.io
 DOMAIN,f.gj555.net
 DOMAIN,f.mzw000.com
@@ -7053,8 +7052,6 @@ DOMAIN,felixflow.com
 DOMAIN,feljack.com
 DOMAIN,fem-inc.com
 DOMAIN,femalewrestlingnow.com
-DOMAIN,femetrics.grammarly.io
-DOMAIN,femetrics.qagr.io
 DOMAIN,fencemiracle.com
 DOMAIN,fengxiangstore.com
 DOMAIN,fenrir-resolver.aprod.scopely.io
@@ -18646,7 +18643,12 @@ DOMAIN,updo.nl
 DOMAIN,uphuatdmwbdm.com
 DOMAIN,upijhkdcovdep.com
 DOMAIN,upikeoshfhw.com
+DOMAIN,upload-as0.qiniup.com
+DOMAIN,upload-na0.qiniup.com
+DOMAIN,upload-z1.qiniup.com
+DOMAIN,upload-z2.qiniup.com
 DOMAIN,upload.cc
+DOMAIN,upload.qiniup.com
 DOMAIN,uploadlog.p2p.qq.com
 DOMAIN,uploads.tmweb.ru
 DOMAIN,upogbpseso.com
@@ -19996,5 +19998,3 @@ DOMAIN,www.angolotesti.it
 DOMAIN,www.archigate.it
 DOMAIN,www.arkinsoftware.in
 DOMAIN,www.atousoft.com
-DOMAIN,www.authedwebmine.cz
-DOMAIN,www.baidujs.vip
