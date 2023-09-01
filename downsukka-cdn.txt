@@ -307,7 +307,8 @@ DOMAIN-SUFFIX,c.staticblitz.com
 DOMAIN-SUFFIX,w.staticblitz.com
 DOMAIN-SUFFIX,t.staticblitz.com
 DOMAIN-SUFFIX,npm.staticblitz.com
-DOMAIN,v-corp.staticblitz.com
+DOMAIN-SUFFIX,v-corp.staticblitz.com
+DOMAIN-SUFFIX,w-corp.staticblitz.com
 DOMAIN,ghavatars.staticblitz.com
 DOMAIN,nr.staticblitz.com
 DOMAIN-SUFFIX,w-credentialless.staticblitz.com
@@ -1071,6 +1072,9 @@ DOMAIN,nodeassets.nbcnews.com
 DOMAIN,media-cldnry.s-nbcnews.com
 DOMAIN,iframe.nbcnews.com
 DOMAIN,staticassets.music.com
+DOMAIN-SUFFIX,cloud.influxdata.com
+DOMAIN-SUFFIX,cloud1.influxdata.com
+DOMAIN-SUFFIX,cloud2.influxdata.com
 DOMAIN,content-prod-live.cert.starbucks.com
 DOMAIN,at.adtech.redventures.io
 DOMAIN,assets.the-independent.com
@@ -1390,4 +1394,6 @@ DOMAIN,pics.vpdmm.cc
 DOMAIN,static-cache.k2s.cc
 DOMAIN,cdn.rauno.me
 DOMAIN-SUFFIX,howtogeekimages.com
-#Tue 08/29/2023
+DOMAIN,static.scarf.sh
+DOMAIN,cdn.arcade.software
+#Fri 09/01/2023
