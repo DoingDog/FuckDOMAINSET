@@ -47,6 +47,7 @@ DOMAIN-SUFFIX,reactjs.org
 DOMAIN,www.typescriptlang.org
 DOMAIN,typescript.azureedge.net
 DOMAIN-SUFFIX,rollupjs.org
+DOMAIN-SUFFIX,pnpm.io
 DOMAIN,api.bintray.com
 DOMAIN,badge.buildkite.com
 DOMAIN,badge.fury.io
@@ -60,6 +61,9 @@ DOMAIN-SUFFIX,shields.io
 DOMAIN,alt-images.codestream.com
 DOMAIN,badges.crowdin.net
 DOMAIN,img.badgesize.io
+DOMAIN,ci.testling.com
+DOMAIN,nodei.co
+DOMAIN,versionbadg.es
 DOMAIN,static.rust-lang.org
 DOMAIN-SUFFIX,nodejs.org
 DOMAIN,dl.nwjs.io
@@ -111,6 +115,8 @@ DOMAIN,crates.io
 DOMAIN,static.crates.io
 DOMAIN,packages.httpie.io
 DOMAIN,assets-production.packagecloud.io
+DOMAIN,publicsuffix.org
+DOMAIN,repos.danosproject.org
 DOMAIN,s0.wp.com
 DOMAIN,s1.wp.com
 DOMAIN,s2.wp.com
@@ -151,7 +157,6 @@ DOMAIN,connect.facebook.net
 DOMAIN-SUFFIX,ampproject.org
 DOMAIN-SUFFIX,net.anydesk.com
 DOMAIN-SUFFIX,disquscdn.com
-DOMAIN,publicsuffix.org
 DOMAIN,dl.google.com
 DOMAIN,chart.googleapis.com
 DOMAIN,fonts.googleapis.com
@@ -207,6 +212,7 @@ DOMAIN-SUFFIX,public.cdn.office.net
 DOMAIN-SUFFIX,res.office365.com
 DOMAIN,res.cdn.office.net
 DOMAIN,res-1.cdn.office.net
+DOMAIN,res-geo.cdn.office.net
 DOMAIN,static2.sharepointonline.com
 DOMAIN,prod.msocdn.com
 DOMAIN,cdn.forms.office.net
@@ -494,6 +500,7 @@ DOMAIN,player.cnevids.com
 DOMAIN,player-frontend.cnevids.com
 DOMAIN,w.chatlio.com
 DOMAIN,snippet.maze.co
+DOMAIN-SUFFIX,transcend-cdn.com
 DOMAIN,c.navattic.com
 DOMAIN,js.navattic.com
 DOMAIN,cdn.piano.io
@@ -1075,6 +1082,8 @@ DOMAIN,staticassets.music.com
 DOMAIN-SUFFIX,cloud.influxdata.com
 DOMAIN-SUFFIX,cloud1.influxdata.com
 DOMAIN-SUFFIX,cloud2.influxdata.com
+DOMAIN,api.pwnedpasswords.com
+DOMAIN,api.mintlify.com
 DOMAIN,content-prod-live.cert.starbucks.com
 DOMAIN,at.adtech.redventures.io
 DOMAIN,assets.the-independent.com
@@ -1353,6 +1362,7 @@ DOMAIN,cdn.now.gg
 DOMAIN,cms-cdn.now.gg
 DOMAIN,cdn-www.bluestacks.com
 DOMAIN,cdnjs.betterstack.com
+DOMAIN,t.betterstack.com
 DOMAIN,image.civitai.com
 DOMAIN,avatar.stefanjudis.com
 DOMAIN,assets.lemonsqueezy.com
@@ -1396,4 +1406,4 @@ DOMAIN,cdn.rauno.me
 DOMAIN-SUFFIX,howtogeekimages.com
 DOMAIN,static.scarf.sh
 DOMAIN,cdn.arcade.software
-#Fri 09/01/2023
+#Tue 09/05/2023
