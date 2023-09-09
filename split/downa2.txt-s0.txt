@@ -897,6 +897,7 @@ DOMAIN,a4g.com
 DOMAIN,a50.g2.akamai.net
 DOMAIN,a5020fec1701e9f3.com
 DOMAIN,a5a5a.com
+DOMAIN,a5e04df959f1af34.com
 DOMAIN,a6.hn985.com
 DOMAIN,a63t9o1azf.com
 DOMAIN,a69ee4fa50dc3.com
@@ -1422,6 +1423,7 @@ DOMAIN,ads.admoda.com
 DOMAIN,ads.adtheorent.com
 DOMAIN,ads.allaccess.com.ph
 DOMAIN,ads.aol.co.uk
+DOMAIN,ads.auctions.yahoo.com
 DOMAIN,ads.avct.cloud
 DOMAIN,ads.avocarrot.com
 DOMAIN,ads.aws.viber.com
@@ -1439,6 +1441,7 @@ DOMAIN,ads.dixcom.com
 DOMAIN,ads.dofunapps.com
 DOMAIN,ads.easy-ads.com
 DOMAIN,ads.fetnet.net
+DOMAIN,ads.finance.yahoo.com
 DOMAIN,ads.globo.com
 DOMAIN,ads.huan.tv
 DOMAIN,ads.icloseli.com
@@ -1527,7 +1530,6 @@ DOMAIN,adsmind.apdcdn.tc.qq.com
 DOMAIN,adsmind.gdtimg.com
 DOMAIN,adsmoon.com
 DOMAIN,adsovo.com
-DOMAIN,adspecs.yahoo.com
 DOMAIN,adspeed.com
 DOMAIN,adsplex.com
 DOMAIN,adspruce.com
@@ -5848,7 +5850,6 @@ DOMAIN,doshaido.com
 DOMAIN,dosugcz.biz
 DOMAIN,dotaki.com
 DOMAIN,dotandad.com
-DOMAIN,dotandads.com
 DOMAIN,dotmailer-surveys.com
 DOMAIN,dotnetkicks.com
 DOMAIN,dotnetshoutout.com
@@ -6250,6 +6251,7 @@ DOMAIN,eabyvnmt.com
 DOMAIN,eacla.com
 DOMAIN,eadulttraffic.com
 DOMAIN,eae33bbaf48.com
+DOMAIN,eae5daf052d2673b.com
 DOMAIN,eaffzvnyj.com
 DOMAIN,eagleapi.io
 DOMAIN,eaiatlexsotxbh.com
@@ -6331,6 +6333,7 @@ DOMAIN,eco.qasdw3.xyz
 DOMAIN,eco.vng25.xyz
 DOMAIN,ecommstats.com
 DOMAIN,econda-monitor.de
+DOMAIN,economyobserver.com
 DOMAIN,econsideepofle.info
 DOMAIN,ecpmrocks.com
 DOMAIN,ecsanalytics.com
@@ -8745,7 +8748,6 @@ DOMAIN,hsnoamgzlksidfliivb.com
 DOMAIN,hsqbeznk.com
 DOMAIN,hsqujerwg.com
 DOMAIN,hst-19-33.splius.lt
-DOMAIN,hstpnetwork.com
 DOMAIN,hstrck.com
 DOMAIN,hsxftwpltcmil.com
 DOMAIN,hsydzoapohcvbz.com
@@ -10362,7 +10364,6 @@ DOMAIN,komtrack.com
 DOMAIN,koneomobiledsp.com
 DOMAIN,kono-research.de
 DOMAIN,kontagent.net
-DOMAIN,kontextua.com
 DOMAIN,koopei.com
 DOMAIN,koorogeb.net
 DOMAIN,koowaido.net
@@ -10543,7 +10544,6 @@ DOMAIN,laserhairremovalstore.com
 DOMAIN,laserstat.com
 DOMAIN,lashaucu.net
 DOMAIN,last2.cn
-DOMAIN,latam.adspecs.yahoo.com
 DOMAIN,latency.agoop.net
 DOMAIN,later-analytics-reports.s3-accelerate.amazonaws.com
 DOMAIN,latinasheat.online
@@ -11137,7 +11137,6 @@ DOMAIN,lumeo.cn
 DOMAIN,luminate.com
 DOMAIN,lumitos.com
 DOMAIN,lunaticjazz.com
-DOMAIN,lunio.net
 DOMAIN,luodiye01.cn
 DOMAIN,luolikong.net
 DOMAIN,luomanzhubao.cn
@@ -12384,7 +12383,6 @@ DOMAIN,mxitie.com
 DOMAIN,mxm.plipala.com
 DOMAIN,mxphrvkcgvcpl.com
 DOMAIN,mxsads.com
-DOMAIN,mxtads.com
 DOMAIN,mxvncslrduda.com
 DOMAIN,mxysalqnbj.com
 DOMAIN,my-material.zone1.meitudata.com
@@ -14286,6 +14284,7 @@ DOMAIN,premiumstats.xyz
 DOMAIN,presatisfy.com
 DOMAIN,presence.teams.live.com
 DOMAIN,pressly.com
+DOMAIN,prestadsng.com
 DOMAIN,preview.msn.com
 DOMAIN,prexista.com
 DOMAIN,prfct.co
@@ -14625,7 +14624,6 @@ DOMAIN,putrr8.com
 DOMAIN,puwvuscm.com
 DOMAIN,puzzlingfall.com
 DOMAIN,pv.ldlwdsx.com
-DOMAIN,pv.sohu.com
 DOMAIN,pv.vipwm.cc
 DOMAIN,pv.zhiding.cn
 DOMAIN,pvmax.net
@@ -16924,7 +16922,6 @@ DOMAIN,statcount.com
 DOMAIN,statcounterfree.com
 DOMAIN,statelead.com
 DOMAIN,statesol.net
-DOMAIN,statgw.devtodev.com
 DOMAIN,stathound.com
 DOMAIN,static-cnt.bid
 DOMAIN,static-sb.com
@@ -17676,7 +17673,6 @@ DOMAIN,thnslhajvfmd.com
 DOMAIN,thogethoffic.co
 DOMAIN,thoodsoy.net
 DOMAIN,thookour.com
-DOMAIN,thoorest.com
 DOMAIN,thoritismsecutive.info
 DOMAIN,thoughtsondance.info
 DOMAIN,thqwivyhdpoem.com
@@ -18127,7 +18123,6 @@ DOMAIN,transactionale.com
 DOMAIN,trapasol.com
 DOMAIN,travelmail.traveltek.net
 DOMAIN,traversedlp.com
-DOMAIN,travidia.com
 DOMAIN,traviilo.com
 DOMAIN,traviously.pro
 DOMAIN,trbas.com
@@ -18767,7 +18762,6 @@ DOMAIN,users.quantumgraph.com
 DOMAIN,users173.lolipop.jp
 DOMAIN,userzoom.com
 DOMAIN,usfmamdapvmfs.com
-DOMAIN,ush.adspecs.yahoo.com
 DOMAIN,usjguyybhhtjos.com
 DOMAIN,uslycoloursewo.info
 DOMAIN,usocial.pro
@@ -19873,7 +19867,6 @@ DOMAIN,worldsearchpro.com
 DOMAIN,worthathousandwords.com
 DOMAIN,wos.lv
 DOMAIN,wouhaish.com
-DOMAIN,woymebsi.com
 DOMAIN,wozltvfxtntaqk.com
 DOMAIN,wp-monero-miner.de
 DOMAIN,wp-stats.com
@@ -19998,3 +19991,10 @@ DOMAIN,www.111ol.com
 DOMAIN,www.11599jgj.com
 DOMAIN,www.1990tu.com
 DOMAIN,www.3peaks.co.jp
+DOMAIN,www.56yk.com
+DOMAIN,www.61677.com
+DOMAIN,www.7ldou.com
+DOMAIN,www.83692.com
+DOMAIN,www.8jzw.com
+DOMAIN,www.9llm.com
+DOMAIN,www.aabbttuu.com
