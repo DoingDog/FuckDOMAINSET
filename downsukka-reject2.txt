@@ -642,6 +642,7 @@ DOMAIN,s.osano.com
 DOMAIN,js.partnerstack.com
 DOMAIN,zymerget.party
 DOMAIN,t.iwara.tv
+DOMAIN,api-scout.vercel.app
 DOMAIN,data.alexa.com
 DOMAIN,device-metrics-us.amazon.com
 DOMAIN,device-metrics-us-2.amazon.com
@@ -1307,7 +1308,7 @@ DOMAIN,ad.intl.xiaomi.com
 DOMAIN-SUFFIX,ad.mi.com
 DOMAIN-SUFFIX,admob.xiaomi.com
 DOMAIN,ad1.xiaomi.com
-DOMAIN,mistat.xiaomi.com
+DOMAIN-SUFFIX,mistat.xiaomi.com
 DOMAIN,adv.sec.miui.com
 DOMAIN,adv.sec.intl.miui.com
 DOMAIN,misc.in.duokanbox.com
@@ -1321,10 +1322,9 @@ DOMAIN,api.miui.security.xiaomi.com
 DOMAIN-SUFFIX,auth.be.sec.miui.com
 DOMAIN-SUFFIX,adfuture.cn
 DOMAIN,sa.api.intl.miui.com
-DOMAIN-SUFFIX,data.mistat.xiaomi.com
-DOMAIN-SUFFIX,data.mistat.intl.xiaomi.com
-DOMAIN-SUFFIX,data.mistat.india.xiaomi.com
-DOMAIN-SUFFIX,data.mistat.rus.xiaomi.com
+DOMAIN-SUFFIX,mistat.intl.xiaomi.com
+DOMAIN-SUFFIX,mistat.india.xiaomi.com
+DOMAIN-SUFFIX,mistat.rus.xiaomi.com
 DOMAIN-SUFFIX,tracking.miui.com
 DOMAIN-SUFFIX,tracking.intl.miui.com
 DOMAIN-SUFFIX,tracking.india.miui.com
@@ -1333,6 +1333,27 @@ DOMAIN-SUFFIX,xlmc.sec.miui.com
 DOMAIN,wtradv.market.xiaomi.com
 DOMAIN,video.market.xiaomi.com
 DOMAIN-SUFFIX,pandora.xiaomi.com
+DOMAIN-SUFFIX,avlyun.sec.intl.miui.com
+DOMAIN-SUFFIX,avlyun.sec.miui.com
+DOMAIN,ixav-cse.avlyun.com
+DOMAIN,miav-cse.avlyun.com
+DOMAIN,miui-fxcse.avlyun.com
+DOMAIN,sdkconf.avlyun.com
+DOMAIN,api.installer.xiaomi.com
+DOMAIN,tmfsdk.m.qq.com
+DOMAIN,a0.app.xiaomi.com
+DOMAIN,qsb.browser.miui.com
+DOMAIN,rom.pt.miui.com
+DOMAIN,ccc.sys.miui.com
+DOMAIN,jupiter.sys.miui.com
+DOMAIN,metok.sys.miui.com
+DOMAIN,flash.sec.miui.com
+DOMAIN,mazu.sec.miui.com
+DOMAIN,api.sec.miui.com
+DOMAIN,api.hybrid.xiaomi.com
+DOMAIN,security.browser.miui.com
+DOMAIN,hot.browser.miui.com
+DOMAIN,r.browser.miui.com
 DOMAIN,ad-analysis.pconline.com.cn
 DOMAIN,iad0ssl.pcauto.com.cn
 DOMAIN,iad0ssl.pconline.com.cn
@@ -1562,4 +1583,4 @@ DOMAIN-SUFFIX,luminati-china.io
 DOMAIN-SUFFIX,luminati.io
 DOMAIN-SUFFIX,lum-cn.io
 DOMAIN-SUFFIX,luminati-china.biz
-#Sat 09/09/2023
+#Wed 09/13/2023

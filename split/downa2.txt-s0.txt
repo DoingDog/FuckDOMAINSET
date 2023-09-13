@@ -857,6 +857,7 @@ DOMAIN,a.xmdly.com
 DOMAIN,a.xxdy8.cn
 DOMAIN,a.yiyuancq.com
 DOMAIN,a.yl-taikang.com
+DOMAIN,a0.app.xiaomi.com
 DOMAIN,a013.com
 DOMAIN,a02d0adbca0.com
 DOMAIN,a0675c1160de6c6.com
@@ -2242,6 +2243,7 @@ DOMAIN,api-live.outgrow.co
 DOMAIN,api-luckycoinsdk.doglobal.net
 DOMAIN,api-n.outgrow.co
 DOMAIN,api-proxy.bee7.com
+DOMAIN,api-scout.vercel.app
 DOMAIN,api-sdk.datadome.co
 DOMAIN,api-secure.solvemedia.com
 DOMAIN,api-telemetry.servers.getgo.com
@@ -2292,10 +2294,12 @@ DOMAIN,api.growthpush.com
 DOMAIN,api.hdtv.letv.com
 DOMAIN,api.huq.io
 DOMAIN,api.huqindustries.co.uk
+DOMAIN,api.hybrid.xiaomi.com
 DOMAIN,api.idio.co
 DOMAIN,api.immomo.com
 DOMAIN,api.indicative.com
 DOMAIN,api.infinario.com
+DOMAIN,api.installer.xiaomi.com
 DOMAIN,api.intellimize.co
 DOMAIN,api.ip138.com
 DOMAIN,api.iplay.163.com
@@ -2348,6 +2352,7 @@ DOMAIN,api.sailthru.com
 DOMAIN,api.salmonads.com
 DOMAIN,api.saypromo.net
 DOMAIN,api.sdk.fmobi.cn
+DOMAIN,api.sec.miui.com
 DOMAIN,api.secondstreetapp.com
 DOMAIN,api.smartechmetrics.com
 DOMAIN,api.smbeat.jp
@@ -3928,6 +3933,7 @@ DOMAIN,cbzjukldosooj.com
 DOMAIN,cc-dt.com
 DOMAIN,cc.lbesec.com
 DOMAIN,cc3.ifeng.com
+DOMAIN,ccc.sys.miui.com
 DOMAIN,cccpmo.com
 DOMAIN,ccdace.hupu.com
 DOMAIN,ccgateway.net
@@ -7198,6 +7204,7 @@ DOMAIN,flags.es
 DOMAIN,flagship.asp-host.co.uk
 DOMAIN,flare-analytics.com
 DOMAIN,flash-counter.com
+DOMAIN,flash.sec.miui.com
 DOMAIN,flashadengine.com
 DOMAIN,flashadtools.com
 DOMAIN,flashgamestats.com
@@ -9611,6 +9618,7 @@ DOMAIN,iwqownwjbk.com
 DOMAIN,iwqsvntvdry.com
 DOMAIN,iwstats.com
 DOMAIN,iwztirze.com
+DOMAIN,ixav-cse.avlyun.com
 DOMAIN,ixdqmmovnvbkl.com
 DOMAIN,ixhcokzelvvxs.com
 DOMAIN,ixiaa.com
@@ -10038,6 +10046,7 @@ DOMAIN,junioneruytew.info
 DOMAIN,junnew.com
 DOMAIN,junta.net
 DOMAIN,juoyisupjqds.com
+DOMAIN,jupiter.sys.miui.com
 DOMAIN,juqakqgv.com
 DOMAIN,jurty.ml
 DOMAIN,juryintory.co
@@ -11911,6 +11920,7 @@ DOMAIN,miadates.com
 DOMAIN,miahshnju.com
 DOMAIN,mialbj6.com
 DOMAIN,miaomu139.cn
+DOMAIN,miav-cse.avlyun.com
 DOMAIN,mibebu.com
 DOMAIN,micodigo.com
 DOMAIN,microadinc.com
@@ -11969,9 +11979,9 @@ DOMAIN,mirrorpersonalinjury.co.uk
 DOMAIN,mirtesen.ru
 DOMAIN,misc.in.duokanbox.com
 DOMAIN,misosoup.io
-DOMAIN,mistat.xiaomi.com
 DOMAIN,mitatic.xyz
 DOMAIN,mitouxoo.net
+DOMAIN,miui-fxcse.avlyun.com
 DOMAIN,miwhonjam.com
 DOMAIN,mixern.sina.cn
 DOMAIN,mixers.sina.cn
@@ -14925,6 +14935,7 @@ DOMAIN,qruwrcenw.com
 DOMAIN,qrwixhlz.com
 DOMAIN,qrxkugriqkt.com
 DOMAIN,qrzlaatf.xyz
+DOMAIN,qsb.browser.miui.com
 DOMAIN,qscxylds.com
 DOMAIN,qsdlk.tk
 DOMAIN,qsfgszjm.com
@@ -15499,6 +15510,7 @@ DOMAIN,rolemodelstreetteam.invasioncrew.com
 DOMAIN,rolidenratrigh.pro
 DOMAIN,rollingcounters.com
 DOMAIN,rolrotoo.net
+DOMAIN,rom.pt.miui.com
 DOMAIN,romeccs.microsoft.com
 DOMAIN,ronletsobetning.pro
 DOMAIN,roogrujy.net
@@ -15958,6 +15970,7 @@ DOMAIN,sdk8.ibm.xtify.com
 DOMAIN,sdkapi.kookong.com
 DOMAIN,sdkapicdn.applanga.com
 DOMAIN,sdkauth.hpplay.cn
+DOMAIN,sdkconf.avlyun.com
 DOMAIN,sdkconf.msstatic.com
 DOMAIN,sdkconfig.ad.india.xiaomi.com
 DOMAIN,sdkgw.us1.twilio.com
@@ -17781,6 +17794,7 @@ DOMAIN,tmblaeivephb.com
 DOMAIN,tmead.y.qq.com
 DOMAIN,tmearn.com
 DOMAIN,tmform.azurewebsites.net
+DOMAIN,tmfsdk.m.qq.com
 DOMAIN,tmhfbwgpvzcxly.com
 DOMAIN,tmjivakr.com
 DOMAIN,tmmp.io
@@ -19984,17 +19998,3 @@ DOMAIN,wwtxqylusxtd.com
 DOMAIN,wwv4ez0n.com
 DOMAIN,www-61677.com
 DOMAIN,www-path.com
-DOMAIN,www-protection.com
-DOMAIN,www-sina-cn-com.com
-DOMAIN,www.0uk.net
-DOMAIN,www.111ol.com
-DOMAIN,www.11599jgj.com
-DOMAIN,www.1990tu.com
-DOMAIN,www.3peaks.co.jp
-DOMAIN,www.56yk.com
-DOMAIN,www.61677.com
-DOMAIN,www.7ldou.com
-DOMAIN,www.83692.com
-DOMAIN,www.8jzw.com
-DOMAIN,www.9llm.com
-DOMAIN,www.aabbttuu.com
