@@ -95,6 +95,7 @@ DOMAIN,cdn.cocoapods.org
 DOMAIN,repo.gradle.org
 DOMAIN,plugins-artifacts.gradle.org
 DOMAIN,proxy.golang.org
+DOMAIN,gopkg.in
 DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,cloudflare.docker.com
 DOMAIN-SUFFIX,fastly.docker.com
@@ -118,7 +119,6 @@ DOMAIN,crates.io
 DOMAIN,static.crates.io
 DOMAIN,packages.httpie.io
 DOMAIN,assets-production.packagecloud.io
-DOMAIN,publicsuffix.org
 DOMAIN,repos.danosproject.org
 DOMAIN,s0.wp.com
 DOMAIN,s1.wp.com
@@ -160,7 +160,7 @@ DOMAIN,connect.facebook.net
 DOMAIN-SUFFIX,ampproject.org
 DOMAIN-SUFFIX,net.anydesk.com
 DOMAIN-SUFFIX,disquscdn.com
-DOMAIN,dl.google.com
+DOMAIN,publicsuffix.org
 DOMAIN,chart.googleapis.com
 DOMAIN,fonts.googleapis.com
 DOMAIN,fonts.gstatic.com
@@ -170,16 +170,12 @@ DOMAIN-SUFFIX,storage.googleapis.com
 DOMAIN-SUFFIX,firestore.googleapis.com
 DOMAIN-SUFFIX,firebasestorage.googleapis.com
 DOMAIN,cdn.firebase.com
-DOMAIN,i.ytimg.com
-DOMAIN,i1.ytimg.com
-DOMAIN,i2.ytimg.com
-DOMAIN,i3.ytimg.com
-DOMAIN,i4.ytimg.com
-DOMAIN,i9.ytimg.com
+DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,bp.blogspot.com
 DOMAIN-SUFFIX,blogblog.com
 DOMAIN,img.youtube.com
+DOMAIN,static.corp.google.com
 DOMAIN,edgedl.me.gvt1.com
 DOMAIN,edgedl.me.gvt2.com
 DOMAIN,edgedl.me.gvt3.com
@@ -200,6 +196,7 @@ DOMAIN,mir-s3-cdn-cf.behance.net
 DOMAIN-SUFFIX,ssl-images-amazon.com
 DOMAIN-SUFFIX,media-amazon.com
 DOMAIN-SUFFIX,awsstatic.com
+DOMAIN,cdn.assets.as2.amazonaws.com
 DOMAIN,ooo.0o0.ooo
 DOMAIN,ooo.o0o.ooo
 DOMAIN-SUFFIX,loli.net
@@ -259,6 +256,7 @@ DOMAIN-SUFFIX,nincontent.com
 DOMAIN,cdn.jwplayer.com
 DOMAIN,content.jwplatform.com
 DOMAIN-SUFFIX,jwpcdn.com
+DOMAIN,assets-jpcust.jwpsrv.com
 DOMAIN-SUFFIX,ninjastream.to
 DOMAIN-SUFFIX,pztv.ca
 DOMAIN-SUFFIX,pzvcdn.com
@@ -270,6 +268,7 @@ DOMAIN-SUFFIX,doppiocdn.com
 DOMAIN-SUFFIX,alonestreaming.com
 DOMAIN-SUFFIX,thisiscdn.com
 DOMAIN,cdn.vidible.tv
+DOMAIN-SUFFIX,video-cdn.net
 DOMAIN,player.vimeo.com
 DOMAIN-SUFFIX,vimeocdn.com
 DOMAIN-SUFFIX,archive.org
@@ -506,6 +505,7 @@ DOMAIN,player-frontend.cnevids.com
 DOMAIN,w.chatlio.com
 DOMAIN,snippet.maze.co
 DOMAIN-SUFFIX,transcend-cdn.com
+DOMAIN,imgssl.constantcontact.com
 DOMAIN,c.navattic.com
 DOMAIN,js.navattic.com
 DOMAIN,cdn.piano.io
@@ -659,6 +659,7 @@ DOMAIN,media.pullopen.xyz
 DOMAIN,media.yukimochi.jp
 DOMAIN,ca.nfs.pub
 DOMAIN,cdn.masto.host
+DOMAIN,files.mastodon.ktachibana.party
 DOMAIN-SUFFIX,misskeyusercontent.com
 DOMAIN,o.n1mp.org
 DOMAIN,assets.plurk.com
@@ -721,6 +722,7 @@ DOMAIN-SUFFIX,yimg.com
 DOMAIN,assets.video.yahoo.net
 DOMAIN,yep.video.yahoo.com
 DOMAIN-SUFFIX,cdn.cookielaw.org
+DOMAIN,cookie-cdn.cookiepro.com
 DOMAIN,static.dash.cloudflare.com
 DOMAIN,info.cloudflare.com
 DOMAIN,assets.tumblr.com
@@ -747,6 +749,8 @@ DOMAIN,steamvideo-a.akamaihd.net
 DOMAIN,steamusercontent.com
 DOMAIN,steamcdn-a.akamaihd.net
 DOMAIN-SUFFIX,ibytedtos.com
+DOMAIN-SUFFIX,bytedapm.com
+DOMAIN-SUFFIX,ttwstatic.com
 DOMAIN-SUFFIX,ebayimg.com
 DOMAIN-SUFFIX,ebaystatic.com
 DOMAIN-SUFFIX,pinimg.com
@@ -1102,6 +1106,21 @@ DOMAIN,static-assets.freeanimehentai.net
 DOMAIN,akidoo.top
 DOMAIN-SUFFIX,highwinds-cdn.com
 DOMAIN,dynamic-assets.mobilius.top
+DOMAIN,static.change.org
+DOMAIN,assets.change.org
+DOMAIN,assets-fe.change.org
+DOMAIN,static.ietf.org
+DOMAIN,static.osdn.net
+DOMAIN,static-cdn.osdn.net
+DOMAIN,alt.idgesg.net
+DOMAIN,images.idgesg.net
+DOMAIN-SUFFIX,staticworld.net
+DOMAIN-SUFFIX,iggcdn.com
+DOMAIN,static.dynamicyield.com
+DOMAIN,st.dynamicyield.com
+DOMAIN,st-eu.dynamicyield.com
+DOMAIN,cdn.dynamicyield.com
+DOMAIN,cdn-eu.dynamicyield.com
 DOMAIN,api.mintlify.com
 DOMAIN,content-prod-live.cert.starbucks.com
 DOMAIN,at.adtech.redventures.io
@@ -1426,4 +1445,11 @@ DOMAIN-SUFFIX,howtogeekimages.com
 DOMAIN,static.scarf.sh
 DOMAIN,cdn.arcade.software
 DOMAIN,assets.dnsfilter.com
-#Wed 09/13/2023
+DOMAIN,images.emojiterra.com
+DOMAIN,cdn.osxdaily.com
+DOMAIN,user-uploads.perchance.org
+DOMAIN,img.riskified.com
+DOMAIN,cdn.pathfactory.com
+DOMAIN,cdn-app.pathfactory.com
+DOMAIN-SUFFIX,prcdn.co
+#Sun 09/17/2023

@@ -431,6 +431,7 @@ DOMAIN-SUFFIX,jizzads.com
 DOMAIN-SUFFIX,mobisage.com
 DOMAIN-SUFFIX,adsensor.cn
 DOMAIN-SUFFIX,ymapp.com
+DOMAIN-SUFFIX,adserver.snapads.com
 DOMAIN-SUFFIX,adcolony.com
 DOMAIN-SUFFIX,adpro.cn
 DOMAIN-SUFFIX,pro.cn
@@ -1583,4 +1584,4 @@ DOMAIN-SUFFIX,luminati-china.io
 DOMAIN-SUFFIX,luminati.io
 DOMAIN-SUFFIX,lum-cn.io
 DOMAIN-SUFFIX,luminati-china.biz
-#Wed 09/13/2023
+#Sun 09/17/2023
