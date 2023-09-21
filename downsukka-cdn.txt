@@ -86,6 +86,7 @@ DOMAIN,static.npmjs.com
 DOMAIN,static-production.npmjs.com
 DOMAIN,registry.npmjs.com
 DOMAIN-SUFFIX,yarnpkg.com
+DOMAIN,registry.npmjs.cf
 DOMAIN,registry.bower.io
 DOMAIN-SUFFIX,pypi.org
 DOMAIN-SUFFIX,pythonhosted.org
@@ -120,6 +121,8 @@ DOMAIN,static.crates.io
 DOMAIN,packages.httpie.io
 DOMAIN,assets-production.packagecloud.io
 DOMAIN,repos.danosproject.org
+DOMAIN,cdn.sheetjs.com
+DOMAIN,repo.nextdns.io
 DOMAIN,s0.wp.com
 DOMAIN,s1.wp.com
 DOMAIN,s2.wp.com
@@ -269,6 +272,7 @@ DOMAIN-SUFFIX,alonestreaming.com
 DOMAIN-SUFFIX,thisiscdn.com
 DOMAIN,cdn.vidible.tv
 DOMAIN-SUFFIX,video-cdn.net
+DOMAIN,demo.unified-streaming.com
 DOMAIN,player.vimeo.com
 DOMAIN-SUFFIX,vimeocdn.com
 DOMAIN-SUFFIX,archive.org
@@ -294,6 +298,7 @@ DOMAIN-SUFFIX,hubspotusercontent-na1.net
 DOMAIN-SUFFIX,yastatic.net
 DOMAIN,avatars.mds.yandex.net
 DOMAIN,resize.yandex.net
+DOMAIN,storage.yandexcloud.net
 DOMAIN-SUFFIX,cms.replit.com
 DOMAIN-SUFFIX,cdn.replit.com
 DOMAIN,sp.replit.com
@@ -621,6 +626,8 @@ DOMAIN-SUFFIX,ipfs-gateway.cloud
 DOMAIN-SUFFIX,w3s.link
 DOMAIN-SUFFIX,cthd.icu
 DOMAIN-SUFFIX,ipfs.4everland.xyz
+DOMAIN-SUFFIX,infura-ipfs.io
+DOMAIN-SUFFIX,ipfs.infura.io
 DOMAIN,proxy.joinmastodon.org
 DOMAIN,media.cmx.edu.kg
 DOMAIN,s3.acg.mn
@@ -660,6 +667,7 @@ DOMAIN,media.yukimochi.jp
 DOMAIN,ca.nfs.pub
 DOMAIN,cdn.masto.host
 DOMAIN,files.mastodon.ktachibana.party
+DOMAIN,assets.mozilla.social
 DOMAIN-SUFFIX,misskeyusercontent.com
 DOMAIN,o.n1mp.org
 DOMAIN,assets.plurk.com
@@ -672,6 +680,11 @@ DOMAIN,f001.backblazeb2.com
 DOMAIN,f002.backblazeb2.com
 DOMAIN,f003.backblazeb2.com
 DOMAIN,f004.backblazeb2.com
+DOMAIN,s3.eu-central-003.backblazeb2.com
+DOMAIN,s3.us-west-000.backblazeb2.com
+DOMAIN,s3.us-west-001.backblazeb2.com
+DOMAIN,s3.us-west-002.backblazeb2.com
+DOMAIN,s3.us-west-004.backblazeb2.com
 DOMAIN-SUFFIX,zohocdn.com
 DOMAIN-SUFFIX,zohostatic.com
 DOMAIN-SUFFIX,zohowebstatic.com
@@ -1096,6 +1109,10 @@ DOMAIN-SUFFIX,cloud.influxdata.com
 DOMAIN-SUFFIX,cloud1.influxdata.com
 DOMAIN-SUFFIX,cloud2.influxdata.com
 DOMAIN,api.pwnedpasswords.com
+DOMAIN,cdn.player.fm
+DOMAIN,imagehost.player.fm
+DOMAIN,play.publicradio.org
+DOMAIN-SUFFIX,stream.publicradio.org
 DOMAIN,imgs.plurk.com
 DOMAIN-SUFFIX,hembed.com
 DOMAIN-SUFFIX,motherlessmedia.com
@@ -1109,6 +1126,7 @@ DOMAIN,dynamic-assets.mobilius.top
 DOMAIN,static.change.org
 DOMAIN,assets.change.org
 DOMAIN,assets-fe.change.org
+DOMAIN,cdn.cliqz.com
 DOMAIN,static.ietf.org
 DOMAIN,static.osdn.net
 DOMAIN,static-cdn.osdn.net
@@ -1121,6 +1139,10 @@ DOMAIN,st.dynamicyield.com
 DOMAIN,st-eu.dynamicyield.com
 DOMAIN,cdn.dynamicyield.com
 DOMAIN,cdn-eu.dynamicyield.com
+DOMAIN,assets.clever-cloud.com
+DOMAIN,cdn.clever-cloud.com
+DOMAIN,components.clever-cloud.com
+DOMAIN,pic.cangku.moe
 DOMAIN,api.mintlify.com
 DOMAIN,content-prod-live.cert.starbucks.com
 DOMAIN,at.adtech.redventures.io
@@ -1408,7 +1430,6 @@ DOMAIN,cdn.nerdschalk.com
 DOMAIN,images.purevpn-tools.com
 DOMAIN-SUFFIX,makeuseofimages.com
 DOMAIN-SUFFIX,bleepstatic.com
-DOMAIN,registry.npmjs.cf
 DOMAIN-SUFFIX,oreillystatic.com
 DOMAIN,s3.stackabuse.com
 DOMAIN,cdn.weglot.com
@@ -1452,4 +1473,7 @@ DOMAIN,img.riskified.com
 DOMAIN,cdn.pathfactory.com
 DOMAIN,cdn-app.pathfactory.com
 DOMAIN-SUFFIX,prcdn.co
-#Sun 09/17/2023
+DOMAIN,logo.clearbit.com
+DOMAIN-SUFFIX,hsto.org
+DOMAIN,assets.habr.com
+#Thu 09/21/2023

@@ -14,6 +14,15 @@ DOMAIN-SUFFIX,taio.app
 DOMAIN-SUFFIX,headcaptcha.live
 DOMAIN-SUFFIX,coinzilla.io
 DOMAIN-SUFFIX,thepiratebay3.com
+DOMAIN-SUFFIX,macv.com
+DOMAIN-SUFFIX,macw.com
+DOMAIN-SUFFIX,macz.com
+DOMAIN-SUFFIX,macjb.com
+DOMAIN-SUFFIX,macsc.com
+DOMAIN-SUFFIX,macxf.com
+DOMAIN-SUFFIX,mac89.com
+DOMAIN-SUFFIX,52112.com
+DOMAIN-SUFFIX,macdown.com
 DOMAIN,hot.m.shouji.360tpcdn.com
 DOMAIN-SUFFIX,update.360safe.com
 DOMAIN,inst.360safe.com
@@ -1584,4 +1593,4 @@ DOMAIN-SUFFIX,luminati-china.io
 DOMAIN-SUFFIX,luminati.io
 DOMAIN-SUFFIX,lum-cn.io
 DOMAIN-SUFFIX,luminati-china.biz
-#Sun 09/17/2023
+#Thu 09/21/2023
