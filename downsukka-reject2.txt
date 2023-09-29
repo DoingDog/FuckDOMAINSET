@@ -20,6 +20,8 @@ DOMAIN-SUFFIX,macz.com
 DOMAIN-SUFFIX,macjb.com
 DOMAIN-SUFFIX,macsc.com
 DOMAIN-SUFFIX,macxf.com
+DOMAIN-SUFFIX,orsoon.com
+DOMAIN-SUFFIX,macxz.com
 DOMAIN-SUFFIX,mac89.com
 DOMAIN-SUFFIX,52112.com
 DOMAIN-SUFFIX,macdown.com
@@ -604,6 +606,7 @@ DOMAIN,sa.holopin.io
 DOMAIN,analytics.infomaniak.com
 DOMAIN-SUFFIX,prtrackings.com
 DOMAIN,p.cloudcraft.co
+DOMAIN,collect.foresightnews.pro
 DOMAIN,upload.qiniup.com
 DOMAIN,upload-z1.qiniup.com
 DOMAIN,upload-z2.qiniup.com
@@ -1593,4 +1596,4 @@ DOMAIN-SUFFIX,luminati-china.io
 DOMAIN-SUFFIX,luminati.io
 DOMAIN-SUFFIX,lum-cn.io
 DOMAIN-SUFFIX,luminati-china.biz
-#Mon 09/25/2023
+#Fri 09/29/2023

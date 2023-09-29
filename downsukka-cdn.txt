@@ -133,6 +133,8 @@ DOMAIN,i2.wp.com
 DOMAIN,i3.wp.com
 DOMAIN,c0.wp.com
 DOMAIN,widgets.wp.com
+DOMAIN,fonts.wp.com
+DOMAIN,fonts-api.wp.com
 DOMAIN-SUFFIX,gravatar.com
 DOMAIN-SUFFIX,wpcomstaging.com
 DOMAIN-SUFFIX,files.wordpress.com
@@ -419,6 +421,7 @@ DOMAIN,easylist-downloads.adblockplus.org
 DOMAIN-SUFFIX,1passwordusercontent.com
 DOMAIN-SUFFIX,1passwordusercontent.ca
 DOMAIN-SUFFIX,1passwordusercontent.eu
+DOMAIN,i.1password.com
 DOMAIN,static.agilebits.com
 DOMAIN,cache.agilebits.com
 DOMAIN-SUFFIX,v-cdn.net
@@ -628,6 +631,10 @@ DOMAIN-SUFFIX,cthd.icu
 DOMAIN-SUFFIX,ipfs.4everland.xyz
 DOMAIN-SUFFIX,infura-ipfs.io
 DOMAIN-SUFFIX,ipfs.infura.io
+DOMAIN-SUFFIX,gravity.jup.io
+DOMAIN-SUFFIX,ipfs.tayfundogdas.me
+DOMAIN-SUFFIX,ipfs.soul-network.com
+DOMAIN,badbits.dwebops.pub
 DOMAIN,proxy.joinmastodon.org
 DOMAIN,media.cmx.edu.kg
 DOMAIN,s3.acg.mn
@@ -875,6 +882,8 @@ DOMAIN,static.figma.com
 DOMAIN,s3-alpha-sig.figma.com
 DOMAIN,s3-alpha.figma.com
 DOMAIN,cdn.sprig.com
+DOMAIN,assets.yande.re
+DOMAIN,files.yande.re
 DOMAIN,static.buffer.com
 DOMAIN,start-page.buffer.com
 DOMAIN,icons.buffer.com
@@ -1142,6 +1151,10 @@ DOMAIN,cdn-eu.dynamicyield.com
 DOMAIN,assets.clever-cloud.com
 DOMAIN,cdn.clever-cloud.com
 DOMAIN,components.clever-cloud.com
+DOMAIN,scdn.clerk.com
+DOMAIN,img.clerk.com
+DOMAIN,static-main.moovit.com
+DOMAIN,appassets.mvtdev.com
 DOMAIN,pic.cangku.moe
 DOMAIN,api.mintlify.com
 DOMAIN,content-prod-live.cert.starbucks.com
@@ -1378,7 +1391,7 @@ DOMAIN-SUFFIX,javplayer.me
 DOMAIN-SUFFIX,siteintercept.qualtrics.com
 DOMAIN,c.marsflag.com
 DOMAIN,mwf-service.akamaized.net
-DOMAIN,static.vx-cdn.com
+DOMAIN-SUFFIX,vx-cdn.com
 DOMAIN,static.redhat.com
 DOMAIN,rules.ac
 DOMAIN,web-assets.strava.com
@@ -1476,4 +1489,11 @@ DOMAIN-SUFFIX,prcdn.co
 DOMAIN,logo.clearbit.com
 DOMAIN-SUFFIX,hsto.org
 DOMAIN,assets.habr.com
-#Mon 09/25/2023
+DOMAIN,cdn.freebiesupply.com
+DOMAIN,static.tronscan.org
+DOMAIN,asset-cdn.uscardforum.com
+DOMAIN,public.saasexch.com
+DOMAIN,img.foresightnews.pro
+DOMAIN,cdn.sunofbeaches.com
+DOMAIN,image.theblockbeats.info
+#Fri 09/29/2023
