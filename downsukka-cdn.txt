@@ -1496,4 +1496,6 @@ DOMAIN,public.saasexch.com
 DOMAIN,img.foresightnews.pro
 DOMAIN,cdn.sunofbeaches.com
 DOMAIN,image.theblockbeats.info
-#Fri 09/29/2023
+DOMAIN-SUFFIX,jbkcdn.io
+DOMAIN-SUFFIX,akamai-content-network.com
+#Sun 10/01/2023
