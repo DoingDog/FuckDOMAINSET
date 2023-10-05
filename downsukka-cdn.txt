@@ -282,6 +282,7 @@ DOMAIN-SUFFIX,firefoxusercontent.com
 DOMAIN-SUFFIX,itsre-sumo.mozilla.net
 DOMAIN-SUFFIX,cdn.mozilla.net
 DOMAIN,archive.mozilla.org
+DOMAIN,detectportal.firefox.com
 DOMAIN-SUFFIX,hubspotusercontent30.com
 DOMAIN-SUFFIX,hubspotusercontent30.net
 DOMAIN-SUFFIX,cdn2.hubspot.net
@@ -955,6 +956,7 @@ DOMAIN,cdn.chess24.com
 DOMAIN,image.lichess1.org
 DOMAIN-SUFFIX,chesscomfiles.com
 DOMAIN,cdn.adguard.com
+DOMAIN,static.adguard.com
 DOMAIN,static.adguardvpn.com
 DOMAIN-SUFFIX,storage.infomaniak.com
 DOMAIN,static.infomaniak.ch
@@ -1143,6 +1145,7 @@ DOMAIN,alt.idgesg.net
 DOMAIN,images.idgesg.net
 DOMAIN-SUFFIX,staticworld.net
 DOMAIN-SUFFIX,iggcdn.com
+DOMAIN,assets.holopin.io
 DOMAIN,static.dynamicyield.com
 DOMAIN,st.dynamicyield.com
 DOMAIN,st-eu.dynamicyield.com
@@ -1472,6 +1475,7 @@ DOMAIN,cdn.transifex.com
 DOMAIN,cdn-txweb.transifex.com
 DOMAIN,cf.javfree.me
 DOMAIN,img.javstore.net
+DOMAIN,static.skyassets.com
 DOMAIN,pics.vpdmm.cc
 DOMAIN,static-cache.k2s.cc
 DOMAIN,cdn.rauno.me
@@ -1498,4 +1502,10 @@ DOMAIN,cdn.sunofbeaches.com
 DOMAIN,image.theblockbeats.info
 DOMAIN-SUFFIX,jbkcdn.io
 DOMAIN-SUFFIX,akamai-content-network.com
-#Sun 10/01/2023
+DOMAIN,cdn.windowsreport.com
+DOMAIN,video.cdnbye.com
+DOMAIN,signal.cdnbye.com
+DOMAIN,opensignal.cdnbye.com
+DOMAIN,signalcloud.cdnbye.com
+DOMAIN,tracker.cdnbye.com
+#Thu 10/05/2023

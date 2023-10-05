@@ -3365,6 +3365,7 @@ DOMAIN-SUFFIX,vmallres.com
 DOMAIN-SUFFIX,vmware.com
 DOMAIN-SUFFIX,vobao.com
 DOMAIN-SUFFIX,vodtcbk.com
+DOMAIN-SUFFIX,volccdn.com
 DOMAIN-SUFFIX,volceapplog.com
 DOMAIN-SUFFIX,volces.com
 DOMAIN-SUFFIX,volcvod.com
@@ -3452,6 +3453,7 @@ DOMAIN-SUFFIX,wjx.top
 DOMAIN-SUFFIX,wkcdn.com
 DOMAIN-SUFFIX,wmzhe.com
 DOMAIN-SUFFIX,wnhuifu.com
+DOMAIN-SUFFIX,wo116114.com
 DOMAIN-SUFFIX,wo1wan.com
 DOMAIN-SUFFIX,wodingche.com
 DOMAIN-SUFFIX,wol.tv
@@ -4093,4 +4095,4 @@ IP-CIDR6,2a0b:b580::/48,no-resolve
 IP-CIDR6,2a0b:b581::/48,no-resolve
 IP-CIDR6,2a0b:b582::/48,no-resolve
 IP-CIDR6,2a0b:b583::/48,no-resolve
-#Sun 10/01/2023
+#Thu 10/05/2023
