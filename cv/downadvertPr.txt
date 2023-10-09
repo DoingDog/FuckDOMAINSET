@@ -4,6 +4,10 @@ DOMAIN,ios-pclog.i4.cn
 DOMAIN,js.users.51.la
 DOMAIN,mc.51.la
 DOMAIN,opencloud.wostore.cn
+DOMAIN,p1-play.edge4k.com
+DOMAIN,p1-play.kgslb.com
+DOMAIN,p2-play.edge4k.com
+DOMAIN,play.kakao.com
 DOMAIN,safebrowsing.googleapis.com
 DOMAIN,safebrowsing.urlsec.qq.com
 DOMAIN,track.58.com
@@ -21207,4 +21211,4 @@ IP-CIDR,35.239.57.233/32,no-resolve
 IP-CIDR,44.228.85.26/32,no-resolve
 IP-CIDR,45.32.105.134/32,no-resolve
 IP-CIDR,77.162.125.199/32,no-resolve
-#Thu 10/05/2023
+#Mon 10/09/2023

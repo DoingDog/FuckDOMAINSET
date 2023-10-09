@@ -1,4 +1,6 @@
 DOMAIN,asusrouter.com
+DOMAIN,cp.cloudflare.com
+DOMAIN,detectportal.firefox.com
 DOMAIN,instant.arubanetworks.com
 DOMAIN,router.asus.com
 DOMAIN,setmeup.arubanetworks.com
@@ -141,4 +143,4 @@ IP-CIDR6,::/127,no-resolve
 IP-CIDR6,fc00::/7,no-resolve
 IP-CIDR6,fe80::/10,no-resolve
 IP-CIDR6,ff00::/8,no-resolve
-#Thu 10/05/2023
+#Mon 10/09/2023
