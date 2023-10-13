@@ -1686,6 +1686,11 @@ DOMAIN,adworldmedia.com
 DOMAIN,adworldmedia.net
 DOMAIN,adx-asia-imp.aarki.net
 DOMAIN,adx-asia.aarki.net
+DOMAIN,adx-dra.op.dbankcloud.com
+DOMAIN,adx-dra.op.hicloud.com
+DOMAIN,adx-drcn.op.dbankcloud.cn
+DOMAIN,adx-dre.op.dbankcloud.com
+DOMAIN,adx-drru.op.dbankcloud.com
 DOMAIN,adx-exchange.toast.com
 DOMAIN,adx-t.com
 DOMAIN,adx-west-imp.aarki.net
@@ -7708,6 +7713,7 @@ DOMAIN,geniusdisplay.com
 DOMAIN,geo-idm.fr
 DOMAIN,geo-targetly.com
 DOMAIN,geo.adobe.com
+DOMAIN,geo.hicloud.com
 DOMAIN,geo.kaloo.ga
 DOMAIN,geo.query.yahoo.com
 DOMAIN,geo.settings-win.data.microsoft.com.akadns.net
@@ -11013,9 +11019,6 @@ DOMAIN,logs.81plug.com
 DOMAIN,logs.amap.com
 DOMAIN,logs.datadoghq.com
 DOMAIN,logs.psm.wmcdp.io
-DOMAIN,logservice-dra.platform.hicloud.com
-DOMAIN,logservice-dre.platform.dbankcloud.cn
-DOMAIN,logservice-dre.platform.hicloud.com
 DOMAIN,logview.uc.alimama.com
 DOMAIN,logxp.ru
 DOMAIN,logz.ru
@@ -12356,7 +12359,6 @@ DOMAIN,muvimtim.com
 DOMAIN,muwjxxvovtb.com
 DOMAIN,muzjpkel.com
 DOMAIN,mvbemeggnodty.com
-DOMAIN,mvconf.cloud.360safe.com
 DOMAIN,mvconf.lato.cloud.360safe.com
 DOMAIN,mvconf.uk.cloud.360safe.com
 DOMAIN,mvdbdtwicgw.bid
@@ -12392,6 +12394,7 @@ DOMAIN,mwslcqfoifw.com
 DOMAIN,mwstats.net
 DOMAIN,mwtvrqokhbnidz.com
 DOMAIN,mwvznnssqv.com
+DOMAIN,mwzeom.zeotap.com
 DOMAIN,mwzquivpqnod.com
 DOMAIN,mxadtjluuv.com
 DOMAIN,mxapis.com
@@ -16779,6 +16782,7 @@ DOMAIN,spinfo.wps.cn
 DOMAIN,spire.aarki.net
 DOMAIN,spjvuubtewq.com
 DOMAIN,spklw.com
+DOMAIN,spl.zeotap.com
 DOMAIN,splash-screen.voodoo-ads.io
 DOMAIN,splashimgbssdl.yun.kugou.com
 DOMAIN,splinky.com
@@ -19994,7 +19998,3 @@ DOMAIN,wuyzotif.com
 DOMAIN,wv-law.com
 DOMAIN,wvbdtcyhgwy.com
 DOMAIN,wvesvozyuoxg.com
-DOMAIN,wvhsouzoan.com
-DOMAIN,wvlveodsvygn.com
-DOMAIN,wvoahyehtvj.com
-DOMAIN,wvrmnqgmemkw.com
