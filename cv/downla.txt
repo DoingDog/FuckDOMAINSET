@@ -123,6 +123,7 @@ DOMAIN-SUFFIX,routerlogin.com
 DOMAIN-SUFFIX,tendawifi.com
 DOMAIN-SUFFIX,tplinkwifi.net
 DOMAIN-SUFFIX,tplogin.cn
+DOMAIN-SUFFIX,ts.net
 DOMAIN-SUFFIX,wifi.cmcc
 DOMAIN-SUFFIX,zte.home
 IP-CIDR,0.0.0.0/8,no-resolve
@@ -143,4 +144,4 @@ IP-CIDR6,::/127,no-resolve
 IP-CIDR6,fc00::/7,no-resolve
 IP-CIDR6,fe80::/10,no-resolve
 IP-CIDR6,ff00::/8,no-resolve
-#Fri 10/13/2023
+#Tue 10/17/2023

@@ -2345,7 +2345,6 @@ DOMAIN,api.omnilocal.ai
 DOMAIN,api.optinmonster.com
 DOMAIN,api.otherlevels.com
 DOMAIN,api.parse.com
-DOMAIN,api.pdbarea.com
 DOMAIN,api.perzonalization.com
 DOMAIN,api.platform.letv.com
 DOMAIN,api.player.xcal.tv
@@ -2471,6 +2470,7 @@ DOMAIN,apps.shareaholic.com
 DOMAIN,appsha5.space
 DOMAIN,appsrv.display.io
 DOMAIN,apptap.com
+DOMAIN,aprod.scopely.io
 DOMAIN,aprtn.com
 DOMAIN,aprtx.com
 DOMAIN,apscxogwydnkx.com
@@ -2944,6 +2944,7 @@ DOMAIN,banners.blacksexmatch.com
 DOMAIN,banners.ixitools.com
 DOMAIN,banners.mellowads.com
 DOMAIN,banners.passiondollars.com
+DOMAIN,banners.penthouse.com
 DOMAIN,banners.rude.com
 DOMAIN,banners.rushcommerce.com
 DOMAIN,banners.smarttweak.com
@@ -3573,6 +3574,8 @@ DOMAIN,brsrvr.com
 DOMAIN,bruceleadx3.com
 DOMAIN,bruceleadx4.com
 DOMAIN,bryvvdtek.com
+DOMAIN,bs-geo.dvgtm.akadns.net
+DOMAIN,bs-wlb-uswest.dvgtm.akadns.net
 DOMAIN,bs.csshq.com.cn
 DOMAIN,bs.eyeblaster.akadns.net
 DOMAIN,bs.lamrd.cn
@@ -6035,6 +6038,7 @@ DOMAIN,duu8lzqdm8tsz.cloudfront.net
 DOMAIN,duwomuonxosyjf.com
 DOMAIN,duzakergeex.com
 DOMAIN,dvgpgtwrqxa.com
+DOMAIN,dvgtm.akadns.net
 DOMAIN,dvhznawcuacblo.com
 DOMAIN,dviiocxrl.com
 DOMAIN,dvjhdodvcu.com
@@ -6846,6 +6850,7 @@ DOMAIN,exchangecash.de
 DOMAIN,exclusiveclicks.com
 DOMAIN,exclusivepussy.com
 DOMAIN,excqjoor.com
+DOMAIN,exe.bid
 DOMAIN,execution-use.ci360.sas.com
 DOMAIN,exercially.mobi
 DOMAIN,exernala.com
@@ -7083,6 +7088,7 @@ DOMAIN,fem-inc.com
 DOMAIN,femalewrestlingnow.com
 DOMAIN,fencemiracle.com
 DOMAIN,fengxiangstore.com
+DOMAIN,fenrir-resolver.aprod.scopely.io
 DOMAIN,feozcthyfbdc.com
 DOMAIN,feraciumus.com
 DOMAIN,ferank.fr
@@ -7520,6 +7526,7 @@ DOMAIN,fusestats.com
 DOMAIN,fusion-files-cf.pinsightmedia.com
 DOMAIN,fusion-iad-dev-clogs-eqbrmmvphc.elasticbeanstalk.com
 DOMAIN,fuszkweba.com
+DOMAIN,futsoksu.com
 DOMAIN,future888.net
 DOMAIN,fuxhdhdjlyrwhq.com
 DOMAIN,fuxoasim.link
@@ -11021,6 +11028,7 @@ DOMAIN,logs.datadoghq.com
 DOMAIN,logs.psm.wmcdp.io
 DOMAIN,logview.uc.alimama.com
 DOMAIN,logxp.ru
+DOMAIN,logystowtencon.info
 DOMAIN,logz.ru
 DOMAIN,lohappbnrpgypu.com
 DOMAIN,lohxvwjpvl.com
@@ -11874,6 +11882,7 @@ DOMAIN,metering.pagesuite.com
 DOMAIN,metricool.com
 DOMAIN,metricreceiver.cellrebel.com
 DOMAIN,metrics.aetn.com
+DOMAIN,metrics.apple.com
 DOMAIN,metrics.client-eng.a2z.com
 DOMAIN,metrics.el-mundo.net
 DOMAIN,metrics.fedex.com
@@ -14727,6 +14736,7 @@ DOMAIN,q.ihgmc.cn
 DOMAIN,q.myvisualiq.net
 DOMAIN,q0zsp5e3dv.com
 DOMAIN,q1media.com
+DOMAIN,q1mediahydraplatform.com
 DOMAIN,q1xyxm89.com
 DOMAIN,q3d9whbdhpb.tk
 DOMAIN,q3sift.com
@@ -16970,6 +16980,7 @@ DOMAIN,static.affilae.com
 DOMAIN,static.affluent.io
 DOMAIN,static.akacdn.ru
 DOMAIN,static.apptrack.cn
+DOMAIN,static.aprod.scopely.io
 DOMAIN,static.atgsvcs.com
 DOMAIN,static.baixingcdn.com
 DOMAIN,static.bmob.cn
@@ -17963,6 +17974,7 @@ DOMAIN,tpkmwnwbzetzbj.com
 DOMAIN,tpm.pw
 DOMAIN,tpmrwyhloretut.com
 DOMAIN,tpqweavlol.com
+DOMAIN,tps-wlb-uswest.dvgtm.akadns.net
 DOMAIN,tpwumuxcasj.com
 DOMAIN,tqbmcmttzid.com
 DOMAIN,tqddgnqsrya.com
@@ -19833,7 +19845,6 @@ DOMAIN,wlgkqespz.com
 DOMAIN,wlgszt.com
 DOMAIN,wlhgopaqpmwah.com
 DOMAIN,wlnxskclqr.com
-DOMAIN,wlog.kuaishou.com
 DOMAIN,wlrzptntiqez.com
 DOMAIN,wlszodcfwqk.com
 DOMAIN,wlwootzzijp.com
@@ -19987,14 +19998,3 @@ DOMAIN,wufcygryt.com
 DOMAIN,wufel.ml
 DOMAIN,wugwwssgjcn.com
 DOMAIN,wuldvrdfie.com
-DOMAIN,wultaikr.net
-DOMAIN,wundercounter.com
-DOMAIN,wunderloop.net
-DOMAIN,wurgaxfamfgyo.com
-DOMAIN,wusxwgotv.com
-DOMAIN,wutzpotztbri.com
-DOMAIN,wuvac.agwebdigital.com
-DOMAIN,wuyzotif.com
-DOMAIN,wv-law.com
-DOMAIN,wvbdtcyhgwy.com
-DOMAIN,wvesvozyuoxg.com
