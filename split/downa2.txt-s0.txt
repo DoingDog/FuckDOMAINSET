@@ -2405,7 +2405,6 @@ DOMAIN,apiafubb.com
 DOMAIN,apicit.net
 DOMAIN,apicosdk.onemt.co
 DOMAIN,apicssdk.onemt.co
-DOMAIN,apilog-web.acfun.cn
 DOMAIN,apilog.app.acfun.cn
 DOMAIN,apis.com.br
 DOMAIN,apistat.gao7.com
@@ -2592,6 +2591,7 @@ DOMAIN,assets.emarsys.net
 DOMAIN,assets.iterable.com
 DOMAIN,assets.kampyle.com
 DOMAIN,assets.locuslabs.com
+DOMAIN,assets.micpn.com
 DOMAIN,assets.minutemediacdn.com
 DOMAIN,assets.msn.cn
 DOMAIN,assets.narvar.com
@@ -3574,7 +3574,6 @@ DOMAIN,browserpusher.com
 DOMAIN,browsersfeedback.com
 DOMAIN,brqvld0p.com
 DOMAIN,brrqeprqsrvrt.com
-DOMAIN,brsrvr.com
 DOMAIN,bruceleadx3.com
 DOMAIN,bruceleadx4.com
 DOMAIN,bryvvdtek.com
@@ -11942,6 +11941,7 @@ DOMAIN,miaomu139.cn
 DOMAIN,miav-cse.avlyun.com
 DOMAIN,mibebu.com
 DOMAIN,micodigo.com
+DOMAIN,micpn.com
 DOMAIN,microadinc.com
 DOMAIN,microcounter.de
 DOMAIN,microsoftaffiliates.net
