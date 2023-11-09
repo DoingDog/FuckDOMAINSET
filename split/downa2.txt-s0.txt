@@ -194,7 +194,6 @@ DOMAIN,1q2w3.live
 DOMAIN,1rxntv.io
 DOMAIN,1sen-pit-fan.com
 DOMAIN,1v7.cn
-DOMAIN,1web.me
 DOMAIN,1worldonline.com
 DOMAIN,1yk851od.com
 DOMAIN,2.92caijing.com
@@ -543,7 +542,6 @@ DOMAIN,5leji.com
 DOMAIN,5mnh.com
 DOMAIN,5qg9ibt1a6.com
 DOMAIN,5ubei.com
-DOMAIN,5yfi7sy.com
 DOMAIN,600zi.com
 DOMAIN,602d76e204c032.com
 DOMAIN,6066bd8aab9d73e3.com
@@ -3529,7 +3527,6 @@ DOMAIN,bounce.bar
 DOMAIN,bouncepilot.com
 DOMAIN,bouncex.com
 DOMAIN,bovada.lv
-DOMAIN,bowells.com
 DOMAIN,boy.fujieace.com
 DOMAIN,boylesportsreklame.com
 DOMAIN,bozhihua.com
@@ -4408,7 +4405,6 @@ DOMAIN,city-ads.de
 DOMAIN,citymediamagazin.hu
 DOMAIN,citypaketet.se
 DOMAIN,citysex.com
-DOMAIN,citysite.net
 DOMAIN,cityua.net
 DOMAIN,ciusqhujddbggb.com
 DOMAIN,civyssfaqtufib.com
@@ -4788,7 +4784,6 @@ DOMAIN,consumable.com
 DOMAIN,consumer.exacttargetapis.com
 DOMAIN,consumergenepool.com
 DOMAIN,contactmonkey.com
-DOMAIN,contadd.com
 DOMAIN,contadordevisitas.es
 DOMAIN,contadorgratis.com
 DOMAIN,contadorgratis.es
@@ -5416,7 +5411,6 @@ DOMAIN,data.imakenews.com
 DOMAIN,data.logentries.com
 DOMAIN,data.mgtv.com
 DOMAIN,data.qq.com
-DOMAIN,data.vod.itc.cn
 DOMAIN,data.xici.net
 DOMAIN,dataapi.ktplay.com
 DOMAIN,databerries.com
@@ -5614,6 +5608,7 @@ DOMAIN,devscroll.com
 DOMAIN,dewgnvonohak.com
 DOMAIN,dewqbkpy.com
 DOMAIN,dexim.space
+DOMAIN,deximedia.com
 DOMAIN,df-srv.de
 DOMAIN,df63de4ef399b.com
 DOMAIN,df8c5028a1fad1.com
@@ -6868,7 +6863,6 @@ DOMAIN,exchangecash.de
 DOMAIN,exclusiveclicks.com
 DOMAIN,exclusivepussy.com
 DOMAIN,excqjoor.com
-DOMAIN,exe.bid
 DOMAIN,execution-use.ci360.sas.com
 DOMAIN,exercially.mobi
 DOMAIN,exernala.com
@@ -10419,7 +10413,6 @@ DOMAIN,kontagent.net
 DOMAIN,koopei.com
 DOMAIN,koorogeb.net
 DOMAIN,koowaido.net
-DOMAIN,koprtgh.omhoa.com
 DOMAIN,kopsil.com
 DOMAIN,korrelate.net
 DOMAIN,kostenlose-counter.com
@@ -11053,7 +11046,6 @@ DOMAIN,logs.datadoghq.com
 DOMAIN,logs.psm.wmcdp.io
 DOMAIN,logview.uc.alimama.com
 DOMAIN,logxp.ru
-DOMAIN,logystowtencon.info
 DOMAIN,logz.ru
 DOMAIN,lohappbnrpgypu.com
 DOMAIN,lohxvwjpvl.com
@@ -18248,7 +18240,6 @@ DOMAIN,transactionale.com
 DOMAIN,trapasol.com
 DOMAIN,travelmail.traveltek.net
 DOMAIN,traversedlp.com
-DOMAIN,travidia.com
 DOMAIN,traviilo.com
 DOMAIN,traviously.pro
 DOMAIN,trbas.com
@@ -19998,3 +19989,12 @@ DOMAIN,wonder-ma.com
 DOMAIN,wonderpush.com
 DOMAIN,woobox.com
 DOMAIN,wood-pen.com
+DOMAIN,woopra-ns.com
+DOMAIN,wootric-eligibility.herokuapp.com
+DOMAIN,workably.club
+DOMAIN,worker1.advertnative.com
+DOMAIN,worker2.advertnative.com
+DOMAIN,worker20.advertnative.com
+DOMAIN,worker21.advertnative.com
+DOMAIN,worker22.advertnative.com
+DOMAIN,worker23.advertnative.com
