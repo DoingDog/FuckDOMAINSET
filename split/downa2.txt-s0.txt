@@ -1802,7 +1802,6 @@ DOMAIN,affiliates.galapartners.co.uk
 DOMAIN,affiliates.homestead.com
 DOMAIN,affiliates.lynda.com
 DOMAIN,affiliates.purevpn.com
-DOMAIN,affiliation-france.com
 DOMAIN,affiliation-int.com
 DOMAIN,affiliation.filestube.com
 DOMAIN,affiliation.planethoster.info
@@ -19998,3 +19997,4 @@ DOMAIN,worker20.advertnative.com
 DOMAIN,worker21.advertnative.com
 DOMAIN,worker22.advertnative.com
 DOMAIN,worker23.advertnative.com
+DOMAIN,worker24.advertnative.com
