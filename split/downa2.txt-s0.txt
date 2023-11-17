@@ -1060,6 +1060,7 @@ DOMAIN,ad-beacon-v01.uliza.jp
 DOMAIN,ad-cache.dopool.com
 DOMAIN,ad-cdn.qingting.fm
 DOMAIN,ad-channel.woyeahgo.tk
+DOMAIN,ad-clicks.com
 DOMAIN,ad-display.wikawika.xyz
 DOMAIN,ad-exchange.toast.com
 DOMAIN,ad-gbn.com
@@ -4809,6 +4810,7 @@ DOMAIN,contentapi.celltick.com
 DOMAIN,contentcache-a.akamaihd.net
 DOMAIN,contentexchange.me
 DOMAIN,contentinsights.com
+DOMAIN,contentr.net
 DOMAIN,contentsfeed.com
 DOMAIN,contentspread.net
 DOMAIN,contentsquare.net
@@ -4979,6 +4981,7 @@ DOMAIN,cpc.cc
 DOMAIN,cpcmanager.com
 DOMAIN,cpfclassifieds.com
 DOMAIN,cphalk.com
+DOMAIN,cpl1.ru
 DOMAIN,cpm360.com
 DOMAIN,cpmaffiliation.com
 DOMAIN,cpmgohigh.com
@@ -5254,6 +5257,7 @@ DOMAIN,d16xpr36wrmcmk.cloudfront.net
 DOMAIN,d18xeipe1243h6.cloudfront.net
 DOMAIN,d191y0yd6d0jy4.cloudfront.net
 DOMAIN,d194f913ee63.com
+DOMAIN,d1cdnlzf6usiff.cloudfront.net
 DOMAIN,d1cerpgff739r9.cloudfront.net
 DOMAIN,d1cr9zxt7u0sgu.cloudfront.net
 DOMAIN,d1hi41nc56pmug.cloudfront.net
@@ -5461,6 +5465,7 @@ DOMAIN,db5.settings.data.microsoft.com.akadns.net
 DOMAIN,db52cc91beabf7e8.com
 DOMAIN,db8a41d81b8dfe41de2.com
 DOMAIN,dbbp1.com
+DOMAIN,dbbsrv.com
 DOMAIN,dbhrfdfuqh.com
 DOMAIN,dbhyrddfm.com
 DOMAIN,dbktgmyjph.com
@@ -6095,6 +6100,7 @@ DOMAIN,dymzcxgdvf.com
 DOMAIN,dyn.primecdn.net
 DOMAIN,dynad.net
 DOMAIN,dynameex.com
+DOMAIN,dynamicdn.com
 DOMAIN,dynamicoxygen.com
 DOMAIN,dynamicserving.com
 DOMAIN,dynamicyield.com
@@ -6504,6 +6510,7 @@ DOMAIN,ejktviknfv.com
 DOMAIN,ejlsbfqqxoc.com
 DOMAIN,ejmiysfbwuk.com
 DOMAIN,ejodwopthpg.com
+DOMAIN,ejoonsoo.net
 DOMAIN,ejrhtmwm.com
 DOMAIN,ejwxbwzrhihtp.com
 DOMAIN,ekansovi.com
@@ -7900,6 +7907,7 @@ DOMAIN,gkumodsmcmffdv.com
 DOMAIN,glailols.com
 DOMAIN,glaimtug.com
 DOMAIN,glanceguide.com
+DOMAIN,glargoun.uk
 DOMAIN,glaswall.online
 DOMAIN,glaumtok.com
 DOMAIN,glauptan.net
@@ -8612,6 +8620,7 @@ DOMAIN,hk2wns1b.wns.windows.com
 DOMAIN,hkdjrnkjwtqo.com
 DOMAIN,hkhotpewfxr.com
 DOMAIN,hknuifygfbz.com
+DOMAIN,hkoxlirf.com
 DOMAIN,hkqhuilqnu.com
 DOMAIN,hkswktixvcot.com
 DOMAIN,hktedu.site
@@ -8896,6 +8905,7 @@ DOMAIN,hyfntrak.com
 DOMAIN,hygqtz.cn
 DOMAIN,hyperactivate.com
 DOMAIN,hyperboardupil.info
+DOMAIN,hypertrackeraff.com
 DOMAIN,hypestat.com
 DOMAIN,hyrnujewyatvd.com
 DOMAIN,hysnqwbokyuvsm.com
@@ -12094,7 +12104,6 @@ DOMAIN,mn1nm.com
 DOMAIN,mn586.com
 DOMAIN,mnaljqzekv.com
 DOMAIN,mnbfujorh.com
-DOMAIN,mncvjhg.com
 DOMAIN,mnfiiphpwzyncr.com
 DOMAIN,mnnsjudnfgalyx.com
 DOMAIN,mno.link
@@ -14210,6 +14219,7 @@ DOMAIN,popander.com
 DOMAIN,popcornvod.com
 DOMAIN,popearn.com
 DOMAIN,popmajor.com
+DOMAIN,popmog.com
 DOMAIN,popmyad.com
 DOMAIN,poponclick.com
 DOMAIN,poppcheck.de
@@ -15983,7 +15993,6 @@ DOMAIN,sd5doozry8.com
 DOMAIN,sdd.dzsc.com
 DOMAIN,sddddjsjf.net
 DOMAIN,sddlcnqhyl.com
-DOMAIN,sdfsdvc.com
 DOMAIN,sdgreg.cn
 DOMAIN,sdgvzdksjbl.com
 DOMAIN,sdillrnslaiyb.com
@@ -15992,7 +16001,6 @@ DOMAIN,sdk-api-v1.singular.net
 DOMAIN,sdk-cdn.optimove.net
 DOMAIN,sdk-configuration.gimbal.com
 DOMAIN,sdk-info.gimbal.com
-DOMAIN,sdk-monitoring.ogury.co
 DOMAIN,sdk.adspruce.com
 DOMAIN,sdk.api.oaid.wocloud.cn
 DOMAIN,sdk.api.qgraph.io
@@ -16106,7 +16114,6 @@ DOMAIN,seekads.net
 DOMAIN,seekbang.com
 DOMAIN,seemybucks.com
 DOMAIN,seesaa.jp
-DOMAIN,seethisinaction.com
 DOMAIN,seevolution.com
 DOMAIN,segment-api.humann.com
 DOMAIN,segment.a3cloud.net
@@ -16513,7 +16520,6 @@ DOMAIN,sleeknoteboxcontent.sleeknote.com
 DOMAIN,sletqnksol.com
 DOMAIN,slfjsqnmp.com
 DOMAIN,slfpu.com
-DOMAIN,slfsmf.com
 DOMAIN,slgynezaygkjqi.com
 DOMAIN,slickdeals.meritline.com
 DOMAIN,slicktext.com
@@ -17998,7 +18004,6 @@ DOMAIN,toplist.sk
 DOMAIN,toplist100.org
 DOMAIN,topmalaysia.com
 DOMAIN,topofblogs.com
-DOMAIN,topqualitylink.com
 DOMAIN,topsem.com
 DOMAIN,topshelftraffic.com
 DOMAIN,topstat.cn
@@ -19993,8 +19998,3 @@ DOMAIN,wootric-eligibility.herokuapp.com
 DOMAIN,workably.club
 DOMAIN,worker1.advertnative.com
 DOMAIN,worker2.advertnative.com
-DOMAIN,worker20.advertnative.com
-DOMAIN,worker21.advertnative.com
-DOMAIN,worker22.advertnative.com
-DOMAIN,worker23.advertnative.com
-DOMAIN,worker24.advertnative.com
