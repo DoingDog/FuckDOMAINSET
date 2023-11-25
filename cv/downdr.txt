@@ -155,7 +155,6 @@ DOMAIN-SUFFIX,tjupt.org
 DOMAIN-SUFFIX,totheglory.im
 DOMAIN-SUFFIX,tracking-protection.cdn.mozilla.net
 DOMAIN-SUFFIX,trontv.com
-DOMAIN-SUFFIX,u2.dmhy.org
 DOMAIN-SUFFIX,uhdbits.org
 DOMAIN-SUFFIX,upaiyun.com
 DOMAIN-SUFFIX,wiley.com
@@ -179,4 +178,4 @@ USER-AGENT,Coffee%20Corp*
 USER-AGENT,archero*
 USER-AGENT,coffeecorp*
 USER-AGENT,restaurant-mobile*
-#Tue 11/21/2023
+#Sat 11/25/2023
