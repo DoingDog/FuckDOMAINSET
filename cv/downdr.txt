@@ -34,6 +34,7 @@ DOMAIN,update.googleapis.com
 DOMAIN,vd.l.qq.com
 DOMAIN,vi.l.qq.com
 DOMAIN-SUFFIX,52pt.site
+DOMAIN-SUFFIX,acg.rip
 DOMAIN-SUFFIX,acm.org
 DOMAIN-SUFFIX,aidoru-online.me
 DOMAIN-SUFFIX,alpharatio.cc
@@ -63,6 +64,7 @@ DOMAIN-SUFFIX,cinemageddon.net
 DOMAIN-SUFFIX,cinematik.net
 DOMAIN-SUFFIX,cinemaz.to
 DOMAIN-SUFFIX,classix-unlimited.co.uk
+DOMAIN-SUFFIX,comicat.org
 DOMAIN-SUFFIX,concertos.live
 DOMAIN-SUFFIX,dicmusic.club
 DOMAIN-SUFFIX,discfan.net
@@ -101,6 +103,7 @@ DOMAIN-SUFFIX,hdzone.me
 DOMAIN-SUFFIX,hitpt.com
 DOMAIN-SUFFIX,hitpt.org
 DOMAIN-SUFFIX,hudbt.hust.edu.cn
+DOMAIN-SUFFIX,icetorrent.org
 DOMAIN-SUFFIX,ieee.org
 DOMAIN-SUFFIX,j99.info
 DOMAIN-SUFFIX,jiasule.com
@@ -125,7 +128,6 @@ DOMAIN-SUFFIX,ncore.cc
 DOMAIN-SUFFIX,nebulance.io
 DOMAIN-SUFFIX,nicept.net
 DOMAIN-SUFFIX,npupt.com
-DOMAIN-SUFFIX,nwsuaf6.edu.cn
 DOMAIN-SUFFIX,ol.epicgames.com
 DOMAIN-SUFFIX,open.cd
 DOMAIN-SUFFIX,oppaiti.me
@@ -144,7 +146,6 @@ DOMAIN-SUFFIX,researchgate.net
 DOMAIN-SUFFIX,sciencemag.org
 DOMAIN-SUFFIX,scopus.com
 DOMAIN-SUFFIX,sdbits.org
-DOMAIN-SUFFIX,sjtu.edu.cn
 DOMAIN-SUFFIX,skyey2.com
 DOMAIN-SUFFIX,soulvoice.club
 DOMAIN-SUFFIX,springer.com
@@ -158,9 +159,7 @@ DOMAIN-SUFFIX,trontv.com
 DOMAIN-SUFFIX,uhdbits.org
 DOMAIN-SUFFIX,upaiyun.com
 DOMAIN-SUFFIX,wiley.com
-DOMAIN-SUFFIX,xauat6.edu.cn
 DOMAIN-SUFFIX,xunlei.com
-DOMAIN-KEYWORD,announce
 DOMAIN-KEYWORD,cnki.net
 DOMAIN-KEYWORD,deepdyve
 DOMAIN-KEYWORD,els-cdn
@@ -168,8 +167,6 @@ DOMAIN-KEYWORD,elsevier
 DOMAIN-KEYWORD,pkulaw
 DOMAIN-KEYWORD,readcube
 DOMAIN-KEYWORD,sciencedirect
-DOMAIN-KEYWORD,torrent
-DOMAIN-KEYWORD,tracker
 DOMAIN-KEYWORD,wanfangdata
 DOMAIN-KEYWORD,wb_ad
 DOMAIN-KEYWORD,westlawchina
@@ -178,4 +175,4 @@ USER-AGENT,Coffee%20Corp*
 USER-AGENT,archero*
 USER-AGENT,coffeecorp*
 USER-AGENT,restaurant-mobile*
-#Tue 12/05/2023
+#Sat 12/09/2023
