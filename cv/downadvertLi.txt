@@ -25829,6 +25829,7 @@ DOMAIN-SUFFIX,api.koudaikj.com
 DOMAIN-SUFFIX,api.mp.uc.cn
 DOMAIN-SUFFIX,api.newad.ifeng.com
 DOMAIN-SUFFIX,api.newbelden.com
+DOMAIN-SUFFIX,api.nobeta.com.br
 DOMAIN-SUFFIX,api.open.uc.cn
 DOMAIN-SUFFIX,api.pingstart.com
 DOMAIN-SUFFIX,api.primecaster.net
@@ -29293,6 +29294,7 @@ DOMAIN-SUFFIX,gma1.com
 DOMAIN-SUFFIX,gmonitor.aliimg.com
 DOMAIN-SUFFIX,gmota.g188.net
 DOMAIN-SUFFIX,gmxyorg.cn
+DOMAIN-SUFFIX,gnar.grammarly.com
 DOMAIN-SUFFIX,gnativestreesaga.site
 DOMAIN-SUFFIX,gneusqa.cn
 DOMAIN-SUFFIX,gnmbd.top
@@ -34242,7 +34244,6 @@ DOMAIN-SUFFIX,sitescout.com
 DOMAIN-SUFFIX,sitetag.us
 DOMAIN-SUFFIX,sitetoway.com
 DOMAIN-SUFFIX,sixgen.cn
-DOMAIN-SUFFIX,sj.uukanshu.com
 DOMAIN-SUFFIX,sj1.3987.com
 DOMAIN-SUFFIX,sjaidu.com
 DOMAIN-SUFFIX,sjbaiduadv1.redou.com
@@ -36396,6 +36397,7 @@ DOMAIN-SUFFIX,wvstatic.cn
 DOMAIN-SUFFIX,wvver.com
 DOMAIN-SUFFIX,ww.xiaopiaoyou.com
 DOMAIN-SUFFIX,ww2.gestyy.com
+DOMAIN-SUFFIX,wwads.cn
 DOMAIN-SUFFIX,wwetjy.com
 DOMAIN-SUFFIX,wwis-dubc1-vip60.adobe.com
 DOMAIN-SUFFIX,wwlolbs.com
@@ -37648,4 +37650,4 @@ IP-CIDR,67.229.224.28/32,no-resolve
 IP-CIDR,69.28.57.245/32,no-resolve
 IP-CIDR,74.117.182.77/32,no-resolve
 IP-CIDR,78.140.131.214/32,no-resolve
-#Wed 12/13/2023
+#Sun 12/17/2023

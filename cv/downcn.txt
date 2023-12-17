@@ -620,6 +620,7 @@ DOMAIN-SUFFIX,boosj.com
 DOMAIN-SUFFIX,bootcdn.net
 DOMAIN-SUFFIX,bootcss.com
 DOMAIN-SUFFIX,bosera.com
+DOMAIN-SUFFIX,bosszhipin.com
 DOMAIN-SUFFIX,broadcasthe.net
 DOMAIN-SUFFIX,browserleaks.com
 DOMAIN-SUFFIX,bstatic.com
@@ -959,6 +960,7 @@ DOMAIN-SUFFIX,cloudyuxi.com
 DOMAIN-SUFFIX,cloudzhongshan.com
 DOMAIN-SUFFIX,cloudzhuhai.com
 DOMAIN-SUFFIX,clsa.com
+DOMAIN-SUFFIX,cm.steampowered.com
 DOMAIN-SUFFIX,cmb-leasing.com
 DOMAIN-SUFFIX,cmbchina.biz
 DOMAIN-SUFFIX,cmbchina.com
@@ -1716,6 +1718,7 @@ DOMAIN-SUFFIX,hwclouds-dns.com
 DOMAIN-SUFFIX,hwclouds-dns.net
 DOMAIN-SUFFIX,hwclouds.mobi
 DOMAIN-SUFFIX,hwcloudvis.com
+DOMAIN-SUFFIX,hwht.com
 DOMAIN-SUFFIX,hwocloud.com
 DOMAIN-SUFFIX,hwshu.com
 DOMAIN-SUFFIX,hwtrip.com
@@ -2615,7 +2618,9 @@ DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
 DOMAIN-SUFFIX,paopaoche.net
 DOMAIN-SUFFIX,papocket.com
 DOMAIN-SUFFIX,passthepopcorn.me
+DOMAIN-SUFFIX,paypal-mktg.com
 DOMAIN-SUFFIX,paypal.com
+DOMAIN-SUFFIX,paypal.me
 DOMAIN-SUFFIX,paypalobjects.com
 DOMAIN-SUFFIX,pc6.com
 DOMAIN-SUFFIX,pcbeta.com
@@ -2837,6 +2842,7 @@ DOMAIN-SUFFIX,sankuai.com
 DOMAIN-SUFFIX,sanwen.net
 DOMAIN-SUFFIX,saolife.com
 DOMAIN-SUFFIX,saraba1st.com
+DOMAIN-SUFFIX,saxyit.com
 DOMAIN-SUFFIX,sbsjk.com
 DOMAIN-SUFFIX,sc96655.com
 DOMAIN-SUFFIX,scdng.com
@@ -2995,6 +3001,7 @@ DOMAIN-SUFFIX,staticdn.net
 DOMAIN-SUFFIX,staticfile.org
 DOMAIN-SUFFIX,stcn.com
 DOMAIN-SUFFIX,steampp.net
+DOMAIN-SUFFIX,steamserver.net
 DOMAIN-SUFFIX,stockstar.com
 DOMAIN-SUFFIX,suanya.com
 DOMAIN-SUFFIX,sui.com
@@ -4124,4 +4131,4 @@ IP-CIDR6,2a0b:b580::/48,no-resolve
 IP-CIDR6,2a0b:b581::/48,no-resolve
 IP-CIDR6,2a0b:b582::/48,no-resolve
 IP-CIDR6,2a0b:b583::/48,no-resolve
-#Wed 12/13/2023
+#Sun 12/17/2023
