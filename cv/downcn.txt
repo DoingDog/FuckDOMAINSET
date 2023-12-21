@@ -3,6 +3,7 @@ DOMAIN,analytics.strava.com
 DOMAIN,blzddist1-a.akamaihd.net
 DOMAIN,cdn.angruo.com
 DOMAIN,cdp.cloud.unity3d.com
+DOMAIN,client.amplifi.com
 DOMAIN,cn.download.nvidia.com
 DOMAIN,dl.google.com
 DOMAIN,dl.steam.clngaa.com
@@ -314,7 +315,6 @@ DOMAIN-SUFFIX,abhouses.com
 DOMAIN-SUFFIX,acadn.com
 DOMAIN-SUFFIX,acctdns.com
 DOMAIN-SUFFIX,acctdns.net
-DOMAIN-SUFFIX,accuweather.com
 DOMAIN-SUFFIX,acetaffy.club
 DOMAIN-SUFFIX,acfun.com
 DOMAIN-SUFFIX,acfun.tv
@@ -465,6 +465,7 @@ DOMAIN-SUFFIX,appinn.com
 DOMAIN-SUFFIX,applysquare.com
 DOMAIN-SUFFIX,applysquare.net
 DOMAIN-SUFFIX,appshike.com
+DOMAIN-SUFFIX,appsimg.com
 DOMAIN-SUFFIX,aps.org
 DOMAIN-SUFFIX,arpun.com
 DOMAIN-SUFFIX,ascelibrary.org
@@ -533,7 +534,6 @@ DOMAIN-SUFFIX,beihaidc.com
 DOMAIN-SUFFIX,beijing-lipin.com
 DOMAIN-SUFFIX,beitai.pt
 DOMAIN-SUFFIX,beitaichufang.com
-DOMAIN-SUFFIX,bemanicn.cc
 DOMAIN-SUFFIX,bengbeng.com
 DOMAIN-SUFFIX,benghuai.com
 DOMAIN-SUFFIX,benmi.com
@@ -662,6 +662,7 @@ DOMAIN-SUFFIX,caijingwu.com
 DOMAIN-SUFFIX,cailianpress.com
 DOMAIN-SUFFIX,cainiao-inc.com
 DOMAIN-SUFFIX,cainiao.com
+DOMAIN-SUFFIX,cainiaoyizhan.com
 DOMAIN-SUFFIX,caixin.com
 DOMAIN-SUFFIX,caiyu.com
 DOMAIN-SUFFIX,caiyun.com
@@ -1032,6 +1033,7 @@ DOMAIN-SUFFIX,comicat.org
 DOMAIN-SUFFIX,computeinit.com
 DOMAIN-SUFFIX,comsenz.com
 DOMAIN-SUFFIX,concertos.live
+DOMAIN-SUFFIX,content.steamchina.com
 DOMAIN-SUFFIX,contentchina.com
 DOMAIN-SUFFIX,coolapk.com
 DOMAIN-SUFFIX,coolapkmarket.com
@@ -1088,7 +1090,6 @@ DOMAIN-SUFFIX,ctsec.com
 DOMAIN-SUFFIX,cubead.com
 DOMAIN-SUFFIX,cwxzx.com
 DOMAIN-SUFFIX,cxbiji.com
-DOMAIN-SUFFIX,cya.gg
 DOMAIN-SUFFIX,cyagen.com
 DOMAIN-SUFFIX,cybtc.com
 DOMAIN-SUFFIX,cyol.com
@@ -1468,7 +1469,6 @@ DOMAIN-SUFFIX,gdtimg.com
 DOMAIN-SUFFIX,geekpark.net
 DOMAIN-SUFFIX,geetest.com
 DOMAIN-SUFFIX,geilicdn.com
-DOMAIN-SUFFIX,getpricetag.com
 DOMAIN-SUFFIX,getui.com
 DOMAIN-SUFFIX,gezida.com
 DOMAIN-SUFFIX,gfan.com
@@ -1855,9 +1855,7 @@ DOMAIN-SUFFIX,ipip.net
 DOMAIN-SUFFIX,ipplus360.com
 DOMAIN-SUFFIX,iprdp.net
 DOMAIN-SUFFIX,ipssh.net
-DOMAIN-SUFFIX,ipv4.rainway.com
 DOMAIN-SUFFIX,ipv6-test.com
-DOMAIN-SUFFIX,ipv6.rainway.com
 DOMAIN-SUFFIX,iq.com
 DOMAIN-SUFFIX,iranshao.com
 DOMAIN-SUFFIX,irs01.com
@@ -2218,6 +2216,7 @@ DOMAIN-SUFFIX,ledu.com
 DOMAIN-SUFFIX,leetcode-cn.com
 DOMAIN-SUFFIX,leigod.com
 DOMAIN-SUFFIX,leikeji.com
+DOMAIN-SUFFIX,leiniao.com
 DOMAIN-SUFFIX,leiphone.com
 DOMAIN-SUFFIX,leiting.com
 DOMAIN-SUFFIX,leju.com
@@ -2240,7 +2239,6 @@ DOMAIN-SUFFIX,liaoxuefeng.com
 DOMAIN-SUFFIX,liba.com
 DOMAIN-SUFFIX,libaclub.com
 DOMAIN-SUFFIX,libguides.com
-DOMAIN-SUFFIX,licdn.com
 DOMAIN-SUFFIX,liepin.com
 DOMAIN-SUFFIX,lietou-static.com
 DOMAIN-SUFFIX,lietou.com
@@ -2445,8 +2443,6 @@ DOMAIN-SUFFIX,msauth.net
 DOMAIN-SUFFIX,mscbsc.com
 DOMAIN-SUFFIX,msecnd.net
 DOMAIN-SUFFIX,msedge.net
-DOMAIN-SUFFIX,msftconnecttest.com
-DOMAIN-SUFFIX,msftncsi.com
 DOMAIN-SUFFIX,msg.vg
 DOMAIN-SUFFIX,mshare.cc
 DOMAIN-SUFFIX,msn.com
@@ -2628,6 +2624,7 @@ DOMAIN-SUFFIX,pchome.net
 DOMAIN-SUFFIX,pcpop.com
 DOMAIN-SUFFIX,pddpic.com
 DOMAIN-SUFFIX,peccn.com
+DOMAIN-SUFFIX,peiluyou.com
 DOMAIN-SUFFIX,pglstatp-toutiao.com
 DOMAIN-SUFFIX,pgyer.com
 DOMAIN-SUFFIX,pgzs.com
@@ -3045,6 +3042,7 @@ DOMAIN-SUFFIX,takungpao.com
 DOMAIN-SUFFIX,tamaegis.com
 DOMAIN-SUFFIX,tandfonline.com
 DOMAIN-SUFFIX,tangeche.com
+DOMAIN-SUFFIX,tantanapp.com
 DOMAIN-SUFFIX,tanx.com
 DOMAIN-SUFFIX,tanxlog.istreamsche.com
 DOMAIN-SUFFIX,tao123.com
@@ -3086,7 +3084,6 @@ DOMAIN-SUFFIX,teachblog.net
 DOMAIN-SUFFIX,teambition.com
 DOMAIN-SUFFIX,teambition.net
 DOMAIN-SUFFIX,teambitionapis.com
-DOMAIN-SUFFIX,teamviewer.com
 DOMAIN-SUFFIX,techo.chat
 DOMAIN-SUFFIX,tefscloud.com
 DOMAIN-SUFFIX,tefscloud.net
@@ -3367,7 +3364,6 @@ DOMAIN-SUFFIX,visualstudio.com
 DOMAIN-SUFFIX,vivo.com
 DOMAIN-SUFFIX,vmall.com
 DOMAIN-SUFFIX,vmallres.com
-DOMAIN-SUFFIX,vmware.com
 DOMAIN-SUFFIX,vobao.com
 DOMAIN-SUFFIX,vodtcbk.com
 DOMAIN-SUFFIX,volccdn.com
@@ -3476,6 +3472,7 @@ DOMAIN-SUFFIX,worldscientific.com
 DOMAIN-SUFFIX,woyaogexing.com
 DOMAIN-SUFFIX,woyoo.com
 DOMAIN-SUFFIX,wps.com
+DOMAIN-SUFFIX,wpscdn.com
 DOMAIN-SUFFIX,wqiis.com
 DOMAIN-SUFFIX,wrating.com
 DOMAIN-SUFFIX,wscdns.com
@@ -3752,6 +3749,7 @@ DOMAIN-SUFFIX,zhanbuba.com
 DOMAIN-SUFFIX,zhangle.com
 DOMAIN-SUFFIX,zhangyoubao.com
 DOMAIN-SUFFIX,zhangzishi.cc
+DOMAIN-SUFFIX,zhangzs.com
 DOMAIN-SUFFIX,zhanqi.tv
 DOMAIN-SUFFIX,zhanzhang.net
 DOMAIN-SUFFIX,zhaodanji.com
@@ -3814,6 +3812,7 @@ DOMAIN-SUFFIX,zuche.com
 DOMAIN-SUFFIX,zuchecdn.com
 DOMAIN-SUFFIX,zuhaowan.com
 DOMAIN-SUFFIX,zuidaima.com
+DOMAIN-SUFFIX,zuimeitianqi.com
 DOMAIN-SUFFIX,zuodao.com
 DOMAIN-SUFFIX,zuowen8.com
 DOMAIN-SUFFIX,zuowenwang.net
@@ -3826,7 +3825,6 @@ DOMAIN-KEYWORD,.tmall.com
 DOMAIN-KEYWORD,alicdn
 DOMAIN-KEYWORD,alipay
 DOMAIN-KEYWORD,aliyun
-DOMAIN-KEYWORD,amplifi
 DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,beplay
 DOMAIN-KEYWORD,cnki.net
@@ -3843,55 +3841,6 @@ DOMAIN-KEYWORD,sciencedirect
 DOMAIN-KEYWORD,taobao
 DOMAIN-KEYWORD,wanfangdata
 DOMAIN-KEYWORD,westlawchina
-USER-AGENT,%E4%B8%AD%E5%9B%BD%E5%B7%A5%E5%95%86%E9%93%B6%E8%A1%8C*
-USER-AGENT,%E4%BA%AC%E4%B8%9C%E5%88%B0%E5%AE%B6*
-USER-AGENT,%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1*
-USER-AGENT,%E4%BC%98%E9%85%B7*
-USER-AGENT,%E5%8D%B3%E5%88%BB*
-USER-AGENT,%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91
-USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90
-USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*
-USER-AGENT,%E8%BF%85%E9%9B%B7
-USER-AGENT,%E9%85%B7%E6%88%91%E9%9F%B3%E4%B9%90*
-USER-AGENT,*QIYI*
-USER-AGENT,*Vainglory*
-USER-AGENT,AcFun*
-USER-AGENT,AdBlock*
-USER-AGENT,Best%20Trace*
-USER-AGENT,MGTV*
-USER-AGENT,MOO*
-USER-AGENT,MegaWerewolf*
-USER-AGENT,MicroMessenger%20Client
-USER-AGENT,MicroMessenger*
-USER-AGENT,MicroMessengerClient*
-USER-AGENT,Microsoft*
-USER-AGENT,MiguVideo*
-USER-AGENT,Moke*
-USER-AGENT,NeteaseMusic*
-USER-AGENT,QQ%e9%9f%b3%e4%b9%90*
-USER-AGENT,QQ*
-USER-AGENT,QQMusic*
-USER-AGENT,RemotePlay*
-USER-AGENT,TIM*
-USER-AGENT,TeamViewer*
-USER-AGENT,TencentMidasConnect*
-USER-AGENT,TeslaMap
-USER-AGENT,WeChat*
-USER-AGENT,WebTorrent*
-USER-AGENT,YYeTs*
-USER-AGENT,Youku*
-USER-AGENT,arrowio*
-USER-AGENT,balls*
-USER-AGENT,bili*
-USER-AGENT,cmb*
-USER-AGENT,cmblife*
-USER-AGENT,eusoft_ting_en_iphone
-USER-AGENT,hearthstone*
-USER-AGENT,hide*
-USER-AGENT,iQiYi*
-USER-AGENT,live4iphone*
-USER-AGENT,qqlive4iphone*
-USER-AGENT,ting_en
 IP-CIDR,1.255.62.0/24,no-resolve
 IP-CIDR,101.198.128.0/18,no-resolve
 IP-CIDR,101.198.192.0/19,no-resolve
@@ -4131,4 +4080,4 @@ IP-CIDR6,2a0b:b580::/48,no-resolve
 IP-CIDR6,2a0b:b581::/48,no-resolve
 IP-CIDR6,2a0b:b582::/48,no-resolve
 IP-CIDR6,2a0b:b583::/48,no-resolve
-#Sun 12/17/2023
+#Thu 12/21/2023

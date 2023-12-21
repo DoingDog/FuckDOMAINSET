@@ -1590,7 +1590,6 @@ DOMAIN,adtrack.calls.net
 DOMAIN,adtrackers.net
 DOMAIN,adtransfer.net
 DOMAIN,adtraxx.de
-DOMAIN,adtrgt.com
 DOMAIN,adtriba.com
 DOMAIN,adtrix.com
 DOMAIN,adtrovert.com
@@ -2542,7 +2541,6 @@ DOMAIN,as.g5s.ifeng.com
 DOMAIN,as.jivox.com
 DOMAIN,as00.estara.com
 DOMAIN,as07d698u9.com
-DOMAIN,as1.wenku.baidu.com
 DOMAIN,asadcdn.com
 DOMAIN,asadzntx.com
 DOMAIN,ascend.ai
@@ -5479,7 +5477,6 @@ DOMAIN,db5.vortex.data.microsoft.com.akadns.net
 DOMAIN,db52cc91beabf7e8.com
 DOMAIN,db8a41d81b8dfe41de2.com
 DOMAIN,dbbp1.com
-DOMAIN,dbbsrv.com
 DOMAIN,dbhrfdfuqh.com
 DOMAIN,dbhyrddfm.com
 DOMAIN,dbktgmyjph.com
@@ -5625,7 +5622,6 @@ DOMAIN,devscroll.com
 DOMAIN,dewgnvonohak.com
 DOMAIN,dewqbkpy.com
 DOMAIN,dexim.space
-DOMAIN,deximedia.com
 DOMAIN,df-srv.de
 DOMAIN,df63de4ef399b.com
 DOMAIN,df8c5028a1fad1.com
@@ -8928,7 +8924,6 @@ DOMAIN,hygqtz.cn
 DOMAIN,hype-ads.com
 DOMAIN,hyperactivate.com
 DOMAIN,hyperboardupil.info
-DOMAIN,hypertrackeraff.com
 DOMAIN,hypestat.com
 DOMAIN,hyrnujewyatvd.com
 DOMAIN,hysnqwbokyuvsm.com
@@ -9212,7 +9207,6 @@ DOMAIN,img-cdn-eu.pro
 DOMAIN,img-cdn-us.pro
 DOMAIN,img-cdn.clinch.co
 DOMAIN,img.1whour.com
-DOMAIN,img.ads.huntmad.com
 DOMAIN,img.adtiming.com
 DOMAIN,img.ak.impact-ad.jp
 DOMAIN,img.apnanalytics.com
@@ -9259,6 +9253,7 @@ DOMAIN,imgstat.ameba.jp
 DOMAIN,imgtown.pw
 DOMAIN,imgtty.com
 DOMAIN,imgview.pw
+DOMAIN,imgwebfeed.com
 DOMAIN,imhizxejm.com
 DOMAIN,imho.ru
 DOMAIN,imiclk.com
@@ -12272,7 +12267,6 @@ DOMAIN,motominer.com
 DOMAIN,motorpresse-statistik.de
 DOMAIN,motrixi.com
 DOMAIN,mottnow.com
-DOMAIN,mountain.zhidao.baidu.com
 DOMAIN,moupdate1.kingsoft-office-service.com
 DOMAIN,mouse3k.com
 DOMAIN,mousetrace.com
@@ -13483,12 +13477,10 @@ DOMAIN,optiads.org
 DOMAIN,optify.net
 DOMAIN,optiker-michelmann.de
 DOMAIN,optimahub.com
-DOMAIN,optimatic.com
 DOMAIN,optimierung-der-website.de
 DOMAIN,optimization-methods.com
 DOMAIN,optimizely.appspot.com
 DOMAIN,optimizelydata.com
-DOMAIN,optimizesocial.com
 DOMAIN,optimonk.com
 DOMAIN,optin-machine.com
 DOMAIN,optinemailpro.com
@@ -14134,6 +14126,7 @@ DOMAIN,plaxo.com
 DOMAIN,play.flowplayer.space
 DOMAIN,play.istlandoll.com
 DOMAIN,play.kakao.com
+DOMAIN,play.on.animeteatr.ru
 DOMAIN,play.play1.videos.vidto.me
 DOMAIN,play.power.tainiesonline.pw
 DOMAIN,play.s01.vidtodo.pro
@@ -14804,7 +14797,6 @@ DOMAIN,q.ihgmc.cn
 DOMAIN,q.myvisualiq.net
 DOMAIN,q0zsp5e3dv.com
 DOMAIN,q1media.com
-DOMAIN,q1mediahydraplatform.com
 DOMAIN,q1xyxm89.com
 DOMAIN,q3d9whbdhpb.tk
 DOMAIN,q3sift.com
@@ -19998,3 +19990,11 @@ DOMAIN,wlnxskclqr.com
 DOMAIN,wlrzptntiqez.com
 DOMAIN,wlszodcfwqk.com
 DOMAIN,wlwootzzijp.com
+DOMAIN,wlzdghlzjewbwv.com
+DOMAIN,wm.yololike.space
+DOMAIN,wma.io
+DOMAIN,wmaqrkguf.com
+DOMAIN,wmedia-track.uc.cn
+DOMAIN,wmflabs.org
+DOMAIN,wmmediacorp.com
+DOMAIN,wmniqkqrr.com
