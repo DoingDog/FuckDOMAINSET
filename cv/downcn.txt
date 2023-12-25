@@ -2718,7 +2718,13 @@ DOMAIN-SUFFIX,qhimgs5.com
 DOMAIN-SUFFIX,qhimgs6.com
 DOMAIN-SUFFIX,qhmsg.com
 DOMAIN-SUFFIX,qhres.com
+DOMAIN-SUFFIX,qhres0.com
+DOMAIN-SUFFIX,qhres1.com
 DOMAIN-SUFFIX,qhres2.com
+DOMAIN-SUFFIX,qhres3.com
+DOMAIN-SUFFIX,qhres4.com
+DOMAIN-SUFFIX,qhres5.com
+DOMAIN-SUFFIX,qhres6.com
 DOMAIN-SUFFIX,qhstatic.com
 DOMAIN-SUFFIX,qhupdate.com
 DOMAIN-SUFFIX,qiangbus.com
@@ -4080,4 +4086,4 @@ IP-CIDR6,2a0b:b580::/48,no-resolve
 IP-CIDR6,2a0b:b581::/48,no-resolve
 IP-CIDR6,2a0b:b582::/48,no-resolve
 IP-CIDR6,2a0b:b583::/48,no-resolve
-#Thu 12/21/2023
+#Mon 12/25/2023
