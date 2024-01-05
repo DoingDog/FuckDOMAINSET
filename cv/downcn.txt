@@ -6,8 +6,6 @@ DOMAIN,cdp.cloud.unity3d.com
 DOMAIN,client.amplifi.com
 DOMAIN,cn.download.nvidia.com
 DOMAIN,dl.google.com
-DOMAIN,dl.steam.clngaa.com
-DOMAIN,dl.steam.ksyna.com
 DOMAIN,download.jetbrains.com
 DOMAIN,gs-loc-cn.apple.com
 DOMAIN,images-cn.ssl-images-amazon.com
@@ -25,6 +23,7 @@ DOMAIN,upos-hz-mirrorakam.akamaized.net
 DOMAIN,www.layuicdn.com
 DOMAIN,www.libvideo.com
 DOMAIN,www.yxssp.com
+DOMAIN,xz.pphimalayanrt.com
 DOMAIN-SUFFIX,00cdn.com
 DOMAIN-SUFFIX,0123456789.com
 DOMAIN-SUFFIX,0379home.com
@@ -1033,7 +1032,6 @@ DOMAIN-SUFFIX,comicat.org
 DOMAIN-SUFFIX,computeinit.com
 DOMAIN-SUFFIX,comsenz.com
 DOMAIN-SUFFIX,concertos.live
-DOMAIN-SUFFIX,content.steamchina.com
 DOMAIN-SUFFIX,contentchina.com
 DOMAIN-SUFFIX,coolapk.com
 DOMAIN-SUFFIX,coolapkmarket.com
@@ -1179,6 +1177,9 @@ DOMAIN-SUFFIX,discuz.net
 DOMAIN-SUFFIX,discuz.org
 DOMAIN-SUFFIX,diyiyou.com
 DOMAIN-SUFFIX,dj99.com
+DOMAIN-SUFFIX,dl.bscstorage.net
+DOMAIN-SUFFIX,dl.eccdnx.com
+DOMAIN-SUFFIX,dl.pinyuncloud.com
 DOMAIN-SUFFIX,dlgslb.net
 DOMAIN-SUFFIX,dlnel.com
 DOMAIN-SUFFIX,dlnel.org
@@ -1731,6 +1732,7 @@ DOMAIN-SUFFIX,iask.com
 DOMAIN-SUFFIX,ibaotu.com
 DOMAIN-SUFFIX,ibcet.org
 DOMAIN-SUFFIX,ibidian.com
+DOMAIN-SUFFIX,ibreader.com
 DOMAIN-SUFFIX,ibuychem.com
 DOMAIN-SUFFIX,ibytedapm.com
 DOMAIN-SUFFIX,ica-alliance.org
@@ -2222,6 +2224,7 @@ DOMAIN-SUFFIX,leiting.com
 DOMAIN-SUFFIX,leju.com
 DOMAIN-SUFFIX,lemall.com
 DOMAIN-SUFFIX,lemicp.com
+DOMAIN-SUFFIX,lenovomm.com
 DOMAIN-SUFFIX,letitfly.me
 DOMAIN-SUFFIX,leturich.org
 DOMAIN-SUFFIX,letv.com
@@ -3003,6 +3006,10 @@ DOMAIN-SUFFIX,startssl.com
 DOMAIN-SUFFIX,staticdn.net
 DOMAIN-SUFFIX,staticfile.org
 DOMAIN-SUFFIX,stcn.com
+DOMAIN-SUFFIX,steam.clngaa.com
+DOMAIN-SUFFIX,steam.ksyna.com
+DOMAIN-SUFFIX,steamchina.com
+DOMAIN-SUFFIX,steamcontent.tnkjmec.com
 DOMAIN-SUFFIX,steampp.net
 DOMAIN-SUFFIX,steamserver.net
 DOMAIN-SUFFIX,stockstar.com
@@ -3460,6 +3467,7 @@ DOMAIN-SUFFIX,wiwide.com
 DOMAIN-SUFFIX,wjx.com
 DOMAIN-SUFFIX,wjx.top
 DOMAIN-SUFFIX,wkcdn.com
+DOMAIN-SUFFIX,wmsjsteam.com
 DOMAIN-SUFFIX,wmzhe.com
 DOMAIN-SUFFIX,wnhuifu.com
 DOMAIN-SUFFIX,wo116114.com
@@ -4086,4 +4094,4 @@ IP-CIDR6,2a0b:b580::/48,no-resolve
 IP-CIDR6,2a0b:b581::/48,no-resolve
 IP-CIDR6,2a0b:b582::/48,no-resolve
 IP-CIDR6,2a0b:b583::/48,no-resolve
-#Mon 01/01/2024
+#Fri 01/05/2024
