@@ -12790,6 +12790,7 @@ DOMAIN,news.smi2.ru
 DOMAIN,news.tagtoo.co
 DOMAIN,news.xcpi.cn
 DOMAIN,news2day.me
+DOMAIN,newsadsppush.com
 DOMAIN,newsanalytics.com.au
 DOMAIN,newsarmor.com
 DOMAIN,newscurve.com
@@ -14392,7 +14393,6 @@ DOMAIN,prapi.cision.com
 DOMAIN,prcymjchczmbjj.com
 DOMAIN,prd1.personalization.centech.glulive.com
 DOMAIN,prd1.revid.centech.glulive.com
-DOMAIN,prdwebcollector.ruetracking.com
 DOMAIN,pre.footprintpredict.com
 DOMAIN,prebid-a.rubiconproject.net.akadns.net
 DOMAIN,prebid-server-perf.rubiconproject.net.akadns.net
