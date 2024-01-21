@@ -21,7 +21,6 @@ DOMAIN,upos-hz-mirrorakam.akamaized.net
 DOMAIN,www.layuicdn.com
 DOMAIN,www.libvideo.com
 DOMAIN,www.yxssp.com
-DOMAIN,xz.pphimalayanrt.com
 DOMAIN-SUFFIX,00cdn.com
 DOMAIN-SUFFIX,0123456789.com
 DOMAIN-SUFFIX,0379home.com
@@ -2658,6 +2657,7 @@ DOMAIN-SUFFIX,pniao.com
 DOMAIN-SUFFIX,polyv.net
 DOMAIN-SUFFIX,pornbits.net
 DOMAIN-SUFFIX,powerapp.io
+DOMAIN-SUFFIX,pphimalayanrt.com
 DOMAIN-SUFFIX,pplive.com
 DOMAIN-SUFFIX,pps.tv
 DOMAIN-SUFFIX,ppsimg.com
@@ -3006,7 +3006,6 @@ DOMAIN-SUFFIX,stcn.com
 DOMAIN-SUFFIX,steam.clngaa.com
 DOMAIN-SUFFIX,steam.ksyna.com
 DOMAIN-SUFFIX,steamchina.com
-DOMAIN-SUFFIX,steamcontent.tnkjmec.com
 DOMAIN-SUFFIX,steampp.net
 DOMAIN-SUFFIX,steamserver.net
 DOMAIN-SUFFIX,stockstar.com
@@ -3200,6 +3199,7 @@ DOMAIN-SUFFIX,tmtpost.com
 DOMAIN-SUFFIX,tmtsmartlife.com
 DOMAIN-SUFFIX,tmtsmartrun.com
 DOMAIN-SUFFIX,tmzvps.com
+DOMAIN-SUFFIX,tnkjmec.com
 DOMAIN-SUFFIX,tobosu.com
 DOMAIN-SUFFIX,tom.com
 DOMAIN-SUFFIX,tongdun.net
@@ -4091,4 +4091,4 @@ IP-CIDR6,2a0b:b580::/48,no-resolve
 IP-CIDR6,2a0b:b581::/48,no-resolve
 IP-CIDR6,2a0b:b582::/48,no-resolve
 IP-CIDR6,2a0b:b583::/48,no-resolve
-#Wed 01/17/2024
+#Sun 01/21/2024
