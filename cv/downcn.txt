@@ -6,10 +6,12 @@ DOMAIN,cdp.cloud.unity3d.com
 DOMAIN,client.amplifi.com
 DOMAIN,cn.download.nvidia.com
 DOMAIN,download.jetbrains.com
+DOMAIN,emby.plusmedia.site
 DOMAIN,gs-loc-cn.apple.com
 DOMAIN,images-cn.ssl-images-amazon.com
 DOMAIN,injections.adguard.org
 DOMAIN,ip.istatmenus.app
+DOMAIN,jz.mcjoker.xyz
 DOMAIN,kc.kexinshe.com
 DOMAIN,local.adguard.org
 DOMAIN,origin-a.akamaihd.ne
@@ -1037,6 +1039,7 @@ DOMAIN-SUFFIX,coolbuy.com
 DOMAIN-SUFFIX,cooldock.com
 DOMAIN-SUFFIX,coolsite.vip
 DOMAIN-SUFFIX,cootekservice.com
+DOMAIN-SUFFIX,cowcs.com
 DOMAIN-SUFFIX,cowlevel.net
 DOMAIN-SUFFIX,cowtransfer.com
 DOMAIN-SUFFIX,cppblog.com
@@ -4091,4 +4094,4 @@ IP-CIDR6,2a0b:b580::/48,no-resolve
 IP-CIDR6,2a0b:b581::/48,no-resolve
 IP-CIDR6,2a0b:b582::/48,no-resolve
 IP-CIDR6,2a0b:b583::/48,no-resolve
-#Thu 01/25/2024
+#Mon 01/29/2024
