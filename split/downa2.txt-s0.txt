@@ -918,6 +918,7 @@ DOMAIN,a6s.hn985.com
 DOMAIN,a8.net
 DOMAIN,a8c37822e110e3.com
 DOMAIN,a8ww.net
+DOMAIN,a9.xlgqy.com
 DOMAIN,a911a1ed6c0.com
 DOMAIN,a940db0846408b2.com
 DOMAIN,a9d7c19f0282.com
@@ -2075,6 +2076,7 @@ DOMAIN,analytics.clickdimensions.com
 DOMAIN,analytics.cnd-motionmedia.de
 DOMAIN,analytics.console.aws.a2z.com
 DOMAIN,analytics.edgekey.net
+DOMAIN,analytics.edgesuite.net
 DOMAIN,analytics.fosrv.com
 DOMAIN,analytics.gismart.xyz
 DOMAIN,analytics.greensender.pl
@@ -10163,6 +10165,7 @@ DOMAIN,kameleoon.com
 DOMAIN,kampyle.com
 DOMAIN,kang08.com
 DOMAIN,kanglingjiu.com
+DOMAIN,kantarmedia.com
 DOMAIN,kantartns.lt
 DOMAIN,kapcotool.com
 DOMAIN,kaplay.com
@@ -19995,6 +19998,3 @@ DOMAIN,ws.browsermine.com
 DOMAIN,ws.otherlevels.com
 DOMAIN,ws.push-notifs.com
 DOMAIN,wsback2b.prod.cloud.ogury.io
-DOMAIN,wsd.guonongllc.com
-DOMAIN,wsdk-files.webengage.com
-DOMAIN,wsds.cn
