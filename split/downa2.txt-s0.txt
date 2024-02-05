@@ -1059,9 +1059,7 @@ DOMAIN,ad-arata.com
 DOMAIN,ad-beacon-v01.uliza.jp
 DOMAIN,ad-cache.dopool.com
 DOMAIN,ad-cdn.qingting.fm
-DOMAIN,ad-channel.woyeahgo.tk
 DOMAIN,ad-clicks.com
-DOMAIN,ad-display.wikawika.xyz
 DOMAIN,ad-exchange.toast.com
 DOMAIN,ad-gbn.com
 DOMAIN,ad-goi.com
@@ -1146,7 +1144,6 @@ DOMAIN,adbrau.com
 DOMAIN,adbsc.flyermobi.com
 DOMAIN,adbsdk.flyermobi.com
 DOMAIN,adbukaserver.com
-DOMAIN,adbureau.net
 DOMAIN,adc-serv.net
 DOMAIN,adc.flyermobi.com
 DOMAIN,adc.hpplay.cn
@@ -1435,7 +1432,6 @@ DOMAIN,ads.bridgebase.com
 DOMAIN,ads.ccstock.cn
 DOMAIN,ads.cdn.rovio.com
 DOMAIN,ads.ce.cn
-DOMAIN,ads.chinadaily.com.cn
 DOMAIN,ads.cyberctm.com
 DOMAIN,ads.data.pplive.com
 DOMAIN,ads.dixcom.com
@@ -1641,7 +1637,6 @@ DOMAIN,advertising.lycos.com
 DOMAIN,advertising365.com
 DOMAIN,advertisingsex.com
 DOMAIN,advertnative.com
-DOMAIN,advertnetworks.com
 DOMAIN,advertom.com
 DOMAIN,advertone.ru
 DOMAIN,advertpay.vip.xunlei.com
@@ -1974,7 +1969,6 @@ DOMAIN,aljwnypxzw.com
 DOMAIN,alkemics.com
 DOMAIN,alkutbay.starbolt.io
 DOMAIN,all-about-tech.com
-DOMAIN,allabc.com
 DOMAIN,alladultcash.com
 DOMAIN,allaptair.club
 DOMAIN,allarmate.club
@@ -2189,7 +2183,6 @@ DOMAIN,aoukclebpcb.com
 DOMAIN,aovajfmsy.com
 DOMAIN,aowmaijlvxdcs.com
 DOMAIN,ap-southeast-1.prod.pr.analytics.console.aws.a2z.com
-DOMAIN,ap.dongqiudi.com
 DOMAIN,ap.ksrong.com
 DOMAIN,ap.tnkfactory.com
 DOMAIN,apcugpxy.com
@@ -2325,6 +2318,7 @@ DOMAIN,api.sailthru.com
 DOMAIN,api.salmonads.com
 DOMAIN,api.saypromo.net
 DOMAIN,api.sdk.fmobi.cn
+DOMAIN,api.sdk.zadn.vn
 DOMAIN,api.secondstreetapp.com
 DOMAIN,api.smartechmetrics.com
 DOMAIN,api.smbeat.jp
@@ -5912,6 +5906,7 @@ DOMAIN,dqburpwaqwehj.com
 DOMAIN,dqdwvmpez.com
 DOMAIN,dqeqsiwc.com
 DOMAIN,dqfpksnabgagc.com
+DOMAIN,dqhi3ea93ztgv.cloudfront.net
 DOMAIN,dqiokxyebdc.com
 DOMAIN,dqldmtpu.com
 DOMAIN,dqmfeimedqswbr.com
@@ -7247,7 +7242,6 @@ DOMAIN,flockflame.com
 DOMAIN,flodonas.com
 DOMAIN,flophous.cf
 DOMAIN,flowplayer.space
-DOMAIN,flowplus.meituan.net
 DOMAIN,flrqdjglshsbi.com
 DOMAIN,fls-na.amazon.com
 DOMAIN,flsfxpostdtvgc.com
@@ -9217,7 +9211,6 @@ DOMAIN,immanalytics.com
 DOMAIN,immscjnenl.com
 DOMAIN,imp-lb-us2.jampp.com
 DOMAIN,imp.affiliator.com
-DOMAIN,imp.clickability.com
 DOMAIN,imp.constantcontact.com
 DOMAIN,imp.nextmedia.com
 DOMAIN,impact-ad.jp
@@ -10993,6 +10986,7 @@ DOMAIN,log.liusha.info
 DOMAIN,log.mtime.cn
 DOMAIN,log.opentracker.net
 DOMAIN,log.outbrain.org
+DOMAIN,log.sdk.zadn.vn
 DOMAIN,log.so.hunantv.com
 DOMAIN,log.suumo.jp
 DOMAIN,log.tapatalk.com
@@ -11171,6 +11165,7 @@ DOMAIN,lutereum.com
 DOMAIN,luvcash.com
 DOMAIN,luvcom.com
 DOMAIN,luvnrybocrcgl.com
+DOMAIN,luxup2.ru
 DOMAIN,luxupadvb.com
 DOMAIN,luysvlnrb.com
 DOMAIN,lv711.net
@@ -13473,7 +13468,6 @@ DOMAIN,os.tc
 DOMAIN,osalsdistiniaatt.info
 DOMAIN,osdata.solutions
 DOMAIN,osdiqyuesejd.com
-DOMAIN,oset-api.open-adx.com
 DOMAIN,osevrgzpsu.com
 DOMAIN,oshoa.iptvdeals.com
 DOMAIN,oshoo.iptvdeals.com
@@ -15976,6 +15970,7 @@ DOMAIN,sdk.streamrail.com
 DOMAIN,sdk.viantsuite.com
 DOMAIN,sdk.yolanda.hk
 DOMAIN,sdk.youappi.com
+DOMAIN,sdk.zadn.vn
 DOMAIN,sdk.zapr.in
 DOMAIN,sdk.zsdfm.com
 DOMAIN,sdk2.youguoquan.com
@@ -16221,8 +16216,6 @@ DOMAIN,sexyoilwrestling.com
 DOMAIN,sexyster.tk
 DOMAIN,sexzoznamka.eu
 DOMAIN,sf14g.com
-DOMAIN,sf3-ttcdn-tos.pstatp.com
-DOMAIN,sf6-ttcdn-tos.pstatp.com
 DOMAIN,sffmctrnimk.com
 DOMAIN,sfgkhgfdsochwd.com
 DOMAIN,sfhrxcbbmtfqw.com
@@ -17810,7 +17803,6 @@ DOMAIN,tj.g.pptv.com
 DOMAIN,tj.ijinshan.com
 DOMAIN,tj.jinyuewang.cn
 DOMAIN,tj.koudaitong.com
-DOMAIN,tj.playcvn.com
 DOMAIN,tj.tt1386.com
 DOMAIN,tj.u17t.com
 DOMAIN,tj.vidown.cn
@@ -17942,7 +17934,6 @@ DOMAIN,topauto10.com
 DOMAIN,topbananaad.com
 DOMAIN,topblogarea.com
 DOMAIN,topblogging.com
-DOMAIN,topbucks.com
 DOMAIN,topcasino10.com
 DOMAIN,topclickguru.com
 DOMAIN,topdepo.com
@@ -18033,6 +18024,7 @@ DOMAIN,track.atgstores.com
 DOMAIN,track.atom-data.io
 DOMAIN,track.byzon.swelen.net
 DOMAIN,track.customer.io
+DOMAIN,track.ktplay.com
 DOMAIN,track.laredoute.fr
 DOMAIN,track.leanlab.co
 DOMAIN,track.mdrctr.com
@@ -18188,6 +18180,7 @@ DOMAIN,transactionale.com
 DOMAIN,trapasol.com
 DOMAIN,travelmail.traveltek.net
 DOMAIN,traversedlp.com
+DOMAIN,travidia.com
 DOMAIN,traviilo.com
 DOMAIN,traviously.pro
 DOMAIN,trbas.com
@@ -18295,7 +18288,6 @@ DOMAIN,ttskmaaf.com
 DOMAIN,ttuhmbor.com
 DOMAIN,ttulyfbkatyzp.com
 DOMAIN,ttz.com
-DOMAIN,tu.cvnad.com
 DOMAIN,tuajxhyk.com
 DOMAIN,tube.ac
 DOMAIN,tube8vidsbbr.dnset.com
@@ -19191,7 +19183,6 @@ DOMAIN,vip.pai76.com
 DOMAIN,vip.winfisc.com
 DOMAIN,vipwm.cc
 DOMAIN,vira.ru
-DOMAIN,viralcpm.com
 DOMAIN,viralfix.net
 DOMAIN,viralninjas.com
 DOMAIN,virgbmkmear.com
@@ -19998,3 +19989,12 @@ DOMAIN,ws.browsermine.com
 DOMAIN,ws.otherlevels.com
 DOMAIN,ws.push-notifs.com
 DOMAIN,wsback2b.prod.cloud.ogury.io
+DOMAIN,wsd.guonongllc.com
+DOMAIN,wsdk-files.webengage.com
+DOMAIN,wsds.cn
+DOMAIN,wsemqlxmmhp.com
+DOMAIN,wserver.vidazoo.com
+DOMAIN,wsgmxgtmxymwt.com
+DOMAIN,wsockd.com
+DOMAIN,wsod.com
+DOMAIN,wsowkqnxs.com
