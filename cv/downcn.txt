@@ -6,6 +6,7 @@ DOMAIN,cdp.cloud.unity3d.com
 DOMAIN,client.amplifi.com
 DOMAIN,cn.download.nvidia.com
 DOMAIN,download.jetbrains.com
+DOMAIN,dujs74mcntm.this_ruleset_is_made_by_sukkaw.jfpkl0h3w5m.ruleset.skk.moe
 DOMAIN,gs-loc-cn.apple.com
 DOMAIN,images-cn.ssl-images-amazon.com
 DOMAIN,injections.adguard.org
@@ -1569,7 +1570,6 @@ DOMAIN-SUFFIX,haibian.com
 DOMAIN-SUFFIX,haidilao.com
 DOMAIN-SUFFIX,hainanairlines.com
 DOMAIN-SUFFIX,haishun.com
-DOMAIN-SUFFIX,hamreus.com
 DOMAIN-SUFFIX,hanboshi.com
 DOMAIN-SUFFIX,handanjob.com
 DOMAIN-SUFFIX,hangjiayun.com
@@ -3683,6 +3683,7 @@ DOMAIN-SUFFIX,yiqifa.com
 DOMAIN-SUFFIX,yiqifa.org
 DOMAIN-SUFFIX,yisu.com
 DOMAIN-SUFFIX,yitaifang.com
+DOMAIN-SUFFIX,yitao.com
 DOMAIN-SUFFIX,yiwan.com
 DOMAIN-SUFFIX,yixi.tv
 DOMAIN-SUFFIX,yixia.com
@@ -4192,4 +4193,4 @@ IP-CIDR6,::ffff:58.58.0.90/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.161/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.186/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.98/128,no-resolve
-#Sun 02/25/2024
+#Thu 02/29/2024

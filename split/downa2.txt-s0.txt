@@ -1107,6 +1107,7 @@ DOMAIN,ad.ikonke.com
 DOMAIN,ad.lionmobi.com
 DOMAIN,ad.mobiuspace.net
 DOMAIN,ad.myinstashot.com
+DOMAIN,ad.org.vn
 DOMAIN,ad.qn.img-space.com
 DOMAIN,ad.quwin.cn
 DOMAIN,ad.realmcdn.net
@@ -2833,6 +2834,7 @@ DOMAIN,b.a0trade.top
 DOMAIN,b.gushiciju.com
 DOMAIN,b.hatena.ne.jp
 DOMAIN,b.logly.co.jp
+DOMAIN,b.measuread.com
 DOMAIN,b.nevadaprivateoffice.com
 DOMAIN,b.nujq0.cn
 DOMAIN,b.stats.paypal.com
@@ -6107,6 +6109,7 @@ DOMAIN,dufue2m4sondk.cloudfront.net
 DOMAIN,dugqbllwslqrlj.com
 DOMAIN,duiba.com.cn
 DOMAIN,dujbubzvrdw.com
+DOMAIN,dujs74mcntm.this_ruleset_is_made_by_sukkaw.jfpkl0h3w5m.ruleset.skk.moe
 DOMAIN,dujur.barginginfrance.net
 DOMAIN,dulrlifipkbac.com
 DOMAIN,dump1.no-ip.biz
@@ -11936,6 +11939,7 @@ DOMAIN,me-client.eservice.emarsys.net
 DOMAIN,meadigital.com
 DOMAIN,meajnbdavp.com
 DOMAIN,measure.ly
+DOMAIN,measuread.com
 DOMAIN,measured.com
 DOMAIN,meatballsandads.com
 DOMAIN,mebablo.com
@@ -13178,6 +13182,7 @@ DOMAIN,nv.vi-serve.com
 DOMAIN,nvcwpexqk.com
 DOMAIN,nvdljujp.com
 DOMAIN,nvhzkdltdxfoax.com
+DOMAIN,nvidia-graphics.top
 DOMAIN,nvidiacenter.com
 DOMAIN,nvikgaormj.com
 DOMAIN,nvloygrnfe.com
@@ -16394,6 +16399,7 @@ DOMAIN,services.brid.tv
 DOMAIN,services.brightline.tv
 DOMAIN,services.zam.com
 DOMAIN,serving-system.com
+DOMAIN,serving.ad.org.vn
 DOMAIN,servustats.com
 DOMAIN,seskeu3zk7.com
 DOMAIN,sessions.exchange
@@ -17732,6 +17738,7 @@ DOMAIN,taotu001.com
 DOMAIN,taou.cn
 DOMAIN,taowjygwtm.com
 DOMAIN,taozgpkjzpdtgr.com
+DOMAIN,tapas.net
 DOMAIN,tapffdskgjr.com
 DOMAIN,tapjoy-com-lb-vpc-332546193.us-east-1.elb.amazonaws.com
 DOMAIN,tapnative.com
@@ -19991,10 +19998,3 @@ DOMAIN,wh5kb0u4.com
 DOMAIN,wha8q7pevj.com
 DOMAIN,whabi.csheaven.com
 DOMAIN,whackedmedia.com
-DOMAIN,whale123.com
-DOMAIN,whalecashads.com
-DOMAIN,whatsapp-sharing.com
-DOMAIN,whatsbroadcast.com
-DOMAIN,whatseet.net
-DOMAIN,whautsel.net
-DOMAIN,whave.iptvdeals.com
