@@ -6,12 +6,12 @@ DOMAIN,cdp.cloud.unity3d.com
 DOMAIN,client.amplifi.com
 DOMAIN,cn.download.nvidia.com
 DOMAIN,download.jetbrains.com
-DOMAIN,dujs74mcntm.this_ruleset_is_made_by_sukkaw.jfpkl0h3w5m.ruleset.skk.moe
 DOMAIN,gs-loc-cn.apple.com
 DOMAIN,images-cn.ssl-images-amazon.com
 DOMAIN,injections.adguard.org
 DOMAIN,ip.istatmenus.app
 DOMAIN,kc.kexinshe.com
+DOMAIN,kn5z31wiwuc.this_ruleset_is_made_by_sukkaw.b201e8zxxk9.ruleset.skk.moe
 DOMAIN,local.adguard.org
 DOMAIN,origin-a.akamaihd.ne
 DOMAIN,origin-a.akamaihd.net
@@ -4193,4 +4193,4 @@ IP-CIDR6,::ffff:58.58.0.90/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.161/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.186/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.98/128,no-resolve
-#Fri 03/01/2024
+#Tue 03/05/2024
