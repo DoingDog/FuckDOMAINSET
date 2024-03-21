@@ -412,7 +412,6 @@ DOMAIN,40xbfzk8.com
 DOMAIN,4141d006e4f4dd17ab9.com
 DOMAIN,4167.api.swrve.com
 DOMAIN,4167.content.swrve.com
-DOMAIN,41df76c67812005c.com
 DOMAIN,41ef19c0f0794e058c.com
 DOMAIN,4256b23b681.com
 DOMAIN,42632zfylf.com
@@ -2018,7 +2017,6 @@ DOMAIN,aljwnypxzw.com
 DOMAIN,alkemics.com
 DOMAIN,alkutbay.starbolt.io
 DOMAIN,all-about-tech.com
-DOMAIN,allabc.com
 DOMAIN,alladultcash.com
 DOMAIN,allaptair.club
 DOMAIN,allarmate.club
@@ -2044,7 +2042,6 @@ DOMAIN,allyes.com.cn
 DOMAIN,alma-cmp.almamedia.io
 DOMAIN,alnsvbmp.com
 DOMAIN,alocdn.com
-DOMAIN,alogationa.co
 DOMAIN,alphagodaddy.com
 DOMAIN,alpinedrct.com
 DOMAIN,alsoknowsit.com
@@ -2076,7 +2073,6 @@ DOMAIN,amazon-cornerstone.com
 DOMAIN,ambercrow.com
 DOMAIN,ambienetics.com
 DOMAIN,ambulanciaslazaro.com
-DOMAIN,amcdn.vn
 DOMAIN,amcpusvcit.com
 DOMAIN,amertazy.com
 DOMAIN,amifgpprfrbsm.com
@@ -2379,7 +2375,6 @@ DOMAIN,api.sailthru.com
 DOMAIN,api.salmonads.com
 DOMAIN,api.saypromo.net
 DOMAIN,api.sdk.fmobi.cn
-DOMAIN,api.sdk.zadn.vn
 DOMAIN,api.secondstreetapp.com
 DOMAIN,api.smartechmetrics.com
 DOMAIN,api.smbeat.jp
@@ -2519,7 +2514,6 @@ DOMAIN,aqtracker.com
 DOMAIN,aquete.com
 DOMAIN,aquhcfvu.com
 DOMAIN,aqyuxcnsbfhuia.com
-DOMAIN,arasyqslwmfat.com
 DOMAIN,arbawijlgq.com
 DOMAIN,arcadebannerexchange.org
 DOMAIN,arcadebanners.com
@@ -3137,7 +3131,6 @@ DOMAIN,beespace.com.ua
 DOMAIN,befade.com
 DOMAIN,beggarthodcomp.info
 DOMAIN,beholder.xyz
-DOMAIN,behybmunweid.com
 DOMAIN,beineiros.xyz
 DOMAIN,beiyu.xin
 DOMAIN,bejotlmrijxvor.com
@@ -3579,7 +3572,6 @@ DOMAIN,brandlock.io
 DOMAIN,brandmetrics.com
 DOMAIN,brands.kmsmep.com
 DOMAIN,brat-online.ro
-DOMAIN,braun634.com
 DOMAIN,bravenetmedianetwork.com
 DOMAIN,braze.com
 DOMAIN,brcdn.com
@@ -4866,7 +4858,6 @@ DOMAIN,contentwidgets.net
 DOMAIN,context.iris.tv
 DOMAIN,contextly.com
 DOMAIN,contextuads.com
-DOMAIN,contineljs.com
 DOMAIN,continue.com
 DOMAIN,contribusourcesyndication.com
 DOMAIN,contribute.to-support.me
@@ -11150,7 +11141,6 @@ DOMAIN,log.liusha.info
 DOMAIN,log.mtime.cn
 DOMAIN,log.opentracker.net
 DOMAIN,log.outbrain.org
-DOMAIN,log.sdk.zadn.vn
 DOMAIN,log.so.hunantv.com
 DOMAIN,log.suumo.jp
 DOMAIN,log.tapatalk.com
@@ -12385,7 +12375,6 @@ DOMAIN,motominer.com
 DOMAIN,motorpresse-statistik.de
 DOMAIN,motrixi.com
 DOMAIN,mottnow.com
-DOMAIN,mountain.zhidao.baidu.com
 DOMAIN,moupdate1.kingsoft-office-service.com
 DOMAIN,mouse3k.com
 DOMAIN,mousetrace.com
@@ -13060,7 +13049,6 @@ DOMAIN,nordiccountry.cz
 DOMAIN,nordicresearch.com
 DOMAIN,norma-external-collect.meizu.com
 DOMAIN,norteevu.com
-DOMAIN,northmay.com
 DOMAIN,northstartravelmedia.com
 DOMAIN,nortonfire.co.uk
 DOMAIN,norvalur.xyz
@@ -13888,6 +13876,7 @@ DOMAIN,panda.network
 DOMAIN,pandoramedia-mkt-prod1-t.campaign.adobe.com
 DOMAIN,panection.co
 DOMAIN,panelsave.com
+DOMAIN,panger-top.click
 DOMAIN,pangle.io
 DOMAIN,pangle.io.edgekey.net
 DOMAIN,pangolin.snssdk.com
@@ -16199,7 +16188,6 @@ DOMAIN,sdk.streamrail.com
 DOMAIN,sdk.viantsuite.com
 DOMAIN,sdk.yolanda.hk
 DOMAIN,sdk.youappi.com
-DOMAIN,sdk.zadn.vn
 DOMAIN,sdk.zapr.in
 DOMAIN,sdk.zsdfm.com
 DOMAIN,sdk2.youguoquan.com
@@ -18836,6 +18824,7 @@ DOMAIN,unicast.com
 DOMAIN,uniclick.openv.com
 DOMAIN,uniconsent.com
 DOMAIN,unid.go.com
+DOMAIN,unifini.de
 DOMAIN,unikmmqybjy.com
 DOMAIN,union.56.com
 DOMAIN,union.dangdang.com
@@ -19998,3 +19987,14 @@ DOMAIN,wifi33.com
 DOMAIN,wikbpyexkw.com
 DOMAIN,wikia-beacon.com
 DOMAIN,wikiodeliv.com
+DOMAIN,wiklrrrwqqf.com
+DOMAIN,wildcard-ads-448740142.us-west-2.elb.amazonaws.com
+DOMAIN,wildcard-ads-new-1653986885.us-east-1.elb.amazonaws.com
+DOMAIN,wildcard.aniview.com.edgekey.net
+DOMAIN,wildcard.betrad.com.edgekey.net
+DOMAIN,wildcard.bkrtx.com.edgekey.net
+DOMAIN,wildcard.evidon.com.edgekey.net
+DOMAIN,wildcard.marketo.com.edgekey.net
+DOMAIN,wildcard.marketo.net.edgekey.net
+DOMAIN,wildcard.moatads.com.edgekey.net
+DOMAIN,wildcard.ntv.io.edgekey.net
