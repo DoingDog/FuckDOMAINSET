@@ -17,6 +17,7 @@ DOMAIN,p-bstarstatic.akamaized.net
 DOMAIN,p.bstarstatic.com
 DOMAIN,raw.iqiq.io
 DOMAIN,sms.imagetasks.com
+DOMAIN,steamcommunity-a.akamaihd.net
 DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 DOMAIN,upos-bstar-mirrorakam.akamaized.net
 DOMAIN,upos-bstar1-mirrorakam.akamaized.net
@@ -3770,6 +3771,7 @@ DOMAIN-SUFFIX,yuantiku.com
 DOMAIN-SUFFIX,yuewen.com
 DOMAIN-SUFFIX,yufuid.com
 DOMAIN-SUFFIX,yufuid.net
+DOMAIN-SUFFIX,yumchina.com
 DOMAIN-SUFFIX,yunaq.com
 DOMAIN-SUFFIX,yunba.io
 DOMAIN-SUFFIX,yundaex.com
@@ -4223,4 +4225,4 @@ IP-CIDR6,::ffff:58.58.0.90/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.161/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.186/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.98/128,no-resolve
-#Fri 03/29/2024
+#Mon 04/01/2024
