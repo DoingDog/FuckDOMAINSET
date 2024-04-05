@@ -61,6 +61,7 @@ DOMAIN-SUFFIX,163.com
 DOMAIN-SUFFIX,1637.com
 DOMAIN-SUFFIX,163cn.tv
 DOMAIN-SUFFIX,163industry.com
+DOMAIN-SUFFIX,163jiasu.com
 DOMAIN-SUFFIX,163mail.com
 DOMAIN-SUFFIX,163qiyukf.com
 DOMAIN-SUFFIX,163yun.com
@@ -762,6 +763,7 @@ DOMAIN-SUFFIX,cdnhwczmn114.com
 DOMAIN-SUFFIX,cdnhwczth23.com
 DOMAIN-SUFFIX,cdnhwcztu09.com
 DOMAIN-SUFFIX,cdnhwczxh101.com
+DOMAIN-SUFFIX,cdnjtzy.com
 DOMAIN-SUFFIX,cdnmama.com
 DOMAIN-SUFFIX,cdntip.com
 DOMAIN-SUFFIX,cdntips.com
@@ -1161,6 +1163,7 @@ DOMAIN-SUFFIX,deepinos.org
 DOMAIN-SUFFIX,dengguobi.com
 DOMAIN-SUFFIX,develenv.com
 DOMAIN-SUFFIX,devui.design
+DOMAIN-SUFFIX,dewu.com
 DOMAIN-SUFFIX,dfcfw.com
 DOMAIN-SUFFIX,dfham.com
 DOMAIN-SUFFIX,dfkhgj.com
@@ -1656,6 +1659,8 @@ DOMAIN-SUFFIX,hicloud.com
 DOMAIN-SUFFIX,hifuntv.com
 DOMAIN-SUFFIX,hihocoder.com
 DOMAIN-SUFFIX,hihonor.com
+DOMAIN-SUFFIX,hihonorcdn.com
+DOMAIN-SUFFIX,hihonorcloud.com
 DOMAIN-SUFFIX,hiido.com
 DOMAIN-SUFFIX,hikunpeng.com
 DOMAIN-SUFFIX,hikunpeng.net
@@ -1687,6 +1692,7 @@ DOMAIN-SUFFIX,hongsanban.com
 DOMAIN-SUFFIX,hongtastock.com
 DOMAIN-SUFFIX,hongxiu.com
 DOMAIN-SUFFIX,hongyuanqh.com
+DOMAIN-SUFFIX,honor.com
 DOMAIN-SUFFIX,hori-gz.com
 DOMAIN-SUFFIX,hostbuf.com
 DOMAIN-SUFFIX,hotmail.com
@@ -1824,6 +1830,7 @@ DOMAIN-SUFFIX,iciba.com
 DOMAIN-SUFFIX,icourse163.org
 DOMAIN-SUFFIX,ics.design
 DOMAIN-SUFFIX,id6.com
+DOMAIN-SUFFIX,id6.me
 DOMAIN-SUFFIX,idcgcloudcs.com
 DOMAIN-SUFFIX,idcquan.com
 DOMAIN-SUFFIX,idongdong.com
@@ -2169,7 +2176,6 @@ DOMAIN-SUFFIX,kuaishouzt.com
 DOMAIN-SUFFIX,kuaizhan.com
 DOMAIN-SUFFIX,kuangxiangit.com
 DOMAIN-SUFFIX,kugou.com
-DOMAIN-SUFFIX,kugou.com1
 DOMAIN-SUFFIX,kumiao.com
 DOMAIN-SUFFIX,kumiao.tv
 DOMAIN-SUFFIX,kunlunaq.com
@@ -2612,6 +2618,7 @@ DOMAIN-SUFFIX,ooklaserver.net
 DOMAIN-SUFFIX,opdown.com
 DOMAIN-SUFFIX,open.cd
 DOMAIN-SUFFIX,openapp.run
+DOMAIN-SUFFIX,openinstall.io
 DOMAIN-SUFFIX,openkylin.top
 DOMAIN-SUFFIX,openlearning.com
 DOMAIN-SUFFIX,openmidas.com
@@ -2759,6 +2766,7 @@ DOMAIN-SUFFIX,qdmm.com
 DOMAIN-SUFFIX,qdwebim.com
 DOMAIN-SUFFIX,qeodns.com
 DOMAIN-SUFFIX,qeodns.net
+DOMAIN-SUFFIX,qh-cdn.com
 DOMAIN-SUFFIX,qh24.com
 DOMAIN-SUFFIX,qhimg.com
 DOMAIN-SUFFIX,qhimgs0.com
@@ -2819,6 +2827,7 @@ DOMAIN-SUFFIX,qiuwen.wiki
 DOMAIN-SUFFIX,qixin.com
 DOMAIN-SUFFIX,qiyukf.com
 DOMAIN-SUFFIX,qizuang.com
+DOMAIN-SUFFIX,qlivecdn.com
 DOMAIN-SUFFIX,qnsdk.com
 DOMAIN-SUFFIX,qnssl.com
 DOMAIN-SUFFIX,qq.cn.com
@@ -2893,6 +2902,7 @@ DOMAIN-SUFFIX,saasops.tech
 DOMAIN-SUFFIX,saayaa.com
 DOMAIN-SUFFIX,sagepub.com
 DOMAIN-SUFFIX,saibo.com
+DOMAIN-SUFFIX,samsungcloudcn.com
 DOMAIN-SUFFIX,sandai.net
 DOMAIN-SUFFIX,sanguosha.com
 DOMAIN-SUFFIX,sankuai.com
@@ -3463,6 +3473,7 @@ DOMAIN-SUFFIX,wdzj.com
 DOMAIN-SUFFIX,we4399.com
 DOMAIN-SUFFIX,weand.com
 DOMAIN-SUFFIX,weather.com
+DOMAIN-SUFFIX,weathercn.com
 DOMAIN-SUFFIX,webank.com
 DOMAIN-SUFFIX,webankcdn.net
 DOMAIN-SUFFIX,webgame163.com
@@ -3896,6 +3907,7 @@ DOMAIN-SUFFIX,ztfsec.com
 DOMAIN-SUFFIX,zuche.com
 DOMAIN-SUFFIX,zuchecdn.com
 DOMAIN-SUFFIX,zuhaowan.com
+DOMAIN-SUFFIX,zui.com
 DOMAIN-SUFFIX,zuidaima.com
 DOMAIN-SUFFIX,zuimeitianqi.com
 DOMAIN-SUFFIX,zuodao.com
@@ -4225,4 +4237,4 @@ IP-CIDR6,::ffff:58.58.0.90/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.161/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.186/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.98/128,no-resolve
-#Mon 04/01/2024
+#Fri 04/05/2024
