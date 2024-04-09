@@ -412,7 +412,6 @@ DOMAIN,40xbfzk8.com
 DOMAIN,4141d006e4f4dd17ab9.com
 DOMAIN,4167.api.swrve.com
 DOMAIN,4167.content.swrve.com
-DOMAIN,41df76c67812005c.com
 DOMAIN,41ef19c0f0794e058c.com
 DOMAIN,4256b23b681.com
 DOMAIN,42632zfylf.com
@@ -2389,6 +2388,7 @@ DOMAIN,api.sailthru.com
 DOMAIN,api.salmonads.com
 DOMAIN,api.saypromo.net
 DOMAIN,api.sdk.fmobi.cn
+DOMAIN,api.sdk.zadn.vn
 DOMAIN,api.secondstreetapp.com
 DOMAIN,api.smartechmetrics.com
 DOMAIN,api.smbeat.jp
@@ -2584,7 +2584,6 @@ DOMAIN,as.g5s.ifeng.com
 DOMAIN,as.jivox.com
 DOMAIN,as00.estara.com
 DOMAIN,as07d698u9.com
-DOMAIN,as1.wenku.baidu.com
 DOMAIN,asadcdn.com
 DOMAIN,asadzntx.com
 DOMAIN,ascend.ai
@@ -2599,6 +2598,7 @@ DOMAIN,ashaidbit.club
 DOMAIN,asham.tourstogo.us
 DOMAIN,ashchiasp.club
 DOMAIN,ashemeth.com
+DOMAIN,ashgrrwt.click
 DOMAIN,asia-analyzer-appstore.vivoglobal.com
 DOMAIN,asia-ex-adlog.vivoglobal.com
 DOMAIN,asiafriendfinder.com
@@ -4536,6 +4536,7 @@ DOMAIN,clickequations.net
 DOMAIN,clickferret.com
 DOMAIN,clickforensics.com
 DOMAIN,clickganic.com
+DOMAIN,clickgate.biz
 DOMAIN,clickguard.com
 DOMAIN,clickguardian.co.uk
 DOMAIN,clickinc.com
@@ -5733,6 +5734,7 @@ DOMAIN,dhg-logging.us-east-1.elasticbeanstalk.com
 DOMAIN,dhgcqqmtf.com
 DOMAIN,dhlh.org
 DOMAIN,dhouse.mobi
+DOMAIN,dhundora.com
 DOMAIN,dhuqolbvyla.com
 DOMAIN,dhxwczetwdkt.com
 DOMAIN,dialogtech.com
@@ -7299,7 +7301,6 @@ DOMAIN,findandtry.com
 DOMAIN,findepended.com
 DOMAIN,finderlocator.com
 DOMAIN,findqc.com
-DOMAIN,findswiftresults.com
 DOMAIN,finnhair.co.uk
 DOMAIN,finsbfaizzx.com
 DOMAIN,finverty.info
@@ -7493,6 +7494,7 @@ DOMAIN,fpb.docin.com
 DOMAIN,fpb1.gxfin.com
 DOMAIN,fpbcode.onlinedown.net
 DOMAIN,fpcptdqmjlnlu.com
+DOMAIN,fpctraffic2.com
 DOMAIN,fpeegzspcgnjt.com
 DOMAIN,fpesoigpyes.com
 DOMAIN,fpfivothg.com
@@ -8239,6 +8241,7 @@ DOMAIN,grazeit.com
 DOMAIN,greatusenetoffer.agency
 DOMAIN,greatviews.de
 DOMAIN,greedseed.world
+DOMAIN,greengaming.de
 DOMAIN,greenlabelppc.com
 DOMAIN,greenprints.org.cn
 DOMAIN,greensuy.net
@@ -8861,7 +8864,6 @@ DOMAIN,hotwords.com.mx
 DOMAIN,houchosi.net
 DOMAIN,hourakob.net
 DOMAIN,hover.in
-DOMAIN,hoverr.media
 DOMAIN,howdoesin.net
 DOMAIN,howsmyssl.com
 DOMAIN,howtodoblog.com
@@ -11181,6 +11183,7 @@ DOMAIN,log.liusha.info
 DOMAIN,log.mtime.cn
 DOMAIN,log.opentracker.net
 DOMAIN,log.outbrain.org
+DOMAIN,log.sdk.zadn.vn
 DOMAIN,log.so.hunantv.com
 DOMAIN,log.suumo.jp
 DOMAIN,log.tapatalk.com
@@ -12180,6 +12183,7 @@ DOMAIN,minexmr.com
 DOMAIN,minexmr.stream
 DOMAIN,mingyueqingfengshe.com
 DOMAIN,miniapp.qiluyidian.mobi
+DOMAIN,minimumpay.info
 DOMAIN,mining.best
 DOMAIN,mininghub.club
 DOMAIN,ministedik.info
@@ -12202,7 +12206,6 @@ DOMAIN,miwhonjam.com
 DOMAIN,mixers.sina.cn
 DOMAIN,mixi.media
 DOMAIN,mixi.mn
-DOMAIN,mixpo.com
 DOMAIN,mixturehopeful.com
 DOMAIN,mixuaeielbnlg.com
 DOMAIN,miyudaquan.top
@@ -12977,7 +12980,6 @@ DOMAIN,ngymzbpjnqra.com
 DOMAIN,nhndzbmnkps.com
 DOMAIN,nhpfvdlbjg.com
 DOMAIN,nhqmomir.com
-DOMAIN,nhqxzqvkj.com
 DOMAIN,nhtkbvafhre.com
 DOMAIN,ni22.com
 DOMAIN,niacretaryfrience.info
@@ -13802,6 +13804,7 @@ DOMAIN,owlads.io
 DOMAIN,owlanalytics.io
 DOMAIN,owldata.com
 DOMAIN,owlopadjet.info
+DOMAIN,owndata.network
 DOMAIN,owneriq.net.edgekey.net
 DOMAIN,ownlocal.com
 DOMAIN,ownpage.fr
@@ -16234,6 +16237,7 @@ DOMAIN,sdk.streamrail.com
 DOMAIN,sdk.viantsuite.com
 DOMAIN,sdk.yolanda.hk
 DOMAIN,sdk.youappi.com
+DOMAIN,sdk.zadn.vn
 DOMAIN,sdk.zapr.in
 DOMAIN,sdk.zsdfm.com
 DOMAIN,sdk2.youguoquan.com
@@ -16531,6 +16535,7 @@ DOMAIN,share.itraffic.su
 DOMAIN,share.pluso.ru
 DOMAIN,share.static.skyrock.net
 DOMAIN,shareaholic.com
+DOMAIN,sharecash.org
 DOMAIN,shared.juicybucks.com
 DOMAIN,sharedcount.com
 DOMAIN,shareinstall.com.cn
@@ -17961,6 +17966,7 @@ DOMAIN,thogethoffic.co
 DOMAIN,thoodsoy.net
 DOMAIN,thookour.com
 DOMAIN,thoritismsecutive.info
+DOMAIN,thoseads.com
 DOMAIN,thoughtsondance.info
 DOMAIN,thqwivyhdpoem.com
 DOMAIN,threat-analytics.com
@@ -18177,6 +18183,7 @@ DOMAIN,topmalaysia.com
 DOMAIN,topofblogs.com
 DOMAIN,topsem.com
 DOMAIN,topshelftraffic.com
+DOMAIN,topsite.lv
 DOMAIN,topstat.cn
 DOMAIN,topstat.com
 DOMAIN,topsy.com
@@ -19991,10 +19998,3 @@ DOMAIN,wicanwfobqiz.com
 DOMAIN,wichnqeikfdp.com
 DOMAIN,wicktrown.co
 DOMAIN,widerplanet.com
-DOMAIN,widget-cdn.rpxnow.com
-DOMAIN,widget.adviceiq.com
-DOMAIN,widget.breakingburner.com
-DOMAIN,widget.cheki.com.ng
-DOMAIN,widget.chipin.com
-DOMAIN,widget.clipix.com
-DOMAIN,widget.ezprice.com.tw
