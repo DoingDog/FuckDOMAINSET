@@ -286,6 +286,7 @@ DOMAIN-SUFFIX,818ps.com
 DOMAIN-SUFFIX,8264.com
 DOMAIN-SUFFIX,84399.com
 DOMAIN-SUFFIX,8686c.com
+DOMAIN-SUFFIX,88.com
 DOMAIN-SUFFIX,8800.org
 DOMAIN-SUFFIX,885.com
 DOMAIN-SUFFIX,8866.org
@@ -2127,6 +2128,7 @@ DOMAIN-SUFFIX,karagarga.in
 DOMAIN-SUFFIX,karger.com
 DOMAIN-SUFFIX,kaspersky-labs.com
 DOMAIN-SUFFIX,kcbebank.com
+DOMAIN-SUFFIX,kdslife.net
 DOMAIN-SUFFIX,keboyunxiao.com
 DOMAIN-SUFFIX,kechuang.org
 DOMAIN-SUFFIX,keepcdn.com
@@ -2674,6 +2676,7 @@ DOMAIN-SUFFIX,paypalobjects.com
 DOMAIN-SUFFIX,pc6.com
 DOMAIN-SUFFIX,pcbeta.com
 DOMAIN-SUFFIX,pchome.net
+DOMAIN-SUFFIX,pchpic.net
 DOMAIN-SUFFIX,pcpop.com
 DOMAIN-SUFFIX,pddpic.com
 DOMAIN-SUFFIX,pddugc.com
@@ -4237,4 +4240,4 @@ IP-CIDR6,::ffff:58.58.0.90/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.161/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.186/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.98/128,no-resolve
-#Sat 04/13/2024
+#Wed 04/17/2024
