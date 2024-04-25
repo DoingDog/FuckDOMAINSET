@@ -262,7 +262,6 @@ DOMAIN,2778255fe56.com
 DOMAIN,27pan.2wk.com
 DOMAIN,2898.com
 DOMAIN,29ae58661b9c7178.com
-DOMAIN,29d65cebb82ef9f.com
 DOMAIN,2a12be6140880286.com
 DOMAIN,2amsports.com
 DOMAIN,2an-hit-ren.com
@@ -938,6 +937,7 @@ DOMAIN,aa.sdo.com
 DOMAIN,aa.voice2page.com
 DOMAIN,aa1.ifeng.com
 DOMAIN,aa24h.com
+DOMAIN,aa53df329975c325.com
 DOMAIN,aa808.com
 DOMAIN,aaadealstoday.com
 DOMAIN,aaayc.cn
@@ -1114,6 +1114,7 @@ DOMAIN,ad.ikonke.com
 DOMAIN,ad.lionmobi.com
 DOMAIN,ad.mobiuspace.net
 DOMAIN,ad.myinstashot.com
+DOMAIN,ad.org.vn
 DOMAIN,ad.qn.img-space.com
 DOMAIN,ad.quwin.cn
 DOMAIN,ad.realmcdn.net
@@ -1240,7 +1241,6 @@ DOMAIN,adfreetv.ch
 DOMAIN,adfrika.com
 DOMAIN,adfunkyserver.com
 DOMAIN,adfux.com
-DOMAIN,adg99.com
 DOMAIN,adgatemedia.com
 DOMAIN,adgebra.in
 DOMAIN,adgeiros.pw
@@ -1681,6 +1681,7 @@ DOMAIN,advertising.lycos.com
 DOMAIN,advertising365.com
 DOMAIN,advertisingiq.com
 DOMAIN,advertisingsex.com
+DOMAIN,advertmedias.com
 DOMAIN,advertnative.com
 DOMAIN,advertom.com
 DOMAIN,advertone.ru
@@ -2042,7 +2043,6 @@ DOMAIN,allmyverygreatlife.com
 DOMAIN,allo-media.net
 DOMAIN,allosponsor.com
 DOMAIN,allotraffic.com
-DOMAIN,alloydigital.com
 DOMAIN,allpass.salemwebnetwork.com
 DOMAIN,allsporttv.com
 DOMAIN,alltagcloud.info
@@ -2860,10 +2860,10 @@ DOMAIN,b0d3ea12ec1b93f7af9.com
 DOMAIN,b0e8.com
 DOMAIN,b1.0430.com
 DOMAIN,b1.fengdu100.com
+DOMAIN,b13481647cf775c5.com
 DOMAIN,b142d1440666173b0.com
 DOMAIN,b17.lynow.cn
 DOMAIN,b17.wenjutv.com
-DOMAIN,b18a21ab3c9cb53.com
 DOMAIN,b1b951f817beba948.com
 DOMAIN,b1f6fe5e3f0c3c8ba6.com
 DOMAIN,b1fb813dc806b7d.com
@@ -5161,7 +5161,6 @@ DOMAIN,csaimall.com
 DOMAIN,csdata1.com
 DOMAIN,csfkhqzegycmux.com
 DOMAIN,csgocpu.com
-DOMAIN,csiasvapqrccq.com
 DOMAIN,csionjbak.com
 DOMAIN,csjayzqifekaq.com
 DOMAIN,csmail.iggcn.com
@@ -5712,7 +5711,6 @@ DOMAIN,dfomexjuokpuxi.com
 DOMAIN,dfp.aa.sdo.com
 DOMAIN,dfp.bouncex.net
 DOMAIN,dfpejgtwrgawen.com
-DOMAIN,dftoutiao.com
 DOMAIN,dfxvfkutloxnyl.com
 DOMAIN,dfyudpyceqoy.com
 DOMAIN,dgarvwharbgpb.com
@@ -6094,6 +6092,7 @@ DOMAIN,dsfohqgkydgn.com
 DOMAIN,dsie7h4lo9wxu.cloudfront.net
 DOMAIN,dsmmadvantage.com
 DOMAIN,dsmxwgmkj.com
+DOMAIN,dsnr-affiliates.com
 DOMAIN,dsnxvnkxyimczk.com
 DOMAIN,dsp-1.ogury.io
 DOMAIN,dsp.batmobi.net
@@ -6102,7 +6101,6 @@ DOMAIN,dsp.brand.sogo.com
 DOMAIN,dsp.logly.co.jp
 DOMAIN,dspack.com.cn
 DOMAIN,dsparking.com
-DOMAIN,dspimg.dftoutiao.com
 DOMAIN,dsply.com
 DOMAIN,dstik9906m659.cloudfront.net
 DOMAIN,dstrack2.info
@@ -6982,6 +6980,7 @@ DOMAIN,exchangecash.de
 DOMAIN,exclusiveclicks.com
 DOMAIN,exclusivepussy.com
 DOMAIN,excqjoor.com
+DOMAIN,exe.bid
 DOMAIN,execution-use.ci360.sas.com
 DOMAIN,exercially.mobi
 DOMAIN,exernala.com
@@ -7453,6 +7452,7 @@ DOMAIN,fonderredd.info
 DOMAIN,foocheeb.net
 DOMAIN,food5.net
 DOMAIN,foogykxlqa.com
+DOMAIN,footprintdns.com
 DOMAIN,footprintlive.com
 DOMAIN,footprints-pa.googleapis.com
 DOMAIN,foqbcgpwrq.com
@@ -9045,6 +9045,7 @@ DOMAIN,hy-brasil.mhwang.com
 DOMAIN,hydraulicpowerpack.com
 DOMAIN,hyfntrak.com
 DOMAIN,hygqtz.cn
+DOMAIN,hypeads.org
 DOMAIN,hyperactivate.com
 DOMAIN,hyperboardupil.info
 DOMAIN,hypestat.com
@@ -12117,6 +12118,7 @@ DOMAIN,mfgxwluvrr.com
 DOMAIN,mfgyyqqjpp.com
 DOMAIN,mfhsvkepu.com
 DOMAIN,mfigasff.com
+DOMAIN,mftracking.com
 DOMAIN,mfwfpucpfya.com
 DOMAIN,mfwjyreguafi.com
 DOMAIN,mfxzxrveb.com
@@ -15582,7 +15584,6 @@ DOMAIN,report-ads-sdk.upltv.com
 DOMAIN,report-uri.com
 DOMAIN,report-uri.io
 DOMAIN,reportionbreedy.pro
-DOMAIN,reportlog.dftoutiao.com
 DOMAIN,reports.ubimo.com
 DOMAIN,repost.us
 DOMAIN,repressina.com
@@ -16449,6 +16450,7 @@ DOMAIN,services.brid.tv
 DOMAIN,services.brightline.tv
 DOMAIN,services.zam.com
 DOMAIN,serving-system.com
+DOMAIN,serving.ad.org.vn
 DOMAIN,servustats.com
 DOMAIN,seskeu3zk7.com
 DOMAIN,sessions.exchange
@@ -18902,7 +18904,6 @@ DOMAIN,unionbig.com
 DOMAIN,unionli.com
 DOMAIN,unionsky.cn
 DOMAIN,unionsky2.cn
-DOMAIN,unionstatis.dftoutiao.com
 DOMAIN,unionsug.baidu.com
 DOMAIN,uniplayad.com
 DOMAIN,uniqodo.com
@@ -19997,4 +19998,3 @@ DOMAIN,whosclickingwho.com
 DOMAIN,whoseesyou.com
 DOMAIN,whs82908.com
 DOMAIN,whsihagyyhj.com
-DOMAIN,whysoserius.club
