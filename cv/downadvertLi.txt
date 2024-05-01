@@ -26744,10 +26744,6 @@ DOMAIN-SUFFIX,bydonline.com
 DOMAIN-SUFFIX,byhz.xyz
 DOMAIN-SUFFIX,bym03.cn
 DOMAIN-SUFFIX,bypbwm.cn
-DOMAIN-SUFFIX,bytedance.com
-DOMAIN-SUFFIX,bytegoofy.com
-DOMAIN-SUFFIX,byteimg.com
-DOMAIN-SUFFIX,byteorge.com
 DOMAIN-SUFFIX,byujf.cn
 DOMAIN-SUFFIX,bzclk.baidu.com
 DOMAIN-SUFFIX,bzshzx.com
@@ -27186,7 +27182,6 @@ DOMAIN-SUFFIX,click.livedoor.com
 DOMAIN-SUFFIX,click.livejasmin.com
 DOMAIN-SUFFIX,click.oneplus.com
 DOMAIN-SUFFIX,click.qianqian.com
-DOMAIN-SUFFIX,click.simba.taobao.com
 DOMAIN-SUFFIX,click.stat.hao.360.cn
 DOMAIN-SUFFIX,click.suning.cn
 DOMAIN-SUFFIX,click.tianya.cn
@@ -31531,7 +31526,6 @@ DOMAIN-SUFFIX,lzkjsj.com
 DOMAIN-SUFFIX,lzmm8.com
 DOMAIN-SUFFIX,lzwla.top
 DOMAIN-SUFFIX,lzytt.com
-DOMAIN-SUFFIX,m-78.jp
 DOMAIN-SUFFIX,m-adash.m.taobao.com
 DOMAIN-SUFFIX,m.027blzs.com
 DOMAIN-SUFFIX,m.107279.com
@@ -37747,7 +37741,6 @@ DOMAIN-KEYWORD,v2.reachmax.cn
 DOMAIN-KEYWORD,val.atm.youku.com
 DOMAIN-KEYWORD,video-cn.snssdk.com
 DOMAIN-KEYWORD,vidoza
-DOMAIN-KEYWORD,volc
 DOMAIN-KEYWORD,vs10.bj2ct.u3.ucweb.com
 DOMAIN-KEYWORD,wax.weibo.com
 DOMAIN-KEYWORD,wbapp.uve.weibo.com
@@ -37951,4 +37944,4 @@ IP-CIDR,69.28.57.245/32,no-resolve
 IP-CIDR,74.117.182.77/32,no-resolve
 IP-CIDR,78.140.131.214/32,no-resolve
 IP-CIDR6,2402:db40:5100:1011::5/128,no-resolve
-#Mon 04/29/2024
+#Wed 05/01/2024
