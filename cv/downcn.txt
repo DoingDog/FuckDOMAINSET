@@ -3070,6 +3070,7 @@ DOMAIN-SUFFIX,starbaby.com
 DOMAIN-SUFFIX,starlakelab.com
 DOMAIN-SUFFIX,startssl.com
 DOMAIN-SUFFIX,staticdn.net
+DOMAIN-SUFFIX,staticfile.net
 DOMAIN-SUFFIX,staticfile.org
 DOMAIN-SUFFIX,stcn.com
 DOMAIN-SUFFIX,steam.clngaa.com
@@ -3500,7 +3501,6 @@ DOMAIN-SUFFIX,weiphone.com
 DOMAIN-SUFFIX,weiphone.net
 DOMAIN-SUFFIX,weixin.com
 DOMAIN-SUFFIX,weixinbridge.com
-DOMAIN-SUFFIX,weixing.com
 DOMAIN-SUFFIX,weiyangx.com
 DOMAIN-SUFFIX,weiyun.com
 DOMAIN-SUFFIX,welltrend-edu.com
@@ -3629,6 +3629,7 @@ DOMAIN-SUFFIX,xinchong.com
 DOMAIN-SUFFIX,xingjiesj.com
 DOMAIN-SUFFIX,xingtan001.com
 DOMAIN-SUFFIX,xinhuanet.com
+DOMAIN-SUFFIX,xiniu.com
 DOMAIN-SUFFIX,xinrenxinshi.com
 DOMAIN-SUFFIX,xinshipu.com
 DOMAIN-SUFFIX,xip.io
@@ -4241,4 +4242,4 @@ IP-CIDR6,::ffff:58.58.0.90/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.161/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.186/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.98/128,no-resolve
-#Wed 05/01/2024
+#Sun 05/05/2024
