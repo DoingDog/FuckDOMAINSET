@@ -5,7 +5,6 @@ DOMAIN,cdn.angruo.com
 DOMAIN,client.amplifi.com
 DOMAIN,cn.download.nvidia.com
 DOMAIN,download.jetbrains.com
-DOMAIN,gs-loc-cn.apple.com
 DOMAIN,images-cn.ssl-images-amazon.com
 DOMAIN,injections.adguard.org
 DOMAIN,ip.istatmenus.app
@@ -1545,7 +1544,6 @@ DOMAIN-SUFFIX,greenxiazai.com
 DOMAIN-SUFFIX,growingio.com
 DOMAIN-SUFFIX,grzq.com
 DOMAIN-SUFFIX,gsadds.com
-DOMAIN-SUFFIX,gspe19-cn-ssl.ls.apple.com
 DOMAIN-SUFFIX,gszq.com
 DOMAIN-SUFFIX,gtags.net
 DOMAIN-SUFFIX,gtarsc.com
@@ -4242,4 +4240,4 @@ IP-CIDR6,::ffff:58.58.0.90/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.161/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.186/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.98/128,no-resolve
-#Sun 05/05/2024
+#Thu 05/09/2024
