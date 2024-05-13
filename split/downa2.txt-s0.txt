@@ -2133,7 +2133,6 @@ DOMAIN,analytic.xingcloud.com
 DOMAIN,analytics-au.clickdimensions.com
 DOMAIN,analytics-cdiscount.com
 DOMAIN,analytics-chi-nfl.yinzcam.com
-DOMAIN,analytics-egain.com
 DOMAIN,analytics-engine.net
 DOMAIN,analytics-eu.clickdimensions.com
 DOMAIN,analytics-eu.tactilews.com
@@ -4633,11 +4632,9 @@ DOMAIN,clnyonxgsvov.com
 DOMAIN,clockdisplaystoring.com
 DOMAIN,clod.pw
 DOMAIN,closeveri.info
-DOMAIN,cloud-emea.analytics-egain.com
 DOMAIN,cloud-exploration.com
 DOMAIN,cloud-iq.com
 DOMAIN,cloud-miner.de
-DOMAIN,cloud-us.analytics-egain.com
 DOMAIN,cloud.ogury.io
 DOMAIN,cloudcdn.gdn
 DOMAIN,cloudcoins.co
@@ -6155,6 +6152,7 @@ DOMAIN,dt-secure.videohub.tv
 DOMAIN,dt1pxsve3tgas.cloudfront.net
 DOMAIN,dt2xr6g2i5.com
 DOMAIN,dtc-v6t.com
+DOMAIN,dtcpdvnojquf.com
 DOMAIN,dtgwjxeymdlri.com
 DOMAIN,dthousepresistc.info
 DOMAIN,dti-ranker.com
@@ -12325,6 +12323,7 @@ DOMAIN,mlyqbqha.com
 DOMAIN,mm.365dmp.com
 DOMAIN,mm.awrsx.cn
 DOMAIN,mm.markandmini.com
+DOMAIN,mm.zubovskaya-banya.ru
 DOMAIN,mm100.com
 DOMAIN,mm7.net
 DOMAIN,mmaaxx.com
@@ -18294,7 +18293,6 @@ DOMAIN,topmalaysia.com
 DOMAIN,topofblogs.com
 DOMAIN,topsem.com
 DOMAIN,topshelftraffic.com
-DOMAIN,topsite.lv
 DOMAIN,topstat.cn
 DOMAIN,topstat.com
 DOMAIN,topsy.com
@@ -19998,3 +19996,5 @@ DOMAIN,webstat.se
 DOMAIN,webstatistik.odav.de
 DOMAIN,webstatistika.lv
 DOMAIN,webstats.com
+DOMAIN,webstats.motigo.com
+DOMAIN,webtalking.ru
