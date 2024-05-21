@@ -620,7 +620,6 @@ DOMAIN,7089e5b41f87.com
 DOMAIN,70ee6484605f.com
 DOMAIN,70fd25cf5a7b1c57.com
 DOMAIN,710070.com
-DOMAIN,71a30cae934e.com
 DOMAIN,71aa8ed2ff1c8f.com
 DOMAIN,71bcab8994dbe2.com
 DOMAIN,720-trail.co.uk
@@ -1126,7 +1125,6 @@ DOMAIN,ad.smartmediarep.com
 DOMAIN,ad.turn.com.akadns.net
 DOMAIN,ad.us.sinaimg.cn
 DOMAIN,ad.valuecalling.com
-DOMAIN,ad.vidverto.io
 DOMAIN,ad.where.com
 DOMAIN,ad.wx.com
 DOMAIN,ad.xunkids.com
@@ -1307,7 +1305,6 @@ DOMAIN,adknock.com
 DOMAIN,adknowledge.com
 DOMAIN,adkonekt.com
 DOMAIN,adkova.com
-DOMAIN,adktracking-1671721947.eu-west-3.elb.amazonaws.com
 DOMAIN,adku.co
 DOMAIN,adku.com
 DOMAIN,adlanding.admarketplace.net.akadns.net
@@ -1519,7 +1516,6 @@ DOMAIN,ads01.com
 DOMAIN,ads2-adnow.com
 DOMAIN,ads2.mediaarmor.com
 DOMAIN,ads2srv.com
-DOMAIN,ads3-adnow.com
 DOMAIN,ads3.fingersoft.net
 DOMAIN,ads4cheap.com
 DOMAIN,ads4xxx.com
@@ -2386,6 +2382,7 @@ DOMAIN,api.omnilocal.ai
 DOMAIN,api.optinmonster.com
 DOMAIN,api.otherlevels.com
 DOMAIN,api.parse.com
+DOMAIN,api.pdbarea.com
 DOMAIN,api.perzonalization.com
 DOMAIN,api.platform.letv.com
 DOMAIN,api.player.xcal.tv
@@ -3961,7 +3958,6 @@ DOMAIN,caphyon-analytics.com
 DOMAIN,capquqhuiazl.com
 DOMAIN,caps-server.anzu.io
 DOMAIN,capsquirrel.com
-DOMAIN,captainad.com
 DOMAIN,captify.co.uk
 DOMAIN,captifymedia.com
 DOMAIN,captivate.ai
@@ -11299,7 +11295,6 @@ DOMAIN,logs-01.loggly.com
 DOMAIN,logs.81plug.com
 DOMAIN,logs.datadoghq.com
 DOMAIN,logxp.ru
-DOMAIN,logystowtencon.info
 DOMAIN,logz.ru
 DOMAIN,lohappbnrpgypu.com
 DOMAIN,lohxvwjpvl.com
@@ -14694,7 +14689,6 @@ DOMAIN,prmobiles.com
 DOMAIN,prndi.net
 DOMAIN,prnetwork.de
 DOMAIN,prnx.net
-DOMAIN,pro-advertising.com
 DOMAIN,pro.baidu.com
 DOMAIN,pro6e.com
 DOMAIN,proadscdn.com
@@ -15713,6 +15707,7 @@ DOMAIN,rest.dynamicyield.com
 DOMAIN,rest.locuslabs.com
 DOMAIN,restions-planted.com
 DOMAIN,resulticks.com
+DOMAIN,resultsz.com
 DOMAIN,reszkzmyzceve.com
 DOMAIN,retag.xyz
 DOMAIN,retainguaninefluorite.info
@@ -19998,3 +19993,8 @@ DOMAIN,webordermanager.com
 DOMAIN,webprospector.de
 DOMAIN,webpu.sh
 DOMAIN,webpush.jp
+DOMAIN,webpushs.com
+DOMAIN,websalesusa.com
+DOMAIN,websdk.moengage.com
+DOMAIN,websearchers.net
+DOMAIN,websecurity.norton.com
