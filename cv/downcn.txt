@@ -1886,6 +1886,7 @@ DOMAIN-SUFFIX,ip.la
 DOMAIN-SUFFIX,ip138.com
 DOMAIN-SUFFIX,ipanda.com
 DOMAIN-SUFFIX,ipanda.net
+DOMAIN-SUFFIX,ipapark.com
 DOMAIN-SUFFIX,ipify.org
 DOMAIN-SUFFIX,ipinyou.com
 DOMAIN-SUFFIX,ipip.net
@@ -2703,9 +2704,6 @@ DOMAIN-SUFFIX,pipaw.com
 DOMAIN-SUFFIX,pipaw.net
 DOMAIN-SUFFIX,pipix.com
 DOMAIN-SUFFIX,pkoplink.com
-DOMAIN-SUFFIX,playstation.com
-DOMAIN-SUFFIX,playstation.net
-DOMAIN-SUFFIX,playstationnetwork.com
 DOMAIN-SUFFIX,pmphmooc.com
 DOMAIN-SUFFIX,pn1waq.com
 DOMAIN-SUFFIX,pnas.org
@@ -4240,4 +4238,4 @@ IP-CIDR6,::ffff:58.58.0.90/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.161/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.186/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.98/128,no-resolve
-#Wed 05/29/2024
+#Sat 06/01/2024

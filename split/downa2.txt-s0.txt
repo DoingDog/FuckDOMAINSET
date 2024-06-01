@@ -8123,6 +8123,7 @@ DOMAIN,global.telemetry.insights.video.a2z.com
 DOMAIN,global.yyapi.net
 DOMAIN,globalconfig.bluedot.io
 DOMAIN,globaldating.online
+DOMAIN,globaltakeoff.net
 DOMAIN,globalviptraffic.com
 DOMAIN,globalwebindex.net
 DOMAIN,globase.com
@@ -14906,7 +14907,6 @@ DOMAIN,purpreine.co
 DOMAIN,pusbamejpkxq.com
 DOMAIN,puscomosca.com
 DOMAIN,push-ad.com
-DOMAIN,push-api.topaz-analytics.com
 DOMAIN,push-centr.com
 DOMAIN,push-centr.net
 DOMAIN,push-house.net
@@ -16275,6 +16275,7 @@ DOMAIN,schoolyeargo.com
 DOMAIN,sciencerevenue.com
 DOMAIN,scientificshirt.com
 DOMAIN,scifc.mobi
+DOMAIN,scintillatingspace.com
 DOMAIN,scize.com
 DOMAIN,sckuhytswbs.com
 DOMAIN,sckxppzdm.com
@@ -16659,6 +16660,7 @@ DOMAIN,sharele.cn
 DOMAIN,sharenice.org
 DOMAIN,shares.api.awe.sm
 DOMAIN,sharexy.com
+DOMAIN,sharppatch.com
 DOMAIN,sharpspring.com
 DOMAIN,shaunoog.com
 DOMAIN,shawsuburbanauto.com
@@ -17198,6 +17200,7 @@ DOMAIN,sptc.clicktale.net
 DOMAIN,spunkycash.com
 DOMAIN,spuobvix.com
 DOMAIN,spuriousbase.com
+DOMAIN,spurioussteam.com
 DOMAIN,spycounter.net
 DOMAIN,spylog.ru
 DOMAIN,spynet2.microsoft.com
@@ -17560,9 +17563,11 @@ DOMAIN,successfultogether.co.uk
 DOMAIN,succumbertson.pro
 DOMAIN,suchmaschinen-ranking-hits.de
 DOMAIN,sudcom.org
+DOMAIN,suddensidewalk.com
 DOMAIN,sudvykphfph.com
 DOMAIN,suedai.com
 DOMAIN,suewgrsq.com
+DOMAIN,sugarcurtain.com
 DOMAIN,sugqlryshxarn.com
 DOMAIN,suite6ixty6ix.com
 DOMAIN,suitesmart.com
@@ -19993,8 +19998,3 @@ DOMAIN,webmaster.erotik.com
 DOMAIN,webmasterplan.com
 DOMAIN,webmasterspub.com
 DOMAIN,webmeter.ws
-DOMAIN,webmine.pro
-DOMAIN,webminepool.tk
-DOMAIN,webmining.co
-DOMAIN,webmobile.ws
-DOMAIN,weborama.io
