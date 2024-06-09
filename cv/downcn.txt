@@ -2206,6 +2206,7 @@ DOMAIN-SUFFIX,kuxiaomiao.com
 DOMAIN-SUFFIX,kuxiaomiao.net
 DOMAIN-SUFFIX,kuyiso.com
 DOMAIN-SUFFIX,kuyunbo.club
+DOMAIN-SUFFIX,kwaicdn.com
 DOMAIN-SUFFIX,kwaizt.com
 DOMAIN-SUFFIX,la-north-2.myhuaweicloud.com
 DOMAIN-SUFFIX,la-south-2.myhuaweicloud.com
@@ -4239,4 +4240,4 @@ IP-CIDR6,::ffff:58.58.0.90/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.161/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.186/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.98/128,no-resolve
-#Wed 06/05/2024
+#Sun 06/09/2024
