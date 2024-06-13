@@ -9987,7 +9987,6 @@ DOMAIN,jbkxmktmatzk.com
 DOMAIN,jbpsorexvuapf.com
 DOMAIN,jbqeyfrli.com
 DOMAIN,jbqhnzmvh.com
-DOMAIN,jbrpciuloi.com
 DOMAIN,jbwunmehf.com
 DOMAIN,jbxggecaj.com
 DOMAIN,jbzdpixig.com
@@ -16197,6 +16196,7 @@ DOMAIN,safe.ucweb.com
 DOMAIN,safebrowsing.g.applimg.com
 DOMAIN,safebrowsing.googleapis.com
 DOMAIN,safelinktracker.com
+DOMAIN,safelyawake.com
 DOMAIN,safety.amw.com
 DOMAIN,sagetrc.com
 DOMAIN,sagimedyer.xyz
@@ -17877,7 +17877,6 @@ DOMAIN,taojingu.cn
 DOMAIN,taotu001.com
 DOMAIN,taou.cn
 DOMAIN,taowjygwtm.com
-DOMAIN,taozgpkjzpdtgr.com
 DOMAIN,tapas.net
 DOMAIN,tapffdskgjr.com
 DOMAIN,tapjoy-com-lb-vpc-332546193.us-east-1.elb.amazonaws.com
@@ -19998,3 +19997,4 @@ DOMAIN,webcampromotions.com
 DOMAIN,webcams.com
 DOMAIN,webcashmaker.com
 DOMAIN,webclicktracker.com
+DOMAIN,webcom-software.ws
