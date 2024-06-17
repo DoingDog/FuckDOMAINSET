@@ -25877,6 +25877,7 @@ DOMAIN-SUFFIX,api-deal.kechenggezi.com
 DOMAIN-SUFFIX,api-flow.flyme.cn
 DOMAIN-SUFFIX,api-flow.meizu.com
 DOMAIN-SUFFIX,api-game.meizu.com
+DOMAIN-SUFFIX,api-htp.beizi.biz
 DOMAIN-SUFFIX,api-push.meizu.com
 DOMAIN-SUFFIX,api-z.weidian.com
 DOMAIN-SUFFIX,api.0.0.0.0.cn
@@ -32865,6 +32866,7 @@ DOMAIN-SUFFIX,pam.nextinpact.com
 DOMAIN-SUFFIX,panda.kdnet.net
 DOMAIN-SUFFIX,panel-cn.com
 DOMAIN-SUFFIX,pangle.io
+DOMAIN-SUFFIX,pangolin.snssdk.com
 DOMAIN-SUFFIX,pangu.cc
 DOMAIN-SUFFIX,panoramio.com
 DOMAIN-SUFFIX,panwenjun.top
@@ -35345,6 +35347,7 @@ DOMAIN-SUFFIX,topbetfast.com
 DOMAIN-SUFFIX,topgreatxoffers.com
 DOMAIN-SUFFIX,torimochi.line-apps.com
 DOMAIN-SUFFIX,torytalenty.site
+DOMAIN-SUFFIX,tos.pstatp.com
 DOMAIN-SUFFIX,tosfeed.com
 DOMAIN-SUFFIX,totachrl.com
 DOMAIN-SUFFIX,total.xinmin.cn
@@ -36025,6 +36028,7 @@ DOMAIN-SUFFIX,viatepigan.com
 DOMAIN-SUFFIX,vice-publishers-cdn.vice.com
 DOMAIN-SUFFIX,vichc.com
 DOMAIN-SUFFIX,victorjx.com
+DOMAIN-SUFFIX,video-cn.snssdk.com
 DOMAIN-SUFFIX,video.c-ctrip.com
 DOMAIN-SUFFIX,video.ureport.push.qq.com
 DOMAIN-SUFFIX,video231.oss-cn-beijing.aliyuncs.com
@@ -37561,7 +37565,6 @@ DOMAIN-SUFFIX,zzwflxs.com
 DOMAIN-SUFFIX,zzyonghao.com
 DOMAIN-SUFFIX,zzz7.52896368.com
 DOMAIN-SUFFIX,zzzzz4.52896368.com
-DOMAIN-KEYWORD,-tos.pstatp.com
 DOMAIN-KEYWORD,112wan
 DOMAIN-KEYWORD,789htbet
 DOMAIN-KEYWORD,a.9game.cn
@@ -37714,7 +37717,6 @@ DOMAIN-KEYWORD,p3.pstatp.com
 DOMAIN-KEYWORD,p6-pack.byteimg.com
 DOMAIN-KEYWORD,pagespeed-mod
 DOMAIN-KEYWORD,pangolin-sdk-toutiao
-DOMAIN-KEYWORD,pangolin.snssdk.com
 DOMAIN-KEYWORD,paradisestatic.vivo.com.cn
 DOMAIN-KEYWORD,partnerad
 DOMAIN-KEYWORD,pc.suishenyun.net
@@ -37761,7 +37763,6 @@ DOMAIN-KEYWORD,v0-client-lz.rili.cn
 DOMAIN-KEYWORD,v1.log.moji.com
 DOMAIN-KEYWORD,v2.reachmax.cn
 DOMAIN-KEYWORD,val.atm.youku.com
-DOMAIN-KEYWORD,video-cn.snssdk.com
 DOMAIN-KEYWORD,vidoza
 DOMAIN-KEYWORD,vs10.bj2ct.u3.ucweb.com
 DOMAIN-KEYWORD,wax.weibo.com
@@ -37966,4 +37967,4 @@ IP-CIDR,69.28.57.245/32,no-resolve
 IP-CIDR,74.117.182.77/32,no-resolve
 IP-CIDR,78.140.131.214/32,no-resolve
 IP-CIDR6,2402:db40:5100:1011::5/128,no-resolve
-#Thu 06/13/2024
+#Mon 06/17/2024
