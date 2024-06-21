@@ -1188,6 +1188,8 @@ DOMAIN,adcade.com
 DOMAIN,adcalm.com
 DOMAIN,adcamel.pw
 DOMAIN,adcdn.hpplay.cn
+DOMAIN,adcdn.tencentmusic.com
+DOMAIN,adcdn6.tencentmusic.com
 DOMAIN,adcell.com
 DOMAIN,adcfrthyo.tk
 DOMAIN,adchemix.com
@@ -1196,6 +1198,7 @@ DOMAIN,adchemy.com
 DOMAIN,adchina.cc
 DOMAIN,adclear.net
 DOMAIN,adclick.lv
+DOMAIN,adclick.tencentmusic.com
 DOMAIN,adclickafrica.com
 DOMAIN,adclickservice.com
 DOMAIN,adclickstats.net
@@ -1231,6 +1234,7 @@ DOMAIN,adenc.co.kr
 DOMAIN,adeq.hiidc.com.cn
 DOMAIN,adespresso.com
 DOMAIN,adexchange.io
+DOMAIN,adexpo.tencentmusic.com
 DOMAIN,adextent.com
 DOMAIN,adezrvjcbyu.com
 DOMAIN,adf01.net
@@ -10862,6 +10866,7 @@ DOMAIN,lauhauch.com
 DOMAIN,laujouty.com
 DOMAIN,launchers.network
 DOMAIN,lawbjcjsokmua.com
+DOMAIN,laydcilck.com
 DOMAIN,layer.bz.mgtv.com
 DOMAIN,laynsite.pro
 DOMAIN,lb.aatkit.com
@@ -16162,7 +16167,6 @@ DOMAIN,s1adult.com
 DOMAIN,s2.flowplayer.space
 DOMAIN,s2.leshi123.cc
 DOMAIN,s2block.com
-DOMAIN,s2blosh.com
 DOMAIN,s2s.singular.net
 DOMAIN,s3.flowplayer.space
 DOMAIN,s3.joexl.com
@@ -18238,6 +18242,7 @@ DOMAIN,tm1-001.com
 DOMAIN,tmblaeivephb.com
 DOMAIN,tmdn2015x9.com
 DOMAIN,tmead.y.qq.com
+DOMAIN,tmeadbak.y.qq.com
 DOMAIN,tmeadcomm.y.qq.com
 DOMAIN,tmearn.com
 DOMAIN,tmfkuesmlpto.com
@@ -19993,8 +19998,3 @@ DOMAIN,web-olymp.ru
 DOMAIN,web-stat.net
 DOMAIN,web-visor.com
 DOMAIN,web.btncdn.com
-DOMAIN,web.dle-news.pw
-DOMAIN,web8.net
-DOMAIN,webads.eu
-DOMAIN,webapi.salamantex.com
-DOMAIN,webapi.staging.salamantex.com
