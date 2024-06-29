@@ -27945,6 +27945,7 @@ DOMAIN-SUFFIX,debadu.com
 DOMAIN-SUFFIX,debug-vp.webmd.com
 DOMAIN-SUFFIX,decisionediv.site
 DOMAIN-SUFFIX,deepknow.egoid.me
+DOMAIN-SUFFIX,default.ixigua.com
 DOMAIN-SUFFIX,defeatureother.site
 DOMAIN-SUFFIX,definitedikdra.site
 DOMAIN-SUFFIX,dehua.ixinfan.com
@@ -32516,6 +32517,7 @@ DOMAIN-SUFFIX,notify.oupeng.com
 DOMAIN-SUFFIX,notify.wps.cn
 DOMAIN-SUFFIX,notifysrv.com
 DOMAIN-SUFFIX,noutstancerewe.info
+DOMAIN-SUFFIX,novelapp.ixigua.com
 DOMAIN-SUFFIX,novelsns.html5.qq.com
 DOMAIN-SUFFIX,nowskip.com
 DOMAIN-SUFFIX,nozem.tvmaze.com
@@ -37975,4 +37977,4 @@ IP-CIDR,69.28.57.245/32,no-resolve
 IP-CIDR,74.117.182.77/32,no-resolve
 IP-CIDR,78.140.131.214/32,no-resolve
 IP-CIDR6,2402:db40:5100:1011::5/128,no-resolve
-#Tue 06/25/2024
+#Sat 06/29/2024
