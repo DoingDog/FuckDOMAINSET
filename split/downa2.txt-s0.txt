@@ -1175,7 +1175,6 @@ DOMAIN,adbma.com
 DOMAIN,adboost.com
 DOMAIN,adboost.it
 DOMAIN,adbrau.com
-DOMAIN,adbrook.com
 DOMAIN,adbsc.flyermobi.com
 DOMAIN,adbsdk.flyermobi.com
 DOMAIN,adbukaserver.com
@@ -1510,7 +1509,6 @@ DOMAIN,ads.smartdevicemedia.com
 DOMAIN,ads.snapchat.com
 DOMAIN,ads.sonataplatform.com
 DOMAIN,ads.stickyadstv.com.akadns.net
-DOMAIN,ads.superawesome.tv
 DOMAIN,ads.tapdaq.com
 DOMAIN,ads.ttv.com.tw
 DOMAIN,ads.unister-gmbh.de
@@ -8675,7 +8673,6 @@ DOMAIN,hitwebcounter.com
 DOMAIN,hivps.xyz
 DOMAIN,hiwtotxepiaogu.com
 DOMAIN,hixpfhoon.com
-DOMAIN,hizlireklam.com
 DOMAIN,hizvevxvi.com
 DOMAIN,hjagjopxzz.com
 DOMAIN,hjbfpopj.com
@@ -9332,7 +9329,6 @@ DOMAIN,images.cardlytics.com
 DOMAIN,images.ccqxqc.com
 DOMAIN,images.dreamhost.com
 DOMAIN,images.hitwise.co.uk
-DOMAIN,images.informatm.com
 DOMAIN,images.mpression.net
 DOMAIN,images.perf-serving.com
 DOMAIN,images.topguncustomz.com
@@ -10283,7 +10279,6 @@ DOMAIN,jusrlkubhjnr.com
 DOMAIN,justailley.pro
 DOMAIN,justanswer.com
 DOMAIN,justdating.online
-DOMAIN,justgetitfaster.com
 DOMAIN,justorstonsmajo.info
 DOMAIN,justresa.com
 DOMAIN,justuno.com
@@ -11255,6 +11250,7 @@ DOMAIN,logs-01.loggly.com
 DOMAIN,logs.81plug.com
 DOMAIN,logs.datadoghq.com
 DOMAIN,logxp.ru
+DOMAIN,logystowtencon.info
 DOMAIN,logz.ru
 DOMAIN,lohappbnrpgypu.com
 DOMAIN,lohxvwjpvl.com
@@ -14849,7 +14845,6 @@ DOMAIN,purevideo.com
 DOMAIN,purpreine.co
 DOMAIN,pusbamejpkxq.com
 DOMAIN,puscomosca.com
-DOMAIN,puserving.com
 DOMAIN,push-ad.com
 DOMAIN,push-centr.com
 DOMAIN,push-centr.net
@@ -16679,6 +16674,7 @@ DOMAIN,siccash.com
 DOMAIN,sicpkohkcmt.com
 DOMAIN,sicteppojdwr.com
 DOMAIN,sidelinesapp.com
+DOMAIN,sielsmaats.com
 DOMAIN,sierra-fox.com
 DOMAIN,sifakaoshi360.com
 DOMAIN,sifomedia.se
@@ -19998,3 +19994,7 @@ DOMAIN,wemfbox.ch
 DOMAIN,wemgcdygokm.com
 DOMAIN,wenpsnpqher.com
 DOMAIN,wenshenbang.com
+DOMAIN,weoukcpr.com
+DOMAIN,weownthetraffic.com
+DOMAIN,wepmmzpypfwq.com
+DOMAIN,weq.me
