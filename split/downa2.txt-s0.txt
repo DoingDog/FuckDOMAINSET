@@ -261,7 +261,6 @@ DOMAIN,2778255fe56.com
 DOMAIN,27pan.2wk.com
 DOMAIN,2898.com
 DOMAIN,29ae58661b9c7178.com
-DOMAIN,29d65cebb82ef9f.com
 DOMAIN,2a12be6140880286.com
 DOMAIN,2amsports.com
 DOMAIN,2an-hit-ren.com
@@ -397,6 +396,7 @@ DOMAIN,3p-link.com
 DOMAIN,3p3x.adj.st
 DOMAIN,3ppa.jp.cinarra.com
 DOMAIN,3rdads.com
+DOMAIN,3redlightfix.com
 DOMAIN,3t7euflv.com
 DOMAIN,3vlm.com
 DOMAIN,3wnp9.ru
@@ -1178,6 +1178,7 @@ DOMAIN,adbma.com
 DOMAIN,adboost.com
 DOMAIN,adboost.it
 DOMAIN,adbrau.com
+DOMAIN,adbrook.com
 DOMAIN,adbsc.flyermobi.com
 DOMAIN,adbsdk.flyermobi.com
 DOMAIN,adbuka.com.ng
@@ -6956,6 +6957,7 @@ DOMAIN,evewrite.net
 DOMAIN,evfzxjiqg.com
 DOMAIN,evghlumwjasu.com
 DOMAIN,evgywgur.com
+DOMAIN,eviclick.pro
 DOMAIN,evidon.com
 DOMAIN,evidon.com.edgekey.net
 DOMAIN,evisitanalyst.com
@@ -7517,7 +7519,6 @@ DOMAIN,fpb.docin.com
 DOMAIN,fpb1.gxfin.com
 DOMAIN,fpbcode.onlinedown.net
 DOMAIN,fpcptdqmjlnlu.com
-DOMAIN,fpctraffic2.com
 DOMAIN,fpeegzspcgnjt.com
 DOMAIN,fpesoigpyes.com
 DOMAIN,fpfivothg.com
@@ -9993,7 +9994,6 @@ DOMAIN,jettags.rocks
 DOMAIN,jevqbzflcbcpz.com
 DOMAIN,jewhaulr.com
 DOMAIN,jewishcontentnetwork.com
-DOMAIN,jf71qh5v14.com
 DOMAIN,jfavhjmb.com
 DOMAIN,jfduv7.com
 DOMAIN,jffoydsb.com
@@ -11477,6 +11477,7 @@ DOMAIN,lzscunjyovitc.com
 DOMAIN,lztffxdgackjhi.com
 DOMAIN,lzzqqc.com
 DOMAIN,m-brain.fi
+DOMAIN,m-metrics.capitalone.com
 DOMAIN,m-pathy.com
 DOMAIN,m-shes.ru
 DOMAIN,m-t.io
@@ -12069,6 +12070,7 @@ DOMAIN,mediatarget.com
 DOMAIN,mediatoday.ru
 DOMAIN,mediatrade.h19.ru
 DOMAIN,mediatraffic.com
+DOMAIN,mediaver.com
 DOMAIN,mediawayss.com
 DOMAIN,mediaweaver.jp
 DOMAIN,mediego.com
@@ -12308,6 +12310,7 @@ DOMAIN,mmaglobal.com
 DOMAIN,mmbfmlrd.com
 DOMAIN,mmccint.com
 DOMAIN,mmfvtvdqlwxyj.com
+DOMAIN,mmgads.com
 DOMAIN,mmi-agency.com
 DOMAIN,mmile.com
 DOMAIN,mmissedecon.info
@@ -12438,7 +12441,6 @@ DOMAIN,monitis.com
 DOMAIN,monitoring-sdk.experimentation.intuit.com
 DOMAIN,monitoringservice.co
 DOMAIN,monitus.net
-DOMAIN,monkeybroker.net
 DOMAIN,monkeyminer.net
 DOMAIN,monkeytracker.cz
 DOMAIN,monsoonads.com
@@ -12731,7 +12733,6 @@ DOMAIN,myseostats.com
 DOMAIN,myshopmarketim.com
 DOMAIN,mysitetraffic.net
 DOMAIN,mysocialpixel.com
-DOMAIN,mystat-in.net
 DOMAIN,mystat.hu
 DOMAIN,mystat.it
 DOMAIN,mystats.nl
@@ -13162,6 +13163,7 @@ DOMAIN,notifadz.com
 DOMAIN,notification-time.com
 DOMAIN,notification.webengage.com
 DOMAIN,notifiche.secoloditalia.it
+DOMAIN,notify-monad.com
 DOMAIN,notify.51dzt.com
 DOMAIN,notify.bugsnag.appstore.a2z.com
 DOMAIN,notify.hindustantimes.com
@@ -15466,7 +15468,6 @@ DOMAIN,raz-raz-mataz.com
 DOMAIN,razwrite.com
 DOMAIN,rbefyepmgrhp.com
 DOMAIN,rbkubbeytzp.com
-DOMAIN,rbnt.org
 DOMAIN,rbrpamcygqplm.com
 DOMAIN,rbtqofrkiixz.com
 DOMAIN,rbuppjvcn.com
@@ -15685,7 +15686,6 @@ DOMAIN,rettica.com
 DOMAIN,returnpath.net
 DOMAIN,reundcwkqvctq.com
 DOMAIN,reussissonsensemble.fr
-DOMAIN,revboostprocdnadsprod.azureedge.net
 DOMAIN,revdn.net
 DOMAIN,revenuegiants.com
 DOMAIN,revenuemax.de
@@ -16434,6 +16434,7 @@ DOMAIN,sekomums.lv
 DOMAIN,sekusfrgojuc.com
 DOMAIN,selaris.com
 DOMAIN,selectablemedia.com
+DOMAIN,selectr.net
 DOMAIN,selfcampaign.com
 DOMAIN,selfishsea.com
 DOMAIN,selfpua.com
@@ -18877,7 +18878,6 @@ DOMAIN,ufsomlskkso.com
 DOMAIN,ufstone.com
 DOMAIN,ufvehyxuiwe.com
 DOMAIN,ufvzwshjkhocjn.com
-DOMAIN,ufz.doesxyz.com
 DOMAIN,ug.snssdk.com
 DOMAIN,ugahbedypf.com
 DOMAIN,ugaral.com
@@ -19419,7 +19419,6 @@ DOMAIN,vfkwaaqc.com
 DOMAIN,vfousvlr.com
 DOMAIN,vfsirfnosdx.com
 DOMAIN,vfsyklhwbxgq.com
-DOMAIN,vfvdsati.com
 DOMAIN,vfxkeagns.com
 DOMAIN,vg74gi6mea.com
 DOMAIN,vgbp.mzran.com.cn
@@ -19998,3 +19997,4 @@ DOMAIN,webtrends-optimize.com
 DOMAIN,webtrends.com
 DOMAIN,webttracking.de
 DOMAIN,webtuna.com
+DOMAIN,webturn.ru

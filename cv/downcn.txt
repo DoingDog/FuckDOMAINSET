@@ -2449,6 +2449,7 @@ DOMAIN-SUFFIX,metatrader4.com
 DOMAIN-SUFFIX,metatrader5.com
 DOMAIN-SUFFIX,mfcteda.com
 DOMAIN-SUFFIX,mgtv.com
+DOMAIN-SUFFIX,mi-fds.com
 DOMAIN-SUFFIX,mi-img.com
 DOMAIN-SUFFIX,mi.com
 DOMAIN-SUFFIX,miaobolive.com
@@ -3664,6 +3665,7 @@ DOMAIN-SUFFIX,xiaoluzhidian.com
 DOMAIN-SUFFIX,xiaomi.com
 DOMAIN-SUFFIX,xiaomi.net
 DOMAIN-SUFFIX,xiaomicp.com
+DOMAIN-SUFFIX,xiaomiev.com
 DOMAIN-SUFFIX,xiaomiflash.com
 DOMAIN-SUFFIX,xiaomingtaiji.com
 DOMAIN-SUFFIX,xiaomiyoupin.com
@@ -4293,4 +4295,4 @@ IP-CIDR6,::ffff:58.58.0.90/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.161/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.186/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.98/128,no-resolve
-#Thu 08/01/2024
+#Mon 08/05/2024
