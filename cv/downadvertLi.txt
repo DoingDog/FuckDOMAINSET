@@ -1149,6 +1149,7 @@ DOMAIN,ad.ikonke.com
 DOMAIN,ad.linkstorms.com
 DOMAIN,ad.linksynergy.com
 DOMAIN,ad.madvertise.de
+DOMAIN,ad.mcloud.139.com
 DOMAIN,ad.mox.tv
 DOMAIN,ad.netcommunities.com
 DOMAIN,ad.qn.img-space.com
@@ -2655,6 +2656,7 @@ DOMAIN,api.iqiyi.com
 DOMAIN,api.jsecoin.com
 DOMAIN,api.jsfc8.cn
 DOMAIN,api.kwaizt.com
+DOMAIN,api.liquidlink.cn
 DOMAIN,api.miner.beeppool.org
 DOMAIN,api.mini.wps.cn
 DOMAIN,api.mlinks.co
@@ -2702,6 +2704,7 @@ DOMAIN,appboycdn.com
 DOMAIN,appconsent.io
 DOMAIN,appendad.com
 DOMAIN,applog-perf.uc.cn
+DOMAIN,applog.zijieapi.com
 DOMAIN,appn.center
 DOMAIN,apportium.com
 DOMAIN,approp.pro
@@ -8550,7 +8553,6 @@ DOMAIN,getstatistics.se
 DOMAIN,getsupernova.com
 DOMAIN,gettipsz.info
 DOMAIN,gettraff.com
-DOMAIN,getui.net
 DOMAIN,getxml.org
 DOMAIN,getzwnrgsrz.com
 DOMAIN,geusihivdqkwzf.com
@@ -15615,7 +15617,6 @@ DOMAIN,popupmaker.com
 DOMAIN,popuptraffic.com
 DOMAIN,popwin.net
 DOMAIN,popxxx.net
-DOMAIN,pork.2tumeng.com
 DOMAIN,porkolt.com
 DOMAIN,porn-hitz.com
 DOMAIN,porn-site-builder.com
@@ -17628,7 +17629,6 @@ DOMAIN,sdgvzdksjbl.com
 DOMAIN,sdillrnslaiyb.com
 DOMAIN,sdk.api.oaid.wocloud.cn
 DOMAIN,sdk.appadhoc.com.bsclink.cn
-DOMAIN,sdk.open.talk.getui.net
 DOMAIN,sdk.zsdfm.com
 DOMAIN,sdk2.youguoquan.com
 DOMAIN,sdkauth.hpplay.cn
@@ -18705,7 +18705,6 @@ DOMAIN,sslcheckerapi.com
 DOMAIN,ssmyceoxbjqdp.com
 DOMAIN,ssp-partner.alibaba.com
 DOMAIN,sspicy.ru
-DOMAIN,sspmiaoshuo.cn-hangzhou.log.aliyuncs.com
 DOMAIN,sspsky.com
 DOMAIN,ssqpsrlknohdao.com
 DOMAIN,ssqzsdcnoqv.com
@@ -20534,7 +20533,6 @@ DOMAIN,umbel.com
 DOMAIN,umc.danuoyi.alicdn.com
 DOMAIN,umebiggestern.club
 DOMAIN,umekana.ru
-DOMAIN,umengacs.m.taobao.com
 DOMAIN,umessage-online-zb.uc.cn
 DOMAIN,umgbvaurcx.com
 DOMAIN,umhpzzloestt.com
@@ -24651,7 +24649,6 @@ DOMAIN-SUFFIX,99lolo.com
 DOMAIN-SUFFIX,99pps.com
 DOMAIN-SUFFIX,99tianxin.com
 DOMAIN-SUFFIX,99tuan.com.cn
-DOMAIN-SUFFIX,99youmeng.com
 DOMAIN-SUFFIX,9a6wb.cn
 DOMAIN-SUFFIX,9ads.net
 DOMAIN-SUFFIX,9d766be9a3.com
@@ -29295,6 +29292,7 @@ DOMAIN-SUFFIX,getnormalizedurl.com
 DOMAIN-SUFFIX,getrockerbox.com
 DOMAIN-SUFFIX,gets.faz.net
 DOMAIN-SUFFIX,getui.com
+DOMAIN-SUFFIX,getui.net
 DOMAIN-SUFFIX,gewuwen.com
 DOMAIN-SUFFIX,gf108.com
 DOMAIN-SUFFIX,gf1352.com
@@ -30820,7 +30818,6 @@ DOMAIN-SUFFIX,js658.njqunyi.com
 DOMAIN-SUFFIX,js883.njqunyi.com
 DOMAIN-SUFFIX,js88895.net
 DOMAIN-SUFFIX,js9318.bllzgqbyp.com
-DOMAIN-SUFFIX,jsadsdisplay.cn-beijing.log.aliyuncs.com
 DOMAIN-SUFFIX,jsadt.com
 DOMAIN-SUFFIX,jsaik.com
 DOMAIN-SUFFIX,jsb.qianzhan.com
@@ -31399,6 +31396,7 @@ DOMAIN-SUFFIX,location.ximalaya.com
 DOMAIN-SUFFIX,locothet.com
 DOMAIN-SUFFIX,log-yex.youdao.com
 DOMAIN-SUFFIX,log.51cto.com
+DOMAIN-SUFFIX,log.aliyuncs.com
 DOMAIN-SUFFIX,log.b612kaji.com
 DOMAIN-SUFFIX,log.collect.yinyuetai.com
 DOMAIN-SUFFIX,log.hunantv.com
@@ -32852,7 +32850,6 @@ DOMAIN-SUFFIX,p0y.cn
 DOMAIN-SUFFIX,p1.18zhongyao.com
 DOMAIN-SUFFIX,p1.qinsx.cn
 DOMAIN-SUFFIX,p1.zhongyoo.com
-DOMAIN-SUFFIX,p1.zhumengwl.com
 DOMAIN-SUFFIX,p2.hunantv.com
 DOMAIN-SUFFIX,p2.qinsx.cn
 DOMAIN-SUFFIX,p2.ykauto.cn
@@ -35612,7 +35609,6 @@ DOMAIN-SUFFIX,ttbc.cc
 DOMAIN-SUFFIX,ttcdn.cn
 DOMAIN-SUFFIX,ttdetect.staticimgfarm.com
 DOMAIN-SUFFIX,ttfgames.cn
-DOMAIN-SUFFIX,ttjx-online.cn-hangzhou.log.aliyuncs.com
 DOMAIN-SUFFIX,ttlm.cc
 DOMAIN-SUFFIX,ttlowe.com
 DOMAIN-SUFFIX,ttqr58.cn
@@ -35812,9 +35808,6 @@ DOMAIN-SUFFIX,um.simpli.fi
 DOMAIN-SUFFIX,um0592.com
 DOMAIN-SUFFIX,um29.com
 DOMAIN-SUFFIX,umbbs.cn
-DOMAIN-SUFFIX,umeng.co
-DOMAIN-SUFFIX,umeng.com
-DOMAIN-SUFFIX,umengcloud.com
 DOMAIN-SUFFIX,umid.orion.meizu.com
 DOMAIN-SUFFIX,umjsik.com
 DOMAIN-SUFFIX,umm6.cn
@@ -37611,7 +37604,6 @@ DOMAIN-KEYWORD,a.9game.cn
 DOMAIN-KEYWORD,a.wkanx.com
 DOMAIN-KEYWORD,a3.bytecdn.cn
 DOMAIN-KEYWORD,a3.pstatp.com
-DOMAIN-KEYWORD,ad-sign.byteimg.com
 DOMAIN-KEYWORD,ad.api.moji.com
 DOMAIN-KEYWORD,ad.ihuman.com
 DOMAIN-KEYWORD,ad.toutiao.com
@@ -37681,7 +37673,6 @@ DOMAIN-KEYWORD,dwtrack
 DOMAIN-KEYWORD,e2wysbacctt1
 DOMAIN-KEYWORD,editor.sm.cn
 DOMAIN-KEYWORD,ems.youku.com
-DOMAIN-KEYWORD,errlog.umeng.com
 DOMAIN-KEYWORD,exosrv
 DOMAIN-KEYWORD,extlog.snssdk.com
 DOMAIN-KEYWORD,fans.m.tmall.com
@@ -37777,7 +37768,7 @@ DOMAIN-KEYWORD,tracker.kugou.com
 DOMAIN-KEYWORD,trackercdnbj.kugou.com
 DOMAIN-KEYWORD,trwl1
 DOMAIN-KEYWORD,tunion-api.m.taobao.com
-DOMAIN-KEYWORD,uop.umeng.com
+DOMAIN-KEYWORD,umeng
 DOMAIN-KEYWORD,utp-dmp.ucweb.com
 DOMAIN-KEYWORD,utp.ucweb.com
 DOMAIN-KEYWORD,v0-client-lz.rili.cn
@@ -37979,4 +37970,4 @@ IP-CIDR,69.28.57.245/32,no-resolve
 IP-CIDR,74.117.182.77/32,no-resolve
 IP-CIDR,78.140.131.214/32,no-resolve
 IP-CIDR6,2402:db40:5100:1011::5/128,no-resolve
-#Mon 08/05/2024
+#Fri 08/09/2024

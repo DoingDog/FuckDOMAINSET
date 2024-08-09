@@ -261,6 +261,7 @@ DOMAIN,2778255fe56.com
 DOMAIN,27pan.2wk.com
 DOMAIN,2898.com
 DOMAIN,29ae58661b9c7178.com
+DOMAIN,29d65cebb82ef9f.com
 DOMAIN,2a12be6140880286.com
 DOMAIN,2amsports.com
 DOMAIN,2an-hit-ren.com
@@ -1117,6 +1118,7 @@ DOMAIN,ad.googleanalysis.mobi
 DOMAIN,ad.hori-gz.com
 DOMAIN,ad.ikonke.com
 DOMAIN,ad.lionmobi.com
+DOMAIN,ad.mcloud.139.com
 DOMAIN,ad.mobiuspace.net
 DOMAIN,ad.myinstashot.com
 DOMAIN,ad.qn.img-space.com
@@ -1178,7 +1180,6 @@ DOMAIN,adbma.com
 DOMAIN,adboost.com
 DOMAIN,adboost.it
 DOMAIN,adbrau.com
-DOMAIN,adbrook.com
 DOMAIN,adbsc.flyermobi.com
 DOMAIN,adbsdk.flyermobi.com
 DOMAIN,adbuka.com.ng
@@ -2324,6 +2325,7 @@ DOMAIN,api.keen.io
 DOMAIN,api.kiip.me
 DOMAIN,api.kwaizt.com
 DOMAIN,api.leadpages.io
+DOMAIN,api.liquidlink.cn
 DOMAIN,api.locallogic.co
 DOMAIN,api.locately.com
 DOMAIN,api.locuslabs.com
@@ -2813,7 +2815,6 @@ DOMAIN,aztecash.com
 DOMAIN,azvjudwr.info
 DOMAIN,azwancan.trafficmanager.net
 DOMAIN,azwsolqpewo.com
-DOMAIN,b-m.xyz
 DOMAIN,b.16vcd.com
 DOMAIN,b.19869.com
 DOMAIN,b.77shw.com
@@ -4815,7 +4816,6 @@ DOMAIN,config.hiido.com
 DOMAIN,config.mobilegamestats.com
 DOMAIN,config.otherlevels.com
 DOMAIN,config.quantumgraph.com
-DOMAIN,config.safedk.com
 DOMAIN,config.sdk.scopely.io
 DOMAIN,config.uca.cloud.unity3d.com
 DOMAIN,config.unityads.unitychina.cn
@@ -7323,7 +7323,6 @@ DOMAIN,findepended.com
 DOMAIN,finderlocator.com
 DOMAIN,findqc.com
 DOMAIN,findswiftresults.com
-DOMAIN,fineboost-loghub.ap-southeast-1.log.aliyuncs.com
 DOMAIN,finnhair.co.uk
 DOMAIN,finsbfaizzx.com
 DOMAIN,finverty.info
@@ -7961,7 +7960,6 @@ DOMAIN,getstatistics.se
 DOMAIN,getsupernova.com
 DOMAIN,gettipsz.info
 DOMAIN,gettraff.com
-DOMAIN,getui.net
 DOMAIN,getxml.org
 DOMAIN,getzwnrgsrz.com
 DOMAIN,geusihivdqkwzf.com
@@ -12070,7 +12068,6 @@ DOMAIN,mediatarget.com
 DOMAIN,mediatoday.ru
 DOMAIN,mediatrade.h19.ru
 DOMAIN,mediatraffic.com
-DOMAIN,mediaver.com
 DOMAIN,mediawayss.com
 DOMAIN,mediaweaver.jp
 DOMAIN,mediego.com
@@ -16296,7 +16293,6 @@ DOMAIN,sdk.hansel.io
 DOMAIN,sdk.inlocomedia.com
 DOMAIN,sdk.jeeng.com
 DOMAIN,sdk.loveota.net
-DOMAIN,sdk.open.talk.getui.net
 DOMAIN,sdk.out.usbla.net
 DOMAIN,sdk.playtem.com
 DOMAIN,sdk.postscript.io
@@ -16434,7 +16430,6 @@ DOMAIN,sekomums.lv
 DOMAIN,sekusfrgojuc.com
 DOMAIN,selaris.com
 DOMAIN,selectablemedia.com
-DOMAIN,selectr.net
 DOMAIN,selfcampaign.com
 DOMAIN,selfishsea.com
 DOMAIN,selfpua.com
@@ -17231,7 +17226,6 @@ DOMAIN,ssp-partner.alibaba.com
 DOMAIN,ssp.send.microadinc.com
 DOMAIN,ssp.streamrail.net
 DOMAIN,sspicy.ru
-DOMAIN,sspmiaoshuo.cn-hangzhou.log.aliyuncs.com
 DOMAIN,sspsky.com
 DOMAIN,ssqpsrlknohdao.com
 DOMAIN,ssqzsdcnoqv.com
@@ -18889,6 +18883,7 @@ DOMAIN,ugobgzeiel.com
 DOMAIN,ugoooo.com
 DOMAIN,ugoptxnm.com
 DOMAIN,ugqdykbxe.com
+DOMAIN,ugrastes.uk
 DOMAIN,ugxshqnodoha.com
 DOMAIN,ugyuyuccjgrtht.com
 DOMAIN,uherdmjkbqic.com
@@ -19998,3 +19993,8 @@ DOMAIN,webtrends.com
 DOMAIN,webttracking.de
 DOMAIN,webtuna.com
 DOMAIN,webturn.ru
+DOMAIN,webvisor.com
+DOMAIN,webvisor.ru
+DOMAIN,wecount4u.com
+DOMAIN,weddingeeos.com
+DOMAIN,wedwcmjo.com
