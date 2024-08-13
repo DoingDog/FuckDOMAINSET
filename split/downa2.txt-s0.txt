@@ -4816,6 +4816,7 @@ DOMAIN,config.hiido.com
 DOMAIN,config.mobilegamestats.com
 DOMAIN,config.otherlevels.com
 DOMAIN,config.quantumgraph.com
+DOMAIN,config.safedk.com
 DOMAIN,config.sdk.scopely.io
 DOMAIN,config.uca.cloud.unity3d.com
 DOMAIN,config.unityads.unitychina.cn
@@ -19997,4 +19998,3 @@ DOMAIN,webvisor.com
 DOMAIN,webvisor.ru
 DOMAIN,wecount4u.com
 DOMAIN,weddingeeos.com
-DOMAIN,wedwcmjo.com
