@@ -1208,6 +1208,7 @@ DOMAIN-SUFFIX,discfan.net
 DOMAIN-SUFFIX,discuz.net
 DOMAIN-SUFFIX,discuz.org
 DOMAIN-SUFFIX,diyiyou.com
+DOMAIN-SUFFIX,dizzylab.net
 DOMAIN-SUFFIX,dj99.com
 DOMAIN-SUFFIX,dl.bscstorage.net
 DOMAIN-SUFFIX,dl.eccdnx.com
@@ -3108,7 +3109,6 @@ DOMAIN-SUFFIX,starbaby.com
 DOMAIN-SUFFIX,starlakelab.com
 DOMAIN-SUFFIX,startssl.com
 DOMAIN-SUFFIX,staticdn.net
-DOMAIN-SUFFIX,staticfile.net
 DOMAIN-SUFFIX,staticfile.org
 DOMAIN-SUFFIX,stcn.com
 DOMAIN-SUFFIX,steam.clngaa.com
@@ -4295,4 +4295,4 @@ IP-CIDR6,::ffff:58.58.0.90/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.161/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.186/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.98/128,no-resolve
-#Sat 08/17/2024
+#Wed 08/21/2024
