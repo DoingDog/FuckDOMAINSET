@@ -1134,6 +1134,7 @@ DOMAIN-SUFFIX,dajiabao.com
 DOMAIN-SUFFIX,dajie.com
 DOMAIN-SUFFIX,dajieimg.com
 DOMAIN-SUFFIX,dalongyun.com
+DOMAIN-SUFFIX,dancf.com
 DOMAIN-SUFFIX,dandanplay.com
 DOMAIN-SUFFIX,dandanzan.com
 DOMAIN-SUFFIX,dangbei.com
@@ -4295,4 +4296,4 @@ IP-CIDR6,::ffff:58.58.0.90/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.161/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.186/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.98/128,no-resolve
-#Wed 08/21/2024
+#Sun 08/25/2024
