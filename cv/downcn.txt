@@ -5,6 +5,7 @@ DOMAIN,cdn.angruo.com
 DOMAIN,client.amplifi.com
 DOMAIN,cn.download.nvidia.com
 DOMAIN,download.jetbrains.com
+DOMAIN,gstore.val.manlaxy.com
 DOMAIN,images-cn.ssl-images-amazon.com
 DOMAIN,ip.istatmenus.app
 DOMAIN,kc.kexinshe.com
@@ -2181,6 +2182,7 @@ DOMAIN-SUFFIX,koubei.com
 DOMAIN-SUFFIX,kouclo.com
 DOMAIN-SUFFIX,koudai.com
 DOMAIN-SUFFIX,koudai8.com
+DOMAIN-SUFFIX,koyso.com
 DOMAIN-SUFFIX,kq7.com
 DOMAIN-SUFFIX,ks-cdn.com
 DOMAIN-SUFFIX,ks-cdn1.com
@@ -4296,4 +4298,4 @@ IP-CIDR6,::ffff:58.58.0.90/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.161/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.186/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.98/128,no-resolve
-#Sun 08/25/2024
+#Thu 08/29/2024
