@@ -455,6 +455,7 @@ DOMAIN-SUFFIX,antfortune.com
 DOMAIN-SUFFIX,antgroup.com
 DOMAIN-SUFFIX,anthelion.me
 DOMAIN-SUFFIX,anticheatexpert.com
+DOMAIN-SUFFIX,antpcdn.com
 DOMAIN-SUFFIX,antutu.com
 DOMAIN-SUFFIX,anxia.com
 DOMAIN-SUFFIX,aotrip.net
@@ -4298,4 +4299,4 @@ IP-CIDR6,::ffff:58.58.0.90/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.161/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.186/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.98/128,no-resolve
-#Sun 09/01/2024
+#Thu 09/05/2024
