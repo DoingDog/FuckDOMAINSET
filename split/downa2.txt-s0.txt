@@ -1104,7 +1104,6 @@ DOMAIN,ad-srv-track.com
 DOMAIN,ad-thd-east.tagdelivery.com
 DOMAIN,ad-u.com
 DOMAIN,ad-vice.biz
-DOMAIN,ad-x.co.uk
 DOMAIN,ad.10010.com
 DOMAIN,ad.1ting.com
 DOMAIN,ad.21cn.com
@@ -1129,7 +1128,6 @@ DOMAIN,ad.myinstashot.com
 DOMAIN,ad.qn.img-space.com
 DOMAIN,ad.quwin.cn
 DOMAIN,ad.realmcdn.net
-DOMAIN,ad.samsungadhub.com
 DOMAIN,ad.smartmediarep.com
 DOMAIN,ad.turn.com.akadns.net
 DOMAIN,ad.us.sinaimg.cn
@@ -1187,7 +1185,6 @@ DOMAIN,adboost.it
 DOMAIN,adbrau.com
 DOMAIN,adbsc.flyermobi.com
 DOMAIN,adbsdk.flyermobi.com
-DOMAIN,adbuka.com.ng
 DOMAIN,adbukaserver.com
 DOMAIN,adbureau.net
 DOMAIN,adc-serv.net
@@ -1329,7 +1326,6 @@ DOMAIN,adlandpro.com
 DOMAIN,adlatch.com
 DOMAIN,adlaunch.qingting.fm
 DOMAIN,adlayer.net
-DOMAIN,adlc-exchange.toast.com
 DOMAIN,adlic.us-west-2.elasticbeanstalk.com
 DOMAIN,adlink.net
 DOMAIN,adlipacbrakmjp.com
@@ -1507,7 +1503,6 @@ DOMAIN,ads.jetpackdigital.com
 DOMAIN,ads.memob.com
 DOMAIN,ads.mncmedia.co.kr
 DOMAIN,ads.mobadvent.com
-DOMAIN,ads.nicovideo.jp
 DOMAIN,ads.oneway.mobi
 DOMAIN,ads.passiontimes.hk
 DOMAIN,ads.phonepe.com
@@ -2473,7 +2468,6 @@ DOMAIN,appnexus.net
 DOMAIN,apportium.com
 DOMAIN,approp.pro
 DOMAIN,apprupt.com
-DOMAIN,apps.ad-x.co.uk
 DOMAIN,apps.crowdtangle.com
 DOMAIN,apps.nexus.bazaarvoice.com
 DOMAIN,apps.nielsen.com
@@ -4941,6 +4935,7 @@ DOMAIN,cookies.fakt.pl
 DOMAIN,cookies.forbes.pl
 DOMAIN,cookies.gardena.net
 DOMAIN,cookies.innershed.co.uk
+DOMAIN,cookies.leadplace.fr
 DOMAIN,cookies.nos.nl
 DOMAIN,cookies.unidadeditorial.es
 DOMAIN,cookiescript.info
@@ -14277,7 +14272,6 @@ DOMAIN,pipfire.com
 DOMAIN,pipgiglea.club
 DOMAIN,pipiryiqu.com
 DOMAIN,pippity.com
-DOMAIN,pipsol.net
 DOMAIN,piqvuvqc.com
 DOMAIN,pirdoust.com
 DOMAIN,pismvlkq.com
@@ -19998,3 +19992,9 @@ DOMAIN,webtalking.ru
 DOMAIN,webtrack.biz
 DOMAIN,webtracker.jp
 DOMAIN,webtraffic.ttinet.com
+DOMAIN,webtrafficagents.com
+DOMAIN,webtraffiq.com
+DOMAIN,webtraxs.com
+DOMAIN,webtrekk-asia.net
+DOMAIN,webtrekk-us.net
+DOMAIN,webtrekk.de
