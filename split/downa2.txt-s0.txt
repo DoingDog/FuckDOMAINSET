@@ -4127,7 +4127,6 @@ DOMAIN,cdn.wibiya.com
 DOMAIN,cdn.yimg.com
 DOMAIN,cdn1.extremereach.io
 DOMAIN,cdn1.opstag.com
-DOMAIN,cdn1.vntsm.com
 DOMAIN,cdn2.admatic.com.tr
 DOMAIN,cdn2.extremereach.io
 DOMAIN,cdn2.teads.tv.edgekey.net
@@ -12056,6 +12055,7 @@ DOMAIN,mediaforgews.com
 DOMAIN,mediag4.com
 DOMAIN,mediagauge.com
 DOMAIN,mediagra.com
+DOMAIN,mediagridwork.com
 DOMAIN,mediakeywords.com
 DOMAIN,medialand.ru
 DOMAIN,mediametrics.ru
@@ -14235,6 +14235,7 @@ DOMAIN,pic.iask.cn
 DOMAIN,pic.poklytk.com
 DOMAIN,pic.starsarabian.com
 DOMAIN,pic.zxwhys.cn
+DOMAIN,picadmedia.com
 DOMAIN,piccdn.igetget.com
 DOMAIN,pickytime.com
 DOMAIN,picstunoar.com
@@ -19623,7 +19624,6 @@ DOMAIN,vngztuqon.com
 DOMAIN,vnjeqfwmotkvbg.com
 DOMAIN,vnlqgiuul.com
 DOMAIN,vnrapyiaxxj.com
-DOMAIN,vntsm.com
 DOMAIN,vnw2gd68pb.com
 DOMAIN,vnwqrcvud.com
 DOMAIN,voaalhaobdl.com
