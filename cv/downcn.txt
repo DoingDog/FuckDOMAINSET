@@ -4,6 +4,8 @@ DOMAIN,blzddist1-a.akamaihd.net
 DOMAIN,cdn.angruo.com
 DOMAIN,client.amplifi.com
 DOMAIN,cn.download.nvidia.com
+DOMAIN,config.ubnt.com
+DOMAIN,dl.ubnt.com
 DOMAIN,download.jetbrains.com
 DOMAIN,gstore.val.manlaxy.com
 DOMAIN,images-cn.ssl-images-amazon.com
@@ -1251,6 +1253,7 @@ DOMAIN-SUFFIX,dongchediapp.com
 DOMAIN-SUFFIX,dongguantoday.com
 DOMAIN-SUFFIX,dongting.com
 DOMAIN-SUFFIX,dopa.com
+DOMAIN-SUFFIX,dot.pub
 DOMAIN-SUFFIX,doticloud.com
 DOMAIN-SUFFIX,douban.com
 DOMAIN-SUFFIX,douban.fm
@@ -4301,4 +4304,4 @@ IP-CIDR6,::ffff:58.58.0.90/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.161/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.186/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.98/128,no-resolve
-#Sat 10/05/2024
+#Wed 10/09/2024
