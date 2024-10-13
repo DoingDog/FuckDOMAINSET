@@ -1579,6 +1579,7 @@ DOMAIN,adsixmedia.fr
 DOMAIN,adsk-pnxproxy-prd-1753980530.us-east-1.elb.amazonaws.com
 DOMAIN,adskom.com
 DOMAIN,adslala.com
+DOMAIN,adslingers.com
 DOMAIN,adslivecorp.com
 DOMAIN,adsmarket.es
 DOMAIN,adsmind.apdcdn.tc.qq.com
@@ -16151,6 +16152,7 @@ DOMAIN,sadsabs.com
 DOMAIN,sadsamps.com
 DOMAIN,sadsans.com
 DOMAIN,sadsats.com
+DOMAIN,sadsecs.com
 DOMAIN,sadsims.com
 DOMAIN,sadsimz.com
 DOMAIN,sadsips.com
@@ -19996,5 +19998,3 @@ DOMAIN,webpush.jp
 DOMAIN,webpushs.com
 DOMAIN,websalesusa.com
 DOMAIN,websdk.moengage.com
-DOMAIN,websearchers.net
-DOMAIN,websecurity.norton.com
