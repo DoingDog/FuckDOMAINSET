@@ -9,6 +9,7 @@ DOMAIN,cn.download.nvidia.com
 DOMAIN,config.ubnt.com
 DOMAIN,console.gl-inet.com
 DOMAIN,dl.ubnt.com
+DOMAIN,dot.pub
 DOMAIN,download.jetbrains.com
 DOMAIN,gstore.val.manlaxy.com
 DOMAIN,homerouter.cpe
@@ -29,9 +30,9 @@ DOMAIN,pi.hole
 DOMAIN,raw.iqiq.io
 DOMAIN,repeater.asus.com
 DOMAIN,router.asus.com
-DOMAIN,router.com
 DOMAIN,setmeup.arubanetworks.com
 DOMAIN,sms.imagetasks.com
+DOMAIN,speedtest.macpaw.com
 DOMAIN,steamcommunity-a.akamaihd.net
 DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 DOMAIN,unifi
@@ -2602,6 +2603,7 @@ DOMAIN-SUFFIX,netbian.com
 DOMAIN-SUFFIX,netease-inc.com
 DOMAIN-SUFFIX,netease.com
 DOMAIN-SUFFIX,netease.im
+DOMAIN-SUFFIX,netspeedtestmaster.com
 DOMAIN-SUFFIX,netstatic.net
 DOMAIN-SUFFIX,newasp.net
 DOMAIN-SUFFIX,newbandeng.com
@@ -3258,7 +3260,6 @@ DOMAIN-SUFFIX,tencenttid.com
 DOMAIN-SUFFIX,tencentwemeet.club
 DOMAIN-SUFFIX,tencentwepark.com
 DOMAIN-SUFFIX,tencentyun.com
-DOMAIN-SUFFIX,tendawifi.com
 DOMAIN-SUFFIX,tendbcluster.com
 DOMAIN-SUFFIX,tendis.net
 DOMAIN-SUFFIX,tenpay.com
@@ -3421,6 +3422,7 @@ DOMAIN-SUFFIX,ucnaming.net
 DOMAIN-SUFFIX,ucweb.com
 DOMAIN-SUFFIX,udache.com
 DOMAIN-SUFFIX,udacity.com
+DOMAIN-SUFFIX,udqqimg.com
 DOMAIN-SUFFIX,uewaf.com
 DOMAIN-SUFFIX,ufileos.com
 DOMAIN-SUFFIX,ugdtimg.com
@@ -3577,6 +3579,7 @@ DOMAIN-SUFFIX,whatismyip.com
 DOMAIN-SUFFIX,whccb.com
 DOMAIN-SUFFIX,whlovehome.com
 DOMAIN-SUFFIX,wicresoft.com
+DOMAIN-SUFFIX,wifi8.com
 DOMAIN-SUFFIX,wiley.com
 DOMAIN-SUFFIX,win007.com
 DOMAIN-SUFFIX,win7china.com
@@ -3708,6 +3711,7 @@ DOMAIN-SUFFIX,xn--fiqs8s
 DOMAIN-SUFFIX,xn--io0a7i
 DOMAIN-SUFFIX,xnpic.com
 DOMAIN-SUFFIX,xoyo.com
+DOMAIN-SUFFIX,xoyocdn.com
 DOMAIN-SUFFIX,xpgod.com
 DOMAIN-SUFFIX,xqfunds.com
 DOMAIN-SUFFIX,xqymuy.com
@@ -4299,4 +4303,4 @@ IP-CIDR6,::ffff:58.58.0.90/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.161/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.186/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.98/128,no-resolve
-#Thu 10/17/2024
+#Mon 10/21/2024
