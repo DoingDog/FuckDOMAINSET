@@ -9,7 +9,6 @@ DOMAIN,cn.download.nvidia.com
 DOMAIN,config.ubnt.com
 DOMAIN,console.gl-inet.com
 DOMAIN,dl.ubnt.com
-DOMAIN,dot.pub
 DOMAIN,download.jetbrains.com
 DOMAIN,gstore.val.manlaxy.com
 DOMAIN,homerouter.cpe
@@ -746,6 +745,7 @@ DOMAIN-SUFFIX,ccfbits.org
 DOMAIN-SUFFIX,ccgslb.com
 DOMAIN-SUFFIX,ccgslb.net
 DOMAIN-SUFFIX,ccnew.com
+DOMAIN-SUFFIX,ccrgt.com
 DOMAIN-SUFFIX,cctalk.com
 DOMAIN-SUFFIX,cctv.com
 DOMAIN-SUFFIX,cctvpic.com
@@ -1576,6 +1576,7 @@ DOMAIN-SUFFIX,goodread.com
 DOMAIN-SUFFIX,goofish.com
 DOMAIN-SUFFIX,goosail.com
 DOMAIN-SUFFIX,goproxy.io
+DOMAIN-SUFFIX,gorouter.info
 DOMAIN-SUFFIX,goselling.com
 DOMAIN-SUFFIX,goto-game.com
 DOMAIN-SUFFIX,goto-game.mobi
@@ -2507,6 +2508,7 @@ DOMAIN-SUFFIX,mincdn.com
 DOMAIN-SUFFIX,mingyuanyun.com
 DOMAIN-SUFFIX,minhangshi.com
 DOMAIN-SUFFIX,minitiao.com
+DOMAIN-SUFFIX,miot-spec.org
 DOMAIN-SUFFIX,mipcdn.com
 DOMAIN-SUFFIX,mirrors.yun-idc.com
 DOMAIN-SUFFIX,missjia.net
@@ -4308,4 +4310,4 @@ IP-CIDR6,::ffff:58.58.0.90/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.161/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.186/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.98/128,no-resolve
-#Fri 10/25/2024
+#Tue 10/29/2024

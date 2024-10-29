@@ -30597,6 +30597,7 @@ DOMAIN-SUFFIX,jdb.jiudingcapital.cn
 DOMAIN-SUFFIX,jdb.jiudingcapital.com
 DOMAIN-SUFFIX,jdcbuy.com
 DOMAIN-SUFFIX,jddaw.com
+DOMAIN-SUFFIX,jddebug.com
 DOMAIN-SUFFIX,jdf494.cn
 DOMAIN-SUFFIX,jdflower.cn
 DOMAIN-SUFFIX,jdgsgl.com
@@ -38020,4 +38021,4 @@ IP-CIDR,69.28.57.245/32,no-resolve
 IP-CIDR,74.117.182.77/32,no-resolve
 IP-CIDR,78.140.131.214/32,no-resolve
 IP-CIDR6,2402:db40:5100:1011::5/128,no-resolve
-#Fri 10/25/2024
+#Tue 10/29/2024

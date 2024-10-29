@@ -13,6 +13,7 @@ DOMAIN,012469af389a1d1246d.com
 DOMAIN,013572.cn
 DOMAIN,017e689c749.com
 DOMAIN,020wujin.cn
+DOMAIN,02aa19117f396e9.com
 DOMAIN,02b5da94a2bd4aea.com
 DOMAIN,033.com
 DOMAIN,0374adc8c6a6a56.com
@@ -568,6 +569,7 @@ DOMAIN,61kx.uk-insolvencydirect.com
 DOMAIN,6200a50af8e3.com
 DOMAIN,620c663bca9a4.com
 DOMAIN,625c9289e60793.com
+DOMAIN,62b70ac32d4614b.com
 DOMAIN,6379.eu-api.swrve.com
 DOMAIN,6379.eu-content.swrve.com
 DOMAIN,6384.eu-api.swrve.com
@@ -1188,7 +1190,6 @@ DOMAIN,adbma.com
 DOMAIN,adboost.com
 DOMAIN,adboost.it
 DOMAIN,adbrau.com
-DOMAIN,adbrook.com
 DOMAIN,adbsc.flyermobi.com
 DOMAIN,adbsdk.flyermobi.com
 DOMAIN,adbukaserver.com
@@ -1246,7 +1247,6 @@ DOMAIN,adenabler.com
 DOMAIN,adenc.co.kr
 DOMAIN,adeq.hiidc.com.cn
 DOMAIN,adespresso.com
-DOMAIN,adexc.net
 DOMAIN,adexchange.io
 DOMAIN,adexpo.tencentmusic.com
 DOMAIN,adextent.com
@@ -5068,6 +5068,7 @@ DOMAIN,countz.com
 DOMAIN,coupon2buy.com
 DOMAIN,covernmentasto.info
 DOMAIN,cp.oupeng.com
+DOMAIN,cpaclicks.com
 DOMAIN,cpaclickz.com
 DOMAIN,cpacoreg.com
 DOMAIN,cpaevent.ru
@@ -6008,6 +6009,7 @@ DOMAIN,donreach.com
 DOMAIN,doogleonduty.com
 DOMAIN,doolooku.net
 DOMAIN,doomail.org
+DOMAIN,doomna.com
 DOMAIN,dopa.com.cn
 DOMAIN,doqapnez.com
 DOMAIN,doqjemtf.com
@@ -6071,6 +6073,7 @@ DOMAIN,dppeusog.com
 DOMAIN,dps-reach.com
 DOMAIN,dps.jp.cinarra.com
 DOMAIN,dpsqqaaqbc.com
+DOMAIN,dpstack.com
 DOMAIN,dptr.areyouahuman.com
 DOMAIN,dpxjvfdtufp.com
 DOMAIN,dpypzvjarj.com
@@ -12155,6 +12158,7 @@ DOMAIN,mepra.blautechnology.cl
 DOMAIN,mercadoclics.com
 DOMAIN,mercent.com
 DOMAIN,merciless.localstars.com
+DOMAIN,mercuras.com
 DOMAIN,mercury-sdk.snssdk.com
 DOMAIN,mercury.jd.com
 DOMAIN,mercy.ga
@@ -17213,6 +17217,7 @@ DOMAIN,sponsorselect.com
 DOMAIN,sportsbetaffiliates.com.au
 DOMAIN,sportsulsan.co.kr
 DOMAIN,spotmx.com
+DOMAIN,spotrails.com
 DOMAIN,spottednoise.com
 DOMAIN,spotxcdn.com.edgekey.net
 DOMAIN,spreadable.com.cn
@@ -19899,6 +19904,7 @@ DOMAIN,wall.adgaterewards.com
 DOMAIN,walmeric.com
 DOMAIN,walprater.com
 DOMAIN,wamcash.com
+DOMAIN,wamnetwork.com
 DOMAIN,wangjinhu.wang
 DOMAIN,wangzhichao.info
 DOMAIN,wantatop.com
@@ -19992,9 +19998,3 @@ DOMAIN,web8.net
 DOMAIN,webads.eu
 DOMAIN,webapi.salamantex.com
 DOMAIN,webapi.staging.salamantex.com
-DOMAIN,webcambait.com
-DOMAIN,webcampromotions.com
-DOMAIN,webcams.com
-DOMAIN,webcashmaker.com
-DOMAIN,webclicktracker.com
-DOMAIN,webcom-software.ws
