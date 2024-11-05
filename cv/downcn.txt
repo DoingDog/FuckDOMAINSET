@@ -19,6 +19,7 @@ DOMAIN,instant.arubanetworks.com
 DOMAIN,ip.istatmenus.app
 DOMAIN,kc.kexinshe.com
 DOMAIN,local.adguard.org
+DOMAIN,media.cdn.queniuqe.com
 DOMAIN,mobile.hotspot
 DOMAIN,ntt.setup
 DOMAIN,origin-a.akamaihd.ne
@@ -692,6 +693,7 @@ DOMAIN-SUFFIX,byteacctimg.com
 DOMAIN-SUFFIX,byted-static.com
 DOMAIN-SUFFIX,byted.org
 DOMAIN-SUFFIX,bytedance.com
+DOMAIN-SUFFIX,bytedance.com.com
 DOMAIN-SUFFIX,bytedance.net
 DOMAIN-SUFFIX,bytedanceapi.com
 DOMAIN-SUFFIX,bytedapm.com
@@ -4311,4 +4313,4 @@ IP-CIDR6,::ffff:58.58.0.90/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.161/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.186/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.98/128,no-resolve
-#Fri 11/01/2024
+#Tue 11/05/2024
