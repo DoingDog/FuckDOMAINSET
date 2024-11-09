@@ -1135,7 +1135,6 @@ DOMAIN,ad.myinstashot.com
 DOMAIN,ad.qn.img-space.com
 DOMAIN,ad.quwin.cn
 DOMAIN,ad.realmcdn.net
-DOMAIN,ad.samsungadhub.com
 DOMAIN,ad.smartmediarep.com
 DOMAIN,ad.turn.com.akadns.net
 DOMAIN,ad.us.sinaimg.cn
@@ -1562,7 +1561,6 @@ DOMAIN,adscfg.togothermany.cn
 DOMAIN,adschoom.com
 DOMAIN,adscpm.net
 DOMAIN,adsensedetective.com
-DOMAIN,adser.io
 DOMAIN,adserve.com
 DOMAIN,adservhere.com
 DOMAIN,adserving.favorit-network.com
@@ -1648,6 +1646,7 @@ DOMAIN,adtiming.com
 DOMAIN,adtival.network
 DOMAIN,adtive.com
 DOMAIN,adtology3.com
+DOMAIN,adtomafusion.com
 DOMAIN,adtools.gossipkings.com
 DOMAIN,adtools2.amakings.com
 DOMAIN,adtr.io
@@ -1890,7 +1889,6 @@ DOMAIN,affrh2023.com
 DOMAIN,affrh2024.com
 DOMAIN,affrh2025.com
 DOMAIN,affroba.net
-DOMAIN,afftrk.online
 DOMAIN,affutdmedia.com
 DOMAIN,afiles.webengage.com
 DOMAIN,aflrm.com
@@ -3350,7 +3348,6 @@ DOMAIN,bixinkeji.top
 DOMAIN,biz5.sandai.net
 DOMAIN,bizfo.co.uk
 DOMAIN,bizo.com
-DOMAIN,bizrotator.com
 DOMAIN,bizspring.net
 DOMAIN,bizx.info
 DOMAIN,bizzibeans.net
@@ -5593,7 +5590,6 @@ DOMAIN,db5.vortex.data.microsoft.com.akadns.net
 DOMAIN,db52cc91beabf7e8.com
 DOMAIN,db8a41d81b8dfe41de2.com
 DOMAIN,dbbp1.com
-DOMAIN,dbclix.com
 DOMAIN,dbhrfdfuqh.com
 DOMAIN,dbhyrddfm.com
 DOMAIN,dbktgmyjph.com
@@ -6021,7 +6017,6 @@ DOMAIN,donreach.com
 DOMAIN,doogleonduty.com
 DOMAIN,doolooku.net
 DOMAIN,doomail.org
-DOMAIN,doomna.com
 DOMAIN,dopa.com.cn
 DOMAIN,doqapnez.com
 DOMAIN,doqjemtf.com
@@ -6085,7 +6080,6 @@ DOMAIN,dppeusog.com
 DOMAIN,dps-reach.com
 DOMAIN,dps.jp.cinarra.com
 DOMAIN,dpsqqaaqbc.com
-DOMAIN,dpstack.com
 DOMAIN,dptr.areyouahuman.com
 DOMAIN,dpxjvfdtufp.com
 DOMAIN,dpypzvjarj.com
@@ -6177,7 +6171,6 @@ DOMAIN,dtxngr.com
 DOMAIN,dtzads.com
 DOMAIN,du.biqukan.com
 DOMAIN,du8783wkf05yr.cloudfront.net
-DOMAIN,dualmarket.info
 DOMAIN,duamgurza.com
 DOMAIN,duamuprs.com
 DOMAIN,duetads.com
@@ -6857,7 +6850,6 @@ DOMAIN,erxalim.xyz
 DOMAIN,erxvdkrivto.com
 DOMAIN,esawuervlpptj.com
 DOMAIN,escalated.io
-DOMAIN,escalatenetwork.com
 DOMAIN,eschpaxxwy.com
 DOMAIN,escokuro.com
 DOMAIN,escortso.com
@@ -7247,6 +7239,7 @@ DOMAIN,fdrqqpeengzj.com
 DOMAIN,fdvilavipz.com
 DOMAIN,fdxsswtgvshhe.com
 DOMAIN,fdxstats.xyz
+DOMAIN,fe95a992e6afb.com
 DOMAIN,fearer.info
 DOMAIN,feature.fm
 DOMAIN,featuredusers.com
@@ -8130,7 +8123,6 @@ DOMAIN,global.yyapi.net
 DOMAIN,globalconfig.bluedot.io
 DOMAIN,globaldating.online
 DOMAIN,globalsuccessclub.com
-DOMAIN,globaltakeoff.net
 DOMAIN,globalviptraffic.com
 DOMAIN,globalwebindex.net
 DOMAIN,globase.com
@@ -9132,7 +9124,6 @@ DOMAIN,hy-brasil.mhwang.com
 DOMAIN,hydraulicpowerpack.com
 DOMAIN,hyfntrak.com
 DOMAIN,hygqtz.cn
-DOMAIN,hype-ads.com
 DOMAIN,hypeads.org
 DOMAIN,hyperactivate.com
 DOMAIN,hyperads.gotrackier.com
@@ -12120,7 +12111,6 @@ DOMAIN,mediaforgews.com
 DOMAIN,mediag4.com
 DOMAIN,mediagauge.com
 DOMAIN,mediagra.com
-DOMAIN,mediagridwork.com
 DOMAIN,mediakeywords.com
 DOMAIN,medialand.ru
 DOMAIN,mediametrics.ru
@@ -15661,6 +15651,7 @@ DOMAIN,reelcentric.com
 DOMAIN,reevaipi.com
 DOMAIN,reevoo.com
 DOMAIN,refatxhcuu.com
+DOMAIN,refban.com
 DOMAIN,referback.com
 DOMAIN,referer.org
 DOMAIN,referforex.com
@@ -17244,7 +17235,6 @@ DOMAIN,sponsorselect.com
 DOMAIN,sportsbetaffiliates.com.au
 DOMAIN,sportsulsan.co.kr
 DOMAIN,spotmx.com
-DOMAIN,spotrails.com
 DOMAIN,spottednoise.com
 DOMAIN,spotxcdn.com.edgekey.net
 DOMAIN,spreadable.com.cn
@@ -19998,3 +19988,13 @@ DOMAIN,wcpkhkyuzp.com
 DOMAIN,wct.click
 DOMAIN,wcwcypfnvih.com
 DOMAIN,wcwdjojsxbbl.com
+DOMAIN,wcyqoiyohhav.com
+DOMAIN,wcyrjlszoo.com
+DOMAIN,wdaqrxfppj.com
+DOMAIN,wdbqsuukggoyg.com
+DOMAIN,wdkbcvnh.com
+DOMAIN,wdlnoecwykpon.com
+DOMAIN,wdpro-mkt-prod2-lb.campaign.adobe.com
+DOMAIN,wdpwhnxfzoozsw.com
+DOMAIN,wdquizratrntwr.com
+DOMAIN,wdrgqoweorjfp.com
