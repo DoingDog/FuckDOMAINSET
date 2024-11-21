@@ -22,6 +22,8 @@ DOMAIN,local.adguard.org
 DOMAIN,media.cdn.queniuqe.com
 DOMAIN,mobile.hotspot
 DOMAIN,ntt.setup
+DOMAIN,ocsp.globalsign.com
+DOMAIN,ocsp2.globalsign.com
 DOMAIN,origin-a.akamaihd.ne
 DOMAIN,origin-a.akamaihd.net
 DOMAIN,p-bstarstatic.akamaized.net
@@ -4316,4 +4318,4 @@ IP-CIDR6,::ffff:58.58.0.90/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.161/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.186/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.98/128,no-resolve
-#Sun 11/17/2024
+#Thu 11/21/2024
