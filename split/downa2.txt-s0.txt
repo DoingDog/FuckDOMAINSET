@@ -560,6 +560,7 @@ DOMAIN,5leji.com
 DOMAIN,5mnh.com
 DOMAIN,5qg9ibt1a6.com
 DOMAIN,5ubei.com
+DOMAIN,5yfi7sy.com
 DOMAIN,600zi.com
 DOMAIN,602d76e204c032.com
 DOMAIN,6066bd8aab9d73e3.com
@@ -1570,7 +1571,6 @@ DOMAIN,adscfg.togothermany.cn
 DOMAIN,adschoom.com
 DOMAIN,adscpm.net
 DOMAIN,adsensedetective.com
-DOMAIN,adser.io
 DOMAIN,adserve.com
 DOMAIN,adservhere.com
 DOMAIN,adserving.favorit-network.com
@@ -1600,6 +1600,7 @@ DOMAIN,adskom.com
 DOMAIN,adslala.com
 DOMAIN,adslingers.com
 DOMAIN,adslivecorp.com
+DOMAIN,adslvr.com
 DOMAIN,adsmarket.es
 DOMAIN,adsmind.apdcdn.tc.qq.com
 DOMAIN,adsmis.duxiaoman.com
@@ -2071,7 +2072,6 @@ DOMAIN,algovid.com
 DOMAIN,algrizej.com
 DOMAIN,alhpqmefnwkxtn.com
 DOMAIN,ali-crm.ru
-DOMAIN,aliadvert.ru
 DOMAIN,aliapp.org
 DOMAIN,alibestru.ru
 DOMAIN,alimama.cn
@@ -2453,6 +2453,7 @@ DOMAIN,apistat.gao7.com
 DOMAIN,apistat.wasu.cn
 DOMAIN,apitm.toolmatrix.plus
 DOMAIN,apituner.ecbsn.com
+DOMAIN,apiv2.moengage.com
 DOMAIN,apiv4-iyes.youku.com
 DOMAIN,apkonline.ru
 DOMAIN,apm-engine.meteor.com
@@ -3623,11 +3624,11 @@ DOMAIN,bracewellfamily.com
 DOMAIN,brahe.apptimize.com
 DOMAIN,brainient.com
 DOMAIN,brand-sdk.kmsmep.com
+DOMAIN,brandaffinity.net
 DOMAIN,brandlock.io
 DOMAIN,brandmetrics.com
 DOMAIN,brands.kmsmep.com
 DOMAIN,brat-online.ro
-DOMAIN,braun634.com
 DOMAIN,bravenetmedianetwork.com
 DOMAIN,braze.com
 DOMAIN,brcdn.com
@@ -3659,6 +3660,7 @@ DOMAIN,browserpusher.com
 DOMAIN,browsersfeedback.com
 DOMAIN,brqvld0p.com
 DOMAIN,brrqeprqsrvrt.com
+DOMAIN,brsrvr.com
 DOMAIN,bruceleadx2.com
 DOMAIN,bruceleadx3.com
 DOMAIN,bruceleadx4.com
@@ -4545,7 +4547,6 @@ DOMAIN,claxonmedia.com
 DOMAIN,clc.wanmancn.com
 DOMAIN,clckmedia.club
 DOMAIN,cleafs.com
-DOMAIN,cleanbrowser.network
 DOMAIN,clearbit.com
 DOMAIN,clearsale.com.br
 DOMAIN,clente.com
@@ -4876,6 +4877,7 @@ DOMAIN,config.hiido.com
 DOMAIN,config.mobilegamestats.com
 DOMAIN,config.otherlevels.com
 DOMAIN,config.quantumgraph.com
+DOMAIN,config.safedk.com
 DOMAIN,config.sdk.scopely.io
 DOMAIN,config.uca.cloud.unity3d.com
 DOMAIN,config.unityads.unitychina.cn
@@ -6843,7 +6845,6 @@ DOMAIN,eqoivockikaue.com
 DOMAIN,eqrauafet.com
 DOMAIN,equjalkngu.com
 DOMAIN,eqzjfqkioowkle.com
-DOMAIN,er.5ykj.com
 DOMAIN,erabaru.net
 DOMAIN,erate.co.il
 DOMAIN,eratqmdr.com
@@ -6991,7 +6992,6 @@ DOMAIN,events-api.otherlevels.com
 DOMAIN,events.anzuinfra.com
 DOMAIN,events.cid.samba.tv
 DOMAIN,events.data.microsoft.com
-DOMAIN,events.engager.ecbsn.com
 DOMAIN,events.foreseeresults.com
 DOMAIN,events.gfe.nvidia.com
 DOMAIN,events.influencemobile.com
@@ -6999,6 +6999,7 @@ DOMAIN,events.jianshu.io
 DOMAIN,events.kaloo.ga
 DOMAIN,events.kumulos.com
 DOMAIN,events.launchdarkly.com
+DOMAIN,events.split.io
 DOMAIN,events.streamrail.net
 DOMAIN,events.tabmo.io
 DOMAIN,events.zaloapp.com
@@ -8633,6 +8634,7 @@ DOMAIN,healthtrader.com
 DOMAIN,heatmap.it
 DOMAIN,heatmap.services
 DOMAIN,heawzlvivkakly.com
+DOMAIN,hebiichigo.com
 DOMAIN,heckhaphanofres.info
 DOMAIN,hedlimitatelearlyb.info
 DOMAIN,hedtgodingsincy.info
@@ -9342,7 +9344,6 @@ DOMAIN,ifriends.net
 DOMAIN,ifrwam.com
 DOMAIN,ifuvjvbyjir.com
 DOMAIN,ifzwbqzqs.com
-DOMAIN,ig0nr8hhhb.com
 DOMAIN,ig8al3mkou.com
 DOMAIN,igagh.tourstogo.us
 DOMAIN,igameunion.com
@@ -13272,7 +13273,6 @@ DOMAIN,norvalur.xyz
 DOMAIN,nosdbwnd.com
 DOMAIN,notebookservisru.161.com1.ru
 DOMAIN,notifadz.com
-DOMAIN,notification-list.com
 DOMAIN,notification-time.com
 DOMAIN,notification.webengage.com
 DOMAIN,notifiche.secoloditalia.it
@@ -14577,6 +14577,7 @@ DOMAIN,polarcdn-pentos.com
 DOMAIN,polawrg.com
 DOMAIN,pole.6rooms.com
 DOMAIN,polephen.com
+DOMAIN,policityseriod.info
 DOMAIN,polimantu.com
 DOMAIN,polmontventures.com
 DOMAIN,polyad.net
@@ -17059,6 +17060,7 @@ DOMAIN,smartdevicemedia.com
 DOMAIN,smarterhq.io
 DOMAIN,smarterremarketer.net
 DOMAIN,smartocto.com
+DOMAIN,smartoffer.site
 DOMAIN,smartology.co
 DOMAIN,smartracker.net
 DOMAIN,smartredirect.de
@@ -19996,5 +19998,3 @@ DOMAIN,wardparser.info
 DOMAIN,warezlayer.to
 DOMAIN,warpwrite.com
 DOMAIN,warsomnet.com
-DOMAIN,warten-sie-mal.xyz
-DOMAIN,watchfree.flv.in
