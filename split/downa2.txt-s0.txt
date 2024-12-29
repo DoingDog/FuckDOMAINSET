@@ -1389,7 +1389,6 @@ DOMAIN,adnanny.com
 DOMAIN,adne.tv
 DOMAIN,adnectar.com
 DOMAIN,adnemo.com
-DOMAIN,adnet-media.net
 DOMAIN,adnet.com
 DOMAIN,adnet.lt
 DOMAIN,adnet.vn
@@ -1873,6 +1872,7 @@ DOMAIN,affiliates.galapartners.co.uk
 DOMAIN,affiliates.homestead.com
 DOMAIN,affiliates.lynda.com
 DOMAIN,affiliates.purevpn.com
+DOMAIN,affiliation-france.com
 DOMAIN,affiliation-int.com
 DOMAIN,affiliation.filestube.com
 DOMAIN,affiliation.planethoster.info
@@ -3010,7 +3010,6 @@ DOMAIN,bannerrage.com
 DOMAIN,banners.adfox.net
 DOMAIN,banners.adfox.ru
 DOMAIN,banners.adnetmedia.lt
-DOMAIN,banners.bigmobileads.com
 DOMAIN,banners.blacksexmatch.com
 DOMAIN,banners.ixitools.com
 DOMAIN,banners.passiondollars.com
@@ -3314,7 +3313,6 @@ DOMAIN,bigfineads.com
 DOMAIN,bighot.ru
 DOMAIN,bigmining.com
 DOMAIN,bigmir.net
-DOMAIN,bigmobileads.com
 DOMAIN,bigpulpit.com
 DOMAIN,bigstats.net
 DOMAIN,bigtracker.com
@@ -3632,6 +3630,7 @@ DOMAIN,brandlock.io
 DOMAIN,brandmetrics.com
 DOMAIN,brands.kmsmep.com
 DOMAIN,brat-online.ro
+DOMAIN,braun634.com
 DOMAIN,bravenetmedianetwork.com
 DOMAIN,braze.com
 DOMAIN,brcdn.com
@@ -4366,7 +4365,6 @@ DOMAIN,cezmxscvslmfhy.com
 DOMAIN,cf-cdn.adventori.com
 DOMAIN,cf-particle-html.eip.telegraph.co.uk
 DOMAIN,cf-us-popular.dash.pv-cdn.net
-DOMAIN,cf.adxcel.com
 DOMAIN,cf.ssacdn.com
 DOMAIN,cf.zaiyunli.cn
 DOMAIN,cf0aac5b4b68f728b22.com
@@ -6850,6 +6848,7 @@ DOMAIN,eqoivockikaue.com
 DOMAIN,eqrauafet.com
 DOMAIN,equjalkngu.com
 DOMAIN,eqzjfqkioowkle.com
+DOMAIN,er.5ykj.com
 DOMAIN,erabaru.net
 DOMAIN,erate.co.il
 DOMAIN,eratqmdr.com
@@ -10918,7 +10917,6 @@ DOMAIN,last2.cn
 DOMAIN,latency.agoop.net
 DOMAIN,later-analytics-reports.s3-accelerate.amazonaws.com
 DOMAIN,latinasheat.online
-DOMAIN,laughcloth.com
 DOMAIN,lauhauch.com
 DOMAIN,laujouty.com
 DOMAIN,launchers.network
@@ -12489,7 +12487,6 @@ DOMAIN,mobday.com
 DOMAIN,mobdisc.net
 DOMAIN,mobdisc.org
 DOMAIN,mobile-10.com
-DOMAIN,mobile-production.content-square.net
 DOMAIN,mobile-sdk-config.gservice.emarsys.net
 DOMAIN,mobile-stats.socialquantum.com
 DOMAIN,mobile-ws.apprissmobile.com
@@ -14379,6 +14376,7 @@ DOMAIN,pikzor.com
 DOMAIN,pilipala.info
 DOMAIN,pimpmypr.de
 DOMAIN,pin.hpplay.cn
+DOMAIN,pinballpublishernetwork.com
 DOMAIN,pinddeals.com
 DOMAIN,ping-fast.com
 DOMAIN,ping-traffic.info
@@ -14962,6 +14960,7 @@ DOMAIN,publish4.com
 DOMAIN,publisher.monster.com
 DOMAIN,publisheradnetwork.com
 DOMAIN,publishflow.com
+DOMAIN,publited.com
 DOMAIN,publy.com
 DOMAIN,publy.net
 DOMAIN,pubmatic.edgekey.net
@@ -15043,6 +15042,7 @@ DOMAIN,pushkahouse.com
 DOMAIN,pushkaplus.com
 DOMAIN,pushkintop.ru
 DOMAIN,pushly.com
+DOMAIN,pushnative.com
 DOMAIN,pushnews.eu
 DOMAIN,pushnotifications.click
 DOMAIN,pushnotificationx.com
@@ -17070,7 +17070,6 @@ DOMAIN,smartdevicemedia.com
 DOMAIN,smarterhq.io
 DOMAIN,smarterremarketer.net
 DOMAIN,smartocto.com
-DOMAIN,smartoffer.site
 DOMAIN,smartology.co
 DOMAIN,smartracker.net
 DOMAIN,smartredirect.de
@@ -19327,6 +19326,7 @@ DOMAIN,usuf.candukang.cn
 DOMAIN,uswgkadyika.com
 DOMAIN,usxobxnmmaix.com
 DOMAIN,utag.ijinshan.com
+DOMAIN,utarget.ru
 DOMAIN,utbclxmcv.com
 DOMAIN,utctime.tiltingpoint.io
 DOMAIN,utfusckgnj.com
@@ -19485,7 +19485,6 @@ DOMAIN,vapgfhsecbit.com
 DOMAIN,variablefitness.com
 DOMAIN,variti.net
 DOMAIN,vasfxpribls.com
-DOMAIN,vashoot.com
 DOMAIN,vaslssynz.com
 DOMAIN,vast.extremereach.io
 DOMAIN,vastpaketet.se
@@ -19998,3 +19997,4 @@ DOMAIN,wantcannabis.ca
 DOMAIN,wanzituandui.com
 DOMAIN,wap.2f.com
 DOMAIN,wap.utmei.cn
+DOMAIN,wapdollar.in
