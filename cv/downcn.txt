@@ -1368,6 +1368,7 @@ DOMAIN-SUFFIX,ecitic.net
 DOMAIN-SUFFIX,ecjobhome.com
 DOMAIN-SUFFIX,ecloud-gdu.com
 DOMAIN-SUFFIX,ecombdapi.com
+DOMAIN-SUFFIX,edge-byted.com
 DOMAIN-SUFFIX,edu4399.com
 DOMAIN-SUFFIX,eduei.com
 DOMAIN-SUFFIX,eeyy.com
@@ -3522,6 +3523,7 @@ DOMAIN-SUFFIX,vodtcbk.com
 DOMAIN-SUFFIX,volccdn.com
 DOMAIN-SUFFIX,volceapplog.com
 DOMAIN-SUFFIX,volces.com
+DOMAIN-SUFFIX,volcvideo.com
 DOMAIN-SUFFIX,volcvod.com
 DOMAIN-SUFFIX,vpgame.com
 DOMAIN-SUFFIX,vxo7tu.com
@@ -4317,4 +4319,4 @@ IP-CIDR6,::ffff:58.58.0.90/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.161/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.186/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.98/128,no-resolve
-#Sun 12/29/2024
+#Wed 01/01/2025
