@@ -1141,6 +1141,7 @@ DOMAIN,ad.ikonke.com
 DOMAIN,ad.lionmobi.com
 DOMAIN,ad.mcloud.139.com
 DOMAIN,ad.mobiuspace.net
+DOMAIN,ad.mrtnsvr.com
 DOMAIN,ad.myinstashot.com
 DOMAIN,ad.qn.img-space.com
 DOMAIN,ad.quwin.cn
@@ -1165,6 +1166,7 @@ DOMAIN,ad2load.net
 DOMAIN,ad4.com.cn
 DOMAIN,ad4980.kr
 DOMAIN,ad4989.co.kr
+DOMAIN,ad4m.at
 DOMAIN,ad4partners.com
 DOMAIN,ad5track.com
 DOMAIN,ad6media.fr
@@ -1662,6 +1664,7 @@ DOMAIN,adtomafusion.com
 DOMAIN,adtools.gossipkings.com
 DOMAIN,adtools2.amakings.com
 DOMAIN,adtr.io
+DOMAIN,adtrack.adleadevent.com
 DOMAIN,adtrack.calls.net
 DOMAIN,adtrackers.net
 DOMAIN,adtransfer.net
@@ -2179,6 +2182,7 @@ DOMAIN,analytic.xingcloud.com
 DOMAIN,analytics-au.clickdimensions.com
 DOMAIN,analytics-cdiscount.com
 DOMAIN,analytics-chi-nfl.yinzcam.com
+DOMAIN,analytics-egain.com
 DOMAIN,analytics-engine.net
 DOMAIN,analytics-eu.clickdimensions.com
 DOMAIN,analytics-eu.tactilews.com
@@ -4516,6 +4520,7 @@ DOMAIN,ciusqhujddbggb.com
 DOMAIN,civyssfaqtufib.com
 DOMAIN,ciwbezny.com
 DOMAIN,cizemeshbbc.com
+DOMAIN,cizion.com
 DOMAIN,cj.mplxtms.com
 DOMAIN,cjdomdjyvble.com
 DOMAIN,cjie.baidu.com
@@ -4654,9 +4659,11 @@ DOMAIN,clockdisplaystoring.com
 DOMAIN,clod.pw
 DOMAIN,cloisteredcord.com
 DOMAIN,closeveri.info
+DOMAIN,cloud-emea.analytics-egain.com
 DOMAIN,cloud-exploration.com
 DOMAIN,cloud-iq.com
 DOMAIN,cloud-miner.de
+DOMAIN,cloud-us.analytics-egain.com
 DOMAIN,cloud.ogury.io
 DOMAIN,cloudcdn.gdn
 DOMAIN,cloudcoins.co
@@ -4816,6 +4823,7 @@ DOMAIN,colliersads.com
 DOMAIN,collserve.com
 DOMAIN,colmwynne.com
 DOMAIN,colorfulafterthought.com
+DOMAIN,colossusssp.com
 DOMAIN,colpory.com
 DOMAIN,com-878979.info
 DOMAIN,com-online.website
@@ -4878,6 +4886,7 @@ DOMAIN,config.hiido.com
 DOMAIN,config.mobilegamestats.com
 DOMAIN,config.otherlevels.com
 DOMAIN,config.quantumgraph.com
+DOMAIN,config.safedk.com
 DOMAIN,config.sdk.scopely.io
 DOMAIN,config.uca.cloud.unity3d.com
 DOMAIN,config.unityads.unitychina.cn
@@ -5047,6 +5056,7 @@ DOMAIN,count.fr
 DOMAIN,count.im
 DOMAIN,count.iyaxin.com
 DOMAIN,count.ly
+DOMAIN,count.nuanyuehanxing.com
 DOMAIN,count.pcauto.com.cn
 DOMAIN,count.pcgames.com.cn
 DOMAIN,count.personyze.com
@@ -5725,6 +5735,7 @@ DOMAIN,dentairemalin.com
 DOMAIN,denza.pro
 DOMAIN,dep-x.com
 DOMAIN,deparisesamer.info
+DOMAIN,depart.trinitymedia.ai
 DOMAIN,departapp.com
 DOMAIN,deplayer.net
 DOMAIN,depttake.ga
@@ -6415,6 +6426,7 @@ DOMAIN,e.xsm98e.cn
 DOMAIN,e.y23zpl.cn
 DOMAIN,e.yl64a.cn
 DOMAIN,e.yu3p7m.cn
+DOMAIN,e.zg-api.com
 DOMAIN,e0663490cca0296f7.com
 DOMAIN,e0a42e1a21669b.com
 DOMAIN,e0yp21.cn
@@ -6992,6 +7004,7 @@ DOMAIN,events-api.otherlevels.com
 DOMAIN,events.anzuinfra.com
 DOMAIN,events.cid.samba.tv
 DOMAIN,events.data.microsoft.com
+DOMAIN,events.engager.ecbsn.com
 DOMAIN,events.foreseeresults.com
 DOMAIN,events.gfe.nvidia.com
 DOMAIN,events.influencemobile.com
@@ -7274,6 +7287,7 @@ DOMAIN,fearer.info
 DOMAIN,feature.fm
 DOMAIN,featuredusers.com
 DOMAIN,fecgvrvne.com
+DOMAIN,feed-ads.com
 DOMAIN,feed.mikle.com
 DOMAIN,feedage.com
 DOMAIN,feedage.net
@@ -8396,6 +8410,7 @@ DOMAIN,gsjgkpnq.com
 DOMAIN,gslyyfntvnwbad.com
 DOMAIN,gsmtop.net
 DOMAIN,gsniper2.com
+DOMAIN,gsspat.jp
 DOMAIN,gssprt.jp
 DOMAIN,gstatic-as.pro
 DOMAIN,gstatic-us.pro
@@ -8926,6 +8941,7 @@ DOMAIN,hoochoor.com
 DOMAIN,hoodline.com
 DOMAIN,hook.integromat.com
 DOMAIN,hookupbucks.com
+DOMAIN,hoood.info
 DOMAIN,hooraico.com
 DOMAIN,hoortols.org
 DOMAIN,hoozique.net
@@ -9177,6 +9193,7 @@ DOMAIN,hy-brasil.mhwang.com
 DOMAIN,hydraulicpowerpack.com
 DOMAIN,hyfntrak.com
 DOMAIN,hygqtz.cn
+DOMAIN,hype-ads.com
 DOMAIN,hypeads.org
 DOMAIN,hyperactivate.com
 DOMAIN,hyperads.gotrackier.com
@@ -10559,6 +10576,7 @@ DOMAIN,kelxznqntfk.com
 DOMAIN,kemdckufiw.com
 DOMAIN,kerg.net
 DOMAIN,ketads.com
+DOMAIN,keyade.com
 DOMAIN,keymetric.net
 DOMAIN,keyrunmodel.com
 DOMAIN,keytiles.com
@@ -11225,6 +11243,7 @@ DOMAIN,livestatisc.com
 DOMAIN,livestats.fr
 DOMAIN,livestatsnet.services
 DOMAIN,livetex.ru
+DOMAIN,livetrafficfeed.com
 DOMAIN,liveuniversenetwork.com
 DOMAIN,livewebbs2.msstatic.com
 DOMAIN,livewebbs2pcdn.msstatic.com
@@ -11334,6 +11353,7 @@ DOMAIN,log.daqi.com
 DOMAIN,log.droid4x.cn
 DOMAIN,log.event.hunantv.com
 DOMAIN,log.hitsteps.com
+DOMAIN,log.intellimize.co
 DOMAIN,log.kuaigeng.com
 DOMAIN,log.kukuplay.com
 DOMAIN,log.kuwo.cn
@@ -11342,6 +11362,7 @@ DOMAIN,log.liusha.info
 DOMAIN,log.mtime.cn
 DOMAIN,log.opentracker.net
 DOMAIN,log.outbrain.org
+DOMAIN,log.particlenews.com
 DOMAIN,log.sdk.zadn.vn
 DOMAIN,log.so.hunantv.com
 DOMAIN,log.tapatalk.com
@@ -12344,7 +12365,6 @@ DOMAIN,minero-proxy-03.now.sh
 DOMAIN,minero.pw
 DOMAIN,minescripts.info
 DOMAIN,minessetion.info
-DOMAIN,minexmr.com
 DOMAIN,minexmr.stream
 DOMAIN,mingyueqingfengshe.com
 DOMAIN,miniapp.qiluyidian.mobi
@@ -12539,6 +12559,7 @@ DOMAIN,momently.com
 DOMAIN,momentus.gotrackier.com
 DOMAIN,momzs.com
 DOMAIN,mon-va.tiktokv.com
+DOMAIN,mon.snssdk.com
 DOMAIN,monad-rtb.com
 DOMAIN,monarchslo.com
 DOMAIN,monditomasks.co
@@ -13553,6 +13574,7 @@ DOMAIN,oertmxfsryji.com
 DOMAIN,oevery.com
 DOMAIN,oevltdvzl.com
 DOMAIN,oevujdgj.com
+DOMAIN,oewabox.at
 DOMAIN,oewscpwrvoca.com
 DOMAIN,oexbdfnbentzd.com
 DOMAIN,oezgivtasc.com
@@ -14814,6 +14836,7 @@ DOMAIN,profile.bharatmatrimony.com
 DOMAIN,profilesnitch.com
 DOMAIN,profistats.net
 DOMAIN,profitshare.ro
+DOMAIN,profusesupport.com
 DOMAIN,progettocrea.org
 DOMAIN,proglack.site
 DOMAIN,program3.com
@@ -16436,6 +16459,7 @@ DOMAIN,sdgvzdksjbl.com
 DOMAIN,sdillrnslaiyb.com
 DOMAIN,sdk-02.moengage.com
 DOMAIN,sdk-api-v1.singular.net
+DOMAIN,sdk-cdn.optimove.net
 DOMAIN,sdk-configuration.gimbal.com
 DOMAIN,sdk-info.gimbal.com
 DOMAIN,sdk.adspruce.com
@@ -17081,6 +17105,7 @@ DOMAIN,smartzonessva.com
 DOMAIN,smashseek.com
 DOMAIN,smazvhjn.com
 DOMAIN,smct.co
+DOMAIN,smetrics.att.com
 DOMAIN,smetrics.att.com.edgekey.net
 DOMAIN,smgaklckpszzd.com
 DOMAIN,smi.pp.ua
@@ -17462,6 +17487,7 @@ DOMAIN,statcount.com
 DOMAIN,statcounterfree.com
 DOMAIN,statelead.com
 DOMAIN,statesol.net
+DOMAIN,statgw.devtodev.com
 DOMAIN,stathound.com
 DOMAIN,static-cnt.bid
 DOMAIN,static-sb.com
@@ -17549,6 +17575,7 @@ DOMAIN,stats.aplus.com
 DOMAIN,stats.avast.com
 DOMAIN,stats.bannersnack.com
 DOMAIN,stats.cn.ronghub.com
+DOMAIN,stats.coronalabs.com
 DOMAIN,stats.cz
 DOMAIN,stats.datawrapper.de
 DOMAIN,stats.de
@@ -18528,6 +18555,7 @@ DOMAIN,track.mdrctr.com
 DOMAIN,track.mypcbackup.com
 DOMAIN,track.omguk.com
 DOMAIN,track.rediff.com
+DOMAIN,track.saygames.io
 DOMAIN,track.sgdmobile.com
 DOMAIN,track.superad2.com.sg
 DOMAIN,track.wesdk.co
@@ -18847,6 +18875,7 @@ DOMAIN,turbotraff.net
 DOMAIN,turn.com.akadns.net
 DOMAIN,turngrind.com
 DOMAIN,tut-64.com
+DOMAIN,tutvp.com
 DOMAIN,tuwuyppwdj.com
 DOMAIN,tuxi.com.cn
 DOMAIN,tuygdfsydexdeb.com
@@ -19298,6 +19327,7 @@ DOMAIN,usenetxs.space
 DOMAIN,useproof.com
 DOMAIN,user-api.com
 DOMAIN,user-clicks.com
+DOMAIN,user-red.com
 DOMAIN,user-stats.rbl.ms
 DOMAIN,usercash.com
 DOMAIN,usercentrics.eu
@@ -19968,33 +19998,3 @@ DOMAIN,w00f.net
 DOMAIN,w00tmedia.net
 DOMAIN,w1.jinyueya.net
 DOMAIN,w1.wayqq.com
-DOMAIN,w3counter.com
-DOMAIN,w4.com
-DOMAIN,w4statistics.info
-DOMAIN,w9statistics.info
-DOMAIN,wa4etw9l.top
-DOMAIN,waavnpkn.com
-DOMAIN,wadrzbroefwd.com
-DOMAIN,wafmedia3.com
-DOMAIN,waframedia20.com
-DOMAIN,waframedia8.com
-DOMAIN,waframedia9.com
-DOMAIN,wahwahnetworks.com
-DOMAIN,wahyufian.zoomshare.com
-DOMAIN,wainveredspar.info
-DOMAIN,wakamoment.tk
-DOMAIN,wakogzmgjqucs.com
-DOMAIN,walibao.com
-DOMAIN,wall.adgaterewards.com
-DOMAIN,walmeric.com
-DOMAIN,walprater.com
-DOMAIN,wamcash.com
-DOMAIN,wamnetwork.com
-DOMAIN,wangjinhu.wang
-DOMAIN,wangzhichao.info
-DOMAIN,wantatop.com
-DOMAIN,wantcannabis.ca
-DOMAIN,wanzituandui.com
-DOMAIN,wap.2f.com
-DOMAIN,wap.utmei.cn
-DOMAIN,wapdollar.in

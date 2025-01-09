@@ -1719,7 +1719,6 @@ DOMAIN-SUFFIX,hikunpeng.com
 DOMAIN-SUFFIX,hikunpeng.net
 DOMAIN-SUFFIX,hisilicon.com
 DOMAIN-SUFFIX,hitpt.com
-DOMAIN-SUFFIX,hitpt.org
 DOMAIN-SUFFIX,hitv.com
 DOMAIN-SUFFIX,hiwifi.com
 DOMAIN-SUFFIX,hiyd.com
@@ -2702,7 +2701,6 @@ DOMAIN-SUFFIX,opstatics.com
 DOMAIN-SUFFIX,oracle-tencent.com
 DOMAIN-SUFFIX,oracle-tencent.net
 DOMAIN-SUFFIX,oracle.com
-DOMAIN-SUFFIX,oray-img.com
 DOMAIN-SUFFIX,oray.com
 DOMAIN-SUFFIX,oray.net
 DOMAIN-SUFFIX,orayimg.com
@@ -4319,4 +4317,4 @@ IP-CIDR6,::ffff:58.58.0.90/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.161/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.186/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.98/128,no-resolve
-#Sun 01/05/2025
+#Thu 01/09/2025
