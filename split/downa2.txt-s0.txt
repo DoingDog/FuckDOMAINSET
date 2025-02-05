@@ -1143,7 +1143,6 @@ DOMAIN,ad.ikonke.com
 DOMAIN,ad.lionmobi.com
 DOMAIN,ad.mcloud.139.com
 DOMAIN,ad.mobiuspace.net
-DOMAIN,ad.mrtnsvr.com
 DOMAIN,ad.myinstashot.com
 DOMAIN,ad.qn.img-space.com
 DOMAIN,ad.quwin.cn
@@ -1168,7 +1167,6 @@ DOMAIN,ad2load.net
 DOMAIN,ad4.com.cn
 DOMAIN,ad4980.kr
 DOMAIN,ad4989.co.kr
-DOMAIN,ad4m.at
 DOMAIN,ad4partners.com
 DOMAIN,ad5track.com
 DOMAIN,ad6media.fr
@@ -1397,6 +1395,7 @@ DOMAIN,adnemo.com
 DOMAIN,adnet.com
 DOMAIN,adnet.lt
 DOMAIN,adnet.vn
+DOMAIN,adnetwork.vn
 DOMAIN,adnetworkme.com
 DOMAIN,adnetxchange.com
 DOMAIN,adneutralads.com
@@ -1670,7 +1669,6 @@ DOMAIN,adtomafusion.com
 DOMAIN,adtools.gossipkings.com
 DOMAIN,adtools2.amakings.com
 DOMAIN,adtr.io
-DOMAIN,adtrack.adleadevent.com
 DOMAIN,adtrack.calls.net
 DOMAIN,adtrackers.net
 DOMAIN,adtransfer.net
@@ -1768,7 +1766,6 @@ DOMAIN,adworkmedia.com
 DOMAIN,adworkmedia.net
 DOMAIN,adworldmedia.com
 DOMAIN,adworldmedia.net
-DOMAIN,adwstats.com
 DOMAIN,adx-asia-imp.aarki.net
 DOMAIN,adx-asia.aarki.net
 DOMAIN,adx-t.com
@@ -2188,9 +2185,7 @@ DOMAIN,analysistools.net
 DOMAIN,analytic.rocks
 DOMAIN,analytic.xingcloud.com
 DOMAIN,analytics-au.clickdimensions.com
-DOMAIN,analytics-cdiscount.com
 DOMAIN,analytics-chi-nfl.yinzcam.com
-DOMAIN,analytics-egain.com
 DOMAIN,analytics-engine.net
 DOMAIN,analytics-eu.clickdimensions.com
 DOMAIN,analytics-eu.tactilews.com
@@ -2701,6 +2696,7 @@ DOMAIN,athingcatedrestori.info
 DOMAIN,ationmultinal.info
 DOMAIN,atlantisjs.brafton.com
 DOMAIN,atlcourier.com
+DOMAIN,ato.mx
 DOMAIN,atoshonetwork.com
 DOMAIN,atp.io
 DOMAIN,atpanel.com
@@ -3355,6 +3351,7 @@ DOMAIN,bingohall.ag
 DOMAIN,binlayer.com
 DOMAIN,binlayer.de
 DOMAIN,bionicclick.com
+DOMAIN,biosda.com
 DOMAIN,bip-bip-blip.com
 DOMAIN,bipwrite.com
 DOMAIN,biquge22.com
@@ -3386,6 +3383,7 @@ DOMAIN,bizo.com
 DOMAIN,bizspring.net
 DOMAIN,bizx.info
 DOMAIN,bizzibeans.net
+DOMAIN,bj1110.online
 DOMAIN,bjceodmwesmbth.com
 DOMAIN,bjcpcnhssg.com
 DOMAIN,bjcvibh.com
@@ -3474,6 +3472,7 @@ DOMAIN,blueadvertise.com
 DOMAIN,bluecava.com
 DOMAIN,bluecore.com
 DOMAIN,bluecounter.de
+DOMAIN,bluedawning.com
 DOMAIN,blueioabj.com
 DOMAIN,bluekai.com.edgekey.net
 DOMAIN,bluestreak.com
@@ -3733,6 +3732,7 @@ DOMAIN,buildviet.info
 DOMAIN,bukpsslm.com
 DOMAIN,buleor.com
 DOMAIN,bulkhentai.com
+DOMAIN,bullads.net
 DOMAIN,bultigho.net
 DOMAIN,bumlam.com
 DOMAIN,bumpin.com
@@ -4534,7 +4534,6 @@ DOMAIN,ciusqhujddbggb.com
 DOMAIN,civyssfaqtufib.com
 DOMAIN,ciwbezny.com
 DOMAIN,cizemeshbbc.com
-DOMAIN,cizion.com
 DOMAIN,cj.mplxtms.com
 DOMAIN,cjdomdjyvble.com
 DOMAIN,cjie.baidu.com
@@ -4673,11 +4672,9 @@ DOMAIN,clockdisplaystoring.com
 DOMAIN,clod.pw
 DOMAIN,cloisteredcord.com
 DOMAIN,closeveri.info
-DOMAIN,cloud-emea.analytics-egain.com
 DOMAIN,cloud-exploration.com
 DOMAIN,cloud-iq.com
 DOMAIN,cloud-miner.de
-DOMAIN,cloud-us.analytics-egain.com
 DOMAIN,cloud.ogury.io
 DOMAIN,cloudcdn.gdn
 DOMAIN,cloudcoins.co
@@ -4837,7 +4834,6 @@ DOMAIN,colliersads.com
 DOMAIN,collserve.com
 DOMAIN,colmwynne.com
 DOMAIN,colorfulafterthought.com
-DOMAIN,colossusssp.com
 DOMAIN,colpory.com
 DOMAIN,com-878979.info
 DOMAIN,com-online.website
@@ -5071,7 +5067,6 @@ DOMAIN,count.fr
 DOMAIN,count.im
 DOMAIN,count.iyaxin.com
 DOMAIN,count.ly
-DOMAIN,count.nuanyuehanxing.com
 DOMAIN,count.pcauto.com.cn
 DOMAIN,count.pcgames.com.cn
 DOMAIN,count.personyze.com
@@ -5728,6 +5723,7 @@ DOMAIN,deletespyware-adware.com
 DOMAIN,delidatax.net
 DOMAIN,deliv.lexpress.fr
 DOMAIN,delivery-node-aziz.voe-network.net
+DOMAIN,delivery.adnetwork.vn
 DOMAIN,delivery.advanseads.com
 DOMAIN,delivery45.com
 DOMAIN,delivery47.com
@@ -5752,7 +5748,6 @@ DOMAIN,dentairemalin.com
 DOMAIN,denza.pro
 DOMAIN,dep-x.com
 DOMAIN,deparisesamer.info
-DOMAIN,depart.trinitymedia.ai
 DOMAIN,departapp.com
 DOMAIN,deplayer.net
 DOMAIN,depttake.ga
@@ -6443,7 +6438,6 @@ DOMAIN,e.xsm98e.cn
 DOMAIN,e.y23zpl.cn
 DOMAIN,e.yl64a.cn
 DOMAIN,e.yu3p7m.cn
-DOMAIN,e.zg-api.com
 DOMAIN,e0663490cca0296f7.com
 DOMAIN,e0a42e1a21669b.com
 DOMAIN,e0yp21.cn
@@ -7021,7 +7015,6 @@ DOMAIN,events-api.otherlevels.com
 DOMAIN,events.anzuinfra.com
 DOMAIN,events.cid.samba.tv
 DOMAIN,events.data.microsoft.com
-DOMAIN,events.engager.ecbsn.com
 DOMAIN,events.foreseeresults.com
 DOMAIN,events.gfe.nvidia.com
 DOMAIN,events.influencemobile.com
@@ -8427,7 +8420,6 @@ DOMAIN,gsjgkpnq.com
 DOMAIN,gslyyfntvnwbad.com
 DOMAIN,gsmtop.net
 DOMAIN,gsniper2.com
-DOMAIN,gsspat.jp
 DOMAIN,gssprt.jp
 DOMAIN,gstatic-as.pro
 DOMAIN,gstatic-us.pro
@@ -8959,7 +8951,6 @@ DOMAIN,hoochoor.com
 DOMAIN,hoodline.com
 DOMAIN,hook.integromat.com
 DOMAIN,hookupbucks.com
-DOMAIN,hoood.info
 DOMAIN,hooraico.com
 DOMAIN,hoortols.org
 DOMAIN,hoozique.net
@@ -9556,6 +9547,7 @@ DOMAIN,imgstat.ameba.jp
 DOMAIN,imgtown.pw
 DOMAIN,imgtty.com
 DOMAIN,imgview.pw
+DOMAIN,imgwebfeed.com
 DOMAIN,imhizxejm.com
 DOMAIN,imho.ru
 DOMAIN,imiclk.com
@@ -10306,7 +10298,6 @@ DOMAIN,jpmpvhelfeg.com
 DOMAIN,jpmyudcnpgl.com
 DOMAIN,jpogcxdaxco.com
 DOMAIN,jprddctf.com
-DOMAIN,jpush.io
 DOMAIN,jpuv.cn
 DOMAIN,jpvmwnnwuzo.com
 DOMAIN,jpyoikrzrjcap.com
@@ -10594,7 +10585,6 @@ DOMAIN,kelxznqntfk.com
 DOMAIN,kemdckufiw.com
 DOMAIN,kerg.net
 DOMAIN,ketads.com
-DOMAIN,keyade.com
 DOMAIN,keymetric.net
 DOMAIN,keyrunmodel.com
 DOMAIN,keytiles.com
@@ -11261,7 +11251,6 @@ DOMAIN,livestatisc.com
 DOMAIN,livestats.fr
 DOMAIN,livestatsnet.services
 DOMAIN,livetex.ru
-DOMAIN,livetrafficfeed.com
 DOMAIN,liveuniversenetwork.com
 DOMAIN,livewebbs2.msstatic.com
 DOMAIN,livewebbs2pcdn.msstatic.com
@@ -11371,7 +11360,6 @@ DOMAIN,log.daqi.com
 DOMAIN,log.droid4x.cn
 DOMAIN,log.event.hunantv.com
 DOMAIN,log.hitsteps.com
-DOMAIN,log.intellimize.co
 DOMAIN,log.kuaigeng.com
 DOMAIN,log.kukuplay.com
 DOMAIN,log.kuwo.cn
@@ -11380,7 +11368,6 @@ DOMAIN,log.liusha.info
 DOMAIN,log.mtime.cn
 DOMAIN,log.opentracker.net
 DOMAIN,log.outbrain.org
-DOMAIN,log.particlenews.com
 DOMAIN,log.sdk.zadn.vn
 DOMAIN,log.so.hunantv.com
 DOMAIN,log.tapatalk.com
@@ -11442,6 +11429,7 @@ DOMAIN,lopley.com
 DOMAIN,lopsookr.com
 DOMAIN,loseads.eu
 DOMAIN,losecounter.de
+DOMAIN,losital.ru
 DOMAIN,losstrack.com
 DOMAIN,lostun.com
 DOMAIN,loteumepag.com
@@ -12004,6 +11992,7 @@ DOMAIN,mailstat.us
 DOMAIN,mairdumont.com
 DOMAIN,maka.im
 DOMAIN,makecashtakingsurveys.biz
+DOMAIN,makemyvids.com
 DOMAIN,makkuqiavqx.com
 DOMAIN,makumuvgxfogq.com
 DOMAIN,malakasonline.com
@@ -12181,6 +12170,7 @@ DOMAIN,media-networks.ru
 DOMAIN,media-servers.net
 DOMAIN,media-serving.com
 DOMAIN,media-toolbar.com
+DOMAIN,media.adnetwork.vn
 DOMAIN,media.datahc.com
 DOMAIN,media.eurolive.com
 DOMAIN,media.evolv.ai
@@ -12559,6 +12549,7 @@ DOMAIN,mockingfish.com
 DOMAIN,modelsgonebad.com
 DOMAIN,modern.watson.data.microsoft.com.akadns.net
 DOMAIN,modernus.is
+DOMAIN,modescrips.info
 DOMAIN,modzj.net
 DOMAIN,moengage.com
 DOMAIN,moengagewebsdk.imgix.net
@@ -12577,7 +12568,6 @@ DOMAIN,momently.com
 DOMAIN,momentus.gotrackier.com
 DOMAIN,momzs.com
 DOMAIN,mon-va.tiktokv.com
-DOMAIN,mon.snssdk.com
 DOMAIN,monad-rtb.com
 DOMAIN,monarchslo.com
 DOMAIN,monditomasks.co
@@ -14659,6 +14649,7 @@ DOMAIN,popsuperbbrands.com
 DOMAIN,popt.in
 DOMAIN,popularitish.com
 DOMAIN,populis.com
+DOMAIN,populisengage.com
 DOMAIN,populr.me
 DOMAIN,popunders.bid
 DOMAIN,popundertotal.com
@@ -14857,7 +14848,6 @@ DOMAIN,profile.bharatmatrimony.com
 DOMAIN,profilesnitch.com
 DOMAIN,profistats.net
 DOMAIN,profitshare.ro
-DOMAIN,profusesupport.com
 DOMAIN,progettocrea.org
 DOMAIN,proglack.site
 DOMAIN,program3.com
@@ -16480,7 +16470,6 @@ DOMAIN,sdgvzdksjbl.com
 DOMAIN,sdillrnslaiyb.com
 DOMAIN,sdk-02.moengage.com
 DOMAIN,sdk-api-v1.singular.net
-DOMAIN,sdk-cdn.optimove.net
 DOMAIN,sdk-configuration.gimbal.com
 DOMAIN,sdk-info.gimbal.com
 DOMAIN,sdk.adspruce.com
@@ -17506,7 +17495,6 @@ DOMAIN,statcount.com
 DOMAIN,statcounterfree.com
 DOMAIN,statelead.com
 DOMAIN,statesol.net
-DOMAIN,statgw.devtodev.com
 DOMAIN,stathound.com
 DOMAIN,static-cnt.bid
 DOMAIN,static-sb.com
@@ -17594,7 +17582,6 @@ DOMAIN,stats.aplus.com
 DOMAIN,stats.avast.com
 DOMAIN,stats.bannersnack.com
 DOMAIN,stats.cn.ronghub.com
-DOMAIN,stats.coronalabs.com
 DOMAIN,stats.cz
 DOMAIN,stats.datawrapper.de
 DOMAIN,stats.de
@@ -18575,7 +18562,6 @@ DOMAIN,track.mdrctr.com
 DOMAIN,track.mypcbackup.com
 DOMAIN,track.omguk.com
 DOMAIN,track.rediff.com
-DOMAIN,track.saygames.io
 DOMAIN,track.sgdmobile.com
 DOMAIN,track.superad2.com.sg
 DOMAIN,track.wesdk.co
@@ -19347,7 +19333,6 @@ DOMAIN,usenetxs.space
 DOMAIN,useproof.com
 DOMAIN,user-api.com
 DOMAIN,user-clicks.com
-DOMAIN,user-red.com
 DOMAIN,user-stats.rbl.ms
 DOMAIN,usercash.com
 DOMAIN,usercentrics.eu
@@ -19998,3 +19983,18 @@ DOMAIN,vyatdrilrtgeh.com
 DOMAIN,vygekimhrfto.com
 DOMAIN,vysgpewbyfbiob.com
 DOMAIN,vytomi.gotrackier.com
+DOMAIN,vyykulowdu.com
+DOMAIN,vzbbzzasjtn.com
+DOMAIN,vzcljugmtuno.com
+DOMAIN,vzhjnorkudcxbiy.com
+DOMAIN,vzhlsmmboaqxlv.com
+DOMAIN,vzjjglrnira.com
+DOMAIN,vzkdyladanuudb.com
+DOMAIN,vzkyivowceqcsd.com
+DOMAIN,vzreguys.com
+DOMAIN,vzsuiuamhuozw.com
+DOMAIN,vzvpswkjpxvzs.com
+DOMAIN,vzxnrtxpdnl.com
+DOMAIN,vzyclgqffpojk.com
+DOMAIN,w.uptolike.com
+DOMAIN,w.usabilla.com
