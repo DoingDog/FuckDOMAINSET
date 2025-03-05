@@ -1947,7 +1947,6 @@ DOMAIN-SUFFIX,ipip.net
 DOMAIN-SUFFIX,ipplus360.com
 DOMAIN-SUFFIX,iprdp.net
 DOMAIN-SUFFIX,ipssh.net
-DOMAIN-SUFFIX,ipv6-test.com
 DOMAIN-SUFFIX,iq.com
 DOMAIN-SUFFIX,iranshao.com
 DOMAIN-SUFFIX,irs01.com
@@ -3274,8 +3273,6 @@ DOMAIN-SUFFIX,tendis.net
 DOMAIN-SUFFIX,tenpay.com
 DOMAIN-SUFFIX,tenxcloud.com
 DOMAIN-SUFFIX,test-cignacmb.com
-DOMAIN-SUFFIX,test-ipv4.com
-DOMAIN-SUFFIX,test-ipv6.com
 DOMAIN-SUFFIX,testwaf.com
 DOMAIN-SUFFIX,texasholdemcup.com
 DOMAIN-SUFFIX,texasholdemcup.net
@@ -4317,4 +4314,4 @@ IP-CIDR6,::ffff:58.58.0.90/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.161/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.186/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.98/128,no-resolve
-#Sat 03/01/2025
+#Wed 03/05/2025
