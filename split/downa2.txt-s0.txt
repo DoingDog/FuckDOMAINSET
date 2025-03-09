@@ -1738,7 +1738,6 @@ DOMAIN,adxat.com
 DOMAIN,adxbid.me
 DOMAIN,adxcallback.batmobi.net
 DOMAIN,adxcel-ec2.com
-DOMAIN,adxchg.com
 DOMAIN,adxcore.com
 DOMAIN,adxhi.com
 DOMAIN,adxhome.com
@@ -5118,6 +5117,7 @@ DOMAIN,cpulaptop.com
 DOMAIN,cpull.360.cn
 DOMAIN,cpvads.com
 DOMAIN,cpvtgt.com
+DOMAIN,cpxadroit.com
 DOMAIN,cpzxmrne.com
 DOMAIN,cq9119.com
 DOMAIN,cqflplcldh.com
@@ -7929,6 +7929,7 @@ DOMAIN,gczjhffh.com
 DOMAIN,gdcuixkjhnmot.com
 DOMAIN,gdczbvckwjafu.com
 DOMAIN,gdeslon.ru
+DOMAIN,gdmdigital.com
 DOMAIN,gdpr-service.herokuapp.com
 DOMAIN,gdpr.internetbrands.com
 DOMAIN,gdpr.prisa.com
@@ -8171,6 +8172,7 @@ DOMAIN,glpyiiahtdmaan.com
 DOMAIN,gltpstgjnyb.com
 DOMAIN,glucmift.net
 DOMAIN,glumifo.info
+DOMAIN,glumtitu.net
 DOMAIN,gluokdhafryxtw.com
 DOMAIN,glvzlhrrdjlme.com
 DOMAIN,glxfls.com
@@ -12613,7 +12615,6 @@ DOMAIN,movable-ink-6710.com
 DOMAIN,move2.co
 DOMAIN,moveadrenaline.com
 DOMAIN,movie4all.co
-DOMAIN,mowfruit.com
 DOMAIN,mowithlerendu.pro
 DOMAIN,mozbar.moz.com
 DOMAIN,mp-https.info
@@ -13188,7 +13189,6 @@ DOMAIN,nikkiscash.com
 DOMAIN,nile.works
 DOMAIN,niltutch.com
 DOMAIN,nim.qiyukf.com
-DOMAIN,nim.sh
 DOMAIN,nimiq-network.com
 DOMAIN,nimiq.agency
 DOMAIN,nimiq.com
@@ -14388,7 +14388,6 @@ DOMAIN,pic.iask.cn
 DOMAIN,pic.poklytk.com
 DOMAIN,pic.starsarabian.com
 DOMAIN,pic.zxwhys.cn
-DOMAIN,picadmedia.com
 DOMAIN,picbucks.com
 DOMAIN,piccdn.igetget.com
 DOMAIN,pickytime.com
@@ -14398,6 +14397,7 @@ DOMAIN,pictureturn.com
 DOMAIN,picznhen.com
 DOMAIN,pie.wirelessregistry.com
 DOMAIN,piercial.com
+DOMAIN,pietexture.com
 DOMAIN,pigra.csheaven.com
 DOMAIN,piifwkvdil.com
 DOMAIN,pijlvpsqf.com
@@ -17667,7 +17667,6 @@ DOMAIN,stopmeagency.free.fr
 DOMAIN,storage.29293.com
 DOMAIN,storeapi.net
 DOMAIN,storeen.ldmnq.com
-DOMAIN,storesurprise.com
 DOMAIN,stormcontainertag.com
 DOMAIN,stormiq.com
 DOMAIN,stormyachiever.com
@@ -17695,6 +17694,7 @@ DOMAIN,strossle.it
 DOMAIN,strs.jp
 DOMAIN,strtrk.adacado.com
 DOMAIN,struq.com
+DOMAIN,sts.batmobi.net
 DOMAIN,stuff-nzwhistleout.s3.amazonaws.com
 DOMAIN,stun.smartgslb.com
 DOMAIN,stuowq.cn
@@ -17827,6 +17827,7 @@ DOMAIN,sweetslope.com
 DOMAIN,sweetstudents.com
 DOMAIN,swegaiejcqfojl.com
 DOMAIN,swfstats.com
+DOMAIN,swiftmining.win
 DOMAIN,swiftypecdn.com
 DOMAIN,swishu.com
 DOMAIN,swiss-counter.com
@@ -19274,7 +19275,6 @@ DOMAIN,upqhjossdznx.com
 DOMAIN,upravel.com
 DOMAIN,uprbleorptdghy.com
 DOMAIN,uprlyxksgcffgn.com
-DOMAIN,upsaibou.net
 DOMAIN,upscore.com
 DOMAIN,upscri.be
 DOMAIN,upsight-api.com
