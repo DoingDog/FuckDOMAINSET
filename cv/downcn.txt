@@ -1699,6 +1699,7 @@ DOMAIN-SUFFIX,heytapcs.com
 DOMAIN-SUFFIX,heytapdownload.com
 DOMAIN-SUFFIX,heytapimage.com
 DOMAIN-SUFFIX,heytapmobi.com
+DOMAIN-SUFFIX,heytea-co.com
 DOMAIN-SUFFIX,heytea.com
 DOMAIN-SUFFIX,hftfund.com
 DOMAIN-SUFFIX,hhtravel.com
@@ -2391,6 +2392,8 @@ DOMAIN-SUFFIX,lrts.me
 DOMAIN-SUFFIX,lsplayer.com
 DOMAIN-SUFFIX,lu.com
 DOMAIN-SUFFIX,lucifr.com
+DOMAIN-SUFFIX,luckincdn.com
+DOMAIN-SUFFIX,luckincoffee.com
 DOMAIN-SUFFIX,luckincoffeecdn.com
 DOMAIN-SUFFIX,luckyair.net
 DOMAIN-SUFFIX,ludashi.com
@@ -4315,4 +4318,4 @@ IP-CIDR6,::ffff:58.58.0.90/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.161/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.186/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.98/128,no-resolve
-#Thu 03/13/2025
+#Mon 03/17/2025
