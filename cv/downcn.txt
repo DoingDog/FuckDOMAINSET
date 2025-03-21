@@ -540,6 +540,7 @@ DOMAIN-SUFFIX,avgv.cc
 DOMAIN-SUFFIX,avicsec.com
 DOMAIN-SUFFIX,avistaz.to
 DOMAIN-SUFFIX,awesome-hd.me
+DOMAIN-SUFFIX,awtmt.com
 DOMAIN-SUFFIX,b23.tv
 DOMAIN-SUFFIX,b2byao.com
 DOMAIN-SUFFIX,b3log.org
@@ -3635,6 +3636,7 @@ DOMAIN-SUFFIX,wrating.com
 DOMAIN-SUFFIX,wscdns.com
 DOMAIN-SUFFIX,wscdns.info
 DOMAIN-SUFFIX,wscdns.org
+DOMAIN-SUFFIX,wscn.net
 DOMAIN-SUFFIX,wsoso.com
 DOMAIN-SUFFIX,wtown.com
 DOMAIN-SUFFIX,wukong.com
@@ -4318,4 +4320,4 @@ IP-CIDR6,::ffff:58.58.0.90/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.161/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.186/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.98/128,no-resolve
-#Mon 03/17/2025
+#Fri 03/21/2025
