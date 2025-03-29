@@ -19915,7 +19915,6 @@ DOMAIN,tracking202.com
 DOMAIN,trackinglabs.com
 DOMAIN,trackkas.com
 DOMAIN,tracklab.club
-DOMAIN,tracklog.58.com
 DOMAIN,trackmethod.com
 DOMAIN,trackmytarget.com
 DOMAIN,trackmyusers.com
@@ -27987,6 +27986,7 @@ DOMAIN-SUFFIX,delainlygoverhe.info
 DOMAIN-SUFFIX,deletemer.online
 DOMAIN-SUFFIX,deliver.ifeng.com
 DOMAIN-SUFFIX,deliver.kuwo.cn
+DOMAIN-SUFFIX,deliver.ptgncdn.com
 DOMAIN-SUFFIX,delivery-dev.thebloggernetwork.com
 DOMAIN-SUFFIX,delivery-pc.wasu.cn
 DOMAIN-SUFFIX,delivery.dmkt-sp.jp
@@ -34478,7 +34478,7 @@ DOMAIN-SUFFIX,snapmobileasia.net
 DOMAIN-SUFFIX,snnd.co
 DOMAIN-SUFFIX,snnnyy.com
 DOMAIN-SUFFIX,snow001.com
-DOMAIN-SUFFIX,snowflake.qq.com
+DOMAIN-SUFFIX,snowplow.swm.digital
 DOMAIN-SUFFIX,so9l.com
 DOMAIN-SUFFIX,soagrist.net
 DOMAIN-SUFFIX,soarfi.cn
@@ -35578,6 +35578,7 @@ DOMAIN-SUFFIX,tracking.unitednaturals.com
 DOMAIN-SUFFIX,trackingapi.cloudapp.net
 DOMAIN-SUFFIX,trackingpro.pro
 DOMAIN-SUFFIX,trackingzen.com
+DOMAIN-SUFFIX,tracklog.58.com
 DOMAIN-SUFFIX,trackmackweldon.com
 DOMAIN-SUFFIX,trackpm.shop2market.com
 DOMAIN-SUFFIX,trackspeeder.com
@@ -38038,4 +38039,4 @@ IP-CIDR,69.28.57.245/32,no-resolve
 IP-CIDR,74.117.182.77/32,no-resolve
 IP-CIDR,78.140.131.214/32,no-resolve
 IP-CIDR6,2402:db40:5100:1011::5/128,no-resolve
-#Tue 03/25/2025
+#Sat 03/29/2025

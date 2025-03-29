@@ -116,12 +116,10 @@ DOMAIN-SUFFIX,hdhome.org
 DOMAIN-SUFFIX,hdpost.top
 DOMAIN-SUFFIX,hdroute.org
 DOMAIN-SUFFIX,hdsky.me
-DOMAIN-SUFFIX,hdstreet.club
 DOMAIN-SUFFIX,hdtime.org
 DOMAIN-SUFFIX,hdupt.com
 DOMAIN-SUFFIX,hdzone.me
 DOMAIN-SUFFIX,hitpt.com
-DOMAIN-SUFFIX,hitpt.org
 DOMAIN-SUFFIX,hudbt.hust.edu.cn
 DOMAIN-SUFFIX,icetorrent.org
 DOMAIN-SUFFIX,ieee.org
@@ -139,7 +137,6 @@ DOMAIN-SUFFIX,lztr.me
 DOMAIN-SUFFIX,m-team.cc
 DOMAIN-SUFFIX,madsrevolution.net
 DOMAIN-SUFFIX,moecat.best
-DOMAIN-SUFFIX,morethan.tv
 DOMAIN-SUFFIX,msg.vg
 DOMAIN-SUFFIX,myanonamouse.net
 DOMAIN-SUFFIX,nanyangpt.com
@@ -219,4 +216,4 @@ DOMAIN-KEYWORD,weather-adge.apple.com
 DOMAIN-KEYWORD,weather-edge.apple.com
 DOMAIN-KEYWORD,westlawchina
 USER-AGENT,%E8%BF%85%E9%9B%B7
-#Tue 03/25/2025
+#Sat 03/29/2025
