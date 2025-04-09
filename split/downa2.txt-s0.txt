@@ -1098,7 +1098,6 @@ DOMAIN,ad.netcommunities.com
 DOMAIN,ad.qn.img-space.com
 DOMAIN,ad.quwin.cn
 DOMAIN,ad.realmcdn.net
-DOMAIN,ad.samsungadhub.com
 DOMAIN,ad.smartmediarep.com
 DOMAIN,ad.turn.com.akadns.net
 DOMAIN,ad.us.sinaimg.cn
@@ -1537,7 +1536,6 @@ DOMAIN,adserve.com
 DOMAIN,adservhere.com
 DOMAIN,adserving.favorit-network.com
 DOMAIN,adservingfactory.com
-DOMAIN,adservinginternational.com
 DOMAIN,adservingvpc-1239633584.eu-west-1.elb.amazonaws.com
 DOMAIN,adservme.com
 DOMAIN,adservr.de
@@ -4563,6 +4561,7 @@ DOMAIN,click.union.vip.com
 DOMAIN,click.yhd.com
 DOMAIN,click2commission.gotrackier.com
 DOMAIN,click4assistance.co.uk
+DOMAIN,click4free.info
 DOMAIN,clickable.com
 DOMAIN,clickable.net
 DOMAIN,clickad.pl
@@ -4871,7 +4870,6 @@ DOMAIN,config.hiido.com
 DOMAIN,config.mobilegamestats.com
 DOMAIN,config.otherlevels.com
 DOMAIN,config.quantumgraph.com
-DOMAIN,config.safedk.com
 DOMAIN,config.sdk.scopely.io
 DOMAIN,config.uca.cloud.unity3d.com
 DOMAIN,config.unityads.unitychina.cn
@@ -7628,6 +7626,7 @@ DOMAIN,free-counter.com
 DOMAIN,free-counters.co.uk
 DOMAIN,free-counters.net
 DOMAIN,free-crochet-pattern.com
+DOMAIN,free-domain.net
 DOMAIN,free-website-hit-counters.com
 DOMAIN,free-website-statistics.com
 DOMAIN,freebloghitcounter.com
@@ -7983,7 +7982,6 @@ DOMAIN,geo.query.yahoo.com
 DOMAIN,geo.settings-win.data.microsoft.com.akadns.net
 DOMAIN,geo.settings.data.microsoft.com.akadns.net
 DOMAIN,geo.vortex.data.microsoft.com.akadns.net
-DOMAIN,geoaddicted.net
 DOMAIN,geoapi123.appspot.com
 DOMAIN,geobanner.blacksexmatch.com
 DOMAIN,geobanner.fuckbookhookups.com
@@ -14353,6 +14351,7 @@ DOMAIN,pharmadeal.gr
 DOMAIN,phdtryxlepjayf.com
 DOMAIN,phedudug.net
 DOMAIN,pheedroh.net
+DOMAIN,pheepudo.net
 DOMAIN,pheergar.com
 DOMAIN,pheizpjpowvw.com
 DOMAIN,phekrimp.com
@@ -14668,6 +14667,7 @@ DOMAIN,poppcheck.de
 DOMAIN,popped.biz
 DOMAIN,poprevenue.net
 DOMAIN,pops.freeze.com
+DOMAIN,popsads.com
 DOMAIN,popsample.com
 DOMAIN,popsuperbbrands.com
 DOMAIN,popt.in
@@ -14777,6 +14777,7 @@ DOMAIN,pr-chart.de
 DOMAIN,pr-linktausch.de
 DOMAIN,pr-sunshine.de
 DOMAIN,pr.zhuaji.org
+DOMAIN,pr0gram.org
 DOMAIN,practively.com
 DOMAIN,pradakomechanicals.com
 DOMAIN,prapi.cision.com
@@ -16909,7 +16910,6 @@ DOMAIN,shroughtened.com
 DOMAIN,shtkybxv.com
 DOMAIN,shuihulu.com
 DOMAIN,shujuwu.com
-DOMAIN,shusacem.net
 DOMAIN,shushun16.com
 DOMAIN,shuteehe.net
 DOMAIN,shutternsbe.info
@@ -17417,7 +17417,6 @@ DOMAIN,sqykpwpgqqt.com
 DOMAIN,sqyvhynwl.com
 DOMAIN,srcsmrtgs.com
 DOMAIN,srezrzsyqrikab.com
-DOMAIN,srgev.com
 DOMAIN,sriaqmzx.com
 DOMAIN,srjbxbkwn.com
 DOMAIN,srmnfxcftazj.com
@@ -19316,6 +19315,7 @@ DOMAIN,upqhjossdznx.com
 DOMAIN,upravel.com
 DOMAIN,uprbleorptdghy.com
 DOMAIN,uprlyxksgcffgn.com
+DOMAIN,upsaibou.net
 DOMAIN,upscore.com
 DOMAIN,upscri.be
 DOMAIN,upsight-api.com
@@ -19380,7 +19380,6 @@ DOMAIN,useinsider.com
 DOMAIN,useitbetter.com
 DOMAIN,usemax.de
 DOMAIN,usemaxserver.de
-DOMAIN,usenet.world
 DOMAIN,usenetjunction.com
 DOMAIN,usenetnl.download
 DOMAIN,usenetoffer.download
@@ -19998,3 +19997,4 @@ DOMAIN,vuvcwrxn.com
 DOMAIN,vuwcudzzyxn.com
 DOMAIN,vuwojxgklca.com
 DOMAIN,vvaqbhmahjb.com
+DOMAIN,vvaqdyzdovonc.com
