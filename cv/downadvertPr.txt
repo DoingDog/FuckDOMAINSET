@@ -7275,6 +7275,7 @@ DOMAIN-SUFFIX,bhmzab.totes.com
 DOMAIN-SUFFIX,bhwjoa.cotopaxi.com
 DOMAIN-SUFFIX,bhwkju.vivo.com
 DOMAIN-SUFFIX,bhxemw.charleskeith.com
+DOMAIN-SUFFIX,bi-metrics.aramuz.net
 DOMAIN-SUFFIX,bi.banggood.com
 DOMAIN-SUFFIX,bi.concordesolutions.com
 DOMAIN-SUFFIX,bi.heyloyalty.com
@@ -36598,6 +36599,7 @@ DOMAIN-SUFFIX,tvppa.actonservice.com
 DOMAIN-SUFFIX,tvuaeb.taqi.com.br
 DOMAIN-SUFFIX,tw-go.experian.com
 DOMAIN-SUFFIX,tw.cx
+DOMAIN-SUFFIX,tw.reppublika.com
 DOMAIN-SUFFIX,tw.spiriteq.com
 DOMAIN-SUFFIX,twdhec.marioeletro.com
 DOMAIN-SUFFIX,tweetdeck.net.anwalt.de
@@ -39461,4 +39463,4 @@ IP-CIDR,35.239.57.233/32,no-resolve
 IP-CIDR,44.228.85.26/32,no-resolve
 IP-CIDR,45.32.105.134/32,no-resolve
 IP-CIDR,77.162.125.199/32,no-resolve
-#Sun 04/13/2025
+#Thu 04/17/2025
