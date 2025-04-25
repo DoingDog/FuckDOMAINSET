@@ -289,6 +289,7 @@ DOMAIN,2iui01.com
 DOMAIN,2kl08cd74f.com
 DOMAIN,2kurl.com
 DOMAIN,2leep.com
+DOMAIN,2lwlh385os.com
 DOMAIN,2mdn.info
 DOMAIN,2p9fyvx.com
 DOMAIN,2parale.ro
@@ -1121,6 +1122,7 @@ DOMAIN,ad-miner.com
 DOMAIN,ad-r.soulapp.cn
 DOMAIN,ad-recommend.com
 DOMAIN,ad-reward.soulapp.cn
+DOMAIN,ad-server-lb-294150285.ap-southeast-1.elb.amazonaws.com
 DOMAIN,ad-sponsor.com
 DOMAIN,ad-srv-track.com
 DOMAIN,ad-thd-east.tagdelivery.com
@@ -1397,6 +1399,7 @@ DOMAIN,admngronline.com
 DOMAIN,admo.tv
 DOMAIN,admother.com
 DOMAIN,admtpmp127.com
+DOMAIN,adn-tktracking-virginia-621472495.us-east-1.elb.amazonaws.com
 DOMAIN,adnanny.com
 DOMAIN,adne.tv
 DOMAIN,adnectar.com
@@ -1489,6 +1492,10 @@ DOMAIN,adrocket.com
 DOMAIN,adrotate.se
 DOMAIN,adrsp.net
 DOMAIN,ads-4u.com
+DOMAIN,ads-816899299.ap-southeast-1.elb.amazonaws.com
+DOMAIN,ads-api-new-2052271615.ap-northeast-1.elb.amazonaws.com
+DOMAIN,ads-b-480313385.us-west-1.elb.amazonaws.com
+DOMAIN,ads-c-1854119718.us-west-1.elb.amazonaws.com
 DOMAIN,ads-elsevier.net
 DOMAIN,ads-for-free.com
 DOMAIN,ads-img-qc.xhscdn.com
@@ -1585,6 +1592,7 @@ DOMAIN,adserve.com
 DOMAIN,adservhere.com
 DOMAIN,adserving.favorit-network.com
 DOMAIN,adservingfactory.com
+DOMAIN,adservingvpc-1239633584.eu-west-1.elb.amazonaws.com
 DOMAIN,adservme.com
 DOMAIN,adservr.de
 DOMAIN,adsession.com
@@ -1606,6 +1614,7 @@ DOMAIN,adsimilis.com
 DOMAIN,adsinimages.com
 DOMAIN,adsinter1.addealsnetwork.com
 DOMAIN,adsixmedia.fr
+DOMAIN,adsk-pnxproxy-prd-1753980530.us-east-1.elb.amazonaws.com
 DOMAIN,adskom.com
 DOMAIN,adslala.com
 DOMAIN,adslingers.com
@@ -1712,6 +1721,7 @@ DOMAIN,adv.riza.it
 DOMAIN,adv777.com
 DOMAIN,adv9.net
 DOMAIN,advalo.com
+DOMAIN,advancelocal-adapter-image-uploads.s3.amazonaws.com
 DOMAIN,advancetec.co.uk
 DOMAIN,advanseads.com
 DOMAIN,advantagemedia.com
@@ -1869,6 +1879,7 @@ DOMAIN,affasi.com
 DOMAIN,affclkr.com
 DOMAIN,affifix.com
 DOMAIN,affilae.com
+DOMAIN,affilate-img-affasi.s3.amazonaws.com
 DOMAIN,affilbox.cz
 DOMAIN,affiliate-b.com
 DOMAIN,affiliate-gate.com
@@ -1889,6 +1900,7 @@ DOMAIN,affiliation-int.com
 DOMAIN,affiliation.filestube.com
 DOMAIN,affiliation.planethoster.info
 DOMAIN,affiliationcash.com
+DOMAIN,affiliationjs.s3.amazonaws.com
 DOMAIN,affiliationworld.com
 DOMAIN,affiliationzone.com
 DOMAIN,affiliatly.com
@@ -2732,6 +2744,7 @@ DOMAIN,auctera.gotrackier.com
 DOMAIN,auctionnudge.com
 DOMAIN,audersmi.com
 DOMAIN,audid-api.taobao.com
+DOMAIN,audience-164723144.us-east-1.elb.amazonaws.com
 DOMAIN,audience.systems
 DOMAIN,audience.zeustechnology.com
 DOMAIN,audienceamplify.com
@@ -3161,6 +3174,8 @@ DOMAIN,beacon.ztgame.com
 DOMAIN,beacon2.indieclicktv.com
 DOMAIN,beaconads.com
 DOMAIN,beacons.extremereach.io
+DOMAIN,beaconserver-ce-vpc0-1537565064.eu-west-1.elb.amazonaws.com
+DOMAIN,beaconserver-ce-vpc0-1909323404.us-west-2.elb.amazonaws.com
 DOMAIN,beaconstreetservices.com
 DOMAIN,beacyoryjkbhqb.com
 DOMAIN,beampulse.com
@@ -3351,6 +3366,7 @@ DOMAIN,billypub.com
 DOMAIN,bilrtklg.com
 DOMAIN,bima.weathercn.com
 DOMAIN,bin-layer.de
+DOMAIN,bin5y4muil.execute-api.us-east-1.amazonaws.com
 DOMAIN,binaryoptions24h.com
 DOMAIN,binaryoptionsgame.com
 DOMAIN,binchoise.ml
@@ -3428,6 +3444,7 @@ DOMAIN,blackpics.net
 DOMAIN,blacktri.com
 DOMAIN,blaghfpd.com
 DOMAIN,blaick.com
+DOMAIN,blamads-assets.s3.amazonaws.com
 DOMAIN,blardenso.com
 DOMAIN,blatungo.com
 DOMAIN,blebesidents.info
@@ -3556,6 +3573,7 @@ DOMAIN,bnsowzvglhu.com
 DOMAIN,bnstnhto.com
 DOMAIN,bntech.io
 DOMAIN,bnuni.com
+DOMAIN,bo-videos.s3.amazonaws.com
 DOMAIN,boaawvdg.com
 DOMAIN,boafabie.com
 DOMAIN,board-books.com
@@ -3981,6 +3999,7 @@ DOMAIN,camcrush.com
 DOMAIN,camdough.com
 DOMAIN,camduty.com
 DOMAIN,cameraprive.com
+DOMAIN,campaign-tapad.s3.amazonaws.com
 DOMAIN,campaign.adobe.com
 DOMAIN,campaigncog.com
 DOMAIN,campamento.queenscamp.com
@@ -4463,6 +4482,7 @@ DOMAIN,che0.com
 DOMAIN,checkabil.com
 DOMAIN,checkapi.xyz
 DOMAIN,checkeffect.at
+DOMAIN,checkip.amazonaws.com
 DOMAIN,checkmy.cam
 DOMAIN,checkmystats.com.au
 DOMAIN,checkpost.club
@@ -5754,6 +5774,7 @@ DOMAIN,delta-boa.com
 DOMAIN,deltago.com
 DOMAIN,deluxe.onetag.io.edgekey.net
 DOMAIN,demand.supply
+DOMAIN,demandmedia.s3.amazonaws.com
 DOMAIN,demanier.com
 DOMAIN,dematom.com
 DOMAIN,demo.vertexinfo.in
@@ -6267,6 +6288,7 @@ DOMAIN,dustumbs.pro
 DOMAIN,duwomuonxosyjf.com
 DOMAIN,duzakergeex.com
 DOMAIN,duzt6rhr7wo8p.cloudfront.net
+DOMAIN,dvaminusodin.net
 DOMAIN,dvgpgtwrqxa.com
 DOMAIN,dvgtm.akadns.net
 DOMAIN,dvhznawcuacblo.com
@@ -7418,6 +7440,8 @@ DOMAIN,fiewqoyhdkdcm.com
 DOMAIN,fifnonxntvaszg.com
 DOMAIN,figshare.com
 DOMAIN,fiksu.com
+DOMAIN,filamentapp-assets.s3.amazonaws.com
+DOMAIN,filamentapp.s3.amazonaws.com
 DOMAIN,filecatcher.xyz
 DOMAIN,fileloadr.com
 DOMAIN,files.dsnetwb.com
@@ -8000,6 +8024,7 @@ DOMAIN,ge-ge-force.com
 DOMAIN,geakr.com
 DOMAIN,gear5.me
 DOMAIN,gecko-pangle-lf.snssdk.com
+DOMAIN,geede.info
 DOMAIN,geethoap.com
 DOMAIN,gefnaro.com
 DOMAIN,gefwrite.com
@@ -8093,6 +8118,7 @@ DOMAIN,gexampletebaptin.info
 DOMAIN,gez.io
 DOMAIN,gezaehlt.de
 DOMAIN,gf1353.com
+DOMAIN,gfaf-banners.s3.amazonaws.com
 DOMAIN,gfamqlcmymxbeu.com
 DOMAIN,gfbnr.com
 DOMAIN,gfbrfqfwwis.com
@@ -8400,6 +8426,7 @@ DOMAIN,grazeit.com
 DOMAIN,greatusenetoffer.agency
 DOMAIN,greatviews.de
 DOMAIN,greedseed.world
+DOMAIN,greengaming.de
 DOMAIN,greenlabelppc.com
 DOMAIN,greenprints.org.cn
 DOMAIN,greensuy.net
@@ -9117,6 +9144,7 @@ DOMAIN,htgpsnbtha.com
 DOMAIN,htlvvqlcqvq.com
 DOMAIN,html.fsxinling.com
 DOMAIN,html5.gamemonetize.com
+DOMAIN,html5adkit.plusmo.s3.amazonaws.com
 DOMAIN,htmlhubing.xyz
 DOMAIN,htmvtmglofpbz.com
 DOMAIN,htnote.info
@@ -9158,6 +9186,7 @@ DOMAIN,httpdns1.cc.cdnhwc5.com
 DOMAIN,httpdnsvip.meituan.com
 DOMAIN,httpschecker.net
 DOMAIN,httpsdns.baidu.com
+DOMAIN,httpsecurity.org
 DOMAIN,htunjeuczuox.com
 DOMAIN,huanbao110.com.cn
 DOMAIN,huanbaoxiangmu.xyz
@@ -9198,6 +9227,8 @@ DOMAIN,huodong.mobilem.360.cn
 DOMAIN,huoyiad2.cn
 DOMAIN,hupsouft.net
 DOMAIN,hupuzhibo.cn
+DOMAIN,huq-query-loggers-california-3cec807da3e9dc0d.elb.us-west-1.amazonaws.com
+DOMAIN,huq-query-loggers-europe-west1-32ef7f4bbf54ce27.elb.eu-west-1.amazonaws.com
 DOMAIN,huq.io
 DOMAIN,hurchaseeffectionpe.info
 DOMAIN,hurdleyreer.info
@@ -9292,6 +9323,7 @@ DOMAIN,i5iog3mlrw.com
 DOMAIN,i864ekhq.com
 DOMAIN,iaatzkkqyv.com
 DOMAIN,iabmap.evidon.com
+DOMAIN,iacpromotion.s3.amazonaws.com
 DOMAIN,iad.e.360.cn
 DOMAIN,iad1.ipromote.com
 DOMAIN,iad2.ipromote.com
@@ -9422,6 +9454,7 @@ DOMAIN,ighavizixlohvi.com
 DOMAIN,igllgmtrioka.com
 DOMAIN,igloohq.com
 DOMAIN,igmsjgadiz.com
+DOMAIN,ignifyecom.s3.amazonaws.com
 DOMAIN,ignitioninstaller.com
 DOMAIN,ignkopdlnlkk.com
 DOMAIN,ignup.com
@@ -9626,6 +9659,7 @@ DOMAIN,includemodal.com
 DOMAIN,inclusivediversity.co.uk
 DOMAIN,incoctel.cl
 DOMAIN,incogpontus.club
+DOMAIN,incoming-data-sense360.s3.amazonaws.com
 DOMAIN,incoming.bm23.com
 DOMAIN,increaserev.com
 DOMAIN,incrediblethebest.online
@@ -9686,6 +9720,7 @@ DOMAIN,inmobi.koneomobiledsp.com
 DOMAIN,inmobicdn.com
 DOMAIN,inmoment.com
 DOMAIN,innatek.com
+DOMAIN,inneractive-assets.s3.amazonaws.com
 DOMAIN,innocentinvention.com
 DOMAIN,innomdc.com
 DOMAIN,innovateads.com
@@ -9693,6 +9728,7 @@ DOMAIN,innovid.com.akadns.net
 DOMAIN,innovid.com.edgekey.net
 DOMAIN,inphonic.com
 DOMAIN,inpref.com
+DOMAIN,inpref.s3.amazonaws.com
 DOMAIN,inpwrd.com
 DOMAIN,inrd.ru
 DOMAIN,inside-graph.com
@@ -10980,6 +11016,7 @@ DOMAIN,laserstat.com
 DOMAIN,lashaucu.net
 DOMAIN,last2.cn
 DOMAIN,latency.agoop.net
+DOMAIN,later-analytics-reports.s3-accelerate.amazonaws.com
 DOMAIN,latinasheat.online
 DOMAIN,lauhauch.com
 DOMAIN,laujouty.com
@@ -11050,6 +11087,7 @@ DOMAIN,leadacity.net
 DOMAIN,leadad.mobi
 DOMAIN,leadboxer.com
 DOMAIN,leadchampion.com
+DOMAIN,leaddyno-client-images.s3.amazonaws.com
 DOMAIN,leaddyno.com
 DOMAIN,leadelephant.com
 DOMAIN,leaderpub.fr
@@ -11386,6 +11424,7 @@ DOMAIN,lodoxfwite.com
 DOMAIN,lodqycbq.com
 DOMAIN,loft2126.dedicatedpanel.com
 DOMAIN,log-collector.svctr.zynga.com
+DOMAIN,log-collectors-73517960.us-east-1.elb.amazonaws.com
 DOMAIN,log-dbff2e04.us.v2.we-stats.com
 DOMAIN,log-va.tiktokv.com
 DOMAIN,log.120ask.com
@@ -11440,6 +11479,7 @@ DOMAIN,logs-01.loggly.com
 DOMAIN,logs.81plug.com
 DOMAIN,logs.datadoghq.com
 DOMAIN,logxp.ru
+DOMAIN,logystowtencon.info
 DOMAIN,logz.ru
 DOMAIN,lohappbnrpgypu.com
 DOMAIN,lohxvwjpvl.com
@@ -11633,6 +11673,7 @@ DOMAIN,lyghoxyxohkrdk.com
 DOMAIN,lygnasa.cn
 DOMAIN,lylog.1391.com
 DOMAIN,lyngro.com
+DOMAIN,lynx-prod-beacon-alb-498367235.us-east-1.elb.amazonaws.com
 DOMAIN,lynx.cognitivlabs.com
 DOMAIN,lypn.com
 DOMAIN,lypn.net
@@ -13159,6 +13200,7 @@ DOMAIN,newmonads.com
 DOMAIN,newnovads.com
 DOMAIN,newpush.support
 DOMAIN,newre-conversions.clickmeter.com
+DOMAIN,news-whistleout.s3.amazonaws.com
 DOMAIN,news.fark.com
 DOMAIN,news.net.finam.ru
 DOMAIN,news.retire.ly
@@ -13365,6 +13407,7 @@ DOMAIN,notify.support
 DOMAIN,notifyon.com
 DOMAIN,notifyvisitors.com
 DOMAIN,nouseeth.com
+DOMAIN,nova-collector-1192479543.us-east-1.elb.amazonaws.com
 DOMAIN,novarevenue.com
 DOMAIN,november-lax.com
 DOMAIN,noveslovo.com
@@ -14885,10 +14928,13 @@ DOMAIN,proadscdn.com
 DOMAIN,probannerswap.com
 DOMAIN,probanzfbbdix.com
 DOMAIN,proclivitysystems.com
+DOMAIN,prod-ash-beacon-1960876484.us-east-1.elb.amazonaws.com
 DOMAIN,prod-collecticon.outlookmobile.com
 DOMAIN,prod-dcs-eventlog.decagames.com
 DOMAIN,prod-defaulting-subscriptiontool.gismart.xyz
+DOMAIN,prod-dem-collector-elb-611025824.eu-west-1.elb.amazonaws.com
 DOMAIN,prod-ingestion.tracking.v2.yieldlove-ad-serving.net
+DOMAIN,prod-pdx-beacon-1406086907.us-west-2.elb.amazonaws.com
 DOMAIN,prod.cloud.ogury.io
 DOMAIN,prod.fraud.adjoe.zone
 DOMAIN,prod.sift.co
@@ -16117,6 +16163,7 @@ DOMAIN,royalads.net
 DOMAIN,royalcount.de
 DOMAIN,royapp.com
 DOMAIN,rp-rep.net
+DOMAIN,rpc-tapjoy-com-lb-1378811527.us-east-1.elb.amazonaws.com
 DOMAIN,rpdtrk.com
 DOMAIN,rplzmw.cn
 DOMAIN,rpnhxhzcejyiym.com
@@ -16245,6 +16292,8 @@ DOMAIN,rvswxrjkmjou.com
 DOMAIN,rvtqbxawlkbq.com
 DOMAIN,rvttrack.com
 DOMAIN,rvwhtjxnn.com
+DOMAIN,rw-yieldmo-com-1673518954.ap-southeast-1.elb.amazonaws.com
+DOMAIN,rw-yieldmo-com-1857737650.us-west-2.elb.amazonaws.com
 DOMAIN,rwalomjwgyljqj.com
 DOMAIN,rwfqhbwkxpewc.com
 DOMAIN,rwgvulisul.com
@@ -17742,6 +17791,7 @@ DOMAIN,streamdownloadonline.com
 DOMAIN,streamsend.com
 DOMAIN,streem.com.au
 DOMAIN,strikead.com
+DOMAIN,strikeadcdn.s3.amazonaws.com
 DOMAIN,strikeiron.com
 DOMAIN,stringroadway.com
 DOMAIN,stripedcollar.net
@@ -17753,6 +17803,7 @@ DOMAIN,strs.jp
 DOMAIN,strtrk.adacado.com
 DOMAIN,struq.com
 DOMAIN,sts.batmobi.net
+DOMAIN,stuff-nzwhistleout.s3.amazonaws.com
 DOMAIN,stun.smartgslb.com
 DOMAIN,stuowq.cn
 DOMAIN,styld-by.com
@@ -18074,6 +18125,7 @@ DOMAIN,taou.cn
 DOMAIN,taowjygwtm.com
 DOMAIN,tapas.net
 DOMAIN,tapffdskgjr.com
+DOMAIN,tapjoy-com-lb-vpc-332546193.us-east-1.elb.amazonaws.com
 DOMAIN,tapnative.com
 DOMAIN,taps.io
 DOMAIN,tardangro.com
@@ -18658,6 +18710,7 @@ DOMAIN,trackfeed.com
 DOMAIN,tracki112.com
 DOMAIN,trackicollect.ibase.fr
 DOMAIN,trackifyx.redretarget.com
+DOMAIN,tracking-1611167402.us-east-1.elb.amazonaws.com
 DOMAIN,tracking-3-9f58.trnox.com
 DOMAIN,tracking.admarketplace.net.edgekey.net
 DOMAIN,tracking.apptrackerlink.com
@@ -18997,6 +19050,7 @@ DOMAIN,twitbuttons.com
 DOMAIN,twitcker.com
 DOMAIN,twitcount.com
 DOMAIN,twitstat.us
+DOMAIN,twitter-badges.s3.amazonaws.com
 DOMAIN,twittercounter.com
 DOMAIN,twitterforweb.com
 DOMAIN,twittericon.com
@@ -19944,57 +19998,3 @@ DOMAIN,vpkq.cn
 DOMAIN,vplvywqxsm.com
 DOMAIN,vpn.baolq666.com
 DOMAIN,vpn.celueziben.com
-DOMAIN,vpn.ch-hr12333.com
-DOMAIN,vpn.jnj-energy.com
-DOMAIN,vpn.szdatayj.com
-DOMAIN,vpn.tuodupingguomiao.com
-DOMAIN,vpn.yike0515.com
-DOMAIN,vpn.youyisheng.net
-DOMAIN,vpnaffiliates.hidester.com
-DOMAIN,vpndcpxavg.com
-DOMAIN,vpnfortorrents.cc
-DOMAIN,vps.gcx3.cn
-DOMAIN,vptggenzv.com
-DOMAIN,vptgnqpknpdyq.com
-DOMAIN,vpwdweham.com
-DOMAIN,vpwlynobnnqg.com
-DOMAIN,vpyrfomwel.com
-DOMAIN,vqamufkhkin.com
-DOMAIN,vqcilhkfwvks.com
-DOMAIN,vqfoxxxnunqkgm.com
-DOMAIN,vqjphqthvfl.com
-DOMAIN,vqkkbbivznoso.com
-DOMAIN,vqmdezgkkklcc.com
-DOMAIN,vqsggzvcaujh.com
-DOMAIN,vqzqkhumdad.com
-DOMAIN,vrewpywootyu.com
-DOMAIN,vriwjpzvh.com
-DOMAIN,vrmuyscnqgsg.com
-DOMAIN,vroll.net
-DOMAIN,vrsngcuwiiiho.com
-DOMAIN,vrstage.com
-DOMAIN,vrvyearwxo.com
-DOMAIN,vrzparvhipmo.com
-DOMAIN,vs4family.com
-DOMAIN,vsbvvcyxz.com
-DOMAIN,vserv.bc.cdn.bitgravity.com
-DOMAIN,vsexshop.ru
-DOMAIN,vsgvivozec.com
-DOMAIN,vshkypld.com
-DOMAIN,vskqupvddkko.com
-DOMAIN,vsmqqjwwnoshrj.com
-DOMAIN,vsoebgfizoqbiv.com
-DOMAIN,vsqswbgpgwc.com
-DOMAIN,vsrsmetactuul.com
-DOMAIN,vsrsviytlb.com
-DOMAIN,vsstaewjpqcymx.com
-DOMAIN,vsupeokq.com
-DOMAIN,vswvbbegnyxxx.com
-DOMAIN,vsyqexksz.com
-DOMAIN,vt.myvisualiq.net
-DOMAIN,vtbyvtmabpclx.com
-DOMAIN,vtemaaftwexu.com
-DOMAIN,vtfdfdldethe.com
-DOMAIN,vtgcvsmzxiyoz.com
-DOMAIN,vth05dse.com
-DOMAIN,vthhmbfo.com
