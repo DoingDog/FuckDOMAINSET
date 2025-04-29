@@ -2381,6 +2381,7 @@ DOMAIN-SUFFIX,llsapp.com
 DOMAIN-SUFFIX,llscdn.com
 DOMAIN-SUFFIX,llsserver.com
 DOMAIN-SUFFIX,lnlib.net
+DOMAIN-SUFFIX,local
 DOMAIN-SUFFIX,localdomain
 DOMAIN-SUFFIX,localizecdn.com
 DOMAIN-SUFFIX,lofter.com
@@ -2546,6 +2547,7 @@ DOMAIN-SUFFIX,mogu.com
 DOMAIN-SUFFIX,mogucdn.com
 DOMAIN-SUFFIX,mogujie.com
 DOMAIN-SUFFIX,moji.com
+DOMAIN-SUFFIX,mojicdn.com
 DOMAIN-SUFFIX,mojichina.com
 DOMAIN-SUFFIX,mojidict.com
 DOMAIN-SUFFIX,mokahr.com
@@ -2557,6 +2559,7 @@ DOMAIN-SUFFIX,morethan.tv
 DOMAIN-SUFFIX,morganstanleyhuaxin.com
 DOMAIN-SUFFIX,moulem.com
 DOMAIN-SUFFIX,mpg.de
+DOMAIN-SUFFIX,mrw.so
 DOMAIN-SUFFIX,msanjia.com
 DOMAIN-SUFFIX,msauth.net
 DOMAIN-SUFFIX,mscbsc.com
@@ -4322,4 +4325,4 @@ IP-CIDR6,::ffff:58.58.0.90/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.161/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.186/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.98/128,no-resolve
-#Fri 04/25/2025
+#Tue 04/29/2025
