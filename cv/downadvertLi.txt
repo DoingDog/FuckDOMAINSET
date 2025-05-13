@@ -5975,6 +5975,7 @@ DOMAIN,dddgndcqajr.com
 DOMAIN,dde.jishengjc.com
 DOMAIN,ddf67683e4778d.com
 DOMAIN,ddfnykqqiexse.com
+DOMAIN,ddfs-public.ddimg.mobi
 DOMAIN,ddivuwlehkijd.com
 DOMAIN,ddl.3g567.com
 DOMAIN,ddljcvtxfjtc.com
@@ -17269,6 +17270,7 @@ DOMAIN,rtpdn11.com
 DOMAIN,rtrk.co.nz
 DOMAIN,rtrk.com
 DOMAIN,rtrlseqbudrzfd.com
+DOMAIN,rttrack.ddxq.mobi
 DOMAIN,rtypxhlfvmez.com
 DOMAIN,ru.net
 DOMAIN,ru.velti.com
@@ -19885,6 +19887,7 @@ DOMAIN,trackedweb.net
 DOMAIN,tracker.ai.xiaomi.com
 DOMAIN,tracker.stats.in.th
 DOMAIN,tracker.tgbus.com
+DOMAIN,trackercollect.ddxq.mobi
 DOMAIN,trackertest.org
 DOMAIN,trackfeed.com
 DOMAIN,tracki112.com
@@ -38039,4 +38042,4 @@ IP-CIDR,69.28.57.245/32,no-resolve
 IP-CIDR,74.117.182.77/32,no-resolve
 IP-CIDR,78.140.131.214/32,no-resolve
 IP-CIDR6,2402:db40:5100:1011::5/128,no-resolve
-#Fri 05/09/2025
+#Tue 05/13/2025
