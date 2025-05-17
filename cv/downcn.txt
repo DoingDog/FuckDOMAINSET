@@ -36,7 +36,7 @@ DOMAIN,setmeup.arubanetworks.com
 DOMAIN,sms.imagetasks.com
 DOMAIN,speedtest.macpaw.com
 DOMAIN,steamcommunity-a.akamaihd.net
-DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
+DOMAIN,th1s_rule5et_1s_m4d3_by_5ukk4w_ruleset.skk.moe
 DOMAIN,unifi
 DOMAIN,www.layuicdn.com
 DOMAIN,www.libvideo.com
@@ -4329,4 +4329,4 @@ IP-CIDR6,::ffff:58.58.0.90/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.161/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.186/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.98/128,no-resolve
-#Tue 05/13/2025
+#Sat 05/17/2025
