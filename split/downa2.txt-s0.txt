@@ -1732,6 +1732,7 @@ DOMAIN,advert.mting.info
 DOMAIN,advertarium.com.ua
 DOMAIN,advertbox.us
 DOMAIN,advertica-cdn.com
+DOMAIN,advertica.ae
 DOMAIN,advertise.ldplayer.net
 DOMAIN,advertisegame.com
 DOMAIN,advertisement.taobao.com
@@ -5555,6 +5556,7 @@ DOMAIN,dable.io.edgekey.net
 DOMAIN,dabxzyfcxrdgbs.com
 DOMAIN,dacdn.pushcrew.com
 DOMAIN,dacounter.com
+DOMAIN,dadi.technology
 DOMAIN,dadsatz.com
 DOMAIN,dadsecs.com
 DOMAIN,dadsecz.com
@@ -7657,7 +7659,6 @@ DOMAIN,fpb.docin.com
 DOMAIN,fpb1.gxfin.com
 DOMAIN,fpbcode.onlinedown.net
 DOMAIN,fpcptdqmjlnlu.com
-DOMAIN,fpctraffic2.com
 DOMAIN,fpeegzspcgnjt.com
 DOMAIN,fpesoigpyes.com
 DOMAIN,fpfivothg.com
@@ -17445,6 +17446,7 @@ DOMAIN,spider.ad
 DOMAIN,spinbox.freedom.com
 DOMAIN,spinbox.net
 DOMAIN,spinfo.wps.cn
+DOMAIN,spiralstab.com
 DOMAIN,spire.aarki.net
 DOMAIN,spjvuubtewq.com
 DOMAIN,spklw.com
@@ -19996,5 +19998,3 @@ DOMAIN,vologda-info.ru
 DOMAIN,volomedia.com
 DOMAIN,volvelle.tech
 DOMAIN,vonvthodzhxz.com
-DOMAIN,voodoo-ads.io
-DOMAIN,voodoo.com
