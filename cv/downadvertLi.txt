@@ -8581,6 +8581,7 @@ DOMAIN,gfzluvsjsprkac.com
 DOMAIN,gg.1whour.com
 DOMAIN,gg.huolinhe.com
 DOMAIN,gg1.jc001.cn
+DOMAIN,ggadoffline.miguvideo.com
 DOMAIN,ggaji.com
 DOMAIN,ggc.cmvideo.cn
 DOMAIN,ggdata1.cnr.cn
@@ -38050,4 +38051,4 @@ IP-CIDR,69.28.57.245/32,no-resolve
 IP-CIDR,74.117.182.77/32,no-resolve
 IP-CIDR,78.140.131.214/32,no-resolve
 IP-CIDR6,2402:db40:5100:1011::5/128,no-resolve
-#Sat 06/21/2025
+#Wed 06/25/2025
