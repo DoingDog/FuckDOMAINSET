@@ -1696,6 +1696,7 @@ DOMAIN,adscreendirect.com
 DOMAIN,adsdk.com
 DOMAIN,adsdk.vivo.com.cn
 DOMAIN,adsdot.ph
+DOMAIN,adsehera.ximalaya.com
 DOMAIN,adsensecamp.com
 DOMAIN,adsensedetective.com
 DOMAIN,adser.io
@@ -25311,6 +25312,7 @@ DOMAIN-SUFFIX,admddc.com
 DOMAIN-SUFFIX,admedia.com
 DOMAIN-SUFFIX,admeta.vo.llnwd.net
 DOMAIN-SUFFIX,admgr.qingting.fm
+DOMAIN-SUFFIX,admiitad.com
 DOMAIN-SUFFIX,admin.louxia.org
 DOMAIN-SUFFIX,admin5.com
 DOMAIN-SUFFIX,admin6.com
@@ -25635,6 +25637,7 @@ DOMAIN-SUFFIX,ahinin.cn
 DOMAIN-SUFFIX,ahjzys.com
 DOMAIN-SUFFIX,ahlxxx.com
 DOMAIN-SUFFIX,ahqlx.top
+DOMAIN-SUFFIX,ahqovxli.com
 DOMAIN-SUFFIX,ahszgog.com
 DOMAIN-SUFFIX,ahuac.com
 DOMAIN-SUFFIX,ahunai.cn
@@ -28960,6 +28963,7 @@ DOMAIN-SUFFIX,finding.hardwareheaven.com
 DOMAIN-SUFFIX,findnsave.idahostatesman.com
 DOMAIN-SUFFIX,finead.cn
 DOMAIN-SUFFIX,fingahvf.top
+DOMAIN-SUFFIX,fipabtomqok.com
 DOMAIN-SUFFIX,fipipo.cn
 DOMAIN-SUFFIX,firefang.cn
 DOMAIN-SUFFIX,fishkekcamp.info
@@ -29032,6 +29036,7 @@ DOMAIN-SUFFIX,fpbjiansuo.mn586.com
 DOMAIN-SUFFIX,fpdownload.macromedia.com
 DOMAIN-SUFFIX,fqtra.com
 DOMAIN-SUFFIX,fqzds.com
+DOMAIN-SUFFIX,fractionfridgejudiciary.com
 DOMAIN-SUFFIX,frame.enet.com.cn
 DOMAIN-SUFFIX,fraudmetrix.cn
 DOMAIN-SUFFIX,frdhq.cn
@@ -31128,6 +31133,7 @@ DOMAIN-SUFFIX,kqiaq.com
 DOMAIN-SUFFIX,kqy1.com
 DOMAIN-SUFFIX,kr.sybspools.com
 DOMAIN-SUFFIX,krakeshlaja.com
+DOMAIN-SUFFIX,kreopbkabsit.com
 DOMAIN-SUFFIX,krux.net
 DOMAIN-SUFFIX,ks67.com
 DOMAIN-SUFFIX,ksdsuzhou.com
@@ -32683,6 +32689,7 @@ DOMAIN-SUFFIX,obeyter.com
 DOMAIN-SUFFIX,obj9.cn
 DOMAIN-SUFFIX,oca.telemetry.microsoft.com.nsatc.net
 DOMAIN-SUFFIX,ocm8.masmovil.es
+DOMAIN-SUFFIX,ocponcphaafb.com
 DOMAIN-SUFFIX,ocsp.godaddy.com
 DOMAIN-SUFFIX,octopuszyw.cn
 DOMAIN-SUFFIX,od0gddq27wkk.com
@@ -33292,6 +33299,7 @@ DOMAIN-SUFFIX,pp2.pptv.com
 DOMAIN-SUFFIX,pp9899.com
 DOMAIN-SUFFIX,pp9kk.com
 DOMAIN-SUFFIX,ppcashpop.com
+DOMAIN-SUFFIX,ppezijkacga.com
 DOMAIN-SUFFIX,ppjia55.com
 DOMAIN-SUFFIX,ppoi.org
 DOMAIN-SUFFIX,pptte.com
@@ -35196,6 +35204,7 @@ DOMAIN-SUFFIX,tapjoyads.com
 DOMAIN-SUFFIX,taplytics.com
 DOMAIN-SUFFIX,tappx.com
 DOMAIN-SUFFIX,taptica.com
+DOMAIN-SUFFIX,tapwhigwy.com
 DOMAIN-SUFFIX,tarawerap.com
 DOMAIN-SUFFIX,targetedinfo.com
 DOMAIN-SUFFIX,targetedmedia.com.cn
@@ -35296,6 +35305,7 @@ DOMAIN-SUFFIX,thefastpush.com
 DOMAIN-SUFFIX,thefuncoolstuff.com
 DOMAIN-SUFFIX,thegreenzoneblog.com
 DOMAIN-SUFFIX,thejesperbay.com
+DOMAIN-SUFFIX,thelifeandmore.com
 DOMAIN-SUFFIX,themaxmall.com
 DOMAIN-SUFFIX,themecat.cn
 DOMAIN-SUFFIX,themee.cn
@@ -38051,4 +38061,4 @@ IP-CIDR,69.28.57.245/32,no-resolve
 IP-CIDR,74.117.182.77/32,no-resolve
 IP-CIDR,78.140.131.214/32,no-resolve
 IP-CIDR6,2402:db40:5100:1011::5/128,no-resolve
-#Sun 07/13/2025
+#Thu 07/17/2025
