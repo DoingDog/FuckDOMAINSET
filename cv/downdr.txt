@@ -180,6 +180,7 @@ DOMAIN-SUFFIX,weather-data.apple.com
 DOMAIN-SUFFIX,weather-map.apple.com
 DOMAIN-SUFFIX,wiley.com
 DOMAIN-SUFFIX,xunlei.com
+DOMAIN-KEYWORD,amp-api.podcasts.apple.com
 DOMAIN-KEYWORD,anti-ad.net
 DOMAIN-KEYWORD,api-adservices.apple.com
 DOMAIN-KEYWORD,api.smoot.apple.cn
@@ -216,4 +217,4 @@ DOMAIN-KEYWORD,weather-adge.apple.com
 DOMAIN-KEYWORD,weather-edge.apple.com
 DOMAIN-KEYWORD,westlawchina
 USER-AGENT,%E8%BF%85%E9%9B%B7
-#Thu 07/17/2025
+#Mon 07/21/2025
