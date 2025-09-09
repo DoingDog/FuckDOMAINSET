@@ -1705,6 +1705,7 @@ DOMAIN,adtrack.calls.net
 DOMAIN,adtrackers.net
 DOMAIN,adtransfer.net
 DOMAIN,adtraxx.de
+DOMAIN,adtrgt.com
 DOMAIN,adtriba.com
 DOMAIN,adtrix.com
 DOMAIN,adtrovert.com
@@ -1919,12 +1920,12 @@ DOMAIN,affiliate.rakuten.co.jp
 DOMAIN,affiliatebannerfarm.com
 DOMAIN,affiliateedge.com
 DOMAIN,affiliateedge.eu
-DOMAIN,affiliategateways.co
 DOMAIN,affiliatehub.skybet.com
 DOMAIN,affiliatenetwork.co.za
 DOMAIN,affiliates-pro.com
 DOMAIN,affiliates.bookdepository.co.uk
 DOMAIN,affiliates.bookdepository.com
+DOMAIN,affiliates.cupidplc.com
 DOMAIN,affiliates.galapartners.co.uk
 DOMAIN,affiliates.homestead.com
 DOMAIN,affiliates.lynda.com
@@ -4539,7 +4540,6 @@ DOMAIN,charltonmedia.com
 DOMAIN,charmour.club
 DOMAIN,chartaca.com
 DOMAIN,chartboost-imp.aarki.net
-DOMAIN,chartboosts.com
 DOMAIN,chatinator.com
 DOMAIN,chaufoox.net
 DOMAIN,chauksoa.net
@@ -5131,6 +5131,7 @@ DOMAIN,cookies.fakt.pl
 DOMAIN,cookies.forbes.pl
 DOMAIN,cookies.gardena.net
 DOMAIN,cookies.innershed.co.uk
+DOMAIN,cookies.leadplace.fr
 DOMAIN,cookies.nos.nl
 DOMAIN,cookies.unidadeditorial.es
 DOMAIN,cookiescript.info
@@ -5588,6 +5589,7 @@ DOMAIN,d2san7t27xb2pn.cloudfront.net
 DOMAIN,d2ship.com
 DOMAIN,d2szg1g41jt3pq.cloudfront.net
 DOMAIN,d2tcg4i9q4js4a.cloudfront.net
+DOMAIN,d2tgfbvjf3q6hn.cloudfront.net
 DOMAIN,d2uepos3ef6db0.cloudfront.net
 DOMAIN,d2xgf76oeu9pbh.cloudfront.net
 DOMAIN,d31ea41705818c9.com
@@ -8714,7 +8716,6 @@ DOMAIN,gxzjzg.com
 DOMAIN,gyboo.cruisingsmallship.com
 DOMAIN,gykmfqxeolnne.com
 DOMAIN,gylra.cruisingsmallship.com
-DOMAIN,gynax.com
 DOMAIN,gynzvwhup.com
 DOMAIN,gyoajmeq.com
 DOMAIN,gyyzsgri.com
@@ -12274,7 +12275,6 @@ DOMAIN,marbil24.co.za
 DOMAIN,marchen-toy.co.jp
 DOMAIN,marfeel.com
 DOMAIN,marguvpydbrr.com
-DOMAIN,marial.pro
 DOMAIN,marisappear.pro
 DOMAIN,markergot.com
 DOMAIN,markerly.com
@@ -14582,6 +14582,7 @@ DOMAIN,performance.typekit.net
 DOMAIN,performanceanalyser.net
 DOMAIN,performancehorizon.com
 DOMAIN,performancingads.com
+DOMAIN,performanteads.com
 DOMAIN,performax.cz
 DOMAIN,performtracking.com
 DOMAIN,perimeterx.net
@@ -15358,7 +15359,6 @@ DOMAIN,purethc.com
 DOMAIN,purevideo.com
 DOMAIN,purpreine.co
 DOMAIN,pusbamejpkxq.com
-DOMAIN,puscomosca.com
 DOMAIN,puserving.com
 DOMAIN,push-ad.com
 DOMAIN,push-centr.com
@@ -17698,7 +17698,6 @@ DOMAIN,splyt.com
 DOMAIN,spn-twr-14.com
 DOMAIN,spn.ee
 DOMAIN,spncdypq.com
-DOMAIN,spongecell.com
 DOMAIN,sponsideantialm.info
 DOMAIN,sponsorcounter.de
 DOMAIN,sponsored.com
@@ -18923,7 +18922,6 @@ DOMAIN,traceadmanager.com
 DOMAIN,traceless.me
 DOMAIN,tracelytics.com
 DOMAIN,tracemyip.org
-DOMAIN,tracer.jp
 DOMAIN,traceworks.com
 DOMAIN,traceybell.co.uk
 DOMAIN,track-re01.com
@@ -19267,6 +19265,7 @@ DOMAIN,turbotraff.net
 DOMAIN,turn.com.akadns.net
 DOMAIN,turngrind.com
 DOMAIN,tut-64.com
+DOMAIN,tutvp.com
 DOMAIN,tuwuyppwdj.com
 DOMAIN,tuxi.com.cn
 DOMAIN,tuygdfsydexdeb.com
@@ -19998,3 +19997,4 @@ DOMAIN,verticalscope.com
 DOMAIN,verticalsearchworks.com
 DOMAIN,vertismedia.co.uk
 DOMAIN,vertster.com
+DOMAIN,vervemobile.com
