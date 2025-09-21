@@ -10,6 +10,7 @@ DOMAIN,cn.download.nvidia.com
 DOMAIN,config.ubnt.com
 DOMAIN,console.gl-inet.com
 DOMAIN,dl.ubnt.com
+DOMAIN,dot.pub
 DOMAIN,download.jetbrains.com
 DOMAIN,gstore.val.manlaxy.com
 DOMAIN,homerouter.cpe
@@ -183,6 +184,7 @@ DOMAIN-SUFFIX,360kuai.com
 DOMAIN-SUFFIX,360os.com
 DOMAIN-SUFFIX,360safe.com
 DOMAIN-SUFFIX,360shouji.com
+DOMAIN-SUFFIX,360simg.com
 DOMAIN-SUFFIX,360taojin.com
 DOMAIN-SUFFIX,360top.com
 DOMAIN-SUFFIX,360totalsecurity.com
@@ -4347,4 +4349,4 @@ IP-CIDR6,::ffff:58.58.0.90/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.161/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.186/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.98/128,no-resolve
-#Wed 09/17/2025
+#Sun 09/21/2025
