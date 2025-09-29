@@ -2930,6 +2930,7 @@ DOMAIN-SUFFIX,qnssl.com
 DOMAIN-SUFFIX,qq.cn.com
 DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,qq.design
+DOMAIN-SUFFIX,qq.net
 DOMAIN-SUFFIX,qq.wang
 DOMAIN-SUFFIX,qq163.com
 DOMAIN-SUFFIX,qq163.net
@@ -4349,4 +4350,4 @@ IP-CIDR6,::ffff:58.58.0.90/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.161/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.186/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.98/128,no-resolve
-#Thu 09/25/2025
+#Mon 09/29/2025

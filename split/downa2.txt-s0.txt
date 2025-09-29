@@ -5592,7 +5592,6 @@ DOMAIN,d2san7t27xb2pn.cloudfront.net
 DOMAIN,d2ship.com
 DOMAIN,d2szg1g41jt3pq.cloudfront.net
 DOMAIN,d2tcg4i9q4js4a.cloudfront.net
-DOMAIN,d2tgfbvjf3q6hn.cloudfront.net
 DOMAIN,d2uepos3ef6db0.cloudfront.net
 DOMAIN,d2xgf76oeu9pbh.cloudfront.net
 DOMAIN,d31ea41705818c9.com
@@ -6354,7 +6353,6 @@ DOMAIN,dsply.com
 DOMAIN,dstik9906m659.cloudfront.net
 DOMAIN,dstrack2.info
 DOMAIN,dstxhvmgkg.com
-DOMAIN,dsultra.com
 DOMAIN,dsyxresmht.com
 DOMAIN,dt-secure.videohub.tv
 DOMAIN,dt1pxsve3tgas.cloudfront.net
@@ -10653,6 +10651,7 @@ DOMAIN,junnew.com
 DOMAIN,junta.net
 DOMAIN,juoyisupjqds.com
 DOMAIN,juqakqgv.com
+DOMAIN,juricts.xyz
 DOMAIN,jurty.ml
 DOMAIN,juryintory.co
 DOMAIN,jusrlkubhjnr.com
@@ -19998,3 +19997,4 @@ DOMAIN,versahq.com
 DOMAIN,versetime.com
 DOMAIN,vertical-leap.co.uk
 DOMAIN,vertical-leap.net
+DOMAIN,verticalaffiliation.com
