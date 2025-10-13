@@ -407,6 +407,7 @@ DOMAIN,3p-link.com
 DOMAIN,3p3x.adj.st
 DOMAIN,3ppa.jp.cinarra.com
 DOMAIN,3rdads.com
+DOMAIN,3redlightfix.com
 DOMAIN,3t7euflv.com
 DOMAIN,3vlm.com
 DOMAIN,3wnp9.ru
@@ -3406,6 +3407,7 @@ DOMAIN,bighot.ru
 DOMAIN,bigmining.com
 DOMAIN,bigmir.net
 DOMAIN,bigpulpit.com
+DOMAIN,bigreal.org
 DOMAIN,bigstats.net
 DOMAIN,bigtracker.com
 DOMAIN,biijdpauyvf.com
@@ -5703,7 +5705,6 @@ DOMAIN,dashantechan.cn
 DOMAIN,dashboard.io
 DOMAIN,dashboard.tinypass.com
 DOMAIN,dashboardad.net
-DOMAIN,dashgreen.online
 DOMAIN,dat.funheroic.com
 DOMAIN,dat.red
 DOMAIN,data-dynamic.net
@@ -7565,7 +7566,6 @@ DOMAIN,fhvdwhbnl.com
 DOMAIN,fiaehdnnx.com
 DOMAIN,fialzlpkww.com
 DOMAIN,ficrwcptjvfpd.com
-DOMAIN,ficusoid.xyz
 DOMAIN,fidelity-media.com
 DOMAIN,fiechaev.com
 DOMAIN,fiewqoyhdkdcm.com
@@ -8952,6 +8952,7 @@ DOMAIN,hiekeegi.com
 DOMAIN,highcpms.com
 DOMAIN,higher.dwebsi.tk
 DOMAIN,higherengine.com
+DOMAIN,higheurest.com
 DOMAIN,highmetrics.com
 DOMAIN,highnets.com
 DOMAIN,hiido.com
@@ -14160,7 +14161,6 @@ DOMAIN,optimierung-der-website.de
 DOMAIN,optimization-methods.com
 DOMAIN,optimizely.appspot.com
 DOMAIN,optimizelydata.com
-DOMAIN,optimizesrv.com
 DOMAIN,optimonk.com
 DOMAIN,optin-machine.com
 DOMAIN,optinemailpro.com
@@ -17486,7 +17486,6 @@ DOMAIN,smartdevicemedia.com
 DOMAIN,smarterhq.io
 DOMAIN,smarterremarketer.net
 DOMAIN,smartocto.com
-DOMAIN,smartoffer.site
 DOMAIN,smartology.co
 DOMAIN,smartracker.net
 DOMAIN,smartredirect.de
@@ -19998,3 +19997,4 @@ DOMAIN,vepxl1.net
 DOMAIN,ver-pelis.net
 DOMAIN,verblife-2.co
 DOMAIN,verblife-3.co
+DOMAIN,verdrivenbru.info
