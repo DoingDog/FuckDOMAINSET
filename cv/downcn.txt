@@ -37,6 +37,7 @@ DOMAIN,raw.iqiq.io
 DOMAIN,repeater.asus.com
 DOMAIN,router.asus.com
 DOMAIN,setmeup.arubanetworks.com
+DOMAIN,smart.uhdnow.com
 DOMAIN,sms.imagetasks.com
 DOMAIN,speedtest.macpaw.com
 DOMAIN,steamcommunity-a.akamaihd.net
@@ -4353,4 +4354,4 @@ IP-CIDR6,::ffff:58.58.0.90/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.161/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.186/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.98/128,no-resolve
-#Mon 10/13/2025
+#Fri 10/17/2025
