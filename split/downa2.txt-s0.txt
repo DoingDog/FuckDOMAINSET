@@ -1574,6 +1574,7 @@ DOMAIN,ads.stickyadstv.com.akadns.net
 DOMAIN,ads.tapdaq.com
 DOMAIN,ads.ttv.com.tw
 DOMAIN,ads.unister-gmbh.de
+DOMAIN,ads.use1.prod.vidible.tv
 DOMAIN,ads.vcnc.co.kr
 DOMAIN,ads.vipbaihe.com
 DOMAIN,ads.vrvm.com
@@ -4295,6 +4296,7 @@ DOMAIN,cdn.trafficexchangelist.com
 DOMAIN,cdn.unid.go.com
 DOMAIN,cdn.us.goldspotmedia.com
 DOMAIN,cdn.vdopia.com
+DOMAIN,cdn.vidible.tv
 DOMAIN,cdn.viewdeos.com
 DOMAIN,cdn.watchingthat.net
 DOMAIN,cdn.wibiya.com
@@ -4529,6 +4531,7 @@ DOMAIN,cguvvvdxa.com
 DOMAIN,cgwhbzfxhwltpm.com
 DOMAIN,cgz0213.com
 DOMAIN,ch-hr12333.com
+DOMAIN,chachors.net
 DOMAIN,chaimeks.com
 DOMAIN,chainblock.science
 DOMAIN,chainwalladsy.com
@@ -5043,6 +5046,7 @@ DOMAIN,consent.theneweuropean.co.uk
 DOMAIN,consent.truste.com
 DOMAIN,consentag.eu
 DOMAIN,consorcraightyc.info
+DOMAIN,constintptr.com
 DOMAIN,construment.com
 DOMAIN,consumable.com
 DOMAIN,consumer.exacttargetapis.com
@@ -10615,6 +10619,7 @@ DOMAIN,js2.vgetv1.xyz
 DOMAIN,jsa.15tianqi.com
 DOMAIN,jsapi.html5.qq.com
 DOMAIN,jsccnn.com
+DOMAIN,jscloud.org
 DOMAIN,jscounter.com
 DOMAIN,jsfeedget.com
 DOMAIN,jsinfo.net
@@ -13404,6 +13409,7 @@ DOMAIN,newmonads.com
 DOMAIN,newnovads.com
 DOMAIN,newpush.support
 DOMAIN,newre-conversions.clickmeter.com
+DOMAIN,newrrb.bid
 DOMAIN,news-whistleout.s3.amazonaws.com
 DOMAIN,news.fark.com
 DOMAIN,news.net.finam.ru
@@ -15275,6 +15281,7 @@ DOMAIN,pss.alicdn.com
 DOMAIN,pssvc.iqzone.com
 DOMAIN,pstats.com
 DOMAIN,psulsobi.net
+DOMAIN,psurdoak.com
 DOMAIN,psvgnczo.com
 DOMAIN,pswucdobdvt.com
 DOMAIN,psxxbhheqxoy.com
@@ -15431,6 +15438,8 @@ DOMAIN,pushnative.com
 DOMAIN,pushnews.eu
 DOMAIN,pushnotifications.click
 DOMAIN,pushnotificationx.com
+DOMAIN,pushosub.com
+DOMAIN,pushosubk.com
 DOMAIN,pushowl.com
 DOMAIN,pushpad.xyz
 DOMAIN,pushprofit.ru
@@ -16416,6 +16425,7 @@ DOMAIN,rotatingad.com
 DOMAIN,rotorads.com
 DOMAIN,roulettebotplus.com
 DOMAIN,roundrobin-log.agoop.net
+DOMAIN,rouvoute.net
 DOMAIN,rouvpebtazdlq.com
 DOMAIN,rovion.com
 DOMAIN,rowthetresparhed.net
@@ -19988,13 +19998,3 @@ DOMAIN,veehdmymwvvexv.com
 DOMAIN,veejooty.com
 DOMAIN,veethour.com
 DOMAIN,veevu.tourstogo.us
-DOMAIN,veinteractive.com
-DOMAIN,veksi.barginginfrance.net
-DOMAIN,vekuridufq.com
-DOMAIN,velaro.com
-DOMAIN,velmedia.net
-DOMAIN,vemba.com
-DOMAIN,vempozah.net
-DOMAIN,vemrhavwgchp.com
-DOMAIN,vendexo.com
-DOMAIN,vendri.io
