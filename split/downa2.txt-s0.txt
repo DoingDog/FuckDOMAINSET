@@ -1645,6 +1645,7 @@ DOMAIN,adsinter1.addealsnetwork.com
 DOMAIN,adsixmedia.fr
 DOMAIN,adsk-pnxproxy-prd-1753980530.us-east-1.elb.amazonaws.com
 DOMAIN,adskom.com
+DOMAIN,adskpak.com
 DOMAIN,adslala.com
 DOMAIN,adslingers.com
 DOMAIN,adslivecorp.com
@@ -2958,7 +2959,6 @@ DOMAIN,aztecash.com
 DOMAIN,azvjudwr.info
 DOMAIN,azwancan.trafficmanager.net
 DOMAIN,azwsolqpewo.com
-DOMAIN,b-m.xyz
 DOMAIN,b.16vcd.com
 DOMAIN,b.19869.com
 DOMAIN,b.77shw.com
@@ -7733,7 +7733,6 @@ DOMAIN,fmnfopknmuusgw.com
 DOMAIN,fmpevnvced.com
 DOMAIN,fmrbnuhtabzavu.com
 DOMAIN,fmscash.com
-DOMAIN,fmstigat.online
 DOMAIN,fmxllgvfzsoz.com
 DOMAIN,fmxnlkoaf.com
 DOMAIN,fnbsrxtemj.com
@@ -16342,7 +16341,6 @@ DOMAIN,riansociationentio.info
 DOMAIN,riastats.com
 DOMAIN,ribbon.india.com
 DOMAIN,ribstygzuiz.com
-DOMAIN,ricead.com
 DOMAIN,rich.otherlevels.com
 DOMAIN,richard-group.com
 DOMAIN,richmanapi.jxedt.com
@@ -16416,7 +16414,6 @@ DOMAIN,rngljlhqe.com
 DOMAIN,rnindjnoocooz.com
 DOMAIN,rniuuamwoohg.com
 DOMAIN,rnlabs.com
-DOMAIN,rnmd.net
 DOMAIN,rnorlexanderly.info
 DOMAIN,rnpwxssirmgflk.com
 DOMAIN,rnvotosfzq.com
@@ -18402,7 +18399,6 @@ DOMAIN,tag.brainient.com
 DOMAIN,tag.dickssportinggoods.com
 DOMAIN,tag.durationmedia.net
 DOMAIN,tag.getdrip.com
-DOMAIN,tag.regieci.com
 DOMAIN,tag.rutarget.ru
 DOMAIN,tag4arm.com
 DOMAIN,tagbucket.cc
@@ -19998,3 +19994,7 @@ DOMAIN,valueclick.net
 DOMAIN,valuedopinions.co.uk
 DOMAIN,vaniok.cn
 DOMAIN,vantage-media.net
+DOMAIN,vapgfhsecbit.com
+DOMAIN,variablefitness.com
+DOMAIN,variti.net
+DOMAIN,vasfxpribls.com
