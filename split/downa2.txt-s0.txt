@@ -1644,6 +1644,7 @@ DOMAIN,adsinimages.com
 DOMAIN,adsinter1.addealsnetwork.com
 DOMAIN,adsixmedia.fr
 DOMAIN,adsk-pnxproxy-prd-1753980530.us-east-1.elb.amazonaws.com
+DOMAIN,adskape.ru
 DOMAIN,adskom.com
 DOMAIN,adskpak.com
 DOMAIN,adslala.com
@@ -2242,6 +2243,7 @@ DOMAIN,amliands.info
 DOMAIN,amnet.tw
 DOMAIN,amoad.com
 DOMAIN,amoeba.fudata.cn
+DOMAIN,amp.services
 DOMAIN,amplify-com-mktg.imgix.net
 DOMAIN,ampmetrics.techcrunch.com
 DOMAIN,ampush.io
@@ -6654,6 +6656,7 @@ DOMAIN,e9mlrvy1.com
 DOMAIN,ea3721.com
 DOMAIN,eabyvnmt.com
 DOMAIN,eac0823ca94e3c07.com
+DOMAIN,eacdn.com
 DOMAIN,eacla.com
 DOMAIN,eads.to
 DOMAIN,eadulttraffic.com
@@ -7733,6 +7736,7 @@ DOMAIN,fmnfopknmuusgw.com
 DOMAIN,fmpevnvced.com
 DOMAIN,fmrbnuhtabzavu.com
 DOMAIN,fmscash.com
+DOMAIN,fmstigat.online
 DOMAIN,fmxllgvfzsoz.com
 DOMAIN,fmxnlkoaf.com
 DOMAIN,fnbsrxtemj.com
@@ -10036,6 +10040,7 @@ DOMAIN,io.innertrends.com
 DOMAIN,io1g.net
 DOMAIN,ioahdio.com
 DOMAIN,iochuhah.com
+DOMAIN,iociley.com
 DOMAIN,iocnkrbgic.com
 DOMAIN,iocnt.net
 DOMAIN,ioghdgdgss.com
@@ -10166,6 +10171,7 @@ DOMAIN,islofthmci.com
 DOMAIN,isohits.com
 DOMAIN,isonomia.com.ar
 DOMAIN,ispaagigjygd.com
+DOMAIN,isparkmedia.com
 DOMAIN,ispot.tv
 DOMAIN,isqbthtlvazequ.com
 DOMAIN,isrecblqmlzi.com
@@ -14690,6 +14696,7 @@ DOMAIN,pheedroh.net
 DOMAIN,pheegoab.click
 DOMAIN,pheepudo.net
 DOMAIN,pheergar.com
+DOMAIN,pheersie.com
 DOMAIN,pheizpjpowvw.com
 DOMAIN,phekrimp.com
 DOMAIN,phengung.net
@@ -14788,7 +14795,6 @@ DOMAIN,pipfire.com
 DOMAIN,pipgiglea.club
 DOMAIN,pipiryiqu.com
 DOMAIN,pippity.com
-DOMAIN,pipsol.net
 DOMAIN,piqvuvqc.com
 DOMAIN,pirdoust.com
 DOMAIN,pismvlkq.com
@@ -17768,7 +17774,6 @@ DOMAIN,splyt.com
 DOMAIN,spn-twr-14.com
 DOMAIN,spn.ee
 DOMAIN,spncdypq.com
-DOMAIN,spongecell.com
 DOMAIN,sponsideantialm.info
 DOMAIN,sponsorcounter.de
 DOMAIN,sponsored.com
@@ -18074,6 +18079,7 @@ DOMAIN,stazumik.net
 DOMAIN,stcllctrs.com
 DOMAIN,stcounter.com
 DOMAIN,stealth.nl
+DOMAIN,stealthlockers.com
 DOMAIN,steamtraffic.com
 DOMAIN,steckoap.net
 DOMAIN,steeltrader.com.cn
@@ -19992,9 +19998,3 @@ DOMAIN,valuad.cloud
 DOMAIN,valueaffiliate.net
 DOMAIN,valueclick.net
 DOMAIN,valuedopinions.co.uk
-DOMAIN,vaniok.cn
-DOMAIN,vantage-media.net
-DOMAIN,vapgfhsecbit.com
-DOMAIN,variablefitness.com
-DOMAIN,variti.net
-DOMAIN,vasfxpribls.com
