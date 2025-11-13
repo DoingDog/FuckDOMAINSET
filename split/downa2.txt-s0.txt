@@ -2601,7 +2601,6 @@ DOMAIN,appnexus.net
 DOMAIN,apportium.com
 DOMAIN,approp.pro
 DOMAIN,apprupt.com
-DOMAIN,apps.buzzcity.net
 DOMAIN,apps.crowdtangle.com
 DOMAIN,apps.nexus.bazaarvoice.com
 DOMAIN,apps.nielsen.com
@@ -3889,7 +3888,6 @@ DOMAIN,buzzadexchange.com
 DOMAIN,buzzadnetwork.com
 DOMAIN,buzzads.com
 DOMAIN,buzzbuttons.com
-DOMAIN,buzzcity.net
 DOMAIN,buzzdeck.com
 DOMAIN,buzzoola.com
 DOMAIN,buzzparadise.com
@@ -4709,7 +4707,6 @@ DOMAIN,clic2pub.com
 DOMAIN,click-url.com
 DOMAIN,click.alibaba.com
 DOMAIN,click.aristotle.net
-DOMAIN,click.buzzcity.net
 DOMAIN,click.howdoesin.net
 DOMAIN,click.lergao.com
 DOMAIN,click.rssfwd.com
@@ -17306,7 +17303,6 @@ DOMAIN,shouyili.mobi
 DOMAIN,shovewhe.com
 DOMAIN,shovi.frost-electric-supply.com
 DOMAIN,show.9zwang.com
-DOMAIN,show.buzzcity.net
 DOMAIN,showcasead.com
 DOMAIN,showheroes.com
 DOMAIN,showroomlogic.com
@@ -19998,3 +19994,7 @@ DOMAIN,validate.onecount.net
 DOMAIN,validator.lomadee.com
 DOMAIN,valpkwew.com
 DOMAIN,valthyra.com
+DOMAIN,valuad.cloud
+DOMAIN,valueaffiliate.net
+DOMAIN,valueclick.net
+DOMAIN,valuedopinions.co.uk
