@@ -1146,6 +1146,7 @@ DOMAIN,ad-r.soulapp.cn
 DOMAIN,ad-recommend.com
 DOMAIN,ad-reward.soulapp.cn
 DOMAIN,ad-server-lb-294150285.ap-southeast-1.elb.amazonaws.com
+DOMAIN,ad-serverparc.nl
 DOMAIN,ad-sponsor.com
 DOMAIN,ad-srv-track.com
 DOMAIN,ad-thd-east.tagdelivery.com
@@ -1432,6 +1433,7 @@ DOMAIN,adnanny.com
 DOMAIN,adne.tv
 DOMAIN,adnectar.com
 DOMAIN,adnemo.com
+DOMAIN,adnet-media.net
 DOMAIN,adnet.com
 DOMAIN,adnet.lt
 DOMAIN,adnet.vn
@@ -1646,7 +1648,6 @@ DOMAIN,adsixmedia.fr
 DOMAIN,adsk-pnxproxy-prd-1753980530.us-east-1.elb.amazonaws.com
 DOMAIN,adskape.ru
 DOMAIN,adskom.com
-DOMAIN,adskpak.com
 DOMAIN,adslala.com
 DOMAIN,adslingers.com
 DOMAIN,adslivecorp.com
@@ -2471,7 +2472,6 @@ DOMAIN,api.mlinks.co
 DOMAIN,api.mobadvent.com
 DOMAIN,api.mobileanjian.com
 DOMAIN,api.mobitech-content.xyz
-DOMAIN,api.monedata.io
 DOMAIN,api.myendpoint.io
 DOMAIN,api.nextgen.guardianapps.co.uk
 DOMAIN,api.ning.com
@@ -2601,6 +2601,7 @@ DOMAIN,appnexus.net
 DOMAIN,apportium.com
 DOMAIN,approp.pro
 DOMAIN,apprupt.com
+DOMAIN,apps.buzzcity.net
 DOMAIN,apps.crowdtangle.com
 DOMAIN,apps.nexus.bazaarvoice.com
 DOMAIN,apps.nielsen.com
@@ -3419,7 +3420,6 @@ DOMAIN,bighot.ru
 DOMAIN,bigmining.com
 DOMAIN,bigmir.net
 DOMAIN,bigpulpit.com
-DOMAIN,bigreal.org
 DOMAIN,bigstats.net
 DOMAIN,bigtracker.com
 DOMAIN,biijdpauyvf.com
@@ -3888,6 +3888,7 @@ DOMAIN,buzzadexchange.com
 DOMAIN,buzzadnetwork.com
 DOMAIN,buzzads.com
 DOMAIN,buzzbuttons.com
+DOMAIN,buzzcity.net
 DOMAIN,buzzdeck.com
 DOMAIN,buzzoola.com
 DOMAIN,buzzparadise.com
@@ -4707,6 +4708,7 @@ DOMAIN,clic2pub.com
 DOMAIN,click-url.com
 DOMAIN,click.alibaba.com
 DOMAIN,click.aristotle.net
+DOMAIN,click.buzzcity.net
 DOMAIN,click.howdoesin.net
 DOMAIN,click.lergao.com
 DOMAIN,click.rssfwd.com
@@ -5797,6 +5799,7 @@ DOMAIN,db5.vortex.data.microsoft.com.akadns.net
 DOMAIN,db52cc91beabf7e8.com
 DOMAIN,db8a41d81b8dfe41de2.com
 DOMAIN,dbbp1.com
+DOMAIN,dbclix.com
 DOMAIN,dbhrfdfuqh.com
 DOMAIN,dbhyrddfm.com
 DOMAIN,dbktgmyjph.com
@@ -7430,6 +7433,7 @@ DOMAIN,fardan.pw
 DOMAIN,fark.com
 DOMAIN,farrivederev.pro
 DOMAIN,farshake.com
+DOMAIN,farteniuson.com
 DOMAIN,farvqaxaoid.com
 DOMAIN,fashion-hat.cn
 DOMAIN,fast-thinking.co.uk
@@ -15440,6 +15444,7 @@ DOMAIN,push2.eastmoney.com
 DOMAIN,push4site.com
 DOMAIN,pusha.se
 DOMAIN,pushaction.foxpush.com
+DOMAIN,pushagim.com
 DOMAIN,pushalert.co
 DOMAIN,pushame.com
 DOMAIN,pushanert.com
@@ -15666,6 +15671,7 @@ DOMAIN,qerusedpastrong.info
 DOMAIN,qeryz.com
 DOMAIN,qetstdbssdvs.com
 DOMAIN,qewa33a.com
+DOMAIN,qfdn3gyfbs.com
 DOMAIN,qfeorrrf.com
 DOMAIN,qfigzwpgzzkf.com
 DOMAIN,qfosjgnd.net
@@ -16321,6 +16327,7 @@ DOMAIN,rfewgthorann.com
 DOMAIN,rfgsi.com
 DOMAIN,rfihub.com
 DOMAIN,rfihub.net
+DOMAIN,rfity.com
 DOMAIN,rfksrv.com
 DOMAIN,rfmbvlaphdud.com
 DOMAIN,rfmdtsiekds.com
@@ -16927,7 +16934,6 @@ DOMAIN,sdk.hansel.io
 DOMAIN,sdk.inlocomedia.com
 DOMAIN,sdk.jeeng.com
 DOMAIN,sdk.loveota.net
-DOMAIN,sdk.out.usbla.net
 DOMAIN,sdk.playtem.com
 DOMAIN,sdk.postscript.io
 DOMAIN,sdk.qikify.com
@@ -17237,6 +17243,7 @@ DOMAIN,shake.360.cn
 DOMAIN,shake.f.360.cn
 DOMAIN,shalleda.com
 DOMAIN,shalltry.com
+DOMAIN,shalseey.com
 DOMAIN,shangjiabiao.com
 DOMAIN,shangmiss.wap.xsbiquge.com
 DOMAIN,shanyi.info
@@ -17303,6 +17310,7 @@ DOMAIN,shouyili.mobi
 DOMAIN,shovewhe.com
 DOMAIN,shovi.frost-electric-supply.com
 DOMAIN,show.9zwang.com
+DOMAIN,show.buzzcity.net
 DOMAIN,showcasead.com
 DOMAIN,showheroes.com
 DOMAIN,showroomlogic.com
@@ -18404,6 +18412,7 @@ DOMAIN,tag.brainient.com
 DOMAIN,tag.dickssportinggoods.com
 DOMAIN,tag.durationmedia.net
 DOMAIN,tag.getdrip.com
+DOMAIN,tag.regieci.com
 DOMAIN,tag.rutarget.ru
 DOMAIN,tag4arm.com
 DOMAIN,tagbucket.cc
@@ -18710,6 +18719,7 @@ DOMAIN,thisisacoolthing.com
 DOMAIN,thisisanothercoolthing.com
 DOMAIN,thivsxubn.com
 DOMAIN,thkexopsciqums.com
+DOMAIN,thnqemehtyfe.com
 DOMAIN,thnslhajvfmd.com
 DOMAIN,thoaltie.net
 DOMAIN,thogethoffic.co
@@ -19988,13 +19998,3 @@ DOMAIN,vagwyn.pw
 DOMAIN,vajiyqbb.com
 DOMAIN,vakgkyas.com
 DOMAIN,valatm.cp12.wasu.tv
-DOMAIN,vali-g1.cp31.ott.cibntv.net
-DOMAIN,vali-ugc.cp31.ott.cibntv.net
-DOMAIN,validate.onecount.net
-DOMAIN,validator.lomadee.com
-DOMAIN,valpkwew.com
-DOMAIN,valthyra.com
-DOMAIN,valuad.cloud
-DOMAIN,valueaffiliate.net
-DOMAIN,valueclick.net
-DOMAIN,valuedopinions.co.uk
