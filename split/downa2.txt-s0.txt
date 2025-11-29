@@ -479,6 +479,7 @@ DOMAIN,4af7c20b-7646-4fb7-b64f-ae0a8c51c1f1.register.collector.scopely.io
 DOMAIN,4au.htf16a.cn
 DOMAIN,4b6994dfa47cee4.com
 DOMAIN,4bb6jls06l.com
+DOMAIN,4c935d6a244f.com
 DOMAIN,4dex.io
 DOMAIN,4dexports.com
 DOMAIN,4dsply.com
@@ -506,6 +507,7 @@ DOMAIN,4u.pl
 DOMAIN,4us.pw
 DOMAIN,4uvjosuc.com
 DOMAIN,4v9wp.com
+DOMAIN,4wnet.com
 DOMAIN,4wnetwork.com
 DOMAIN,5-7-3-ios.userflows.ingest.crittercism.com
 DOMAIN,5-9-5-ios.userflows.ingest.crittercism.com
@@ -930,6 +932,7 @@ DOMAIN,a.yl-taikang.com
 DOMAIN,a013.com
 DOMAIN,a02d0adbca0.com
 DOMAIN,a0675c1160de6c6.com
+DOMAIN,a06bbd98194c252.com
 DOMAIN,a0c00.com
 DOMAIN,a0food.top
 DOMAIN,a1.7down.com
@@ -1298,6 +1301,7 @@ DOMAIN,adenabler.com
 DOMAIN,adenc.co.kr
 DOMAIN,adeq.hiidc.com.cn
 DOMAIN,adespresso.com
+DOMAIN,adexc.net
 DOMAIN,adexchange.io
 DOMAIN,adexprts.com
 DOMAIN,adextent.com
@@ -1434,7 +1438,6 @@ DOMAIN,adnanny.com
 DOMAIN,adne.tv
 DOMAIN,adnectar.com
 DOMAIN,adnemo.com
-DOMAIN,adnet-media.net
 DOMAIN,adnet.com
 DOMAIN,adnet.lt
 DOMAIN,adnet.vn
@@ -1690,6 +1693,7 @@ DOMAIN,adsupplyads.com
 DOMAIN,adsvcs.com
 DOMAIN,adsvert.com
 DOMAIN,adsvideo1.addealsnetwork.com
+DOMAIN,adsvids.com
 DOMAIN,adsxgm.com
 DOMAIN,adsyst.biz
 DOMAIN,adszom.com
@@ -2222,6 +2226,7 @@ DOMAIN,amae.zjcapital.cn
 DOMAIN,amakwktrnb.com
 DOMAIN,amao.mobi
 DOMAIN,amaqvmfd.com
+DOMAIN,amarceusan.com
 DOMAIN,amarfa.ir
 DOMAIN,amateur.amarotic.com
 DOMAIN,amavalet.com
@@ -2539,6 +2544,8 @@ DOMAIN,apiafubb.com
 DOMAIN,apicit.net
 DOMAIN,apicosdk.onemt.co
 DOMAIN,apicssdk.onemt.co
+DOMAIN,apidns-js.kwd.inkuai.com
+DOMAIN,apidns.kwd.inkuai.com
 DOMAIN,apilog.app.acfun.cn
 DOMAIN,apis.alenable.com
 DOMAIN,apis.com.br
@@ -3155,7 +3162,6 @@ DOMAIN,bauersagtnein.myeffect.net
 DOMAIN,bavftcgoapga.com
 DOMAIN,baxt.mobi
 DOMAIN,baynote.net
-DOMAIN,baypops.com
 DOMAIN,baztrack.com
 DOMAIN,bb1acb0ea5ddb1fed8.com
 DOMAIN,bb2.ifeng.com
@@ -3346,6 +3352,7 @@ DOMAIN,bet3000partners.com
 DOMAIN,beta.down2crazy.com
 DOMAIN,betarget.com
 DOMAIN,betarget.de
+DOMAIN,betimbur.com
 DOMAIN,betoga.com
 DOMAIN,betpartners.it
 DOMAIN,betrad.com
@@ -5685,7 +5692,6 @@ DOMAIN,dadsecs.com
 DOMAIN,dadsecz.com
 DOMAIN,dadsipz.com
 DOMAIN,dadspms.com
-DOMAIN,daffaite.com
 DOMAIN,dagonghuzhu.com
 DOMAIN,dah0ooy4doe.info
 DOMAIN,dahexs.net
@@ -6193,13 +6199,16 @@ DOMAIN,dnjj.mobi
 DOMAIN,dnkwgzmuxv.com
 DOMAIN,dnpehliwdvjkp.com
 DOMAIN,dnrywryy.com
+DOMAIN,dns.iqiyi.com
 DOMAIN,dns.jd.com
 DOMAIN,dns.m.sm.cn
+DOMAIN,dns.qiyipic.iqiyi.com
 DOMAIN,dns.wechat.com
 DOMAIN,dns.weibo.cn
 DOMAIN,dns.weixin.qq.com
 DOMAIN,dns.weixin.qq.com.cn
 DOMAIN,dns.ximalaya.com
+DOMAIN,dns2.q2cdn.com
 DOMAIN,dnset.com
 DOMAIN,dntrax.com
 DOMAIN,dnvod.tv
@@ -8697,6 +8706,7 @@ DOMAIN,gu-pix.appspot.com
 DOMAIN,guamokqekridi.com
 DOMAIN,guanoo.net
 DOMAIN,guardianapps.co.uk
+DOMAIN,guardiandigitalcomparison.co.uk
 DOMAIN,guardwork.info
 DOMAIN,gueqndbe.com
 DOMAIN,gugemfslzh.com
@@ -8849,6 +8859,7 @@ DOMAIN,harsonsy.com
 DOMAIN,harthatforsin.pro
 DOMAIN,harvest.gotrackier.com
 DOMAIN,hashalre.uk
+DOMAIN,hashcoin.co
 DOMAIN,hashvault.pro
 DOMAIN,hasmobi.net
 DOMAIN,hauchi.com.tw
@@ -9349,7 +9360,6 @@ DOMAIN,httpdns-ocloud.heytapmobile.com
 DOMAIN,httpdns-push.heytapmobile.com
 DOMAIN,httpdns-sc.aliyuncs.com
 DOMAIN,httpdns-sdk.n.netease.com
-DOMAIN,httpdns-v6.gslb.yy.com
 DOMAIN,httpdns.alicdn.com
 DOMAIN,httpdns.baidu.com
 DOMAIN,httpdns.baidubce.com
@@ -9359,7 +9369,6 @@ DOMAIN,httpdns.c.cdnhwc2.com
 DOMAIN,httpdns.calorietech.com
 DOMAIN,httpdns.cctv.com
 DOMAIN,httpdns.danuoyi.tbcache.com
-DOMAIN,httpdns.gslb.yy.com
 DOMAIN,httpdns.huaweicloud.com
 DOMAIN,httpdns.kg.qq.com
 DOMAIN,httpdns.kwd.inkuai.com
@@ -9367,6 +9376,7 @@ DOMAIN,httpdns.meituan.com
 DOMAIN,httpdns.music.163.com
 DOMAIN,httpdns.n.shifen.com
 DOMAIN,httpdns.ocloud.heytapmobi.com
+DOMAIN,httpdns.platform.dbankcloud.cn
 DOMAIN,httpdns.platform.dbankcloud.com
 DOMAIN,httpdns.push.heytapmobi.com
 DOMAIN,httpdns.volcengineapi.com
@@ -9993,6 +10003,7 @@ DOMAIN,interakt.ru
 DOMAIN,interaktiv-net.de
 DOMAIN,interceptum.com
 DOMAIN,interclick.com
+DOMAIN,interdfp.com
 DOMAIN,interesting.cc
 DOMAIN,interestingz.pw
 DOMAIN,intergid.ru
@@ -10655,6 +10666,7 @@ DOMAIN,jscloud.org
 DOMAIN,jscounter.com
 DOMAIN,jsfeedget.com
 DOMAIN,jsinfo.net
+DOMAIN,jsjs.jbzj.com
 DOMAIN,jsjs.pro
 DOMAIN,jsjxhd.com
 DOMAIN,jsmbaidu.com
@@ -11593,6 +11605,7 @@ DOMAIN,lllkotiocpjfb.com
 DOMAIN,llnxczmgusq.com
 DOMAIN,lloogg.com
 DOMAIN,llpuhxkvr.com
+DOMAIN,llq9q2lacr.com
 DOMAIN,llqd75c56i.com
 DOMAIN,llrspkjasfqc.com
 DOMAIN,llsdercqm.com
@@ -13156,6 +13169,7 @@ DOMAIN,myawesomecash.com
 DOMAIN,mybestdc.com
 DOMAIN,mybitsearch.com
 DOMAIN,mycctvmedia.com
+DOMAIN,mycdn.co
 DOMAIN,mycleanpc.tk
 DOMAIN,myclickbankads.com
 DOMAIN,mycookies.it
@@ -14342,6 +14356,7 @@ DOMAIN,outboundlink.me
 DOMAIN,outbrain.com.edgekey.net
 DOMAIN,outbrainimg.com.edgekey.net
 DOMAIN,outporn.com
+DOMAIN,outseeltor.com
 DOMAIN,outster.com
 DOMAIN,ouuktjcoh.com
 DOMAIN,ovbnb.com
@@ -14765,7 +14780,6 @@ DOMAIN,pic.zxwhys.cn
 DOMAIN,picbucks.com
 DOMAIN,piccdn.igetget.com
 DOMAIN,pickytime.com
-DOMAIN,pics.firstload.de
 DOMAIN,picsti.com
 DOMAIN,picstunoar.com
 DOMAIN,pictela.net
@@ -15424,7 +15438,6 @@ DOMAIN,purethc.com
 DOMAIN,purevideo.com
 DOMAIN,purpreine.co
 DOMAIN,pusbamejpkxq.com
-DOMAIN,puscomosca.com
 DOMAIN,puserving.com
 DOMAIN,push-ad.com
 DOMAIN,push-centr.com
@@ -16430,7 +16443,6 @@ DOMAIN,rngljlhqe.com
 DOMAIN,rnindjnoocooz.com
 DOMAIN,rniuuamwoohg.com
 DOMAIN,rnlabs.com
-DOMAIN,rnmd.net
 DOMAIN,rnorlexanderly.info
 DOMAIN,rnpwxssirmgflk.com
 DOMAIN,rnvotosfzq.com
@@ -18041,7 +18053,6 @@ DOMAIN,stats.addtoany.com
 DOMAIN,stats.aplus.com
 DOMAIN,stats.avast.com
 DOMAIN,stats.bannersnack.com
-DOMAIN,stats.cn.ronghub.com
 DOMAIN,stats.cz
 DOMAIN,stats.datawrapper.de
 DOMAIN,stats.de
@@ -18400,7 +18411,6 @@ DOMAIN,ta-collector.centurygame.com
 DOMAIN,ta.yangkeduo.com
 DOMAIN,tab20.com
 DOMAIN,tabex.sopharma.bg
-DOMAIN,tabici.com
 DOMAIN,taboolasyndication.com
 DOMAIN,tabunder.com
 DOMAIN,tacastas.com
@@ -18878,6 +18888,7 @@ DOMAIN,toc.io
 DOMAIN,todayapp.tv
 DOMAIN,todayjiaxiang.cn
 DOMAIN,toftokiy.net
+DOMAIN,togenron.com
 DOMAIN,toget.ru
 DOMAIN,togroltu.net
 DOMAIN,tok-dan-host.com
@@ -19669,7 +19680,6 @@ DOMAIN,uniclick.openv.com
 DOMAIN,uniconsent.com
 DOMAIN,unid.go.com
 DOMAIN,unikmmqybjy.com
-DOMAIN,union-httpdns.gslb.yy.com
 DOMAIN,union.56.com
 DOMAIN,union.dangdang.com
 DOMAIN,union.duizhuang.com
@@ -19988,13 +19998,3 @@ DOMAIN,v3g4s.com
 DOMAIN,v5b99.cn
 DOMAIN,v5q3p.cn
 DOMAIN,v6-novelapp.ixigua.com
-DOMAIN,v68.ink
-DOMAIN,v7.shaoyumuye.com
-DOMAIN,va-endpoint.com
-DOMAIN,vabid.prod.sift.co
-DOMAIN,vacshqmpvkbzjh.com
-DOMAIN,vadpay.com
-DOMAIN,vaftkcyzqg.com
-DOMAIN,vagwyn.pw
-DOMAIN,vajiyqbb.com
-DOMAIN,vakgkyas.com
