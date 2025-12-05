@@ -508,7 +508,6 @@ DOMAIN,4us.pw
 DOMAIN,4uvjosuc.com
 DOMAIN,4v9wp.com
 DOMAIN,4wnet.com
-DOMAIN,4wnetwork.com
 DOMAIN,5-7-3-ios.userflows.ingest.crittercism.com
 DOMAIN,5-9-5-ios.userflows.ingest.crittercism.com
 DOMAIN,5.5ppt.net
@@ -1188,7 +1187,6 @@ DOMAIN,ad.us.sinaimg.cn
 DOMAIN,ad.valuecalling.com
 DOMAIN,ad.where.com
 DOMAIN,ad.wx.com
-DOMAIN,ad.xunkids.com
 DOMAIN,ad.yieldpartners.com
 DOMAIN,ad120m.com
 DOMAIN,ad123m.com
@@ -1554,7 +1552,6 @@ DOMAIN,ads.bridgebase.com
 DOMAIN,ads.ccstock.cn
 DOMAIN,ads.cdn.rovio.com
 DOMAIN,ads.ce.cn
-DOMAIN,ads.cup.com.cn
 DOMAIN,ads.cyberctm.com
 DOMAIN,ads.data.pplive.com
 DOMAIN,ads.dixcom.com
@@ -2381,7 +2378,6 @@ DOMAIN,apfmwcktbj.com
 DOMAIN,aphookkensidah.pro
 DOMAIN,aphycolourses.info
 DOMAIN,api-2-0.spot.im
-DOMAIN,api-ad.kajicam.com
 DOMAIN,api-analytics-bootstrap.metaps.com
 DOMAIN,api-analytics-cn.huami.com
 DOMAIN,api-es.doglobal.net
@@ -2600,7 +2596,6 @@ DOMAIN,appinfo.adop.cc
 DOMAIN,apple.comscoreresearch.com
 DOMAIN,appleads-trk.com
 DOMAIN,appload.ingest.crittercism.com
-DOMAIN,applog-perf.uc.cn
 DOMAIN,appmm.zapr.in
 DOMAIN,appmontize.gotrackier.com
 DOMAIN,appn.center
@@ -3162,6 +3157,7 @@ DOMAIN,bauersagtnein.myeffect.net
 DOMAIN,bavftcgoapga.com
 DOMAIN,baxt.mobi
 DOMAIN,baynote.net
+DOMAIN,baypops.com
 DOMAIN,baztrack.com
 DOMAIN,bb1acb0ea5ddb1fed8.com
 DOMAIN,bb2.ifeng.com
@@ -5926,6 +5922,7 @@ DOMAIN,depttake.ga
 DOMAIN,deqwas.net
 DOMAIN,derlatas.com
 DOMAIN,derler.pro
+DOMAIN,descrepush.com
 DOMAIN,desipearl.com
 DOMAIN,despearingle.co
 DOMAIN,destinationurl.com
@@ -6336,6 +6333,7 @@ DOMAIN,dqnpfsxuq.com
 DOMAIN,dqolgbehhzvo.com
 DOMAIN,dqvckdfaa.com
 DOMAIN,dqyczunj.com
+DOMAIN,dr8pk6ovub897.cloudfront.net
 DOMAIN,dradvice.in
 DOMAIN,drank.fa779.com
 DOMAIN,draulinehandon.info
@@ -6414,6 +6412,7 @@ DOMAIN,dtvlalitvg.com
 DOMAIN,dtxngr.com
 DOMAIN,dtzads.com
 DOMAIN,du.biqukan.com
+DOMAIN,du2uh7rq0r0d3.cloudfront.net
 DOMAIN,du8783wkf05yr.cloudfront.net
 DOMAIN,duamgurza.com
 DOMAIN,duamuprs.com
@@ -9994,6 +9993,7 @@ DOMAIN,intelligence-head.pinsightmedia.com
 DOMAIN,intelligencefocus.com
 DOMAIN,intelligentscissors.com
 DOMAIN,intellimize.co
+DOMAIN,intelserviceupdate.com
 DOMAIN,intentarget.com
 DOMAIN,intenthq.com
 DOMAIN,intentmedia.net
@@ -11256,7 +11256,6 @@ DOMAIN,laydcilck.com
 DOMAIN,layer.bz.mgtv.com
 DOMAIN,layerloop.com
 DOMAIN,laynsite.pro
-DOMAIN,lb.aatkit.com
 DOMAIN,lb.affilae.com
 DOMAIN,lb1.www.ms.akadns.net
 DOMAIN,lb3d.tj.ijinshan.com
@@ -12693,7 +12692,6 @@ DOMAIN,mine.blank.drawpad.org
 DOMAIN,mine.terorie.com
 DOMAIN,miner.beeppool.org
 DOMAIN,miner.cryptobara.com
-DOMAIN,miner.nablabee.com
 DOMAIN,mineralt.io
 DOMAIN,minercry.pt
 DOMAIN,minero-proxy-01.now.sh
@@ -13266,7 +13264,6 @@ DOMAIN,naapvraf.com
 DOMAIN,naavxddd.com
 DOMAIN,naayna.com
 DOMAIN,nabaza.com
-DOMAIN,nablabee.com
 DOMAIN,nadegda-95.ru
 DOMAIN,nadinthimmeled.pro
 DOMAIN,nads.wuaiso.com
@@ -16443,6 +16440,7 @@ DOMAIN,rngljlhqe.com
 DOMAIN,rnindjnoocooz.com
 DOMAIN,rniuuamwoohg.com
 DOMAIN,rnlabs.com
+DOMAIN,rnmd.net
 DOMAIN,rnorlexanderly.info
 DOMAIN,rnpwxssirmgflk.com
 DOMAIN,rnvotosfzq.com
@@ -16490,6 +16488,7 @@ DOMAIN,roscvyybfkm.com
 DOMAIN,rosemand.pro
 DOMAIN,rotatingad.com
 DOMAIN,rotorads.com
+DOMAIN,rotumal.com
 DOMAIN,roulettebotplus.com
 DOMAIN,roundrobin-log.agoop.net
 DOMAIN,rouvoute.net
@@ -16599,9 +16598,6 @@ DOMAIN,rukplaza.com
 DOMAIN,rukwbbwcil.com
 DOMAIN,rule34hentai.net
 DOMAIN,ruleclaim.web.fc2.com
-DOMAIN,rules.aatkit.com
-DOMAIN,rules2.aatkit.com
-DOMAIN,rules3.aatkit.com
 DOMAIN,rum-collector.wpm.neustar.biz
 DOMAIN,rumimorigu.info
 DOMAIN,rumldlbbkhetyv.com
@@ -19025,6 +19021,7 @@ DOMAIN,traceadmanager.com
 DOMAIN,traceless.me
 DOMAIN,tracelytics.com
 DOMAIN,tracemyip.org
+DOMAIN,tracer.jp
 DOMAIN,traceworks.com
 DOMAIN,traceybell.co.uk
 DOMAIN,track-re01.com
@@ -19998,3 +19995,6 @@ DOMAIN,v3g4s.com
 DOMAIN,v5b99.cn
 DOMAIN,v5q3p.cn
 DOMAIN,v6-novelapp.ixigua.com
+DOMAIN,v68.ink
+DOMAIN,v7.shaoyumuye.com
+DOMAIN,va-endpoint.com
