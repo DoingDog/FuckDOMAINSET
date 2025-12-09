@@ -27540,6 +27540,7 @@ DOMAIN-SUFFIX,counter.tovarro.com
 DOMAIN-SUFFIX,counter.wapstart.ru
 DOMAIN-SUFFIX,counter.yesky.com
 DOMAIN-SUFFIX,counter.zerohedge.com
+DOMAIN-SUFFIX,counter2.blog.livedoor.com
 DOMAIN-SUFFIX,counter2.condenast.it
 DOMAIN-SUFFIX,countersys.cn
 DOMAIN-SUFFIX,countertrck.com
@@ -28213,7 +28214,6 @@ DOMAIN-SUFFIX,dn7788.com
 DOMAIN-SUFFIX,dnfeu.com
 DOMAIN-SUFFIX,dnskuu.com
 DOMAIN-SUFFIX,dnvus.com
-DOMAIN-SUFFIX,do-not-tracker.org
 DOMAIN-SUFFIX,do69ifsly4.me
 DOMAIN-SUFFIX,doa1.immobilier-neuf.com
 DOMAIN-SUFFIX,docerad.wps.cn
@@ -28755,7 +28755,6 @@ DOMAIN-SUFFIX,events.kalooga.com
 DOMAIN-SUFFIX,events.pingan.com
 DOMAIN-SUFFIX,events.secureserver.net
 DOMAIN-SUFFIX,eventurypol.site
-DOMAIN-SUFFIX,eviltracker.net
 DOMAIN-SUFFIX,evisit.exeter.ac.uk
 DOMAIN-SUFFIX,evt.izooto.com
 DOMAIN-SUFFIX,evt.klarna.com
@@ -33186,7 +33185,6 @@ DOMAIN-SUFFIX,pixel.naij.com
 DOMAIN-SUFFIX,pixel.newscgp.com
 DOMAIN-SUFFIX,pixel.newsdiscover.com.au
 DOMAIN-SUFFIX,pixel.pcworld.com
-DOMAIN-SUFFIX,pixel.propublica.org
 DOMAIN-SUFFIX,pixel.prosieben.de
 DOMAIN-SUFFIX,pixel.quantserve.com
 DOMAIN-SUFFIX,pixel.reddit.com
@@ -35554,7 +35552,6 @@ DOMAIN-SUFFIX,tracker.tiu.ru
 DOMAIN-SUFFIX,tracker.uprinting.com
 DOMAIN-SUFFIX,tracker.wordstream.com
 DOMAIN-SUFFIX,tracker.yhd.com
-DOMAIN-SUFFIX,trackersimulator.org
 DOMAIN-SUFFIX,trackerstatistik.init-ag.de
 DOMAIN-SUFFIX,tracking-opi.fonpit.de
 DOMAIN-SUFFIX,tracking-server-prod-1.zenmxapps.com
@@ -38067,4 +38064,4 @@ IP-CIDR,69.28.57.245/32,no-resolve
 IP-CIDR,74.117.182.77/32,no-resolve
 IP-CIDR,78.140.131.214/32,no-resolve
 IP-CIDR6,2402:db40:5100:1011::5/128,no-resolve
-#Fri 12/05/2025
+#Tue 12/09/2025
