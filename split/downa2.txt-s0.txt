@@ -1804,6 +1804,7 @@ DOMAIN,advinci.net
 DOMAIN,adviralmedia.com
 DOMAIN,advisorded.com
 DOMAIN,advmaiotg.com
+DOMAIN,advmaker.su
 DOMAIN,advmania.com
 DOMAIN,advmd.com
 DOMAIN,advmedia.io
@@ -2766,7 +2767,6 @@ DOMAIN,asteriresearch.com
 DOMAIN,asterpix.com
 DOMAIN,astpvgpwbewx.com
 DOMAIN,astro-way.com
-DOMAIN,async-px-eu.dynamicyield.com
 DOMAIN,aszyzwbjs.com
 DOMAIN,at-img1.tdimg.com
 DOMAIN,at-img2.tdimg.com
@@ -8221,8 +8221,8 @@ DOMAIN,genecute.com
 DOMAIN,generalchemicalsupply.com
 DOMAIN,generaltracking.de
 DOMAIN,genergydevote.info
+DOMAIN,genericlink.com
 DOMAIN,geni.us
-DOMAIN,geniad.net
 DOMAIN,genieessp.com
 DOMAIN,genieessp.jp
 DOMAIN,geniusbanners.com
@@ -12842,7 +12842,6 @@ DOMAIN,mobdisc.org
 DOMAIN,mobgold.com
 DOMAIN,mobicont.com
 DOMAIN,mobidevdom.com
-DOMAIN,mobifobi.com
 DOMAIN,mobile-10.com
 DOMAIN,mobile-sdk-config.gservice.emarsys.net
 DOMAIN,mobile-stats.socialquantum.com
@@ -19998,3 +19997,4 @@ DOMAIN,v6-novelapp.ixigua.com
 DOMAIN,v68.ink
 DOMAIN,v7.shaoyumuye.com
 DOMAIN,va-endpoint.com
+DOMAIN,vabid.prod.sift.co
