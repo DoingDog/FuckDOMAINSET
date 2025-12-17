@@ -415,6 +415,7 @@ DOMAIN,3redlightfix.com
 DOMAIN,3t7euflv.com
 DOMAIN,3vlm.com
 DOMAIN,3wnp9.ru
+DOMAIN,3wr110.net
 DOMAIN,3wr110.xyz
 DOMAIN,4008813318.com.cn
 DOMAIN,404mobi.com
@@ -1478,6 +1479,7 @@ DOMAIN,adovr.com
 DOMAIN,adowner.net
 DOMAIN,adpacks.com
 DOMAIN,adparlor.com
+DOMAIN,adpass.co.uk
 DOMAIN,adpaths.com
 DOMAIN,adpay.com
 DOMAIN,adpays.net
@@ -2408,7 +2410,6 @@ DOMAIN,api.aixifan.com
 DOMAIN,api.altamob.com
 DOMAIN,api.apptap.com
 DOMAIN,api.areametrics.com
-DOMAIN,api.arity.com
 DOMAIN,api.ateam-ad.jp
 DOMAIN,api.attentivemobile.com
 DOMAIN,api.b2c.com
@@ -3089,6 +3090,7 @@ DOMAIN,banana-splash.com
 DOMAIN,bananaflippy.com
 DOMAIN,banclip.com
 DOMAIN,bandborder.com
+DOMAIN,banerator.net
 DOMAIN,bang5mai.com
 DOMAIN,bangdom.com
 DOMAIN,banianspaddi.info
@@ -4785,6 +4787,7 @@ DOMAIN,clickx.io
 DOMAIN,clickz.lonelycheatingwives.com
 DOMAIN,clickzxc.com
 DOMAIN,clickzzs.nl
+DOMAIN,client.midosoo.com
 DOMAIN,client.rave-api.com
 DOMAIN,client.tahono.com
 DOMAIN,clifftopper.com
@@ -5901,6 +5904,7 @@ DOMAIN,delivery51.com
 DOMAIN,deliverydom.com
 DOMAIN,deliverymodo.com
 DOMAIN,delnapb.com
+DOMAIN,deloplen.com
 DOMAIN,deloton.com
 DOMAIN,delta-boa.com
 DOMAIN,deltago.com
@@ -8428,6 +8432,7 @@ DOMAIN,global.yyapi.net
 DOMAIN,globalconfig.bluedot.io
 DOMAIN,globaldating.online
 DOMAIN,globalsuccessclub.com
+DOMAIN,globaltakeoff.net
 DOMAIN,globalviptraffic.com
 DOMAIN,globalwebindex.net
 DOMAIN,globase.com
@@ -11648,6 +11653,9 @@ DOMAIN,localadbuy.com
 DOMAIN,localhost
 DOMAIN,localsearch24.co.uk
 DOMAIN,locate.pricespider.com
+DOMAIN,locationhistory-pa.googleapis.com
+DOMAIN,locationhistoryaggregates-pa.googleapis.com
+DOMAIN,locationhistoryplacedetails-pa.googleapis.com
 DOMAIN,locator1.corevm.com
 DOMAIN,locatorpp.corevm.com
 DOMAIN,lockerdomecdn.com
@@ -12299,6 +12307,7 @@ DOMAIN,mahindrainsurance.com
 DOMAIN,mahrzxsou.com
 DOMAIN,maikuque.net
 DOMAIN,mail.advantagebusinessmedia.com
+DOMAIN,mail.itseasy.com
 DOMAIN,mailboto.com
 DOMAIN,mailerlite.com
 DOMAIN,mailhxubk.com
@@ -12494,6 +12503,7 @@ DOMAIN,media.match.com
 DOMAIN,media.mobpartner.mobi
 DOMAIN,media.mykocam.com
 DOMAIN,media.mykodial.com
+DOMAIN,media.netrefer.com
 DOMAIN,media.onlineteachers.co.in
 DOMAIN,media.pussycash.com
 DOMAIN,media.richrelevance.com
@@ -12596,6 +12606,7 @@ DOMAIN,metabet.static.areyouwatchingthis.com
 DOMAIN,metalyzer.com
 DOMAIN,metartmoney.com
 DOMAIN,metartmoney.met-art.com
+DOMAIN,metavertising.com
 DOMAIN,metavertizer.com
 DOMAIN,meteorsolutions.com
 DOMAIN,metering.pagesuite.com
@@ -14642,6 +14653,7 @@ DOMAIN,penspade.com
 DOMAIN,penuma.com
 DOMAIN,pepipo.com
 DOMAIN,pepperjam.com
+DOMAIN,perceivequarter.com
 DOMAIN,percycle.com
 DOMAIN,perf.teads.tv.edgekey.net
 DOMAIN,perfb.com
@@ -15366,6 +15378,7 @@ DOMAIN,ptocmaux.com
 DOMAIN,ptool.barginginfrance.net
 DOMAIN,ptoosteg.com
 DOMAIN,ptp123.com
+DOMAIN,ptp22.com
 DOMAIN,ptp24.com
 DOMAIN,ptpefoctzmmvd.com
 DOMAIN,ptrfc.com
@@ -15545,6 +15558,7 @@ DOMAIN,puzzlingfall.com
 DOMAIN,pv.ldlwdsx.com
 DOMAIN,pv.vipwm.cc
 DOMAIN,pv.zhiding.cn
+DOMAIN,pvclouds.com
 DOMAIN,pvmax.net
 DOMAIN,pvmkyvtt.com
 DOMAIN,pvnyzrvvzgy.com
@@ -17842,6 +17856,7 @@ DOMAIN,sqykpwpgqqt.com
 DOMAIN,sqyvhynwl.com
 DOMAIN,srcsmrtgs.com
 DOMAIN,srezrzsyqrikab.com
+DOMAIN,srgev.com
 DOMAIN,sriaqmzx.com
 DOMAIN,srjbxbkwn.com
 DOMAIN,srmnfxcftazj.com
@@ -19983,18 +19998,3 @@ DOMAIN,v11media.com
 DOMAIN,v12group.com
 DOMAIN,v16.56.com
 DOMAIN,v1n7c.com
-DOMAIN,v2.dc.yieldify.com
-DOMAIN,v2.phb123.com
-DOMAIN,v2.stat.ku6.com
-DOMAIN,v2.yieldlove-ad-serving.net
-DOMAIN,v2cigs.com
-DOMAIN,v3.stat.ku6.com
-DOMAIN,v3cdn.net
-DOMAIN,v3g4s.com
-DOMAIN,v5b99.cn
-DOMAIN,v5q3p.cn
-DOMAIN,v6-novelapp.ixigua.com
-DOMAIN,v68.ink
-DOMAIN,v7.shaoyumuye.com
-DOMAIN,va-endpoint.com
-DOMAIN,vabid.prod.sift.co

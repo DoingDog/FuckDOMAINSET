@@ -597,6 +597,7 @@ DOMAIN-SUFFIX,bdcloudapi.com
 DOMAIN-SUFFIX,bdimg.com
 DOMAIN-SUFFIX,bdstatic.com
 DOMAIN-SUFFIX,bdtjrcv.com
+DOMAIN-SUFFIX,bdurl.net
 DOMAIN-SUFFIX,bdxiguaimg.com
 DOMAIN-SUFFIX,bdxiguastatic.com
 DOMAIN-SUFFIX,bdydns.com
@@ -1248,7 +1249,6 @@ DOMAIN-SUFFIX,didichuxing.com
 DOMAIN-SUFFIX,didiglobal.com
 DOMAIN-SUFFIX,didimobility.co.jp
 DOMAIN-SUFFIX,didistatic.com
-DOMAIN-SUFFIX,dig.bdurl.net
 DOMAIN-SUFFIX,digicert.com
 DOMAIN-SUFFIX,dilidili.wang
 DOMAIN-SUFFIX,dingding.xin
@@ -4354,4 +4354,4 @@ IP-CIDR6,::ffff:58.58.0.90/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.161/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.186/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.98/128,no-resolve
-#Sat 12/13/2025
+#Wed 12/17/2025
