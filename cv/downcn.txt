@@ -39,7 +39,6 @@ DOMAIN,router.asus.com
 DOMAIN,setmeup.arubanetworks.com
 DOMAIN,smart.uhdnow.com
 DOMAIN,sms.imagetasks.com
-DOMAIN,speedtest.macpaw.com
 DOMAIN,steamcommunity-a.akamaihd.net
 DOMAIN,tx.lilyemby.com
 DOMAIN,unifi
@@ -1042,7 +1041,6 @@ DOMAIN-SUFFIX,cloudzhongshan.com
 DOMAIN-SUFFIX,cloudzhuhai.com
 DOMAIN-SUFFIX,clsa.com
 DOMAIN-SUFFIX,cm.fancyapi.com
-DOMAIN-SUFFIX,cm.steampowered.com
 DOMAIN-SUFFIX,cmb-leasing.com
 DOMAIN-SUFFIX,cmbchina.biz
 DOMAIN-SUFFIX,cmbchina.com
@@ -2645,7 +2643,6 @@ DOMAIN-SUFFIX,netbian.com
 DOMAIN-SUFFIX,netease-inc.com
 DOMAIN-SUFFIX,netease.com
 DOMAIN-SUFFIX,netease.im
-DOMAIN-SUFFIX,netspeedtestmaster.com
 DOMAIN-SUFFIX,netstatic.net
 DOMAIN-SUFFIX,newasp.net
 DOMAIN-SUFFIX,newbandeng.com
@@ -2769,10 +2766,6 @@ DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
 DOMAIN-SUFFIX,paopaoche.net
 DOMAIN-SUFFIX,papocket.com
 DOMAIN-SUFFIX,passthepopcorn.me
-DOMAIN-SUFFIX,paypal-mktg.com
-DOMAIN-SUFFIX,paypal.com
-DOMAIN-SUFFIX,paypal.me
-DOMAIN-SUFFIX,paypalobjects.com
 DOMAIN-SUFFIX,pc6.com
 DOMAIN-SUFFIX,pcbeta.com
 DOMAIN-SUFFIX,pchome.net
@@ -4354,4 +4347,4 @@ IP-CIDR6,::ffff:58.58.0.90/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.161/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.186/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.98/128,no-resolve
-#Sun 12/21/2025
+#Thu 12/25/2025
