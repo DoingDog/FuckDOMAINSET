@@ -1186,6 +1186,7 @@ DOMAIN,ad.smartmediarep.com
 DOMAIN,ad.turn.com.akadns.net
 DOMAIN,ad.us.sinaimg.cn
 DOMAIN,ad.valuecalling.com
+DOMAIN,ad.vrvm.com
 DOMAIN,ad.where.com
 DOMAIN,ad.wx.com
 DOMAIN,ad.yieldpartners.com
@@ -1652,6 +1653,7 @@ DOMAIN,adsixmedia.fr
 DOMAIN,adsk-pnxproxy-prd-1753980530.us-east-1.elb.amazonaws.com
 DOMAIN,adskape.ru
 DOMAIN,adskom.com
+DOMAIN,adskpak.com
 DOMAIN,adslala.com
 DOMAIN,adslingers.com
 DOMAIN,adslivecorp.com
@@ -19996,5 +19998,3 @@ DOMAIN,v11media.com
 DOMAIN,v12group.com
 DOMAIN,v16.56.com
 DOMAIN,v1n7c.com
-DOMAIN,v2.dc.yieldify.com
-DOMAIN,v2.phb123.com
