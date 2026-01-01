@@ -8254,6 +8254,7 @@ DOMAIN,geoinventory.com
 DOMAIN,geoip-db.com
 DOMAIN,geoip-js.com
 DOMAIN,geoip.cookieyes.com
+DOMAIN,geoip.fotoable.net
 DOMAIN,geoip.goforandroid.com
 DOMAIN,geojs.io
 DOMAIN,geolid.com
@@ -19997,4 +19998,3 @@ DOMAIN,v10-win.vortex.data.microsoft.com.akadns.net
 DOMAIN,v11media.com
 DOMAIN,v12group.com
 DOMAIN,v16.56.com
-DOMAIN,v1n7c.com
