@@ -1303,7 +1303,6 @@ DOMAIN,adeq.hiidc.com.cn
 DOMAIN,adespresso.com
 DOMAIN,adexc.net
 DOMAIN,adexchange.io
-DOMAIN,adexpo.tencentmusic.com
 DOMAIN,adexprts.com
 DOMAIN,adextent.com
 DOMAIN,adezrvjcbyu.com
@@ -4307,7 +4306,6 @@ DOMAIN,cdn.pushwoosh.com
 DOMAIN,cdn.rebel.ai
 DOMAIN,cdn.revjet.com
 DOMAIN,cdn.selectablemedia.com
-DOMAIN,cdn.siftscience.com
 DOMAIN,cdn.speedcurve.com
 DOMAIN,cdn.split.io
 DOMAIN,cdn.spotxcdn.com.edgekey.net
@@ -6371,7 +6369,6 @@ DOMAIN,drqlvjwhg.com
 DOMAIN,drwfixovzqdcs.com
 DOMAIN,drwttspxjdoosq.com
 DOMAIN,drwzn.com
-DOMAIN,drydrum.com
 DOMAIN,drzndwmqrgra.com
 DOMAIN,ds-api-public.addthis.com.edgekey.net
 DOMAIN,ds-m.addthisedge.com.edgekey.net
@@ -6505,6 +6502,7 @@ DOMAIN,dynamicserving.com
 DOMAIN,dynamicyield.com
 DOMAIN,dynatracesaas.com
 DOMAIN,dynsrv.wps.cn
+DOMAIN,dynsrvtyu.com
 DOMAIN,dyoyiydbwdcr.com
 DOMAIN,dyscb.cn
 DOMAIN,dyucosivnycndc.com
@@ -8102,7 +8100,6 @@ DOMAIN,g-cash.biz
 DOMAIN,g-content.bid
 DOMAIN,g-statistic.com
 DOMAIN,g.delivery.net
-DOMAIN,g.jwpsrv.com
 DOMAIN,g.pgu.cc
 DOMAIN,g.zhangaiwan.com
 DOMAIN,g.zhoukaika.com
@@ -8181,7 +8178,6 @@ DOMAIN,gatr.hit.gemius.pl
 DOMAIN,gauwicig.com
 DOMAIN,gayadnetwork.com
 DOMAIN,gayxperience.com
-DOMAIN,gazati.com
 DOMAIN,gazukakdlk.com
 DOMAIN,gb.it1352.com
 DOMAIN,gb0rd.com
@@ -12500,6 +12496,7 @@ DOMAIN,measured.com
 DOMAIN,meatballsandads.com
 DOMAIN,mebablo.com
 DOMAIN,meccahoo.com
+DOMAIN,medi-8.net
 DOMAIN,media-app.com
 DOMAIN,media-click.ru
 DOMAIN,media-networks.ru
@@ -13791,6 +13788,7 @@ DOMAIN,nullrefexcep.com
 DOMAIN,nuloox.com
 DOMAIN,nulwhbbyfdxy.com
 DOMAIN,numb.hotshare.biz
+DOMAIN,numbers.md
 DOMAIN,numerino.cz
 DOMAIN,numibit.net
 DOMAIN,nummobile.com
@@ -14378,6 +14376,7 @@ DOMAIN,outbid.io
 DOMAIN,outboundlink.me
 DOMAIN,outbrain.com.edgekey.net
 DOMAIN,outbrainimg.com.edgekey.net
+DOMAIN,outils.f5biz.com
 DOMAIN,outporn.com
 DOMAIN,outseeltor.com
 DOMAIN,outster.com
@@ -19052,6 +19051,7 @@ DOMAIN,traceadmanager.com
 DOMAIN,traceless.me
 DOMAIN,tracelytics.com
 DOMAIN,tracemyip.org
+DOMAIN,tracer.jp
 DOMAIN,traceworks.com
 DOMAIN,traceybell.co.uk
 DOMAIN,track-re01.com
