@@ -518,6 +518,7 @@ DOMAIN,51ginkgo.com
 DOMAIN,51gugu.com
 DOMAIN,51juejinjie.com.cn
 DOMAIN,51junpin.net
+DOMAIN,51kaowang.com
 DOMAIN,51maiwanju.com
 DOMAIN,51y5.net
 DOMAIN,51yhzp.com
@@ -1667,7 +1668,6 @@ DOMAIN,adsmis.duxiaoman.com
 DOMAIN,adsmoon.com
 DOMAIN,adsnetworkserver.com
 DOMAIN,adsomi.com
-DOMAIN,adsonar.com
 DOMAIN,adsoptimal.com
 DOMAIN,adsovo.com
 DOMAIN,adsp.com
@@ -2707,6 +2707,7 @@ DOMAIN,as.g5s.ifeng.com
 DOMAIN,as.jivox.com
 DOMAIN,as00.estara.com
 DOMAIN,as07d698u9.com
+DOMAIN,as1.wenku.baidu.com
 DOMAIN,asadcdn.com
 DOMAIN,asadzntx.com
 DOMAIN,ascend.ai
@@ -3361,6 +3362,7 @@ DOMAIN,besucherzaehler-zugriffszaehler.de
 DOMAIN,besucherzaehler.org
 DOMAIN,besucherzahlen.com
 DOMAIN,bet3000partners.com
+DOMAIN,bet365affiliates.com
 DOMAIN,beta.down2crazy.com
 DOMAIN,betarget.com
 DOMAIN,betarget.de
@@ -3715,6 +3717,7 @@ DOMAIN,bootstrap-js.com
 DOMAIN,bootstrap.upsight-api.com
 DOMAIN,boplhfqz.com
 DOMAIN,boriouseruwer.info
+DOMAIN,bororango.com
 DOMAIN,borrango.com
 DOMAIN,boschetto-hotel.gr
 DOMAIN,bosspush.com
@@ -4032,6 +4035,7 @@ DOMAIN,c73.microfog.me
 DOMAIN,c753738.r38.cf2.rackcdn.com
 DOMAIN,c75b9ac5103e5d125b8.com
 DOMAIN,c7d470df880b1d0.com
+DOMAIN,c8.net.ua
 DOMAIN,c92a198b4e0a.com
 DOMAIN,ca-as-1.agilone.com
 DOMAIN,ca-lapresse-main.collector.snplow.net
@@ -4578,7 +4582,6 @@ DOMAIN,charltonmedia.com
 DOMAIN,charmour.club
 DOMAIN,chartaca.com
 DOMAIN,chartboost-imp.aarki.net
-DOMAIN,chartboosts.com
 DOMAIN,chatinator.com
 DOMAIN,chaufoox.net
 DOMAIN,chauksoa.net
@@ -5605,6 +5608,7 @@ DOMAIN,d1iazwv1n1tsyi.cloudfront.net
 DOMAIN,d1il9t8pu4dsoj.cloudfront.net
 DOMAIN,d1mib12jcgwmnv.cloudfront.net
 DOMAIN,d1pdpbxj733bb1.cloudfront.net
+DOMAIN,d1qggq1at2gusn.cloudfront.net
 DOMAIN,d1qpxk1wfeh8v1.cloudfront.net
 DOMAIN,d1rgnfh960lz2b.cloudfront.net
 DOMAIN,d1rjzrtsxlzawf.cloudfront.net
@@ -5650,7 +5654,6 @@ DOMAIN,d3b75cfc88a9.com
 DOMAIN,d3dytsf4vrjn5x.cloudfront.net
 DOMAIN,d3e44a82c2df88.com
 DOMAIN,d3em0905j9y6sm.cloudfront.net
-DOMAIN,d3iouejux1os58.cloudfront.net
 DOMAIN,d3jgr4uve1d188.cloudfront.net
 DOMAIN,d3lvr7yuk4uaui.cloudfront.net
 DOMAIN,d3ojzyhbolvoi5.cloudfront.net
@@ -7646,7 +7649,6 @@ DOMAIN,financenews.pw
 DOMAIN,find-ip-address.org
 DOMAIN,find-my-great-life.com
 DOMAIN,findandtry.com
-DOMAIN,findbetterresults.com
 DOMAIN,findepended.com
 DOMAIN,finderlocator.com
 DOMAIN,findqc.com
@@ -8443,7 +8445,6 @@ DOMAIN,global.yyapi.net
 DOMAIN,globalconfig.bluedot.io
 DOMAIN,globaldating.online
 DOMAIN,globalsuccessclub.com
-DOMAIN,globaltakeoff.net
 DOMAIN,globalviptraffic.com
 DOMAIN,globalwebindex.net
 DOMAIN,globase.com
@@ -8497,7 +8498,6 @@ DOMAIN,go.sghjtc.xyz
 DOMAIN,go.shareaholic.com
 DOMAIN,go.theregister.com
 DOMAIN,go.toutapp.com
-DOMAIN,go.vrvm.com
 DOMAIN,go2.mercy.ga
 DOMAIN,go2app.org
 DOMAIN,go2jump.org
@@ -11684,7 +11684,6 @@ DOMAIN,loft2126.dedicatedpanel.com
 DOMAIN,log-collector.svctr.zynga.com
 DOMAIN,log-collectors-73517960.us-east-1.elb.amazonaws.com
 DOMAIN,log-dbff2e04.us.v2.we-stats.com
-DOMAIN,log-va.tiktokv.com
 DOMAIN,log.120ask.com
 DOMAIN,log.51wnl-cq.com
 DOMAIN,log.adywind.com
@@ -12304,6 +12303,7 @@ DOMAIN,madsats.com
 DOMAIN,madsatz.com
 DOMAIN,madsimz.com
 DOMAIN,madsipz.com
+DOMAIN,madskis.com
 DOMAIN,madskiz.com
 DOMAIN,madslims.com
 DOMAIN,madsokz.com
@@ -14913,6 +14913,7 @@ DOMAIN,pkscjfqekfahb.com
 DOMAIN,pkvhprfhbtft.com
 DOMAIN,pkytbidauolavq.com
 DOMAIN,pl.cp12.wasu.tv
+DOMAIN,pl.cp31.ott.cibntv.net
 DOMAIN,pl.vidazoo.com
 DOMAIN,placebubble.gimbal.com
 DOMAIN,placeiq.com
@@ -16844,6 +16845,7 @@ DOMAIN,samba.tv
 DOMAIN,sambaads.com
 DOMAIN,samboc.com
 DOMAIN,samevay.com.cn
+DOMAIN,samvaulter.com
 DOMAIN,san-spr-01.net
 DOMAIN,san-www.adobetag.com.edgekey.net
 DOMAIN,san.push.io.edgekey.net
@@ -19060,6 +19062,7 @@ DOMAIN,traceadmanager.com
 DOMAIN,traceless.me
 DOMAIN,tracelytics.com
 DOMAIN,tracemyip.org
+DOMAIN,tracer.jp
 DOMAIN,traceworks.com
 DOMAIN,traceybell.co.uk
 DOMAIN,track-re01.com
@@ -19995,6 +19998,3 @@ DOMAIN,uzylpwfamhcb.com
 DOMAIN,v-links.net
 DOMAIN,v.37uta.cn
 DOMAIN,v.76768hwj.cn
-DOMAIN,v.center
-DOMAIN,v.cf.ssacdn.com
-DOMAIN,v.dengbaozx.cn
