@@ -6337,6 +6337,7 @@ DOMAIN-SUFFIX,dcdcrm.com
 DOMAIN-SUFFIX,dcdkjx.com
 DOMAIN-SUFFIX,dchain.tech
 DOMAIN-SUFFIX,dcknf.top
+DOMAIN-SUFFIX,dcloud.io
 DOMAIN-SUFFIX,dcloud.xin
 DOMAIN-SUFFIX,dcloudlive.com
 DOMAIN-SUFFIX,dcloudlive.net
@@ -22915,6 +22916,7 @@ DOMAIN-SUFFIX,tongzhiwang.com
 DOMAIN-SUFFIX,tongzhiwang.net
 DOMAIN-SUFFIX,tongzhuogame.com
 DOMAIN-SUFFIX,tongzhuoplay.com
+DOMAIN-SUFFIX,tool.lu
 DOMAIN-SUFFIX,tools.team
 DOMAIN-SUFFIX,toop.club
 DOMAIN-SUFFIX,top100school.com
@@ -29917,4 +29919,4 @@ IP-CIDR6,::ffff:58.58.0.90/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.161/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.186/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.98/128,no-resolve
-#Thu 01/29/2026
+#Sun 02/01/2026
