@@ -1187,7 +1187,6 @@ DOMAIN,ad.smartmediarep.com
 DOMAIN,ad.turn.com.akadns.net
 DOMAIN,ad.us.sinaimg.cn
 DOMAIN,ad.valuecalling.com
-DOMAIN,ad.vrvm.com
 DOMAIN,ad.where.com
 DOMAIN,ad.wx.com
 DOMAIN,ad.yieldpartners.com
@@ -1489,6 +1488,7 @@ DOMAIN,adpays.net
 DOMAIN,adpdx.com
 DOMAIN,adperfect.com
 DOMAIN,adpick.co.kr
+DOMAIN,adpionier.de
 DOMAIN,adplans.info
 DOMAIN,adplex.co.kr
 DOMAIN,adplex.media
@@ -1590,7 +1590,6 @@ DOMAIN,ads.unister-gmbh.de
 DOMAIN,ads.use1.prod.vidible.tv
 DOMAIN,ads.vcnc.co.kr
 DOMAIN,ads.vipbaihe.com
-DOMAIN,ads.vrvm.com
 DOMAIN,ads.vserv.mobi
 DOMAIN,ads.wafour.com
 DOMAIN,ads.wepiao.com
@@ -1664,6 +1663,7 @@ DOMAIN,adsmis.duxiaoman.com
 DOMAIN,adsmoon.com
 DOMAIN,adsnetworkserver.com
 DOMAIN,adsomi.com
+DOMAIN,adsonar.com
 DOMAIN,adsoptimal.com
 DOMAIN,adsovo.com
 DOMAIN,adsp.com
@@ -1694,7 +1694,6 @@ DOMAIN,adsupplyads.com
 DOMAIN,adsvcs.com
 DOMAIN,adsvert.com
 DOMAIN,adsvideo1.addealsnetwork.com
-DOMAIN,adsvids.com
 DOMAIN,adsxgm.com
 DOMAIN,adsyst.biz
 DOMAIN,adszom.com
@@ -1833,10 +1832,7 @@ DOMAIN,adworkmedia.net
 DOMAIN,adworldmedia.com
 DOMAIN,adworldmedia.net
 DOMAIN,adwstats.com
-DOMAIN,adx-asia-imp.aarki.net
-DOMAIN,adx-asia.aarki.net
 DOMAIN,adx-t.com
-DOMAIN,adx-west-imp.aarki.net
 DOMAIN,adx.com.ru
 DOMAIN,adx.hasmobi.net
 DOMAIN,adx.lsosad.com
@@ -2433,7 +2429,6 @@ DOMAIN,api.company-target.com
 DOMAIN,api.connecto.io
 DOMAIN,api.cortana.ai
 DOMAIN,api.crittercism.com
-DOMAIN,api.cupid.ptqy.gitv.tv
 DOMAIN,api.decibelinsight.net
 DOMAIN,api.developer.xiaomi.com
 DOMAIN,api.e-cg.cn
@@ -3292,7 +3287,6 @@ DOMAIN,beencounter.com
 DOMAIN,beeppool.org
 DOMAIN,beespace.com.ua
 DOMAIN,befade.com
-DOMAIN,befirstcdn.com
 DOMAIN,beggarthodcomp.info
 DOMAIN,beholder.xyz
 DOMAIN,behybmunweid.com
@@ -3714,6 +3708,7 @@ DOMAIN,bootstrap.upsight-api.com
 DOMAIN,boplhfqz.com
 DOMAIN,boriouseruwer.info
 DOMAIN,bororango.com
+DOMAIN,borotango.com
 DOMAIN,borrango.com
 DOMAIN,boschetto-hotel.gr
 DOMAIN,bosspush.com
@@ -3801,8 +3796,6 @@ DOMAIN,bruceleadx2.com
 DOMAIN,bruceleadx3.com
 DOMAIN,bruceleadx4.com
 DOMAIN,bryvvdtek.com
-DOMAIN,bs-geo.dvgtm.akadns.net
-DOMAIN,bs-wlb-uswest.dvgtm.akadns.net
 DOMAIN,bs.csshq.com.cn
 DOMAIN,bs.eyeblaster.akadns.net
 DOMAIN,bs.lamrd.cn
@@ -4576,7 +4569,6 @@ DOMAIN,chargeplatform.com
 DOMAIN,charltonmedia.com
 DOMAIN,charmour.club
 DOMAIN,chartaca.com
-DOMAIN,chartboost-imp.aarki.net
 DOMAIN,chatinator.com
 DOMAIN,chaufoox.net
 DOMAIN,chauksoa.net
@@ -4839,7 +4831,6 @@ DOMAIN,cloudsrvtrk.com
 DOMAIN,cloudtracer101.com
 DOMAIN,cloudtracked.com
 DOMAIN,clpremdo.com
-DOMAIN,cls.vrvm.com
 DOMAIN,clsyxddpbt.com
 DOMAIN,clubcollector.com
 DOMAIN,clxgmlpfkoj.com
@@ -5305,6 +5296,7 @@ DOMAIN,cpmgohigh.com
 DOMAIN,cpmktg.com
 DOMAIN,cpmleader.com
 DOMAIN,cpms.now.com
+DOMAIN,cpmtree.com
 DOMAIN,cppnznmorh.com
 DOMAIN,cps.yaoqing.com
 DOMAIN,cptrack.de
@@ -5356,7 +5348,6 @@ DOMAIN,crcewevoy.com
 DOMAIN,creatchristorisalmos.info
 DOMAIN,create2fear.com
 DOMAIN,creative-accelerate.ad.mobiuspace.net
-DOMAIN,creative-platform.vrvm.com
 DOMAIN,creative.eagllwin.com
 DOMAIN,creative.mathads.com
 DOMAIN,creative.metalyzer.com
@@ -5385,7 +5376,6 @@ DOMAIN,crowdscience.com
 DOMAIN,crowdtwist.com
 DOMAIN,crowdynews.com
 DOMAIN,crpmohfici.com
-DOMAIN,crtracklink.com
 DOMAIN,crtx.info
 DOMAIN,cruisingsmallship.com
 DOMAIN,cruisteerses.co
@@ -5415,6 +5405,7 @@ DOMAIN,cs.celebbusters.com
 DOMAIN,cs.exposedontape.com
 DOMAIN,cs.nex8.net
 DOMAIN,cs.vdopia.com
+DOMAIN,cs02-pps-drcn.dbankcdn.com
 DOMAIN,cs1.wpc.v0cdn.net
 DOMAIN,csaimall.com
 DOMAIN,csdata1.com
@@ -6459,7 +6450,6 @@ DOMAIN,duzakergeex.com
 DOMAIN,duzt6rhr7wo8p.cloudfront.net
 DOMAIN,dvaminusodin.net
 DOMAIN,dvgpgtwrqxa.com
-DOMAIN,dvgtm.akadns.net
 DOMAIN,dvhznawcuacblo.com
 DOMAIN,dviiocxrl.com
 DOMAIN,dvjhdodvcu.com
@@ -8277,7 +8267,6 @@ DOMAIN,geotmt.com
 DOMAIN,geranew.info
 DOMAIN,gestionpub.com
 DOMAIN,get.766.com
-DOMAIN,get.civicscience.com
 DOMAIN,get.com
 DOMAIN,get.rubyroyal.com
 DOMAIN,get.slotocash.com
@@ -9765,7 +9754,6 @@ DOMAIN,imagedoll.com
 DOMAIN,imagehostnetwork.com
 DOMAIN,imagenpic.com
 DOMAIN,images-demand.ssacdn.com
-DOMAIN,images-static.vrvm.com
 DOMAIN,images.aspireclicks.com
 DOMAIN,images.cardlytics.com
 DOMAIN,images.ccqxqc.com
@@ -10069,7 +10057,6 @@ DOMAIN,inviziads.com
 DOMAIN,invoc.us
 DOMAIN,invoca.net
 DOMAIN,invoca.solutions
-DOMAIN,invocacdn.com
 DOMAIN,inwatrrcziyuet.com
 DOMAIN,inwemo.com
 DOMAIN,io.innertrends.com
@@ -12553,6 +12540,7 @@ DOMAIN,mediametrics.ru
 DOMAIN,mediaoaktree.com
 DOMAIN,mediaonenetwork.net
 DOMAIN,mediaonpro.com
+DOMAIN,mediapeartree.com
 DOMAIN,mediaplan.ru
 DOMAIN,mediaraily.com
 DOMAIN,mediarithmics.com
@@ -12891,6 +12879,7 @@ DOMAIN,mobileads.indiatimes.com
 DOMAIN,mobileadspopup.com
 DOMAIN,mobilebanner.ru
 DOMAIN,mobileconfig.sascdn.com
+DOMAIN,mobilelog.upqzfile.com
 DOMAIN,mobileposse.com
 DOMAIN,mobileraffles.com
 DOMAIN,mobilerevenu.com
@@ -12973,6 +12962,7 @@ DOMAIN,moregamers.com
 DOMAIN,morehitserver.com
 DOMAIN,morenews3.net
 DOMAIN,moreshare.com
+DOMAIN,morgdm.ru
 DOMAIN,morningdigit.com
 DOMAIN,morydark.pw
 DOMAIN,mosaiq.io
@@ -14385,7 +14375,6 @@ DOMAIN,ourgeche.net
 DOMAIN,ourstats.de
 DOMAIN,oushenoo.net
 DOMAIN,ouslayer.co
-DOMAIN,out.usbla.net
 DOMAIN,outbid.io
 DOMAIN,outboundlink.me
 DOMAIN,outbrain.com.edgekey.net
@@ -15400,7 +15389,6 @@ DOMAIN,ptiqsfrnkmmtvtpucwzsaqonmvaprjafeerwlyhabobuvuazun.com
 DOMAIN,ptmind.com
 DOMAIN,ptmzr.com
 DOMAIN,pto-slb-09.com
-DOMAIN,ptoafauz.net
 DOMAIN,ptocmaux.com
 DOMAIN,ptool.barginginfrance.net
 DOMAIN,ptoosteg.com
@@ -15494,9 +15482,11 @@ DOMAIN,push.rollout.io
 DOMAIN,push.scloud.lfengmobile.com
 DOMAIN,push.world
 DOMAIN,push2.eastmoney.com
+DOMAIN,push2check.com
 DOMAIN,push4site.com
 DOMAIN,pusha.se
 DOMAIN,pushaction.foxpush.com
+DOMAIN,pushads.biz
 DOMAIN,pushagim.com
 DOMAIN,pushalert.co
 DOMAIN,pushame.com
@@ -16333,7 +16323,6 @@ DOMAIN,retargettracker.com
 DOMAIN,retentionscience.com
 DOMAIN,retiremely.com
 DOMAIN,retono42.us
-DOMAIN,retoxo.com
 DOMAIN,rettica.com
 DOMAIN,returnpath.net
 DOMAIN,reundcwkqvctq.com
@@ -16462,7 +16451,6 @@ DOMAIN,rlog.video.qq.com
 DOMAIN,rlomivunesqal.com
 DOMAIN,rlsqhgku.com
 DOMAIN,rlxqaczszvjvp.com
-DOMAIN,rm-hk.aarki.net
 DOMAIN,rm.recs.richrelevance.com
 DOMAIN,rmbn.net
 DOMAIN,rmkflouh.com
@@ -16996,7 +16984,6 @@ DOMAIN,sdk.resu.io
 DOMAIN,sdk.scopely.io
 DOMAIN,sdk.split.io
 DOMAIN,sdk.stat.foreign.nearme.com.cn
-DOMAIN,sdk.streamrail.com
 DOMAIN,sdk.viantsuite.com
 DOMAIN,sdk.yolanda.hk
 DOMAIN,sdk.youappi.com
@@ -17010,7 +16997,6 @@ DOMAIN,sdkapi.kookong.com
 DOMAIN,sdkapicdn.applanga.com
 DOMAIN,sdkconf.msstatic.com
 DOMAIN,sdkconfig.ad.india.xiaomi.com
-DOMAIN,sdkconfig.vrvm.com
 DOMAIN,sdkgw.us1.twilio.com
 DOMAIN,sdklogs.avocarrot.com
 DOMAIN,sdksp.video.qq.com
@@ -17821,7 +17807,6 @@ DOMAIN,spinbox.freedom.com
 DOMAIN,spinbox.net
 DOMAIN,spinfo.wps.cn
 DOMAIN,spiralstab.com
-DOMAIN,spire.aarki.net
 DOMAIN,spjvuubtewq.com
 DOMAIN,spklw.com
 DOMAIN,spl.zeotap.com
@@ -18184,7 +18169,6 @@ DOMAIN,strangeduckfilms.com
 DOMAIN,strawdense.com
 DOMAIN,streamate.com
 DOMAIN,streamateaccess.com
-DOMAIN,streambeam.io
 DOMAIN,streamdefence.com
 DOMAIN,streamdownloadonline.com
 DOMAIN,streamsend.com
@@ -18478,7 +18462,6 @@ DOMAIN,tagmanager.cn
 DOMAIN,tagmanager.toast.com
 DOMAIN,tagmans3.adsolutions.com
 DOMAIN,tagmngrs.com
-DOMAIN,tags-prod.vrvm.com
 DOMAIN,tags.acmeaom.com
 DOMAIN,tags.adsafety.net
 DOMAIN,tags.bluekai.com.edgekey.net
@@ -18518,7 +18501,6 @@ DOMAIN,taotu001.com
 DOMAIN,taou.cn
 DOMAIN,taowjygwtm.com
 DOMAIN,taozgpkjzpdtgr.com
-DOMAIN,tapas.net
 DOMAIN,tapffdskgjr.com
 DOMAIN,tapjoy-com-lb-vpc-332546193.us-east-1.elb.amazonaws.com
 DOMAIN,tapnative.com
@@ -19040,7 +19022,6 @@ DOMAIN,tpkmwnwbzetzbj.com
 DOMAIN,tpm.pw
 DOMAIN,tpmrwyhloretut.com
 DOMAIN,tpqweavlol.com
-DOMAIN,tps-wlb-uswest.dvgtm.akadns.net
 DOMAIN,tpwumuxcasj.com
 DOMAIN,tqbmcmttzid.com
 DOMAIN,tqddgnqsrya.com
@@ -19735,7 +19716,6 @@ DOMAIN,uniplayad.com
 DOMAIN,uniqodo.com
 DOMAIN,unitethecows.com
 DOMAIN,unitex.home.pl
-DOMAIN,unity-imp.aarki.net
 DOMAIN,unityads.unity3d.com.edgekey.net
 DOMAIN,unityads.unitychina.cn
 DOMAIN,universaltrackingcontainer.com
@@ -19998,3 +19978,23 @@ DOMAIN,uzxbwsnhjlt.com
 DOMAIN,uzxzkkyzb.com
 DOMAIN,uzylpwfamhcb.com
 DOMAIN,v-links.net
+DOMAIN,v.37uta.cn
+DOMAIN,v.76768hwj.cn
+DOMAIN,v.center
+DOMAIN,v.cf.ssacdn.com
+DOMAIN,v.dengbaozx.cn
+DOMAIN,v.iche88.cn
+DOMAIN,v.inigsplan.ru
+DOMAIN,v.jntxst.cn
+DOMAIN,v.lelangegg.cn
+DOMAIN,v.mininini.cn
+DOMAIN,v.originz.cn
+DOMAIN,v.qhruixin.cn
+DOMAIN,v.qudwrj.cn
+DOMAIN,v.sixiuwl.cn
+DOMAIN,v.ssacdn.com
+DOMAIN,v.u22l.cc
+DOMAIN,v.uc.cn
+DOMAIN,v.xi666.com
+DOMAIN,v.xinshide.cn
+DOMAIN,v.xiuzhenjewelry.cn
