@@ -1234,6 +1234,7 @@ DOMAIN,adbehavior.ximalaya.com
 DOMAIN,adbetclickin.pink
 DOMAIN,adbetnet.com
 DOMAIN,adbit.biz
+DOMAIN,adbit.co
 DOMAIN,adblockmetrics.ru
 DOMAIN,adblockotsosal.ru
 DOMAIN,adblockrelief.com
@@ -1285,6 +1286,7 @@ DOMAIN,addelive.com
 DOMAIN,addelivery-engine-api.voodoo-ads.io
 DOMAIN,addgfxnb.com
 DOMAIN,addinto.com
+DOMAIN,addiply.com
 DOMAIN,addlvr.com
 DOMAIN,addnow.com
 DOMAIN,addoor.net
@@ -1321,6 +1323,7 @@ DOMAIN,adfrika.com
 DOMAIN,adfunkyserver.com
 DOMAIN,adfux.com
 DOMAIN,adg99.com
+DOMAIN,adgardener.com
 DOMAIN,adgatemedia.com
 DOMAIN,adgebra.in
 DOMAIN,adgeiros.pw
@@ -1807,6 +1810,7 @@ DOMAIN,adview.pl
 DOMAIN,advinci.co
 DOMAIN,advinci.net
 DOMAIN,adviralmedia.com
+DOMAIN,advise.co
 DOMAIN,advisorded.com
 DOMAIN,advmaiotg.com
 DOMAIN,advmaker.su
@@ -2787,7 +2791,6 @@ DOMAIN,athingcatedrestori.info
 DOMAIN,ationmultinal.info
 DOMAIN,atlantisjs.brafton.com
 DOMAIN,atlcourier.com
-DOMAIN,ato.mx
 DOMAIN,atoshonetwork.com
 DOMAIN,atp.io
 DOMAIN,atpanel.com
@@ -3129,6 +3132,7 @@ DOMAIN,banners.penthouse.com
 DOMAIN,banners.rude.com
 DOMAIN,banners.rushcommerce.com
 DOMAIN,banners.smarttweak.com
+DOMAIN,banners.videosz.com
 DOMAIN,banners.webcams.com
 DOMAIN,banners.webmasterplan.com
 DOMAIN,bannersmania.com
@@ -6304,6 +6308,7 @@ DOMAIN,download.zjsyawqj.cn
 DOMAIN,download.zzb6.cn
 DOMAIN,download207.mediafire.com
 DOMAIN,downloadandsave-a.akamaihd.net
+DOMAIN,downloadboutique.com
 DOMAIN,downloadgot.com
 DOMAIN,downloads-whatsapp.com
 DOMAIN,downloadthesefile.com
@@ -7247,7 +7252,6 @@ DOMAIN,events.kaloo.ga
 DOMAIN,events.kumulos.com
 DOMAIN,events.launchdarkly.com
 DOMAIN,events.split.io
-DOMAIN,events.streamrail.net
 DOMAIN,events.tabmo.io
 DOMAIN,events.zaloapp.com
 DOMAIN,eventtracker.videostrip.com
@@ -9034,7 +9038,6 @@ DOMAIN,hit-counter.info
 DOMAIN,hit-counters.net
 DOMAIN,hit-counts.com
 DOMAIN,hit-now.com
-DOMAIN,hit-parade.com
 DOMAIN,hit.copesa.cl
 DOMAIN,hit100.ro
 DOMAIN,hit2map.com
@@ -10956,6 +10959,7 @@ DOMAIN,kipemhoxruov.com
 DOMAIN,kir.jp
 DOMAIN,kischartsrelimit.pro
 DOMAIN,kisstesting.com
+DOMAIN,kistutch.net
 DOMAIN,kitbit.net
 DOMAIN,kitcode.net
 DOMAIN,kitnmedia.com
@@ -12507,7 +12511,6 @@ DOMAIN,media-toolbar.com
 DOMAIN,media.adnetwork.vn
 DOMAIN,media.datahc.com
 DOMAIN,media.eurolive.com
-DOMAIN,media.evolv.ai
 DOMAIN,media.go2speed.org
 DOMAIN,media.match.com
 DOMAIN,media.mobpartner.mobi
@@ -14565,7 +14568,6 @@ DOMAIN,parromlethowsit.info
 DOMAIN,parronnotandone.info
 DOMAIN,parse.ly
 DOMAIN,parsnip.gocarrot.com
-DOMAIN,participants.evolv.ai
 DOMAIN,particizedese.club
 DOMAIN,partishion.com
 DOMAIN,partner.ads.placeiq.com
@@ -15389,6 +15391,7 @@ DOMAIN,ptiqsfrnkmmtvtpucwzsaqonmvaprjafeerwlyhabobuvuazun.com
 DOMAIN,ptmind.com
 DOMAIN,ptmzr.com
 DOMAIN,pto-slb-09.com
+DOMAIN,ptoafauz.net
 DOMAIN,ptocmaux.com
 DOMAIN,ptool.barginginfrance.net
 DOMAIN,ptoosteg.com
@@ -17917,7 +17920,6 @@ DOMAIN,ssp-api.mobadvent.com
 DOMAIN,ssp-partner.alibaba.com
 DOMAIN,ssp.send.microad.jp
 DOMAIN,ssp.send.microadinc.com
-DOMAIN,ssp.streamrail.net
 DOMAIN,sspicy.ru
 DOMAIN,sspsky.com
 DOMAIN,ssqpsrlknohdao.com
@@ -18132,6 +18134,7 @@ DOMAIN,steepsquirrel.com
 DOMAIN,stekcwrdwohbch.com
 DOMAIN,stellaservice.com
 DOMAIN,step-service.crossinstall.io
+DOMAIN,stepkeydo.com
 DOMAIN,stetic.com
 DOMAIN,stfdhrkj.com
 DOMAIN,stfowevsn.com
@@ -19995,6 +19998,3 @@ DOMAIN,v.sixiuwl.cn
 DOMAIN,v.ssacdn.com
 DOMAIN,v.u22l.cc
 DOMAIN,v.uc.cn
-DOMAIN,v.xi666.com
-DOMAIN,v.xinshide.cn
-DOMAIN,v.xiuzhenjewelry.cn
