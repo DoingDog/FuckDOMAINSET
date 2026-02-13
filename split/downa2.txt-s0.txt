@@ -1491,7 +1491,6 @@ DOMAIN,adpays.net
 DOMAIN,adpdx.com
 DOMAIN,adperfect.com
 DOMAIN,adpick.co.kr
-DOMAIN,adpionier.de
 DOMAIN,adplans.info
 DOMAIN,adplex.co.kr
 DOMAIN,adplex.media
@@ -1666,7 +1665,6 @@ DOMAIN,adsmis.duxiaoman.com
 DOMAIN,adsmoon.com
 DOMAIN,adsnetworkserver.com
 DOMAIN,adsomi.com
-DOMAIN,adsonar.com
 DOMAIN,adsoptimal.com
 DOMAIN,adsovo.com
 DOMAIN,adsp.com
@@ -5300,7 +5298,6 @@ DOMAIN,cpmgohigh.com
 DOMAIN,cpmktg.com
 DOMAIN,cpmleader.com
 DOMAIN,cpms.now.com
-DOMAIN,cpmtree.com
 DOMAIN,cppnznmorh.com
 DOMAIN,cps.yaoqing.com
 DOMAIN,cptrack.de
@@ -5409,7 +5406,6 @@ DOMAIN,cs.celebbusters.com
 DOMAIN,cs.exposedontape.com
 DOMAIN,cs.nex8.net
 DOMAIN,cs.vdopia.com
-DOMAIN,cs02-pps-drcn.dbankcdn.com
 DOMAIN,cs1.wpc.v0cdn.net
 DOMAIN,csaimall.com
 DOMAIN,csdata1.com
@@ -12882,7 +12878,6 @@ DOMAIN,mobileads.indiatimes.com
 DOMAIN,mobileadspopup.com
 DOMAIN,mobilebanner.ru
 DOMAIN,mobileconfig.sascdn.com
-DOMAIN,mobilelog.upqzfile.com
 DOMAIN,mobileposse.com
 DOMAIN,mobileraffles.com
 DOMAIN,mobilerevenu.com
@@ -19998,3 +19993,8 @@ DOMAIN,v.sixiuwl.cn
 DOMAIN,v.ssacdn.com
 DOMAIN,v.u22l.cc
 DOMAIN,v.uc.cn
+DOMAIN,v.xi666.com
+DOMAIN,v.xinshide.cn
+DOMAIN,v.xiuzhenjewelry.cn
+DOMAIN,v0.stat.ku6.com
+DOMAIN,v1.addthisedge.com.edgekey.net
