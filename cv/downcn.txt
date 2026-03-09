@@ -14120,6 +14120,7 @@ DOMAIN-SUFFIX,lbzhmd.com
 DOMAIN-SUFFIX,lc-cn-e1-shared.com
 DOMAIN-SUFFIX,lc-cn-n1-shared.com
 DOMAIN-SUFFIX,lcciot.com
+DOMAIN-SUFFIX,lcdn-locator.apple.com
 DOMAIN-SUFFIX,lcfile.com
 DOMAIN-SUFFIX,lcfw.co
 DOMAIN-SUFFIX,lcfzservice.com
@@ -29920,4 +29921,4 @@ IP-CIDR6,::ffff:58.58.0.90/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.161/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.186/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.98/128,no-resolve
-#Thu 03/05/2026
+#Mon 03/09/2026
