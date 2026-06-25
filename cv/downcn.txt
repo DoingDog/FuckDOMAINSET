@@ -2,6 +2,7 @@ DOMAIN,127.skk.moe
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN,a.iqmtp.live
 DOMAIN,analytics.strava.com
+DOMAIN,app.viayoo.com
 DOMAIN,aterm.me
 DOMAIN,blzddist1-a.akamaihd.net
 DOMAIN,captive.apple.com
@@ -31,14 +32,17 @@ DOMAIN,pi.hole
 DOMAIN,public.localsend.org
 DOMAIN,raw.iqiq.io
 DOMAIN,repeater.asus.com
+DOMAIN,res.viayoo.com
 DOMAIN,router.asus.com
 DOMAIN,setmeup.arubanetworks.com
 DOMAIN,sms.imagetasks.com
 DOMAIN,speedtest.macpaw.com
 DOMAIN,steamcommunity-a.akamaihd.net
 DOMAIN,unifi
+DOMAIN,viayoo.com
 DOMAIN,www.layuicdn.com
 DOMAIN,www.libvideo.com
+DOMAIN,www.viayoo.com
 DOMAIN,www.yxssp.com
 DOMAIN-SUFFIX,000607.net
 DOMAIN-SUFFIX,000681.com
@@ -31065,4 +31069,4 @@ IP-CIDR6,::ffff:58.58.0.90/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.161/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.186/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.98/128,no-resolve
-#Sun 06/21/2026
+#Thu 06/25/2026
