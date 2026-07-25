@@ -1188,6 +1188,7 @@ DOMAIN,ad.turn.com.akadns.net
 DOMAIN,ad.us.sinaimg.cn
 DOMAIN,ad.valuecalling.com
 DOMAIN,ad.where.com
+DOMAIN,ad.wsod.com
 DOMAIN,ad.wx.com
 DOMAIN,ad.yieldpartners.com
 DOMAIN,ad120m.com
@@ -3236,7 +3237,6 @@ DOMAIN,bd.scw98.com
 DOMAIN,bd1.heiguang.cn
 DOMAIN,bd1.idgdmg.com.cn
 DOMAIN,bd1.idgdmgroup.com.cn
-DOMAIN,bd1.zuimeitianqi.com
 DOMAIN,bd2.idgdmg.com.cn
 DOMAIN,bd2.idgdmgroup.com.cn
 DOMAIN,bd2.zuimeitianqi.com
@@ -4051,7 +4051,6 @@ DOMAIN,c73.microfog.me
 DOMAIN,c753738.r38.cf2.rackcdn.com
 DOMAIN,c75b9ac5103e5d125b8.com
 DOMAIN,c7d470df880b1d0.com
-DOMAIN,c8.net.ua
 DOMAIN,c92a198b4e0a.com
 DOMAIN,ca-as-1.agilone.com
 DOMAIN,ca-lapresse-main.collector.snplow.net
@@ -4167,7 +4166,6 @@ DOMAIN,carvarial.pro
 DOMAIN,cas.cluep.com
 DOMAIN,casalemedia.com.edgekey.net
 DOMAIN,cash-ca-ching.com
-DOMAIN,cashbigo.com
 DOMAIN,cashburners.com
 DOMAIN,cashcave.net
 DOMAIN,cashcawrite.com
@@ -6063,6 +6061,7 @@ DOMAIN,diekhxpwngawme.com
 DOMAIN,dieutribenhkhop.com
 DOMAIN,differentdesk.com
 DOMAIN,diffusion-tracker.com
+DOMAIN,dig.bdurl.net
 DOMAIN,dig.qbao.com
 DOMAIN,dig.zjurl.cn
 DOMAIN,digadser.com
@@ -7123,7 +7122,6 @@ DOMAIN,eqoivockikaue.com
 DOMAIN,eqrauafet.com
 DOMAIN,equjalkngu.com
 DOMAIN,eqzjfqkioowkle.com
-DOMAIN,er.5ykj.com
 DOMAIN,erabaru.net
 DOMAIN,erate.co.il
 DOMAIN,eratqmdr.com
@@ -15170,7 +15168,6 @@ DOMAIN,portkingric.net
 DOMAIN,portraitphotographygroup.com
 DOMAIN,pos-kupang.com
 DOMAIN,posst.co
-DOMAIN,post.rmbn.ru
 DOMAIN,postaffiliatepro.com
 DOMAIN,postclickmarketing.com
 DOMAIN,postitial.com
@@ -19504,6 +19501,7 @@ DOMAIN,turbotraff.net
 DOMAIN,turn.com.akadns.net
 DOMAIN,turngrind.com
 DOMAIN,tut-64.com
+DOMAIN,tutvp.com
 DOMAIN,tuwuyppwdj.com
 DOMAIN,tuxi.com.cn
 DOMAIN,tuygdfsydexdeb.com
@@ -19998,3 +19996,5 @@ DOMAIN,usrvgxowmn.com
 DOMAIN,usshjrket.com
 DOMAIN,usswrite.com
 DOMAIN,usuarios-online.com
+DOMAIN,usuf.candukang.cn
+DOMAIN,uswgkadyika.com
