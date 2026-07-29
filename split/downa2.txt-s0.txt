@@ -19982,6 +19982,7 @@ DOMAIN,userflows.ingest.crittercism.com
 DOMAIN,userlocation.googleapis.com
 DOMAIN,userlook.com
 DOMAIN,userneeds.dk
+DOMAIN,userreplay.net
 DOMAIN,userreport.com
 DOMAIN,users-api.com
 DOMAIN,users.api.jeeng.com
@@ -19997,4 +19998,3 @@ DOMAIN,usshjrket.com
 DOMAIN,usswrite.com
 DOMAIN,usuarios-online.com
 DOMAIN,usuf.candukang.cn
-DOMAIN,uswgkadyika.com
