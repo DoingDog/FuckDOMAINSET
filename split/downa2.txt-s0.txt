@@ -1077,6 +1077,7 @@ DOMAIN,accelacomm.com
 DOMAIN,accengage.net
 DOMAIN,acceptableserver.com
 DOMAIN,access-analyze.org
+DOMAIN,access-mc.com
 DOMAIN,access.open.uc.cn
 DOMAIN,accessi.it
 DOMAIN,accessintel.com
@@ -1180,7 +1181,6 @@ DOMAIN,ad.lionmobi.com
 DOMAIN,ad.mcloud.139.com
 DOMAIN,ad.mobiuspace.net
 DOMAIN,ad.myinstashot.com
-DOMAIN,ad.netcommunities.com
 DOMAIN,ad.qn.img-space.com
 DOMAIN,ad.quwin.cn
 DOMAIN,ad.realmcdn.net
@@ -6938,6 +6938,7 @@ DOMAIN,ehu96t2p.com
 DOMAIN,ei-event-collector.us-east-1.elasticbeanstalk.com
 DOMAIN,eiuuiormjc.com
 DOMAIN,eiygqumgrobos.com
+DOMAIN,ejdkqclkzq.com
 DOMAIN,ejgdixiddmruql.com
 DOMAIN,ejgpuaguf.com
 DOMAIN,ejieban.com
@@ -7885,7 +7886,6 @@ DOMAIN,fpb.docin.com
 DOMAIN,fpb1.gxfin.com
 DOMAIN,fpbcode.onlinedown.net
 DOMAIN,fpcptdqmjlnlu.com
-DOMAIN,fpctraffic2.com
 DOMAIN,fpeegzspcgnjt.com
 DOMAIN,fpesoigpyes.com
 DOMAIN,fpfivothg.com
@@ -8052,6 +8052,7 @@ DOMAIN,fukbyehdjdf.com
 DOMAIN,fukkzdxfyrchhc.com
 DOMAIN,fun-hits.com
 DOMAIN,funchill.com
+DOMAIN,fungus.online
 DOMAIN,funmatrix.net
 DOMAIN,funneld.com
 DOMAIN,funstage.com
@@ -13826,7 +13827,6 @@ DOMAIN,ntjcrsfvszoen.com
 DOMAIN,ntlab.org
 DOMAIN,ntlzbnmyukos.com
 DOMAIN,ntnmliatmtk.com
-DOMAIN,ntp.api.bz
 DOMAIN,ntpawkfea.com
 DOMAIN,ntpmhryl.com
 DOMAIN,ntryonoxojiyya.com
@@ -15306,7 +15306,6 @@ DOMAIN,prmobiles.com
 DOMAIN,prndi.net
 DOMAIN,prnetwork.de
 DOMAIN,prnx.net
-DOMAIN,pro-advertising.com
 DOMAIN,pro-pro-go.com
 DOMAIN,pro.baidu.com
 DOMAIN,pro6e.com
@@ -17003,7 +17002,6 @@ DOMAIN,scifc.mobi
 DOMAIN,scintillatingspace.com
 DOMAIN,scize.com
 DOMAIN,sckuhytswbs.com
-DOMAIN,sckxppzdm.com
 DOMAIN,scleavshdrz.com
 DOMAIN,scoop.it
 DOMAIN,scootloor.com
@@ -18278,6 +18276,7 @@ DOMAIN,strikeadcdn.s3.amazonaws.com
 DOMAIN,strikeiron.com
 DOMAIN,stripedcollar.net
 DOMAIN,stripsaver.com
+DOMAIN,strivesidewalk.com
 DOMAIN,stroeerdigitalmedia.de
 DOMAIN,strongexplain.com
 DOMAIN,strossle.it
@@ -19084,7 +19083,6 @@ DOMAIN,topmalaysia.com
 DOMAIN,topofblogs.com
 DOMAIN,topsem.com
 DOMAIN,topshelftraffic.com
-DOMAIN,topsite.lv
 DOMAIN,topstat.cn
 DOMAIN,topstat.com
 DOMAIN,topswp.com
@@ -19998,3 +19996,5 @@ DOMAIN,users173.lolipop.jp
 DOMAIN,userzoom.com
 DOMAIN,usfmamdapvmfs.com
 DOMAIN,usjguyybhhtjos.com
+DOMAIN,uslycoloursewo.info
+DOMAIN,usocial.pro
