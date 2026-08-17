@@ -1590,6 +1590,7 @@ DOMAIN,ads.sonataplatform.com
 DOMAIN,ads.stickyadstv.com.akadns.net
 DOMAIN,ads.tapdaq.com
 DOMAIN,ads.tripod.lycos.co.uk
+DOMAIN,ads.tripod.lycos.nl
 DOMAIN,ads.ttv.com.tw
 DOMAIN,ads.unister-gmbh.de
 DOMAIN,ads.use1.prod.vidible.tv
@@ -3382,6 +3383,7 @@ DOMAIN,bet3000partners.com
 DOMAIN,beta.down2crazy.com
 DOMAIN,betarget.com
 DOMAIN,betarget.de
+DOMAIN,betimbur.com
 DOMAIN,betoga.com
 DOMAIN,betpartners.it
 DOMAIN,betrad.com
@@ -5573,7 +5575,6 @@ DOMAIN,cz4444.cn
 DOMAIN,czcetfjlisyjh.com
 DOMAIN,czechose.com
 DOMAIN,czgmlnhz.com
-DOMAIN,czilladx.com
 DOMAIN,czmolxvvrbb.com
 DOMAIN,czobtirdnwqhn.com
 DOMAIN,czsnzyykqzcreu.com
@@ -17277,6 +17278,7 @@ DOMAIN,serverflox.online
 DOMAIN,servestats.com
 DOMAIN,service-ad-impression-proxy.clusters.pluto.tv
 DOMAIN,service.maxymiser.net
+DOMAIN,servicegetbook.net
 DOMAIN,servicelayer.king.com
 DOMAIN,servicer.lentainform.com
 DOMAIN,services.brid.tv
@@ -19996,5 +19998,3 @@ DOMAIN,users173.lolipop.jp
 DOMAIN,userzoom.com
 DOMAIN,usfmamdapvmfs.com
 DOMAIN,usjguyybhhtjos.com
-DOMAIN,uslycoloursewo.info
-DOMAIN,usocial.pro
