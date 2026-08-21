@@ -1800,6 +1800,7 @@ DOMAIN,advertising.lycos.com
 DOMAIN,advertising365.com
 DOMAIN,advertisingiq.com
 DOMAIN,advertisingsex.com
+DOMAIN,advertisingvalue.info
 DOMAIN,advertlane.com
 DOMAIN,advertmedias.com
 DOMAIN,advertnative.com
@@ -3478,6 +3479,7 @@ DOMAIN,bilrtklg.com
 DOMAIN,bima.weathercn.com
 DOMAIN,bimlocal.com
 DOMAIN,bin-layer.de
+DOMAIN,bin-layer.ru
 DOMAIN,bin5y4muil.execute-api.us-east-1.amazonaws.com
 DOMAIN,binaryoptions24h.com
 DOMAIN,binaryoptionsgame.com
@@ -13756,6 +13758,7 @@ DOMAIN,noveslovo.com
 DOMAIN,novostisporta.info
 DOMAIN,nowina.info
 DOMAIN,nowinteract.com
+DOMAIN,nowspots.com
 DOMAIN,noy-95.com
 DOMAIN,np1t0bcj0n.com
 DOMAIN,npario-inc.net
@@ -14971,6 +14974,7 @@ DOMAIN,placebubble.gimbal.com
 DOMAIN,placeiq.com
 DOMAIN,placemypixel.com
 DOMAIN,plainplayground.com
+DOMAIN,planktab.com
 DOMAIN,plannto.com
 DOMAIN,plantaosexy.com
 DOMAIN,plantdigestion.com
@@ -19994,7 +19998,3 @@ DOMAIN,userreport.com
 DOMAIN,users-api.com
 DOMAIN,users.api.jeeng.com
 DOMAIN,users.quantumgraph.com
-DOMAIN,users173.lolipop.jp
-DOMAIN,userzoom.com
-DOMAIN,usfmamdapvmfs.com
-DOMAIN,usjguyybhhtjos.com
