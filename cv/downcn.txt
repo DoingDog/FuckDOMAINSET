@@ -24,6 +24,7 @@ DOMAIN,ip.istatmenus.app
 DOMAIN,kc.kexinshe.com
 DOMAIN,kms.03k.org
 DOMAIN,local.adguard.org
+DOMAIN,mirrorlist.cdn.skk.moe
 DOMAIN,mobile.hotspot
 DOMAIN,ntt.setup
 DOMAIN,ocsp.globalsign.com
@@ -31068,4 +31069,4 @@ IP-CIDR6,::ffff:58.58.0.90/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.161/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.186/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.98/128,no-resolve
-#Sat 08/29/2026
+#Tue 09/01/2026

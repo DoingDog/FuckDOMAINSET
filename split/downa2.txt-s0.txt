@@ -1719,6 +1719,7 @@ DOMAIN,adthebest.online
 DOMAIN,adtheorent.com
 DOMAIN,adthletic.com
 DOMAIN,adtiming.com
+DOMAIN,adtival.com
 DOMAIN,adtival.network
 DOMAIN,adtive.com
 DOMAIN,adtoadd.com
@@ -2581,6 +2582,7 @@ DOMAIN,apm.gotokeep.com
 DOMAIN,apmebf.com
 DOMAIN,apollofind.com
 DOMAIN,app-config.enhance.co
+DOMAIN,app-download.fliggy.com
 DOMAIN,app.adywind.com
 DOMAIN,app.aflink.com
 DOMAIN,app.bugfender.com
@@ -2753,6 +2755,7 @@ DOMAIN,aspartbus.site
 DOMAIN,aspignitean.com
 DOMAIN,aspxbwteth.com
 DOMAIN,asqpniwvxea.com
+DOMAIN,asrety.com
 DOMAIN,assampant.club
 DOMAIN,asset.pagefair.net
 DOMAIN,assets-secure.applicaster.com
@@ -4590,6 +4593,7 @@ DOMAIN,chainblock.science
 DOMAIN,chainwalladsy.com
 DOMAIN,challenge.360in.com
 DOMAIN,challengedeprave.com
+DOMAIN,chameleon.ad
 DOMAIN,chandlertreatment.com
 DOMAIN,changmaoxinjzo.com
 DOMAIN,changyan.sohu.com
@@ -5141,7 +5145,6 @@ DOMAIN,contentexchange.me
 DOMAIN,contentinsights.com
 DOMAIN,contentjs.com
 DOMAIN,contentr.net
-DOMAIN,contents.meituan.com
 DOMAIN,contentsfeed.com
 DOMAIN,contentspread.net
 DOMAIN,contentsquare.net
@@ -14939,6 +14942,7 @@ DOMAIN,piximedia.com
 DOMAIN,pixiv.org
 DOMAIN,pixroute.com
 DOMAIN,pixtrack.in
+DOMAIN,pixxur.com
 DOMAIN,pizzaandads.com
 DOMAIN,pjatr.com
 DOMAIN,pjbifjjtir.com
@@ -18351,7 +18355,6 @@ DOMAIN,super-links.net
 DOMAIN,superad2.com.sg
 DOMAIN,superadexchange.com
 DOMAIN,superads.cn
-DOMAIN,supercounters.com
 DOMAIN,superfish.com
 DOMAIN,superinterstitial.com
 DOMAIN,superippo.com
@@ -19844,6 +19847,7 @@ DOMAIN,unityads.unity3d.com.edgekey.net
 DOMAIN,unityads.unitychina.cn
 DOMAIN,universaltrackingcontainer.com
 DOMAIN,universe.send.microad.jp
+DOMAIN,universityofinternetscience.com
 DOMAIN,unjqjnzvzyrtw.com
 DOMAIN,unknownads.com
 DOMAIN,unknowntray.com
@@ -19994,7 +19998,3 @@ DOMAIN,userlocation.googleapis.com
 DOMAIN,userlook.com
 DOMAIN,userneeds.dk
 DOMAIN,userreplay.net
-DOMAIN,userreport.com
-DOMAIN,users-api.com
-DOMAIN,users.api.jeeng.com
-DOMAIN,users.quantumgraph.com
