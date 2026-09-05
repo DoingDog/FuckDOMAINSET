@@ -1589,6 +1589,7 @@ DOMAIN,ads.sonataplatform.com
 DOMAIN,ads.stickyadstv.com.akadns.net
 DOMAIN,ads.tapdaq.com
 DOMAIN,ads.tripod.lycos.co.uk
+DOMAIN,ads.tripod.lycos.es
 DOMAIN,ads.tripod.lycos.nl
 DOMAIN,ads.ttv.com.tw
 DOMAIN,ads.unister-gmbh.de
@@ -3786,6 +3787,7 @@ DOMAIN,brahe.apptimize.com
 DOMAIN,brainient.com
 DOMAIN,branchr.com
 DOMAIN,brand-sdk.kmsmep.com
+DOMAIN,brandads.net
 DOMAIN,brandlock.io
 DOMAIN,brandmetrics.com
 DOMAIN,brands.kmsmep.com
@@ -3802,6 +3804,7 @@ DOMAIN,brgzqubngqbioh.com
 DOMAIN,bride1.com
 DOMAIN,bridgevine.com
 DOMAIN,brightfunnel.com
+DOMAIN,brightonclick.com
 DOMAIN,brilig.com
 DOMAIN,brinein.com
 DOMAIN,bringmesports.com
@@ -10929,7 +10932,6 @@ DOMAIN,keeicgjfnjws.com
 DOMAIN,keemy.butlerelectricsupply.com
 DOMAIN,keet1liod.com
 DOMAIN,kefeng56.com
-DOMAIN,kehalim.com
 DOMAIN,kelun13.top
 DOMAIN,kelxznqntfk.com
 DOMAIN,kemdckufiw.com
@@ -12386,6 +12388,7 @@ DOMAIN,makkuqiavqx.com
 DOMAIN,makumuvgxfogq.com
 DOMAIN,malakasonline.com
 DOMAIN,malest.com
+DOMAIN,mall0.qiyipic.com
 DOMAIN,mallcom.com
 DOMAIN,mallcss.com
 DOMAIN,mallorcash.com
@@ -14925,6 +14928,7 @@ DOMAIN,pixel-us-east.rubiconproject.net.akadns.net
 DOMAIN,pixel-us-west.rubiconproject.net.akadns.net
 DOMAIN,pixel.ad
 DOMAIN,pixel.adacado.com
+DOMAIN,pixel.keywee.co
 DOMAIN,pixel.pointmediatracker.com
 DOMAIN,pixel.rubiconproject.net.akadns.net
 DOMAIN,pixel.shareaholic.com
@@ -19994,7 +19998,3 @@ DOMAIN,userdatatrust.com
 DOMAIN,userdive.com
 DOMAIN,userdmp.com
 DOMAIN,userflows.ingest.crittercism.com
-DOMAIN,userlocation.googleapis.com
-DOMAIN,userlook.com
-DOMAIN,userneeds.dk
-DOMAIN,userreplay.net
