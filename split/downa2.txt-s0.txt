@@ -1116,6 +1116,7 @@ DOMAIN,acs.agent.56.com
 DOMAIN,acs.agent.v-56.com
 DOMAIN,acs.wapa.taobao.com
 DOMAIN,acsbap.com
+DOMAIN,actiflex.org
 DOMAIN,actionallocator.com
 DOMAIN,actionbutton.co
 DOMAIN,actiondesk.com
@@ -1462,6 +1463,7 @@ DOMAIN,adnow.com
 DOMAIN,adnsvuxmpaycdf.com
 DOMAIN,adnuntius.com
 DOMAIN,adnxs.net
+DOMAIN,adnxs1.com
 DOMAIN,adnxsid.com
 DOMAIN,adnz.co
 DOMAIN,adobeflashupdate14.com
@@ -1751,6 +1753,7 @@ DOMAIN,adultforce.com
 DOMAIN,adultimate.net
 DOMAIN,adultmediabuying.com
 DOMAIN,adultmoda.com
+DOMAIN,adultmoviegroup.com
 DOMAIN,adultoafiliados.com.br
 DOMAIN,adultsense.com
 DOMAIN,adulttds.com
@@ -19995,6 +19998,3 @@ DOMAIN,usercash.com
 DOMAIN,usercentrics.eu
 DOMAIN,usercycle.com
 DOMAIN,userdatatrust.com
-DOMAIN,userdive.com
-DOMAIN,userdmp.com
-DOMAIN,userflows.ingest.crittercism.com
