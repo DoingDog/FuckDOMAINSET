@@ -1408,7 +1408,6 @@ DOMAIN,adlock.in
 DOMAIN,adlockscreen.goforandroid.com
 DOMAIN,adlog.foxitcloud.com
 DOMAIN,adlog.ifood.tv
-DOMAIN,adlog.vivo.com.cn
 DOMAIN,adlogs.ad2iction.com
 DOMAIN,adlook.net
 DOMAIN,adloop.co
@@ -1506,7 +1505,6 @@ DOMAIN,adpredictive.com
 DOMAIN,adpressi.com
 DOMAIN,adprofit2share.com
 DOMAIN,adpron.com
-DOMAIN,adprotected.com
 DOMAIN,adprotraffic.com
 DOMAIN,adprovi.de
 DOMAIN,adprs.net
@@ -1527,7 +1525,6 @@ DOMAIN,adreep.cn
 DOMAIN,adregain.com
 DOMAIN,adregain.ru
 DOMAIN,adrelayer.com
-DOMAIN,adreq.vivo.com.cn
 DOMAIN,adresellers.com
 DOMAIN,adrise.de
 DOMAIN,adrizer.com
@@ -1546,7 +1543,6 @@ DOMAIN,ads-resources-legacy.waze.com
 DOMAIN,ads-sdk-cn.upltv.com
 DOMAIN,ads-sdk.upltv.com
 DOMAIN,ads-secure.videohub.tv
-DOMAIN,ads-shopping.shouqianba.com
 DOMAIN,ads.adelement.com
 DOMAIN,ads.admoda.com
 DOMAIN,ads.adtheorent.com
@@ -1566,7 +1562,6 @@ DOMAIN,ads.dixcom.com
 DOMAIN,ads.dofunapps.com
 DOMAIN,ads.easy-ads.com
 DOMAIN,ads.fetnet.net
-DOMAIN,ads.finance.yahoo.com
 DOMAIN,ads.globo.com
 DOMAIN,ads.icloseli.com
 DOMAIN,ads.indeed.com
@@ -1865,7 +1860,6 @@ DOMAIN,adxhi.com
 DOMAIN,adxhome.com
 DOMAIN,adxiaozi.com
 DOMAIN,adxite.com
-DOMAIN,adxlog.vivo.com.cn
 DOMAIN,adxmarket.com
 DOMAIN,adxoo.com
 DOMAIN,adxpand.com
@@ -1966,7 +1960,6 @@ DOMAIN,affiliates.galapartners.co.uk
 DOMAIN,affiliates.homestead.com
 DOMAIN,affiliates.lynda.com
 DOMAIN,affiliates.purevpn.com
-DOMAIN,affiliation-france.com
 DOMAIN,affiliation-int.com
 DOMAIN,affiliation.filestube.com
 DOMAIN,affiliation.planethoster.info
@@ -4599,7 +4592,6 @@ DOMAIN,chainblock.science
 DOMAIN,chainwalladsy.com
 DOMAIN,challenge.360in.com
 DOMAIN,challengedeprave.com
-DOMAIN,chameleon.ad
 DOMAIN,chandlertreatment.com
 DOMAIN,changmaoxinjzo.com
 DOMAIN,changyan.sohu.com
@@ -5659,6 +5651,7 @@ DOMAIN,d2c4ylitp1qu24.cloudfront.net
 DOMAIN,d2cgumzzqhgmdu.cloudfront.net
 DOMAIN,d2ip7iv1l4ergv.cloudfront.net
 DOMAIN,d2izls9pm2f64q.cloudfront.net
+DOMAIN,d2kdl5wcwrtj90.cloudfront.net
 DOMAIN,d2kr2fnkbj2h4c.cloudfront.net
 DOMAIN,d2nxi61n77zqpl.cloudfront.net
 DOMAIN,d2o307dm5mqftz.cloudfront.net
@@ -9840,7 +9833,12 @@ DOMAIN,img-cdn-us.pro
 DOMAIN,img-cdn.clinch.co
 DOMAIN,img.1whour.com
 DOMAIN,img.ads.mobilefuse.net
+DOMAIN,img.ads.mocean.mobi
 DOMAIN,img.ads.taptapnetworks.com
+DOMAIN,img.ads1.mocean.mobi
+DOMAIN,img.ads2.mocean.mobi
+DOMAIN,img.ads3.mocean.mobi
+DOMAIN,img.ads4.mocean.mobi
 DOMAIN,img.adtiming.com
 DOMAIN,img.ak.impact-ad.jp
 DOMAIN,img.bluehost.com
@@ -11804,7 +11802,6 @@ DOMAIN,lookery.com
 DOMAIN,lookit-quick.com
 DOMAIN,lookit.cz
 DOMAIN,lookmy.info
-DOMAIN,lookup.api.bsb.baidu.com
 DOMAIN,lookup.qubit.com
 DOMAIN,loomufie.com
 DOMAIN,looneyads.com
@@ -12664,7 +12661,6 @@ DOMAIN,mentalks.ru
 DOMAIN,mepra.blautechnology.cl
 DOMAIN,mercadoclics.com
 DOMAIN,mercent.com
-DOMAIN,merchenta.com
 DOMAIN,merciless.localstars.com
 DOMAIN,mercuras.com
 DOMAIN,mercury-sdk.snssdk.com
@@ -12962,6 +12958,7 @@ DOMAIN,mobtrks.com
 DOMAIN,mobtyb.com
 DOMAIN,mobylog.jp
 DOMAIN,mobytrks.com
+DOMAIN,mocean.mobi
 DOMAIN,mochibot.com
 DOMAIN,mocka.frost-electric-supply.com
 DOMAIN,mockingfish.com
@@ -13270,6 +13267,7 @@ DOMAIN,mydreamads.com
 DOMAIN,myeffect.net
 DOMAIN,myeffecto.com
 DOMAIN,myemailbox.info
+DOMAIN,myfastcdn.com
 DOMAIN,myfastcounter.com
 DOMAIN,mygeek.cn
 DOMAIN,mygoodlives.com
@@ -17018,6 +17016,7 @@ DOMAIN,scifc.mobi
 DOMAIN,scintillatingspace.com
 DOMAIN,scize.com
 DOMAIN,sckuhytswbs.com
+DOMAIN,sckxppzdm.com
 DOMAIN,scleavshdrz.com
 DOMAIN,scoop.it
 DOMAIN,scootloor.com
@@ -19874,6 +19873,7 @@ DOMAIN,unwyiror.com
 DOMAIN,unyhjoehc.com
 DOMAIN,uo.jstaogu.com
 DOMAIN,uoarbhxfyygn.com
+DOMAIN,uod2quk646.com
 DOMAIN,uofmnbkm.com
 DOMAIN,uoicsyuiof.com
 DOMAIN,uoifloesog.com
