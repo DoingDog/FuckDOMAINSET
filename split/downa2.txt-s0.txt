@@ -480,7 +480,6 @@ DOMAIN,4au.htf16a.cn
 DOMAIN,4b6994dfa47cee4.com
 DOMAIN,4bb6jls06l.com
 DOMAIN,4c935d6a244f.com
-DOMAIN,4dex.io
 DOMAIN,4dexports.com
 DOMAIN,4dsply.com
 DOMAIN,4e34b4865905c4.com
@@ -4004,7 +4003,6 @@ DOMAIN,c-on-text.com
 DOMAIN,c-planet.net
 DOMAIN,c-rings.net
 DOMAIN,c-sta-cn.upltv.com
-DOMAIN,c.4dex.io
 DOMAIN,c.51xmgys.com
 DOMAIN,c.5r6t.com
 DOMAIN,c.91wan.com
@@ -4349,7 +4347,6 @@ DOMAIN,cdn.tpdads.com
 DOMAIN,cdn.trafficexchangelist.com
 DOMAIN,cdn.unid.go.com
 DOMAIN,cdn.us.goldspotmedia.com
-DOMAIN,cdn.vdopia.com
 DOMAIN,cdn.vidible.tv
 DOMAIN,cdn.watchingthat.net
 DOMAIN,cdn.wibiya.com
@@ -5439,7 +5436,6 @@ DOMAIN,cs-op.douyucdn.cn
 DOMAIN,cs.celebbusters.com
 DOMAIN,cs.exposedontape.com
 DOMAIN,cs.nex8.net
-DOMAIN,cs.vdopia.com
 DOMAIN,cs1.wpc.v0cdn.net
 DOMAIN,csaimall.com
 DOMAIN,csdata1.com
@@ -7129,7 +7125,6 @@ DOMAIN,eqoivockikaue.com
 DOMAIN,eqrauafet.com
 DOMAIN,equjalkngu.com
 DOMAIN,eqzjfqkioowkle.com
-DOMAIN,er.5ykj.com
 DOMAIN,erabaru.net
 DOMAIN,erate.co.il
 DOMAIN,eratqmdr.com
@@ -8523,7 +8518,6 @@ DOMAIN,gnuxgnnkflvkm.com
 DOMAIN,go-quicky.com
 DOMAIN,go.bestmobiworld.com
 DOMAIN,go.ezoic.net
-DOMAIN,go.fastspot.io
 DOMAIN,go.kukudm.com
 DOMAIN,go.megabanners.cf
 DOMAIN,go.mobpartner.mobi
@@ -10475,6 +10469,7 @@ DOMAIN,jettags.rocks
 DOMAIN,jevqbzflcbcpz.com
 DOMAIN,jewhaulr.com
 DOMAIN,jewishcontentnetwork.com
+DOMAIN,jf71qh5v14.com
 DOMAIN,jfavhjmb.com
 DOMAIN,jfduv7.com
 DOMAIN,jffoydsb.com
@@ -12409,6 +12404,7 @@ DOMAIN,mantedtonisms.info
 DOMAIN,manychat.com
 DOMAIN,maploco.com
 DOMAIN,mapmyuser.com
+DOMAIN,marapcana.online
 DOMAIN,marbil24.co.za
 DOMAIN,marchen-toy.co.jp
 DOMAIN,marfeel.com
@@ -15114,6 +15110,7 @@ DOMAIN,pontypriddcrick.com
 DOMAIN,poogriry.click
 DOMAIN,pool.hws.ru
 DOMAIN,poole-collector-prod.bnsqc3zmvt.us-east-1.elasticbeanstalk.com
+DOMAIN,poolgmsd.com
 DOMAIN,poolmining.eu
 DOMAIN,poolmining.net
 DOMAIN,poonproscash.com
@@ -17028,7 +17025,6 @@ DOMAIN,scrap.me
 DOMAIN,screencapturewidget.aebn.net
 DOMAIN,screenpopper.com
 DOMAIN,scrippscontroller.com
-DOMAIN,script.4dex.io
 DOMAIN,script.ag
 DOMAIN,script.fixel.ai
 DOMAIN,script.leadboxer.com
@@ -17917,7 +17913,6 @@ DOMAIN,spinfo.wps.cn
 DOMAIN,spiralstab.com
 DOMAIN,spjvuubtewq.com
 DOMAIN,spklw.com
-DOMAIN,spl.zeotap.com
 DOMAIN,splash-screen.voodoo-ads.io
 DOMAIN,splinky.com
 DOMAIN,splittag.com
@@ -19156,7 +19151,6 @@ DOMAIN,tr-romsp-unifyconfig.vivoglobal.com
 DOMAIN,tr-st-sl.vivoglobal.com
 DOMAIN,tr-vcode-od.vivoglobal.com
 DOMAIN,tr.jianshu.com
-DOMAIN,tr.p.360.cn
 DOMAIN,tr2.smarterhq.io
 DOMAIN,tr563.com
 DOMAIN,tracc.it
@@ -19998,3 +19992,9 @@ DOMAIN,usercash.com
 DOMAIN,usercentrics.eu
 DOMAIN,usercycle.com
 DOMAIN,userdatatrust.com
+DOMAIN,userdive.com
+DOMAIN,userdmp.com
+DOMAIN,userflows.ingest.crittercism.com
+DOMAIN,userlocation.googleapis.com
+DOMAIN,userlook.com
+DOMAIN,userneeds.dk
