@@ -20202,6 +20202,7 @@ DOMAIN-SUFFIX,redelight.biz
 DOMAIN-SUFFIX,redelight.info
 DOMAIN-SUFFIX,redelight.net
 DOMAIN-SUFFIX,redfcv.com
+DOMAIN-SUFFIX,rednotecdn.com
 DOMAIN-SUFFIX,redseatech.net
 DOMAIN-SUFFIX,redshoppingmall.com
 DOMAIN-SUFFIX,redspirit.net
@@ -31465,4 +31466,4 @@ IP-CIDR6,::ffff:58.58.0.90/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.161/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.186/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.98/128,no-resolve
-#Thu 09/17/2026
+#Mon 09/21/2026

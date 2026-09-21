@@ -4011,6 +4011,7 @@ DOMAIN,c.booksir.com.cn
 DOMAIN,c.cintnetworks.com
 DOMAIN,c.clicktale.net
 DOMAIN,c.dengbaozx.cn
+DOMAIN,c.deployads.com
 DOMAIN,c.evidon.com
 DOMAIN,c.ftstats.com
 DOMAIN,c.future888.net
@@ -4872,6 +4873,7 @@ DOMAIN,clzfurcqmlgw.com
 DOMAIN,cm.adsafety.net
 DOMAIN,cm.dmp.360.cn
 DOMAIN,cm.lentainform.com
+DOMAIN,cm.smadex.com
 DOMAIN,cmbestsrv.com
 DOMAIN,cmcintra.net
 DOMAIN,cmdfnow.com
@@ -5383,6 +5385,7 @@ DOMAIN,creative-accelerate.ad.mobiuspace.net
 DOMAIN,creative.eagllwin.com
 DOMAIN,creative.mathads.com
 DOMAIN,creative.metalyzer.com
+DOMAIN,creatives.smadex.com
 DOMAIN,creditbootcamp.com
 DOMAIN,creoads.com
 DOMAIN,crewita.co
@@ -5961,6 +5964,7 @@ DOMAIN,dep-x.com
 DOMAIN,deparisesamer.info
 DOMAIN,departapp.com
 DOMAIN,deplayer.net
+DOMAIN,deployads.com
 DOMAIN,depttake.ga
 DOMAIN,deqwas.net
 DOMAIN,derlatas.com
@@ -6612,6 +6616,7 @@ DOMAIN,e.9xws7p.cn
 DOMAIN,e.ailix.cn
 DOMAIN,e.bgj582.cn
 DOMAIN,e.cx016d.cn
+DOMAIN,e.deployads.com
 DOMAIN,e.easypatent.net
 DOMAIN,e.ejuen.com
 DOMAIN,e.evpywi.cn
@@ -7125,6 +7130,7 @@ DOMAIN,eqoivockikaue.com
 DOMAIN,eqrauafet.com
 DOMAIN,equjalkngu.com
 DOMAIN,eqzjfqkioowkle.com
+DOMAIN,er.5ykj.com
 DOMAIN,erabaru.net
 DOMAIN,erate.co.il
 DOMAIN,eratqmdr.com
@@ -8277,6 +8283,7 @@ DOMAIN,geniusbanners.com
 DOMAIN,geniusdisplay.com
 DOMAIN,geo-idm.fr
 DOMAIN,geo-targetly.com
+DOMAIN,geo-tracker.smadex.com
 DOMAIN,geo.adobe.com
 DOMAIN,geo.kaloo.ga
 DOMAIN,geo.query.yahoo.com
@@ -17674,6 +17681,7 @@ DOMAIN,sloi1.com
 DOMAIN,slvcwiabpgyxa.com
 DOMAIN,sm.pcmag.com
 DOMAIN,smac-ssp.com
+DOMAIN,smadex.com
 DOMAIN,smallseotools.com
 DOMAIN,smapohsnoww.com
 DOMAIN,smart-789.image.mucang.cn
@@ -18099,6 +18107,7 @@ DOMAIN,statelead.com
 DOMAIN,statesol.net
 DOMAIN,stathound.com
 DOMAIN,static-cnt.bid
+DOMAIN,static-content-1.smadex.com
 DOMAIN,static-sb.com
 DOMAIN,static.1j1j.com
 DOMAIN,static.52zzyx.com
@@ -18572,6 +18581,7 @@ DOMAIN,tagmanager.cn
 DOMAIN,tagmanager.toast.com
 DOMAIN,tagmans3.adsolutions.com
 DOMAIN,tagmngrs.com
+DOMAIN,tags-cdn.deployads.com
 DOMAIN,tags.acmeaom.com
 DOMAIN,tags.adsafety.net
 DOMAIN,tags.bluekai.com.edgekey.net
@@ -19988,13 +19998,3 @@ DOMAIN,useproof.com
 DOMAIN,user-api.com
 DOMAIN,user-clicks.com
 DOMAIN,user-stats.rbl.ms
-DOMAIN,usercash.com
-DOMAIN,usercentrics.eu
-DOMAIN,usercycle.com
-DOMAIN,userdatatrust.com
-DOMAIN,userdive.com
-DOMAIN,userdmp.com
-DOMAIN,userflows.ingest.crittercism.com
-DOMAIN,userlocation.googleapis.com
-DOMAIN,userlook.com
-DOMAIN,userneeds.dk
